@@ -1,0 +1,122 @@
+{
+    "key_evolution_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "16,0,0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "tm93rollout",
+                                "waterstone",
+                                "sunstone",
+                                "dawnstone",
+                                "kingsrock",
+                                "dragonscale",
+                                "poffincase",
+                                "linkingcord"
+                            ],
+                            [
+                                "tm94ancientpower",
+                                "thunderstone",
+                                "leafstone",
+                                "metalcoat",
+                                "deepseascale",
+								"electirizer",
+								"reapercloth"
+                            ],
+                            [
+                                "tm95doublehit",
+                                "firestone",
+                                "duskstone",
+                                "upgrade",
+								"deepseatooth",
+								"magmarizer",
+                                "razorclaw"
+                            ],
+                            [
+                                "tm96mimic",
+                                "moonstone",
+                                "shinystone",
+								"dubiousdisc",
+                                "protector",
+                                "ovalstone",
+                                "razorfang"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "v_key_evolution_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "16,0,0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "tm93rollout",
+                                "waterstone",
+                                "sunstone",
+                                "dawnstone",
+                                "kingsrock",
+                                "dragonscale",
+                                "poffincase",
+                                "linkingcord"
+                            ],
+                            [
+                                "tm94ancientpower",
+                                "thunderstone",
+                                "leafstone",
+                                "metalcoat",
+                                "deepseascale",
+								"electirizer",
+								"reapercloth"
+                            ],
+                            [
+                                "tm95doublehit",
+                                "firestone",
+                                "duskstone",
+                                "upgrade",
+								"deepseatooth",
+								"magmarizer",
+                                "razorclaw"
+                            ],
+                            [
+                                "tm96mimic",
+                                "moonstone",
+                                "shinystone",
+								"dubiousdisc",
+                                "protector",
+                                "ovalstone",
+                                "razorfang"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

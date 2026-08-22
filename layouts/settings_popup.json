@@ -1,0 +1,237 @@
+{
+    "settings_popup": {
+        "type": "dock",
+        "content": [
+            {
+                "type": "tabbed",
+                "tabs": [
+                    {
+                        "title": "General",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "h_alignment": "left",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Sanities",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "sanity_grid"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Logic",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "logic_grid"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Roadblocks",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "roadblock_grid"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Dex Logic",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "h_alignment": "left",
+                            "content": [
+                                {
+                                    "type": "group",
+                                    "header": "Encounter Logic",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "enc_logic_grid"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Evolution Logic",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "evo_logic_grid"
+                                    }
+                                },
+                                {
+                                    "type": "group",
+                                    "header": "Information",
+                                    "dock": "top",
+                                    "content": {
+                                        "type": "layout",
+                                        "key": "information_grid"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "sanity_grid": {
+        "type": "itemgrid",
+        "item_margin": "3, 3",
+        "item_size": "32,32",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "opt_hms",
+                "opt_badges",
+                "opt_overworld",
+                "opt_hidden",
+                "opt_npcgifts",
+                "opt_keyitems"
+            ],
+            [
+                "opt_cartridges",
+                "opt_trainer_full",
+                "opt_dexsanity",
+                "opt_rods",
+                "opt_poketchapps",
+                "opt_randomize_fly_items"
+            ],
+            [
+                "opt_shoes",
+                "opt_bicycle",
+                "opt_pokedex",
+                "opt_accessories",
+                "opt_ssticket",
+                "opt_marsh_pass"
+            ],
+            [
+                "opt_storage_key",
+                "opt_bag",
+                "opt_hmreader",
+                "opt_timeitems"
+            ]
+        ]
+    },
+    "logic_grid": {
+        "type": "itemgrid",
+        "item_margin": "3, 3",
+        "item_size": "32,32",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "opt_goal",
+                "opt_hm_visibility",
+                "opt_dowsing",
+                "opt_north_sinnoh_fly",
+                "opt_start_with_swarms",
+                "opt_require_fly_items_for_flight"
+            ],
+            [
+                "opt_evo_items_shop_in_ap_helper",
+                "opt_can_reset_legendaries_in_ap_helper"
+            ]
+        ]
+    },
+    "roadblock_grid": {
+        "type": "itemgrid",
+        "item_margin": "3, 3",
+        "item_size": "32,32",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "opt_unown",
+                "opt_route_203",
+                "opt_early_sunyshore",
+                "opt_pastoria_barriers",
+                "regional_dex_goal",
+                "opt_route_207_barricade"
+            ],
+            [
+                "opt_route_210_lower_barricade",
+                "opt_route_215_barricade",
+                "opt_boat_canalave_snowpoint",
+                "opt_boat_canalave_pastoria",
+                "opt_boat_pastoria_snowpoint"
+            ]
+        ]
+    },
+    "enc_logic_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "item_size": "40,48",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "encmethod_surf",
+                "encmethod_fishing",
+                "encmethod_radar",
+                "encmethod_swarm",
+                "encmethod_time"
+            ],
+            [
+                "encmethod_cartridge",
+                "encmethod_greatmarsh",
+                "encmethod_feebasfishing",
+                "encmethod_roamer"
+            ],
+            [
+                "encmethod_honeytree",
+                "encmethod_munchlaxtree",
+                "encmethod_trophygarden",
+                "encmethod_oddkeystone"
+            ]
+        ]
+    },
+    "evo_logic_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "item_size": "40,48",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "evomethod_level",
+                "evomethod_happiness",
+                "evomethod_useitem",
+                "evomethod_helditem",
+                "evomethod_time"
+            ],
+            [
+                "evomethod_location",
+                "evomethod_mildlyannoying",
+                "evomethod_highlyannoying"
+            ]
+        ]
+    },
+    "information_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "item_size": "176,128",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "info"
+            ]
+        ]
+    }
+}

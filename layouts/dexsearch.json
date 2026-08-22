@@ -1,0 +1,106 @@
+{
+    "dexsearch_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "5,2,0,0",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "9,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexentrytop"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "9,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexentryleft"
+                            },
+                            {
+                                "type": "item",
+                                "item": "search_ID_result"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dexentryright"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "9,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexentrybottom"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "2,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexsearch_digit1"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dexsearch_digit2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dexsearch_digit3"
+                            },
+                            {
+                                "type": "item",
+                                "item": "go"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dummy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "6,2,0,0",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "search_geodude"
+                    },
+                    {
+                        "type": "item",
+                        "item": "search_kecleon"
+                    },
+                    {
+                        "type": "item",
+                        "item": "search_snorlax"
+                    },
+                    {
+                        "type": "item",
+                        "item": "search_amity"
+                    }
+                ]
+            }
+        ]
+    }
+}

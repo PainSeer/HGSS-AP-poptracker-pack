@@ -1,0 +1,1342 @@
+[
+    {
+        "name": "Randomize HMs",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize HMs - OFF",
+                "img": "images/settings/opt_hms.png",
+                "img_mods": "@disabled",
+                "codes": "opt_hms, opt_hms_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize HMs - ON",
+                "img": "images/settings/opt_hms.png",
+                "codes": "opt_hms, opt_hms_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Badges",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Badges - OFF",
+                "img": "images/settings/opt_badges.png",
+                "img_mods": "@disabled",
+                "codes": "opt_badges, opt_badges_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Badges - ON",
+                "img": "images/settings/opt_badges.png",
+                "codes": "opt_badges, opt_badges_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Overworld Items",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Overworld Items - OFF",
+                "img": "images/settings/opt_overworld.png",
+                "img_mods": "@disabled",
+                "codes": "opt_overworld, opt_overworld_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Overworld Items - ON",
+                "img": "images/settings/opt_overworld.png",
+                "codes": "opt_overworld, opt_overworld_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Hidden Items",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Hidden Items - OFF",
+                "img": "images/settings/opt_hidden.png",
+                "img_mods": "@disabled",
+                "codes": "opt_hidden, opt_hidden_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Hidden Items - ON",
+                "img": "images/settings/opt_hidden.png",
+                "codes": "opt_hidden, opt_hidden_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize NPC Gifts",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize NPC Gifts - OFF",
+                "img": "images/settings/opt_npcgifts.png",
+                "img_mods": "@disabled",
+                "codes": "opt_npcgifts, opt_npcgifts_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize NPC Gifts - ON",
+                "img": "images/settings/opt_npcgifts.png",
+                "codes": "opt_npcgifts, opt_npcgifts_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Key Items",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Key Items - OFF",
+                "img": "images/settings/opt_keyitems.png",
+                "img_mods": "@disabled",
+                "codes": "opt_keyitems, opt_keyitems_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Key Items - ON",
+                "img": "images/settings/opt_keyitems.png",
+                "codes": "opt_keyitems, opt_keyitems_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Fishing Rods",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Fishing Rods - OFF",
+                "img": "images/settings/opt_rods.png",
+                "img_mods": "@disabled",
+                "codes": "opt_rods, opt_rods_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Fishing Rods - ON",
+                "img": "images/settings/opt_rods.png",
+                "codes": "opt_rods, opt_rods_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Poketch Apps",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Poketch Apps - OFF",
+                "img": "images/settings/opt_poketchapps.png",
+                "img_mods": "@disabled",
+                "codes": "opt_poketchapps, opt_poketchapps_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Poketch Apps - ON",
+                "img": "images/settings/opt_poketchapps.png",
+                "codes": "opt_poketchapps, opt_poketchapps_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Running Shoes",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Running Shoes - OFF",
+                "img": "images/settings/opt_shoes.png",
+                "img_mods": "@disabled",
+                "codes": "opt_shoes, opt_shoes_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Running Shoes - ON",
+                "img": "images/settings/opt_shoes.png",
+                "codes": "opt_shoes, opt_shoes_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Bicycle",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Bicycle - OFF",
+                "img": "images/settings/opt_bicycle.png",
+                "img_mods": "@disabled",
+                "codes": "opt_bicycle, opt_bicycle_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Bicycle - ON",
+                "img": "images/settings/opt_bicycle.png",
+                "codes": "opt_bicycle, opt_bicycle_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Pokedex",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Pokedex - OFF",
+                "img": "images/settings/opt_pokedex.png",
+                "img_mods": "@disabled",
+                "codes": "opt_pokedex, opt_pokedex_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Pokedex - ON",
+                "img": "images/settings/opt_pokedex.png",
+                "codes": "opt_pokedex, opt_pokedex_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Accessories",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Accessories - OFF",
+                "img": "images/settings/opt_accessories.png",
+                "img_mods": "@disabled",
+                "codes": "opt_accessories, opt_accessories_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Accessories - ON",
+                "img": "images/settings/opt_accessories.png",
+                "codes": "opt_accessories, opt_accessories_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize S.S. Ticket",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize S.S. Ticket - OFF",
+                "img": "images/settings/opt_ssticket.png",
+                "img_mods": "@disabled",
+                "codes": "opt_ssticket, opt_ssticket_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize S.S. Ticket - ON",
+                "img": "images/settings/opt_ssticket.png",
+                "codes": "opt_ssticket, opt_ssticket_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Lock Great Marsh",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Great Marsh is freely accessible",
+                "img": "images/settings/opt_marsh_pass.png",
+                "img_mods": "@disabled",
+                "codes": "opt_marsh_pass, opt_marsh_pass_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Great Marsh requires the Marsh Pass",
+                "img": "images/settings/opt_marsh_pass.png",
+                "codes": "opt_marsh_pass, opt_marsh_pass_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Add Storage Key",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Add Storage Key - OFF",
+                "img": "images/settings/opt_storage_key.png",
+                "img_mods": "@disabled",
+                "codes": "opt_storage_key, opt_storage_key_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Add Storage Key - ON",
+                "img": "images/settings/opt_storage_key.png",
+                "codes": "opt_storage_key, opt_storage_key_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Bag",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Bag - OFF",
+                "img": "images/items/bag.png",
+                "img_mods": "@disabled",
+                "codes": "opt_bag, opt_bag_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Bag - ON",
+                "img": "images/items/bag.png",
+                "codes": "opt_bag, opt_bag_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Maniac Tunnel Access",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Maniac Tunnel requires seeing at least 26 Unown Forms",
+                "img": "images/settings/opt_unown_vanilla.png",
+                "codes": "opt_unown, opt_unown_vanilla",
+                "inherit_codes": false
+            },
+            {
+                "name": "Maniac Tunnel requires having at least 26 Unown File Items",
+                "img": "images/settings/opt_unown_item.png",
+                "codes": "opt_unown, opt_unown_item",
+                "inherit_codes": false
+            },
+            {
+                "name": "Maniac Tunnel is open",
+                "img": "images/settings/opt_unown_open.png",
+                "codes": "opt_unown, opt_unown_none",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Visibility-Related HM Logic",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Fog & Darkness need to be traversed without help",
+                "img": "images/settings/opt_hm_visibility.png",
+                "img_mods": "@disabled",
+                "codes": "opt_hm_visibility, opt_hm_visibility_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fog & Darkness logically require Defog and Flash",
+                "img": "images/settings/opt_hm_visibility.png",
+                "codes": "opt_hm_visibility, opt_hm_visibility_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Dowsing Machine Logic",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Hidden Items are expected to be picked up without help",
+                "img": "images/settings/opt_dowsing.png",
+                "img_mods": "@disabled",
+                "codes": "opt_dowsing, opt_dowsing_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Hidden Items logically require the Dowsing Machine App",
+                "img": "images/settings/opt_dowsing.png",
+                "codes": "opt_dowsing, opt_dowsing_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "North Sinnoh Fly Logic",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "North Sinnoh is in logic when accessible",
+                "img": "images/settings/opt_north_sinnoh_fly.png",
+                "img_mods": "@disabled",
+                "codes": "opt_north_sinnoh_fly, opt_north_sinnoh_fly_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "North Sinnoh also requires the ability to fly to access",
+                "img": "images/settings/opt_north_sinnoh_fly.png",
+                "codes": "opt_north_sinnoh_fly, opt_north_sinnoh_fly_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Route 203 Barrier",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Route 203 is open",
+                "img": "images/settings/opt_route_203.png",
+                "img_mods": "@disabled",
+                "codes": "opt_route_203, opt_route_203_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 203 requires the Poketch",
+                "img": "images/settings/opt_route_203.png",
+                "codes": "opt_route_203, opt_route_203_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Early Sunyshore",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "The path to Sunyshore is blocked until Distortion World is cleared",
+                "img": "images/settings/opt_early_sunyshore_off.png",
+                "codes": "opt_early_sunyshore, opt_early_sunyshore_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "The path to Sunyshore is open",
+                "img": "images/settings/opt_early_sunyshore_on.png",
+                "codes": "opt_early_sunyshore, opt_early_sunyshore_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Early Sunyshore - Unknown (hidden)",
+                "img": "images/settings/opt_early_sunyshore_on.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_early_sunyshore, opt_early_sunyshore_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Pastoria Barriers",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Pastoria City is accessible vanilla",
+                "img": "images/settings/opt_pastoria_barriers_off.png",
+                "codes": "opt_pastoria_barriers, opt_pastoria_barriers_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Pastoria City is blocked behind Surf",
+                "img": "images/settings/opt_pastoria_barriers_on.png",
+                "codes": "opt_pastoria_barriers, opt_pastoria_barriers_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Pastoria Barriers - Unknown (hidden)",
+                "img": "images/settings/opt_pastoria_barriers_off.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_pastoria_barriers, opt_pastoria_barriers_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Goal: Defeat Cynthia",
+                "img": "images/settings/opt_goal.png",
+                "codes": "opt_goal, opt_goal_cynthia",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Annihilate Cynthia",
+                "img": "images/settings/opt_goal.png",
+                "codes": "opt_goal, opt_goal_cynthia",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Date Cynthia",
+                "img": "images/settings/opt_goal.png",
+                "codes": "opt_goal, opt_goal_cynthia",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Also Cynthia",
+                "img": "images/settings/opt_goal.png",
+                "codes": "opt_goal, opt_goal_cynthia",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Regional Dex Goal",
+        "type": "consumable",
+        "img": "/images/settings/regional_dex_goal.png",
+        "min_quantity": 1,
+        "max_quantity": 210,
+        "initial_quantity": 60,
+        "overlay_background": "#000000",
+        "codes": "regional_dex_goal"
+    },
+    {
+        "name": "Cartridges",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Cartridges are vanilla",
+                "img": "images/settings/opt_cartridges_off.png",
+                "codes": "opt_cartridges, opt_cartridges_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Cartridges are randomized",
+                "img": "images/settings/opt_cartridges_on.png",
+                "codes": "opt_cartridges, opt_cartridges_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Cartridges are pre-collected",
+                "img": "images/settings/opt_cartridges_precollect.png",
+                "codes": "opt_cartridges, opt_cartridges_precollect",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Time Items",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Time Items are Vanilla",
+                "img": "images/settings/opt_timeitems_off.png",
+                "codes": "opt_timeitems, opt_timeitems_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Time Items are randomized",
+                "img": "images/settings/opt_timeitems_on.png",
+                "codes": "opt_timeitems, opt_timeitems_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Time Items are pre-collected",
+                "img": "images/settings/opt_timeitems_precollect.png",
+                "codes": "opt_timeitems, opt_timeitems_precollect",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "HM Reader and Mode",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Add HM Reader - OFF",
+                "img": "images/settings/opt_hmreader_off.png",
+                "codes": "opt_hmreader, opt_hmreader_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Add HM Reader - Randomized",
+                "img": "images/settings/opt_hmreader_on_reqmon.png",
+                "codes": "opt_hmreader, opt_hmreader_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Add HM Reader - Pre-Collected",
+                "img": "images/settings/opt_hmreader_on_free.png",
+                "codes": "opt_hmreader, opt_hmreader_precollected",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Start With Swarms",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Start With Swarms - OFF",
+                "img": "images/settings/start_with_swarms.png",
+                "img_mods": "@disabled",
+                "codes": "opt_start_with_swarms, opt_start_with_swarms_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Start With Swarms - ON",
+                "img": "images/settings/start_with_swarms.png",
+                "codes": "opt_start_with_swarms, opt_start_with_swarms_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Can Reset Legendaries in AP Helper",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Can Reset Legendaries in AP Helper - OFF",
+                "img": "images/settings/can_reset_legendaries_in_ap_helper.png",
+                "img_mods": "@disabled",
+                "codes": "opt_can_reset_legendaries_in_ap_helper, opt_can_reset_legendaries_in_ap_helper_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Can Reset Legendaries in AP Helper - ON",
+                "img": "images/settings/can_reset_legendaries_in_ap_helper.png",
+                "codes": "opt_can_reset_legendaries_in_ap_helper, opt_can_reset_legendaries_in_ap_helper_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evo Items Shop in AP Helper",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evo Items Shop in AP Helper - OFF",
+                "img": "images/settings/evo_items_shop_in_ap_helper.png",
+                "img_mods": "@disabled",
+                "codes": "opt_evo_items_shop_in_ap_helper, opt_evo_items_shop_in_ap_helper_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evo Items Shop in AP Helper - ON",
+                "img": "images/settings/evo_items_shop_in_ap_helper.png",
+                "codes": "opt_evo_items_shop_in_ap_helper, opt_evo_items_shop_in_ap_helper_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Canalave to Pastoria Boat",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Canalave to Pastoria Boat - OFF",
+                "img": "images/settings/opt_boat_canalave_pastoria.png",
+                "img_mods": "@disabled",
+                "codes": "opt_boat_canalave_pastoria, opt_boat_canalave_pastoria_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Canalave to Pastoria Boat - ON",
+                "img": "images/settings/opt_boat_canalave_pastoria.png",
+                "codes": "opt_boat_canalave_pastoria, opt_boat_canalave_pastoria_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Canalave to Pastoria Boat - Requires S.S. Ticket",
+                "img": "images/settings/opt_boat_canalave_pastoria.png",
+                "img_mods": "overlay|images/settings/overlays/ssticket_tc.png",
+                "codes": "opt_boat_canalave_pastoria, opt_boat_canalave_pastoria_ssticket",
+                "inherit_codes": false
+            },
+            {
+                "name": "Canalave to Pastoria Boat - Unknown (hidden)",
+                "img": "images/settings/opt_boat_unknown.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_boat_canalave_pastoria, opt_boat_canalave_pastoria_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Canalave to Snowpoint Boat",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Canalave to Snowpoint Boat - OFF",
+                "img": "images/settings/opt_boat_canalave_snowpoint.png",
+                "img_mods": "@disabled",
+                "codes": "opt_boat_canalave_snowpoint, opt_boat_canalave_snowpoint_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Canalave to Snowpoint Boat - ON",
+                "img": "images/settings/opt_boat_canalave_snowpoint.png",
+                "codes": "opt_boat_canalave_snowpoint, opt_boat_canalave_snowpoint_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Canalave to Snowpoint Boat - Requires S.S. Ticket",
+                "img": "images/settings/opt_boat_canalave_snowpoint.png",
+                "img_mods": "overlay|images/settings/overlays/ssticket_br.png",
+                "codes": "opt_boat_canalave_snowpoint, opt_boat_canalave_snowpoint_ssticket",
+                "inherit_codes": false
+            },
+            {
+                "name": "Canalave to Snowpoint Boat - Unknown (hidden)",
+                "img": "images/settings/opt_boat_unknown.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_boat_canalave_snowpoint, opt_boat_canalave_snowpoint_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Pastoria to Snowpoint Boat",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Pastoria to Snowpoint Boat - OFF",
+                "img": "images/settings/opt_boat_pastoria_snowpoint.png",
+                "img_mods": "@disabled",
+                "codes": "opt_boat_pastoria_snowpoint, opt_boat_pastoria_snowpoint_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Pastoria to Snowpoint Boat - ON",
+                "img": "images/settings/opt_boat_pastoria_snowpoint.png",
+                "codes": "opt_boat_pastoria_snowpoint, opt_boat_pastoria_snowpoint_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Pastoria to Snowpoint Boat - Requires S.S. Ticket",
+                "img": "images/settings/opt_boat_pastoria_snowpoint.png",
+                "img_mods": "overlay|images/settings/overlays/ssticket_bl.png",
+                "codes": "opt_boat_pastoria_snowpoint, opt_boat_pastoria_snowpoint_ssticket",
+                "inherit_codes": false
+            },
+            {
+                "name": "Pastoria to Snowpoint Boat - Unknown (hidden)",
+                "img": "images/settings/opt_boat_unknown.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_boat_pastoria_snowpoint, opt_boat_pastoria_snowpoint_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Route 207 Barricade",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Route 207 Barricade - None",
+                "img": "images/settings/opt_route_207_barricade/none.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_none",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Bicycle Slope",
+                "img": "images/settings/opt_route_207_barricade/bicycle_slope.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_bicycle_slope",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Rock Climb",
+                "img": "images/settings/opt_route_207_barricade/rock_climb.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_rock_climb",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Impassable",
+                "img": "images/settings/opt_route_207_barricade/impassable.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_impassable",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Cut Tree",
+                "img": "images/settings/opt_route_207_barricade/cut_tree.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Rock Smash",
+                "img": "images/settings/opt_route_207_barricade/rock_smash.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Strength Boulder",
+                "img": "images/settings/opt_route_207_barricade/strength_boulder.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Psyduck",
+                "img": "images/settings/opt_route_207_barricade/psyduck.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Bicycle Slope + Cut Tree",
+                "img": "images/settings/opt_route_207_barricade/bicycle_slope_and_cut_tree.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_bicycle_slope_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Bicycle Slope + Rock Smash",
+                "img": "images/settings/opt_route_207_barricade/bicycle_slope_and_rock_smash.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_bicycle_slope_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Bicycle Slope + Strength Boulder",
+                "img": "images/settings/opt_route_207_barricade/bicycle_slope_and_strength_boulder.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_bicycle_slope_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Bicycle Slope + Psyduck",
+                "img": "images/settings/opt_route_207_barricade/bicycle_slope_and_psyduck.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_bicycle_slope_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Rock Climb + Cut Tree",
+                "img": "images/settings/opt_route_207_barricade/rock_climb_and_cut_tree.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_rock_climb_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Rock Climb + Rock Smash",
+                "img": "images/settings/opt_route_207_barricade/rock_climb_and_rock_smash.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_rock_climb_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Rock Climb + Strength Boulder",
+                "img": "images/settings/opt_route_207_barricade/rock_climb_and_strength_boulder.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_rock_climb_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Rock Climb + Psyduck",
+                "img": "images/settings/opt_route_207_barricade/rock_climb_and_psyduck.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_rock_climb_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 207 Barricade - Unknown (hidden)",
+                "img": "images/settings/opt_route_207_barricade/unknown.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_route_207_barricade, opt_route_207_barricade_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Route 210 Lower Barricade",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Route 210 Lower Barricade - None",
+                "img": "images/settings/opt_route_210_lower_barricade/none.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_none",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Bicycle Slope",
+                "img": "images/settings/opt_route_210_lower_barricade/bicycle_slope.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_bicycle_slope",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Rock Climb",
+                "img": "images/settings/opt_route_210_lower_barricade/rock_climb.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_rock_climb",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Surf",
+                "img": "images/settings/opt_route_210_lower_barricade/surf.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_surf",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Waterfall",
+                "img": "images/settings/opt_route_210_lower_barricade/waterfall.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_waterfall",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Impassable",
+                "img": "images/settings/opt_route_210_lower_barricade/impassable.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_impassable",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Cut Tree",
+                "img": "images/settings/opt_route_210_lower_barricade/cut_tree.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Rock Smash",
+                "img": "images/settings/opt_route_210_lower_barricade/rock_smash.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Strength Boulder",
+                "img": "images/settings/opt_route_210_lower_barricade/strength_boulder.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Psyduck",
+                "img": "images/settings/opt_route_210_lower_barricade/psyduck.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Bicycle Slope + Cut Tree",
+                "img": "images/settings/opt_route_210_lower_barricade/bicycle_slope_and_cut_tree.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_bicycle_slope_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Bicycle Slope + Rock Smash",
+                "img": "images/settings/opt_route_210_lower_barricade/bicycle_slope_and_rock_smash.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_bicycle_slope_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Bicycle Slope + Strength Boulder",
+                "img": "images/settings/opt_route_210_lower_barricade/bicycle_slope_and_strength_boulder.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_bicycle_slope_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Bicycle Slope + Psyduck",
+                "img": "images/settings/opt_route_210_lower_barricade/bicycle_slope_and_psyduck.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_bicycle_slope_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Rock Climb + Cut Tree",
+                "img": "images/settings/opt_route_210_lower_barricade/rock_climb_and_cut_tree.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_rock_climb_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Rock Climb + Rock Smash",
+                "img": "images/settings/opt_route_210_lower_barricade/rock_climb_and_rock_smash.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_rock_climb_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Rock Climb + Strength Boulder",
+                "img": "images/settings/opt_route_210_lower_barricade/rock_climb_and_strength_boulder.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_rock_climb_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Rock Climb + Psyduck",
+                "img": "images/settings/opt_route_210_lower_barricade/rock_climb_and_psyduck.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_rock_climb_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Surf + Cut Tree",
+                "img": "images/settings/opt_route_210_lower_barricade/surf_and_cut_tree.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_surf_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Surf + Rock Smash",
+                "img": "images/settings/opt_route_210_lower_barricade/surf_and_rock_smash.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_surf_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Surf + Strength Boulder",
+                "img": "images/settings/opt_route_210_lower_barricade/surf_and_strength_boulder.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_surf_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Surf + Psyduck",
+                "img": "images/settings/opt_route_210_lower_barricade/surf_and_psyduck.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_surf_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Waterfall + Cut Tree",
+                "img": "images/settings/opt_route_210_lower_barricade/waterfall_and_cut_tree.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_waterfall_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Waterfall + Rock Smash",
+                "img": "images/settings/opt_route_210_lower_barricade/waterfall_and_rock_smash.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_waterfall_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Waterfall + Strength Boulder",
+                "img": "images/settings/opt_route_210_lower_barricade/waterfall_and_strength_boulder.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_waterfall_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Waterfall + Psyduck",
+                "img": "images/settings/opt_route_210_lower_barricade/waterfall_and_psyduck.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_waterfall_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 210 Lower Barricade - Unknown (hidden)",
+                "img": "images/settings/opt_route_210_lower_barricade/none.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_route_210_lower_barricade, opt_route_210_lower_barricade_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Route 215 Barricade",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Route 215 Barricade - None",
+                "img": "images/settings/opt_route_215_barricade/none.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_none",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Bicycle Bridge",
+                "img": "images/settings/opt_route_215_barricade/bicycle_bridge.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_bicycle_bridge",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Rock Climb",
+                "img": "images/settings/opt_route_215_barricade/rock_climb.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_rock_climb",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Surf",
+                "img": "images/settings/opt_route_215_barricade/surf.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_surf",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Waterfall",
+                "img": "images/settings/opt_route_215_barricade/waterfall.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_waterfall",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Impassable",
+                "img": "images/settings/opt_route_215_barricade/impassable.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_impassable",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Cut Tree",
+                "img": "images/settings/opt_route_215_barricade/cut_tree.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Rock Smash",
+                "img": "images/settings/opt_route_215_barricade/rock_smash.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Strength Boulder",
+                "img": "images/settings/opt_route_215_barricade/strength_boulder.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Psyduck",
+                "img": "images/settings/opt_route_215_barricade/psyduck.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Bicycle Bridge + Cut Tree",
+                "img": "images/settings/opt_route_215_barricade/bicycle_bridge_and_cut_tree.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_bicycle_bridge_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Bicycle Bridge + Rock Smash",
+                "img": "images/settings/opt_route_215_barricade/bicycle_bridge_and_rock_smash.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_bicycle_bridge_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Bicycle Bridge + Strength Boulder",
+                "img": "images/settings/opt_route_215_barricade/bicycle_bridge_and_strength_boulder.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_bicycle_bridge_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Bicycle Bridge + Psyduck",
+                "img": "images/settings/opt_route_215_barricade/bicycle_bridge_and_psyduck.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_bicycle_bridge_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Rock Climb + Cut Tree",
+                "img": "images/settings/opt_route_215_barricade/rock_climb_and_cut_tree.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_rock_climb_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Rock Climb + Rock Smash",
+                "img": "images/settings/opt_route_215_barricade/rock_climb_and_rock_smash.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_rock_climb_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Rock Climb + Strength Boulder",
+                "img": "images/settings/opt_route_215_barricade/rock_climb_and_strength_boulder.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_rock_climb_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Rock Climb + Psyduck",
+                "img": "images/settings/opt_route_215_barricade/rock_climb_and_psyduck.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_rock_climb_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Surf + Cut Tree",
+                "img": "images/settings/opt_route_215_barricade/surf_and_cut_tree.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_surf_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Surf + Rock Smash",
+                "img": "images/settings/opt_route_215_barricade/surf_and_rock_smash.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_surf_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Surf + Strength Boulder",
+                "img": "images/settings/opt_route_215_barricade/surf_and_strength_boulder.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_surf_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Surf + Psyduck",
+                "img": "images/settings/opt_route_215_barricade/surf_and_psyduck.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_surf_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Waterfall + Cut Tree",
+                "img": "images/settings/opt_route_215_barricade/waterfall_and_cut_tree.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_waterfall_and_cut_tree",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Waterfall + Rock Smash",
+                "img": "images/settings/opt_route_215_barricade/waterfall_and_rock_smash.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_waterfall_and_rock_smash",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Waterfall + Strength Boulder",
+                "img": "images/settings/opt_route_215_barricade/waterfall_and_strength_boulder.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_waterfall_and_strength_boulder",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Waterfall + Psyduck",
+                "img": "images/settings/opt_route_215_barricade/waterfall_and_psyduck.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_waterfall_and_psyduck",
+                "inherit_codes": false
+            },
+            {
+                "name": "Route 215 Barricade - Unknown (hidden)",
+                "img": "images/settings/opt_route_215_barricade/none.png",
+                "img_mods": "overlay|images/settings/overlays/unknown.png",
+                "codes": "opt_route_215_barricade, opt_route_215_barricade_unknown",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Dexsanity",
+        "img": "/images/settings/opt_dexsanity.png",
+        "codes": "opt_dexsanity",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 493,
+        "overlay_background": "#000000",
+        "initial_quantity": 0
+    },
+    {
+        "name": "Require Fly Items for Flight",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Fly Items Not Required for Flight",
+                "img": "images/items/hm02_fly.png",
+                "img_mods": "@disabled",
+                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Items Required for Flight",
+                "img": "images/items/hm02_fly.png",
+                "img_mods": "overlay|images/settings/overlays/fly_red_square_overlay.png",
+                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+        {
+        "name": "Randomize Fly Unlocks",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Fly Unlocks - OFF",
+                "img": "images/settings/fly_rando.png",
+                "img_mods": "@disabled",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Fly Unlocks - No Pokemon League",
+                "img": "images/settings/fly_rando.png",
+                "img_mods": "overlay|images/settings/overlays/NOE4.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_all_except_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Fly Unlocks - ALL",
+                "img": "images/settings/fly_rando.png",
+                "img_mods": "overlay|images/settings/overlays/all.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_all",
+                "inherit_codes": false
+            }
+        ]
+    }
+]

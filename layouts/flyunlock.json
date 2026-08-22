@@ -1,0 +1,90 @@
+{
+    "flyunlock_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2,2",
+                        "item_size": "32,32",
+                        "h_alignment": "center",
+                        "rows": [
+                            [
+                                "flyunlock_twinleaftown",
+                                "flyunlock_sandgemtown",
+                                "flyunlock_jubilifecity",
+                                "flyunlock_oreburghcity",
+                                "flyunlock_floaromatown",
+                                "flyunlock_eternacity",
+                                "flyunlock_hearthomecity",
+                                "flyunlock_solaceontown"
+                            ],
+                            [
+                                "flyunlock_veilstonecity",
+                                "flyunlock_pastoriacity",
+                                "flyunlock_celestictown",
+                                "flyunlock_canalavecity",
+                                "flyunlock_snowpointcity",
+                                "flyunlock_sunyshorecity",
+                                "flyunlock_pokemonleaguesouth",
+                                "flyunlock_route221"
+                            ],
+                            [
+                                "flyunlock_fightarea",
+                                "flyunlock_survivalarea",
+                                "flyunlock_resortarea",
+                                "flyunlock_pokemonleague"
+                            ],
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "v_flyunlock_grid": {
+        "type": "array",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2,2",
+                "item_size": "32,32",
+                "h_alignment": "center",
+                "rows": [
+                    [
+                        "flyunlock_twinleaftown",
+                        "flyunlock_sandgemtown",
+                        "flyunlock_jubilifecity",
+                        "flyunlock_oreburghcity",
+                        "flyunlock_floaromatown",
+                        "flyunlock_eternacity",
+                        "flyunlock_hearthomecity",
+                        "flyunlock_solaceontown",
+                        "flyunlock_veilstonecity"
+                    ],
+                    [
+                        "flyunlock_pastoriacity",
+                        "flyunlock_celestictown",
+                        "flyunlock_canalavecity",
+                        "flyunlock_snowpointcity",
+                        "flyunlock_sunyshorecity",
+                        "flyunlock_pokemonleaguesouth",
+                        "flyunlock_route221"
+                    ],
+                    [
+
+                        "flyunlock_fightarea",
+                        "flyunlock_survivalarea",
+                        "flyunlock_resortarea",
+                        "flyunlock_pokemonleague"
+                    ]
+                ]
+            }
+        ]
+    }
+}

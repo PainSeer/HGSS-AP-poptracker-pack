@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Defeat Crasher Wake",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_wake.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_wake_hosted"
+    },
+    {
+        "name": "Meet Oak at Pal Park",
+        "type": "toggle",
+        "img": "/images/events/event_met_oak_at_palpark.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_met_oak_at_palpark_hosted"
+    },
+    {
+        "name": "Defeat Mars at Lake Verity",
+        "type": "toggle",
+        "img": "/images/events/event_clear_lakeverity.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_lakeverity_hosted"
+    },
+    {
+        "name": "Witness the Explosion in Canalave Library",
+        "type": "toggle",
+        "img": "/images/events/event_learn_of_lake_explosion.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_learn_of_lake_explosion_hosted"
+    },
+    {
+        "name": "Defeat Gardenia",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_gardenia.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_gardenia_hosted"
+    },
+    {
+        "name": "Defeat Maylene",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_maylene.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_maylene_hosted"
+    },
+    {
+        "name": "Release the Lake Guardians at Galactic HQ",
+        "type": "toggle",
+        "img": "/images/events/event_galactic_hq_defeat_cyrus.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_galactic_hq_defeat_cyrus_hosted"
+    },
+    {
+        "name": "Defeat Saturn at Lake Valor",
+        "type": "toggle",
+        "img": "/images/events/event_clear_lakevalor.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_lakevalor_hosted"
+    },
+    {
+        "name": "Watch Jupiter defeat your rival at Lake Acuity",
+        "type": "toggle",
+        "img": "/images/events/event_clear_lakeacuity.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_lakeacuity_hosted"
+    },
+    {
+        "name": "Defeat Candice",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_candice.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_candice_hosted"
+    },
+    {
+        "name": "Defeat Team Galactic in Eterna City",
+        "type": "toggle",
+        "img": "/images/events/event_clear_eternahideout.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_eternahideout_hosted"
+    },
+    {
+        "name": "Defeat Fantina",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_fantina.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_fantina_hosted"
+    },
+    {
+        "name": "Defeat Roark",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_roark.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_roark_hosted"
+    },
+    {
+        "name": "Defeat Volkner",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_volkner.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_volkner_hosted"
+    },
+    {
+        "name": "Defeat Byron",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_byron.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_byron_hosted"
+    },
+    {
+        "name": "Defeat Cynthia",
+        "type": "toggle",
+        "img": "/images/events/event_defeat_cynthia.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_defeat_cynthia_hosted"
+    },
+    {
+        "name": "Clear the Distortion World",
+        "type": "toggle",
+        "img": "/images/events/event_clear_distortion.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_distortion_hosted"
+    },
+    {
+        "name": "Defeat Team Galactic in the Valley Windworks",
+        "type": "toggle",
+        "img": "/images/events/event_clear_windworks.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_windworks_hosted"
+    },
+    {
+        "name": "Defeat Team Galactic in Stark Mountain",
+        "type": "toggle",
+        "img": "/images/events/event_clear_starkmountain.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_clear_starkmountain_hosted"
+    },
+    {
+        "name": "Release Cresselia",
+        "type": "toggle",
+        "img": "/images/events/event_roamer_1.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_roamer_1_hosted"
+    },
+    {
+        "name": "Release Mesprit",
+        "type": "toggle",
+        "img": "/images/events/event_roamer_0.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_roamer_0_hosted"
+    },
+    {
+        "name": "Release The Legendary Birds",
+        "type": "toggle",
+        "img": "/images/events/event_roamer_345.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_roamer_3_hosted"
+    },
+    {
+        "name": "Speak with Looker Outside of Galactic HQ",
+        "type": "toggle",
+        "img": "/images/events/event_galactic_hq_looker.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes":"event_galactic_hq_looker_hosted"
+    }
+]

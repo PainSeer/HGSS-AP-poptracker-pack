@@ -1,0 +1,490 @@
+[
+    {
+        "img": "/images/settings/info.png",
+        "codes": "info",
+        "type": "static"
+    },
+    {
+        "name": "Encounter Method: Swarms",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Swarm Encounters NOT in logic",
+                "img": "/images/settings/swarm.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_swarm, encmethod_swarm_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Swarm Encounters in logic",
+                "img": "/images/settings/swarm.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_swarm, encmethod_swarm_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Radar",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Radar Encounters NOT in logic",
+                "img": "/images/settings/radar.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_radar, encmethod_radar_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Swarm Encounters in logic",
+                "img": "/images/settings/radar.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_radar, encmethod_radar_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Time",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Time Encounters NOT in logic",
+                "img": "/images/settings/night.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_time, encmethod_time_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Time Encounters in logic",
+                "img": "/images/settings/night.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_time, encmethod_time_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Fishing",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Fishing Encounters NOT in logic",
+                "img": "/images/settings/superrod.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_fishing, encmethod_fishing_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Fishing Encounters in logic",
+                "img": "/images/settings/superrod.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_fishing, encmethod_fishing_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Surf",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Surfing Encounters NOT in logic",
+                "img": "/images/settings/surf.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_surf, encmethod_surf_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Surfing Encounters in logic",
+                "img": "/images/settings/surf.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_surf, encmethod_surf_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Cartridges",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Cartridge Encounters NOT in logic",
+                "img": "/images/settings/sapphire.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_cartridge, encmethod_cartridge_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Cartridge Encounters in logic",
+                "img": "/images/settings/sapphire.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_cartridge, encmethod_cartridge_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Great Marsh",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Great Marsh Encounters NOT in logic",
+                "img": "/images/settings/observatory.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_greatmarsh, encmethod_greatmarsh_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Great Marsh Encounters in logic",
+                "img": "/images/settings/observatory.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_greatmarsh, encmethod_greatmarsh_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Feebas Fishing",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Feebas Fishing Encounters NOT in logic",
+                "img": "/images/settings/feebas_fishing.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_feebasfishing, encmethod_feebasfishing_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Feebas Fishing Encounters in logic",
+                "img": "/images/settings/feebas_fishing.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_feebasfishing, encmethod_feebasfishing_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Trophy Garden",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Trophy Garden Encounters NOT in logic",
+                "img": "/images/settings/trophy_garden.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_trophygarden, encmethod_trophygarden_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Trophy Garden Encounters in logic",
+                "img": "/images/settings/trophy_garden.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_trophygarden, encmethod_trophygarden_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Roamers",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Roamers Encounters NOT in logic",
+                "img": "/images/settings/markingmap.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_roamer, encmethod_roamer_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Roamers Encounters in logic",
+                "img": "/images/settings/markingmap.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_roamer, encmethod_roamer_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Honey Trees",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Honey Trees Encounters NOT in logic",
+                "img": "/images/settings/regular_honey_tree.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_honeytree, encmethod_honeytree_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Honey Trees Encounters in logic",
+                "img": "/images/settings/regular_honey_tree.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_honeytree, encmethod_honeytree_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Munchlax Tree",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Munchlax Tree Encounters NOT in logic",
+                "img": "/images/settings/munchlax_honey_tree.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_munchlaxtree, encmethod_munchlaxtree_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Munchlax Tree Encounters in logic",
+                "img": "/images/settings/munchlax_honey_tree.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_munchlaxtree, encmethod_munchlaxtree_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Encounter Method: Odd Keystone",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Encounter Method: Odd Keystone Encounters NOT in logic",
+                "img": "/images/settings/odd_keystone.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "encmethod_oddkeystone, encmethod_oddkeystone_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Encounter Method: Odd Keystone Encounters in logic",
+                "img": "/images/settings/odd_keystone.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "encmethod_oddkeystone, encmethod_oddkeystone_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Happiness",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Happiness NOT in logic",
+                "img": "/images/settings/happiness.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_happiness, evomethod_happiness_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Happiness in logic",
+                "img": "/images/settings/happiness.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_happiness, evomethod_happiness_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Leveling",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Leveling NOT in logic",
+                "img": "/images/settings/leveling.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_level, evomethod_level_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Leveling in logic",
+                "img": "/images/settings/leveling.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_level, evomethod_level_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Use Items",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Use Items NOT in logic",
+                "img": "/images/settings/useitems.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_useitem, evomethod_useitem_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Items in logic",
+                "img": "/images/settings/useitems.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_useitem, evomethod_useitem_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Held Items",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Held Items NOT in logic",
+                "img": "/images/settings/helditems.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_helditem, evomethod_helditem_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Held Items in logic",
+                "img": "/images/settings/helditems.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_helditem, evomethod_helditem_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Location",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Location NOT in logic",
+                "img": "/images/settings/location.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_location, evomethod_location_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: location in logic",
+                "img": "/images/settings/location.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_location, evomethod_location_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Mildly Annoying",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Mildly Annoying NOT in logic",
+                "img": "/images/settings/mildlyannoying.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_mildlyannoying, evomethod_mildlyannoying_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Mildly Annoying in logic",
+                "img": "/images/settings/mildlyannoying.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_mildlyannoying, evomethod_mildlyannoying_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Highly Annoying",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Highly Annoying NOT in logic",
+                "img": "/images/settings/highlyannoying.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_highlyannoying, evomethod_highlyannoying_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Highly Annoying in logic",
+                "img": "/images/settings/highlyannoying.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_highlyannoying, evomethod_highlyannoying_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Evolution Method: Time",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 1,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Evolution Method: Time NOT in logic",
+                "img": "/images/settings/time.png",
+                "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
+                "codes": "evomethod_time, evomethod_time_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Evolution Method: Time in logic",
+                "img": "/images/settings/time.png",
+                "img_mods": "overlay|images/settings/overlays/greencircle.png",
+                "codes": "evomethod_time, evomethod_time_on",
+                "inherit_codes": false
+            }
+        ]
+    }
+]

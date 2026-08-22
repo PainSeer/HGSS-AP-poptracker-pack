@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Bag",
+        "type": "toggle",
+        "img": "images/items/bag.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "bag_hosted"
+    },
+    {
+        "name": "Beacon Badge",
+        "type": "toggle",
+        "img": "images/items/beacon_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "beaconbadge_hosted"
+    },
+    {
+        "name": "Bicycle",
+        "type": "toggle",
+        "img": "images/items/bicycle.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "bicycle_hosted"
+    },
+    {
+        "name": "Coal Badge",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "coalbadge_hosted"
+    },
+    {
+        "name": "Cobble Badge",
+        "type": "toggle",
+        "img": "images/items/cobble_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "cobblebadge_hosted"
+    },
+    {
+        "name": "Dawn Stone",
+        "type": "toggle",
+        "img": "images/items/dawnstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dawnstone_hosted"
+    },
+    {
+        "name": "Daytime",
+        "type": "toggle",
+        "img": "images/items/day.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "daytime_hosted"
+    },
+    {
+        "name": "Dowsing Machine",
+        "type": "toggle",
+        "img": "images/items/dowsing_machine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dowsingmachine_hosted"
+    },
+    {
+        "name": "Dubious Disc",
+        "type": "toggle",
+        "img": "images/items/dubiousdisc.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dubiousdisc_hosted"
+    },
+    {
+        "name": "Dusk Stone",
+        "type": "toggle",
+        "img": "images/items/duskstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "duskstone_hosted"
+    },
+    {
+        "name": "Electirizer",
+        "type": "toggle",
+        "img": "images/items/electirizer.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "electirizer_hosted"
+    },
+    {
+        "name": "Emerald Cartridge",
+        "type": "toggle",
+        "img": "images/items/cartridgeemerald.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "emeraldcartridge_hosted"
+    },
+    {
+        "name": "Fen Badge",
+        "type": "toggle",
+        "img": "images/items/fen_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "fenbadge_hosted"
+    },
+    {
+        "name": "Fire Red Cartridge",
+        "type": "toggle",
+        "img": "images/items/cartridgefirered.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "fireredcartridge_hosted"
+    },
+    {
+        "name": "Fire Stone",
+        "type": "toggle",
+        "img": "images/items/firestone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "firestone_hosted"
+    },
+    {
+        "name": "Forest Badge",
+        "type": "toggle",
+        "img": "images/items/forest_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "forestbadge_hosted"
+    },
+    {
+        "name": "Galactic Key",
+        "type": "toggle",
+        "img": "images/items/galactic_key.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "galactickey_hosted"
+    },
+    {
+        "name": "Good Rod",
+        "type": "toggle",
+        "img": "images/items/good_rod.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "goodrod_hosted"
+    },
+    {
+        "name": "HM01 Cut",
+        "type": "toggle",
+        "img": "images/items/hm01_cut.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge2_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge2_overlay.png",
+        "codes": "hm01cut_hosted"
+    },
+    {
+        "name": "HM02 Fly",
+        "type": "toggle",
+        "img": "images/items/hm02_fly.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge3_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge3_overlay.png",
+        "codes": "hm02fly_hosted"
+    },
+    {
+        "name": "HM03 Surf",
+        "type": "toggle",
+        "img": "images/items/hm03_surf.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge4_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge4_overlay.png",
+        "codes": "hm03surf_hosted"
+    },
+    {
+        "name": "HM04 Strength",
+        "type": "toggle",
+        "img": "images/items/hm04_strength.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge6_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge6_overlay.png",
+        "codes": "hm04strength_hosted"
+    },
+    {
+        "name": "HM05 Defog",
+        "type": "toggle",
+        "img": "images/items/hm05_defog.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge5_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge5_overlay.png",
+        "codes": "hm05defog_hosted"
+    },
+    {
+        "name": "HM06 Rock Smash",
+        "type": "toggle",
+        "img": "images/items/hm06_rocksmash.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge1_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge1_overlay.png",
+        "codes": "hm06rocksmash_hosted"
+    },
+    {
+        "name": "HM07 Waterfall",
+        "type": "toggle",
+        "img": "images/items/hm07_waterfall.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge8_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge8_overlay.png",
+        "codes": "hm07waterfall_hosted"
+    },
+    {
+        "name": "HM08 Rock Climb",
+        "type": "toggle",
+        "img": "images/items/hm08_rockclimb.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/badge7_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/badge7_overlay.png",
+        "codes": "hm08rockclimb_hosted"
+    },
+    {
+        "name": "Icicle Badge",
+        "type": "toggle",
+        "img": "images/items/icicle_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "iciclebadge_hosted"
+    },
+    {
+        "name": "King's Rock",
+        "type": "toggle",
+        "img": "images/items/kingsrock.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "kingsrock_hosted"
+    },
+    {
+        "name": "Leaf Green Cartridge",
+        "type": "toggle",
+        "img": "images/items/cartridgeleafgreen.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "leafgreencartridge_hosted"
+    },
+    {
+        "name": "Leaf Stone",
+        "type": "toggle",
+        "img": "images/items/leafstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "leafstone_hosted"
+    },
+    {
+        "name": "Linking Cord",
+        "type": "toggle",
+        "img": "images/items/linkingcord.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "linkingcord_hosted"
+    },
+    {
+        "name": "Magmarizer",
+        "type": "toggle",
+        "img": "images/items/magmarizer.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "magmarizer_hosted"
+    },
+    {
+        "name": "Markingmap",
+        "type": "toggle",
+        "img": "images/items/markingmap.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "markingmap_hosted"
+    },
+    {
+        "name": "Metal Coat",
+        "type": "toggle",
+        "img": "images/items/metalcoat.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "metalcoat_hosted"
+    },
+    {
+        "name": "Mine Badge",
+        "type": "toggle",
+        "img": "images/items/mine_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "minebadge_hosted"
+    },
+    {
+        "name": "Moon Stone",
+        "type": "toggle",
+        "img": "images/items/moonstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "moonstone_hosted"
+    },
+    {
+        "name": "Nighttime",
+        "type": "toggle",
+        "img": "images/items/night.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "nighttime_hosted"
+    },
+    {
+        "name": "Odd Keystone",
+        "type": "toggle",
+        "img": "images/items/oddkeystone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "oddkeystone_hosted"
+    },
+    {
+        "name": "Old Charm",
+        "type": "toggle",
+        "img": "images/items/old_charm.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "oldcharm_hosted"
+    },
+    {
+        "name": "Old Rod",
+        "type": "toggle",
+        "img": "images/items/old_rod.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "oldrod_hosted"
+    },
+    {
+        "name": "Oval Stone",
+        "type": "toggle",
+        "img": "images/items/ovalstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "ovalstone_hosted"
+    },
+    {
+        "name": "Parcel",
+        "type": "toggle",
+        "img": "images/items/parcel.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "parcel_hosted"
+    },
+    {
+        "name": "Poffin Case",
+        "type": "toggle",
+        "img": "images/items/poffincase.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "poffincase_hosted"
+    },
+    {
+        "name": "Poketch",
+        "type": "toggle",
+        "img": "images/items/poketch.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "poketch_hosted"
+    },
+    {
+        "name": "Protector",
+        "type": "toggle",
+        "img": "images/items/protector.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "protector_hosted"
+    },
+    {
+        "name": "Poké Radar",
+        "type": "toggle",
+        "img": "images/items/pokeradar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "radar_hosted"
+    },
+    {
+        "name": "Razor Claw",
+        "type": "toggle",
+        "img": "images/items/razorclaw.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "razorclaw_hosted"
+    },
+    {
+        "name": "Razor Fang",
+        "type": "toggle",
+        "img": "images/items/razorfang.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "razorfang_hosted"
+    },
+    {
+        "name": "Reaper Cloth",
+        "type": "toggle",
+        "img": "images/items/reapercloth.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "reapercloth_hosted"
+    },
+    {
+        "name": "Relic Badge",
+        "type": "toggle",
+        "img": "images/items/relic_badge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "relicbadge_hosted"
+    },
+    {
+        "name": "Ruby Cartridge",
+        "type": "toggle",
+        "img": "images/items/cartridgeruby.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "rubycartridge_hosted"
+    },
+    {
+        "name": "Sapphire Cartridge",
+        "type": "toggle",
+        "img": "images/items/cartridgesapphire.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "sapphirecartridge_hosted"
+    },
+    {
+        "name": "Secret Potion",
+        "type": "toggle",
+        "img": "images/items/secretpotion.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "secretpotion_hosted"
+    },
+    {
+        "name": "Shiny Stone",
+        "type": "toggle",
+        "img": "images/items/shinystone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "shinystone_hosted"
+    },
+    {
+        "name": "S.S. Ticket",
+        "type": "toggle",
+        "img": "images/items/ss_ticket.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "ssticket_hosted"
+    },
+    {
+        "name": "Suite Key",
+        "type": "toggle",
+        "img": "images/items/suite_key.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "suitekey_hosted"
+    },
+    {
+        "name": "Sun Stone",
+        "type": "toggle",
+        "img": "images/items/sunstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "sunstone_hosted"
+    },
+    {
+        "name": "Super Rod",
+        "type": "toggle",
+        "img": "images/items/super_rod.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "superrod_hosted"
+    },
+    {
+        "name": "Thunderstone",
+        "type": "toggle",
+        "img": "images/items/thunderstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "thunderstone_hosted"
+    },
+    {
+        "name": "TM70 Flash",
+        "type": "toggle",
+        "img": "images/items/tm70_flash.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tm70flash_hosted"
+    },
+    {
+        "name": "TM93 Rollout",
+        "type": "toggle",
+        "img": "images/items/tm93rollout.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tm93rollout_hosted"
+    },
+    {
+        "name": "TM94 AncientPower",
+        "type": "toggle",
+        "img": "images/items/tm94ancientpower.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tm94ancientpower_hosted"
+    },
+    {
+        "name": "TM95 Double Hit",
+        "type": "toggle",
+        "img": "images/items/tm95doublehit.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tm95doublehit_hosted"
+    },
+    {
+        "name": "TM96 Mimic",
+        "type": "toggle",
+        "img": "images/items/tm96mimic.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tm96mimic_hosted"
+    },
+    {
+        "name": "Up-Grade",
+        "type": "toggle",
+        "img": "images/items/upgrade.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "upgrade_hosted"
+    },
+    {
+        "name": "Water Stone",
+        "type": "toggle",
+        "img": "images/items/waterstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "waterstone_hosted"
+    },
+    {
+        "name": "Works Key",
+        "type": "toggle",
+        "img": "images/items/works_key.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "workskey_hosted"
+    }
+]
