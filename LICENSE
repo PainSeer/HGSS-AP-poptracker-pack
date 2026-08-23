@@ -1,13 +1,13 @@
-MIT License
-
+Copyright (c) 2026 PainSeer
 Copyright (c) 2026 palex00
+Copyright (c) 2026 Radis7Noir
+Copyright (c) 2026 Darvitz
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to download
+and use the Software in combination with "PopTracker" subject to the
+following restrictions and conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -19,3 +19,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The Software shall not be modified in any way except for personal use or the
+sake of contributing to the Github project available at https://github.com/PainSeer/HGSS-AP-poptracker-pack.
+Licensees shall not distribute, publish, host, mirror, or otherwise make available
+to any third party the Software or any modified or derivative version, in whole or
+part. This includes, without limitation: publishing a release or release asset;
+distributing an archive of the Software in any format; and sharing, posting, or
+otherwise providing any direct or indirect download link to such an archive, including
+archives generated automatically by a code hosting service. Licensee shall not advertise,
+promote, or direct third parties to any modified version of the Software. Submitting changes
+to the Github repository by pull request is permitted.
+
+Licensees shall not provide the Software as input to anything that could be classified as
+"Generative AI" in any way. This includes but is not limited to modification, analysis, or
+reproduction of its functionality or design.
+
+The Software shall not be modified to work with any other "apworld" except
+for the individual "TrueBlue" (https://github.com/ljtpetersen)'s implementation
+of "Pokémon HeartGold & SoulSilver" for "Archipelago".
+
+Any part of this License's restrictions and conditions can only be exempted by the
+express permission of all copyright holders as a reply to an Issue post in the aforementioned
+Github repository, requesting an exemption. If any copyright holder does not reply within three
+months of the Issue being created, theirvote shall not be needed. 
+
+If any part of this license is unenforceable, it shall not void the other parts.
