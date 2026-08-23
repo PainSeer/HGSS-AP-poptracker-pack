@@ -43,11 +43,14 @@ end
 
 function toggle_pastoriabarriers()
     if has("opt_pastoria_barriers_on") then
-        Tracker:AddMaps("maps/pastoria_barriers.json")
+        Tracker:AddMaps("maps/route212north_barriers.json")
+        Tracker:AddMaps("maps/route214north_barriers.json")
     elseif has("opt_pastoria_barriers_off") then
-        Tracker:AddMaps("maps/pastoria_off.json")
+        Tracker:AddMaps("maps/route212north.json")
+        Tracker:AddMaps("maps/route214north.json")
     elseif has("opt_pastoria_barriers_unknown") then
-        Tracker:AddMaps("maps/pastoria_unknown.json")
+        Tracker:AddMaps("maps/route212north_unknown.json")
+        Tracker:AddMaps("maps/route214north_unknown.json")
 	end
 end
 
