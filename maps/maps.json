@@ -12,7 +12,7 @@
         "img": "images/maps/johtokanto.png"
     },
     {
-        "name": "twinleaftown",
+        "name": "newbarktown",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/newbarktown.png"
@@ -24,112 +24,118 @@
         "img": "images/maps/sandgemtown.png"
     },
     {
-        "name": "jubilifecity",
+        "name": "cherrygrovecity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/jubilifecity.png"
+        "img": "images/maps/cherrygrovecity.png"
     },
     {
-        "name": "oreburghcity",
+        "name": "violetcity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/oreburghcity.png"
+        "img": "images/maps/violetcity.png"
     },
     {
-        "name": "oreburghgym",
+        "name": "violetgym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/oreburghgym.png"
+        "img": "images/maps/violetgym.png"
     },
     {
-        "name": "floaromatown",
+        "name": "azaleatown",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/floaromatown.png"
+        "img": "images/maps/azaleatown.png"
     },
     {
-        "name": "fuegoironworksoutside",
+        "name": "azaleagym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/fuegoironworksoutside.png"
+        "img": "images/maps/azaleagym.png"
     },
     {
-        "name": "fuegoironworks",
+        "name": "slowpokewellb1f",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/fuegoironworks.png"
+        "img": "images/maps/slowpokewellb1f.png"
     },
     {
-        "name": "eternacity",
+        "name": "slowpokewellb2f",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/eternacity.png"
+        "img": "images/maps/slowpokewellb2f.png"
     },
     {
-        "name": "eternagym",
+        "name": "goldenrodcity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/eternagym.png"
+        "img": "images/maps/goldenrodcity.png"
     },
     {
-        "name": "hearthomecity",
+        "name": "goldenrodgym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/hearthomecity.png"
+        "img": "images/maps/goldenrodgym.png"
     },
     {
-        "name": "hearthomegym",
+        "name": "olivinecity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/hearthomegym.png"
+        "img": "images/maps/olivinecity.png"
     },
     {
-        "name": "solaceontown",
+        "name": "olivinegym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/solaceontown.png"
+        "img": "images/maps/olivinegym.png"
     },
     {
-        "name": "veilstonecity",
+        "name": "ecruteakcity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/veilstonecity.png"
+        "img": "images/maps/ecruteakcity.png"
     },
     {
-        "name": "veilstonegym",
+        "name": "ecruteakgym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/veilstonegym.png"
+        "img": "images/maps/ecruteakgym.png"
     },
     {
-        "name": "pastoriacity",
+        "name": "cianwoodcity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/pastoriacity.png"
+        "img": "images/maps/cianwoodcity.png"
     },
     {
-        "name": "pastoriagym",
+        "name": "cianwoodgym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/pastoriagym.png"
+        "img": "images/maps/cianwoodgym.png"
     },
     {
-        "name": "celestictown",
+        "name": "mahoganytown",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/celestictown.png"
+        "img": "images/maps/mahoganytown.png"
     },
     {
-        "name": "canalavecity",
+        "name": "blackthorncity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/canalavecity.png"
+        "img": "images/maps/blackthorncity.png"
     },
     {
-        "name": "canalavegym1f",
+        "name": "blackthorngym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/canalavegym1f.png"
+        "img": "images/maps/blackthorngym.png"
+    },
+    {
+        "name": "mountsilver",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mountsilver.png"
     },
     {
         "name": "canalavegym2f",
