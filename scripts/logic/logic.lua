@@ -138,7 +138,7 @@ end
 
 function can_freefly(destination)
   return fly() and 
-  (has("flyunlock_"..destination))
+  (has("fly_map_"..destination))
 end
 
 function partial_trainersanity()
