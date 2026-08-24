@@ -1,8 +1,164 @@
 [
     {
-        "name": "",
+        "name": "Fly Region - Pallet",
         "type": "toggle",
-        "img": "",
-        "codes": ""
+        "img": "images/items/fly_items/pallet.png",
+        "codes": "flyregion_pallet"
+    },
+    {
+        "name": "Fly Region - Viridian",
+        "type": "toggle",
+        "img": "images/items/fly_items/viridian.png",
+        "codes": "flyregion_viridian"
+    },
+    {
+        "name": "Fly Region - Pewter",
+        "type": "toggle",
+        "img": "images/items/fly_items/pewter.png",
+        "codes": "flyregion_pewter"
+    },
+    {
+        "name": "Fly Region - Cerulean",
+        "type": "toggle",
+        "img": "images/items/fly_items/cerulean.png",
+        "codes": "flyregion_cerulean"
+    },
+    {
+        "name": "Fly Region - Lavender",
+        "type": "toggle",
+        "img": "images/items/fly_items/lavender.png",
+        "codes": "flyregion_lavender"
+    },
+    {
+        "name": "Fly Region - Vermilion",
+        "type": "toggle",
+        "img": "images/items/fly_items/vermilion.png",
+        "codes": "flyregion_vermilion"
+    },
+    {
+        "name": "Fly Region - Celadon",
+        "type": "toggle",
+        "img": "images/items/fly_items/celadon.png",
+        "codes": "flyregion_celadon"
+    },
+    {
+        "name": "Fly Region - Fuchsia",
+        "type": "toggle",
+        "img": "images/items/fly_items/fuchsia.png",
+        "codes": "flyregion_fuchsia"
+    },
+    {
+        "name": "Fly Region - Cinnabar Island",
+        "type": "toggle",
+        "img": "images/items/fly_items/cinnabar_island.png",
+        "codes": "flyregion_cinnabar_island"
+    },
+    {
+        "name": "Fly Region - Indigo Plateau",
+        "type": "toggle",
+        "img": "images/items/fly_items/indigo_plateau.png",
+        "codes": "flyregion_indigo_plateau"
+    },
+    {
+        "name": "Fly Region - Saffron",
+        "type": "toggle",
+        "img": "images/items/fly_items/saffron.png",
+        "codes": "flyregion_saffron"
+    },
+    {
+        "name": "Fly Region - New Bark",
+        "type": "toggle",
+        "img": "images/items/fly_items/new_bark.png",
+        "codes": "flyregion_new_bark"
+    },
+    {
+        "name": "Fly Region - Cherrygrove",
+        "type": "toggle",
+        "img": "images/items/fly_items/cherrygrove.png",
+        "codes": "flyregion_cherrygrove"
+    },
+    {
+        "name": "Fly Region - Violet",
+        "type": "toggle",
+        "img": "images/items/fly_items/violet.png",
+        "codes": "flyregion_violet"
+    },
+    {
+        "name": "Fly Region - Azalea",
+        "type": "toggle",
+        "img": "images/items/fly_items/azalea.png",
+        "codes": "flyregion_azalea"
+    },
+    {
+        "name": "Fly Region - Cianwood",
+        "type": "toggle",
+        "img": "images/items/fly_items/cianwood.png",
+        "codes": "flyregion_cianwood"
+    },
+    {
+        "name": "Fly Region - Goldenrod",
+        "type": "toggle",
+        "img": "images/items/fly_items/goldenrod.png",
+        "codes": "flyregion_goldenrod"
+    },
+    {
+        "name": "Fly Region - Olivine",
+        "type": "toggle",
+        "img": "images/items/fly_items/olivine.png",
+        "codes": "flyregion_olivine"
+    },
+    {
+        "name": "Fly Region - Ecruteak",
+        "type": "toggle",
+        "img": "images/items/fly_items/ecruteak.png",
+        "codes": "flyregion_ecruteak"
+    },
+    {
+        "name": "Fly Region - Mahogany",
+        "type": "toggle",
+        "img": "images/items/fly_items/mahogany.png",
+        "codes": "flyregion_mahogany"
+    },
+    {
+        "name": "Fly Region - blackthorn",
+        "type": "toggle",
+        "img": "images/items/fly_items/blackthorn.png",
+        "codes": "flyregion_blackthorn"
+    },
+    {
+        "name": "Fly Region - Lake Of Rage",
+        "type": "toggle",
+        "img": "images/items/fly_items/lake_of_rage.png",
+        "codes": "flyregion_lake_of_rage"
+    },
+    {
+        "name": "Fly Region - Mount Silver",
+        "type": "toggle",
+        "img": "images/items/fly_items/mount_silver.png",
+        "codes": "flyregion_mount_silver"
+    },
+    {
+        "name": "Fly Region - Safari Zone Gate",
+        "type": "toggle",
+        "img": "images/items/fly_items/safari_zone_gate.png",
+        "codes": "flyregion_safari_zone_gate"
+    },
+    {
+        "name": "Fly Region - Battle Frontier",
+        "type": "toggle",
+        "img": "images/items/fly_items/battle_frontier.png",
+        "codes": "flyregion_battle_frontier"
+    },
+    {
+        "name": "Fly Region - National Park",
+        "type": "toggle",
+        "img": "images/items/fly_items/national_park.png",
+        "codes": "flyregion_national_park"
+    },
+    {
+        "name": "Fly Region - Victory Road 1F",
+        "type": "toggle",
+        "img": "images/items/fly_items/victory_road_1f.png",
+        "codes": "flyregion_victory_road_1f"
     }
-  ]
+]
