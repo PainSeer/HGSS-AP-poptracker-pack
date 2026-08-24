@@ -3608,13 +3608,13 @@
     {
         "name": "virt_dex",
         "access_rules": [
-            "@virt_start"
+            ""
         ]
     },
     {
         "name": "virt_fly",
         "access_rules": [
-            "@virt_start"
+            ""
         ]
     },
     {
@@ -3657,7 +3657,7 @@
     {
         "name": "virt_national_dex",
         "access_rules": [
-            "@virt_start"
+            ""
         ]
     },
     {
@@ -3692,7 +3692,7 @@
     {
         "name": "virt_specs",
         "access_rules": [
-            "@virt_start"
+            ""
         ]
     },
     {

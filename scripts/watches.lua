@@ -7,7 +7,7 @@ Archipelago:AddRetrievedHandler("notify launch handler", onNotify)
 Archipelago:AddBouncedHandler("map handler", onMap)
 
 -- Layout Watches
-ScriptHost:AddWatchForCode("opt_hmreader", "opt_hmreader", toggle_itemgrid)
+--ScriptHost:AddWatchForCode("opt_hmreader", "opt_hmreader", toggle_itemgrid) not in use currently
 ScriptHost:AddWatchForCode("splitmap", "splitmap", toggle_splitmap)
 ScriptHost:AddWatchForCode("opt_randomize_fly_items", "opt_randomize_fly_items", toggle_trackerlayout)
 
@@ -23,14 +23,6 @@ ScriptHost:AddWatchForCode("search_amity_active", "search_amity_active", searchA
 ScriptHost:AddWatchForCode("hint_tracking", "hint_tracking", toggleHints)
 
 -- Vanilla Item Syncs
-for _, code in ipairs({"coupon_1", "coupon_2", "coupon_3"}) do
-    ScriptHost:AddWatchForCode(code, code, syncCoupons)
-end
-
-for _, code in ipairs(UNOWN_ITEMS) do
-    ScriptHost:AddWatchForCode(code, code, syncUnownFile)
-end
-
 for _, code in ipairs({"pokedex_1", "pokedex_2", "pokedex_3"}) do
     ScriptHost:AddWatchForCode(code, code, syncPokedex)
 end

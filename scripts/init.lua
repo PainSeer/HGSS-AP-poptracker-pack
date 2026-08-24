@@ -29,7 +29,7 @@ Tracker:AddMaps("maps/pokedex.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/settings_popup.json")
-Tracker:AddLayouts("layouts/items/items_hmreader_marshpass_storagekey_unownfile.json")
+Tracker:AddLayouts("layouts/items/items_max.json")
 Tracker:AddLayouts("layouts/items/encounter_items.json")
 Tracker:AddLayouts("layouts/items/evolution_items.json")
 Tracker:AddLayouts("layouts/flyunlock.json")
@@ -48,8 +48,8 @@ Tracker:AddLocations("locations/access.json")
 --Tracker:AddLocations("locations/submaps_singles.json")
 --Tracker:AddLocations("locations/submaps_groups.json")
 --Tracker:AddLocations("locations/submaps_encounters.json")
---Tracker:AddLocations("locations/pokedex.json")
---Tracker:AddLocations("locations/dexsanity.json")
+Tracker:AddLocations("locations/pokedex.json")
+Tracker:AddLocations("locations/dexsanity.json")
 
 -- AutoTracking for Poptracker
 require("scripts/autotracking/archipelago")
