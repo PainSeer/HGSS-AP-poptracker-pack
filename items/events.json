@@ -1,9 +1,128 @@
 [
     {
-        "name": "",
+        "name": "Defeat Falkner",
         "type": "toggle",
-        "img": "",
+        "img": "images/events/beat_falkner.png",
         "img_mods": "",
-        "codes":""
+        "codes":"event_defeat_falkner"
     },
+    {
+        "name": "Defeat Bugsy",
+        "type": "toggle",
+        "img": "images/events/beat_bugsy.png",
+        "img_mods": "",
+        "codes":"event_defeat_bugsy"
+    },
+    {
+        "name": "Defeat Whitney",
+        "type": "toggle",
+        "img": "images/events/beat_whitney.png",
+        "img_mods": "",
+        "codes":"event_defeat_whitney"
+    },
+    {
+        "name": "Defeat Morty",
+        "type": "toggle",
+        "img": "images/events/beat_morty.png",
+        "img_mods": "",
+        "codes":"event_defeat_morty"
+    },
+    {
+        "name": "Defeat Chuck",
+        "type": "toggle",
+        "img": "images/events/beat_chuck.png",
+        "img_mods": "",
+        "codes":"event_defeat_chuck"
+    },
+    {
+        "name": "Defeat Jasmine",
+        "type": "toggle",
+        "img": "images/events/beat_jasmine.png",
+        "img_mods": "",
+        "codes":"event_defeat_jasmine"
+    },
+    {
+        "name": "Defeat Pryce",
+        "type": "toggle",
+        "img": "images/events/beat_pryce.png",
+        "img_mods": "",
+        "codes":"event_defeat_pryce"
+    },
+    {
+        "name": "Defeat Clair",
+        "type": "toggle",
+        "img": "images/events/beat_clair.png",
+        "img_mods": "",
+        "codes":"event_defeat_clair"
+    },
+    {
+        "name": "Defeat Brock",
+        "type": "toggle",
+        "img": "images/events/beat_brock.png",
+        "img_mods": "",
+        "codes":"event_defeat_brock"
+    },
+    {
+        "name": "Defeat Misty",
+        "type": "toggle",
+        "img": "images/events/beat_misty.png",
+        "img_mods": "",
+        "codes":"event_defeat_misty"
+    },
+    {
+        "name": "Defeat Lt. Surge",
+        "type": "toggle",
+        "img": "images/events/beat_ltsurge.png",
+        "img_mods": "",
+        "codes":"event_defeat_lt_surge"
+    },
+    {
+        "name": "Defeat Erika",
+        "type": "toggle",
+        "img": "images/events/beat_erika.png",
+        "img_mods": "",
+        "codes":"event_defeat_erika"
+    },
+    {
+        "name": "Defeat Janine",
+        "type": "toggle",
+        "img": "images/events/beat_janine.png",
+        "img_mods": "",
+        "codes":"event_defeat_janine"
+    },
+    {
+        "name": "Defeat Sabrina",
+        "type": "toggle",
+        "img": "images/events/beat_sabrina.png",
+        "img_mods": "",
+        "codes":"event_defeat_sabrina"
+    },
+    {
+        "name": "Defeat Blaine",
+        "type": "toggle",
+        "img": "images/events/beat_blaine.png",
+        "img_mods": "",
+        "codes":"event_defeat_blaine"
+    },
+    {
+        "name": "Defeat Blue",
+        "type": "toggle",
+        "img": "images/events/beat_blue.png",
+        "img_mods": "",
+        "codes":"event_defeat_blue"
+    },
+    {
+        "name": "Defeat Red",
+        "type": "toggle",
+        "img": "images/events/beat_red.png",
+        "img_mods": "",
+        "codes":"event_defeat_red"
+    },
+    {
+        "name": "Become Champion",
+        "type": "toggle",
+        "img": "images/events/beat_lance.png",
+        "img_mods": "",
+        "codes":"event_clear_pokemon_league"
+    }
 ]
