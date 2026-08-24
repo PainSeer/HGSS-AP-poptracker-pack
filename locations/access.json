@@ -1,0 +1,3732 @@
+[
+    {
+        "name": "azalea",
+        "access_rules": [
+            "@azalea_charcoal_kiln",
+            "@azalea_gym_entrance",
+            "@azalea_ilex_forest_gatehouse",
+            "@azalea_kurt_house",
+            "@azalea_pokecenter_1f",
+            "@azalea_pokemart",
+            "@route_33",
+            "@slowpoke_well_entrance",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "azalea_charcoal_kiln",
+        "access_rules": [
+            "@azalea"
+        ]
+    },
+    {
+        "name": "azalea_gym",
+        "access_rules": [
+            "@azalea_gym_entrance"
+        ]
+    },
+    {
+        "name": "azalea_gym_entrance",
+        "access_rules": [
+            "@azalea",
+            "@azalea_gym"
+        ]
+    },
+    {
+        "name": "azalea_ilex_forest_gatehouse",
+        "access_rules": [
+            "@azalea",
+            "@ilex_forest_south"
+        ]
+    },
+    {
+        "name": "azalea_kurt_house",
+        "access_rules": [
+            "@azalea"
+        ]
+    },
+    {
+        "name": "azalea_pokecenter_1f",
+        "access_rules": [
+            "@azalea",
+            "@azalea_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "azalea_pokecenter_b1f",
+        "access_rules": [
+            "@azalea_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "azalea_pokemart",
+        "access_rules": [
+            "@azalea"
+        ]
+    },
+    {
+        "name": "battle_frontier",
+        "access_rules": [
+            "@battle_frontier_battle_arcade",
+            "@battle_frontier_battle_castle",
+            "@battle_frontier_battle_factory",
+            "@battle_frontier_battle_hall",
+            "@battle_frontier_frontier_access_gatehouse",
+            "@battle_tower",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "battle_frontier_battle_arcade",
+        "access_rules": [
+            "@battle_frontier"
+        ]
+    },
+    {
+        "name": "battle_frontier_battle_castle",
+        "access_rules": [
+            "@battle_frontier"
+        ]
+    },
+    {
+        "name": "battle_frontier_battle_factory",
+        "access_rules": [
+            "@battle_frontier"
+        ]
+    },
+    {
+        "name": "battle_frontier_battle_hall",
+        "access_rules": [
+            "@battle_frontier"
+        ]
+    },
+    {
+        "name": "battle_frontier_frontier_access",
+        "access_rules": [
+            "@battle_frontier_frontier_access_gatehouse",
+            "@frontier_access_move_tutor_house",
+            "@frontier_access_pokecenter_1f",
+            "@frontier_access_pokemart",
+            "@route_40_battle_frontier_gatehouse"
+        ]
+    },
+    {
+        "name": "battle_frontier_frontier_access_gatehouse",
+        "access_rules": [
+            "@battle_frontier",
+            "@battle_frontier_frontier_access"
+        ]
+    },
+    {
+        "name": "battle_tower",
+        "access_rules": [
+            "@battle_frontier"
+        ]
+    },
+    {
+        "name": "bell_tower_10f",
+        "access_rules": [
+            "@bell_tower_9f",
+            "@bell_tower_roof"
+        ]
+    },
+    {
+        "name": "bell_tower_1f",
+        "access_rules": [
+            "@bell_tower_2f",
+            "@bellchime_tower"
+        ]
+    },
+    {
+        "name": "bell_tower_2f",
+        "access_rules": [
+            "@bell_tower_1f",
+            "@bell_tower_3f"
+        ]
+    },
+    {
+        "name": "bell_tower_3f",
+        "access_rules": [
+            "@bell_tower_2f",
+            "@bell_tower_4f"
+        ]
+    },
+    {
+        "name": "bell_tower_4f",
+        "access_rules": [
+            "@bell_tower_3f",
+            "@bell_tower_5f"
+        ]
+    },
+    {
+        "name": "bell_tower_5f",
+        "access_rules": [
+            "@bell_tower_4f",
+            "@bell_tower_6f"
+        ]
+    },
+    {
+        "name": "bell_tower_6f",
+        "access_rules": [
+            "@bell_tower_5f",
+            "@bell_tower_7f"
+        ]
+    },
+    {
+        "name": "bell_tower_7f",
+        "access_rules": [
+            "@bell_tower_6f",
+            "@bell_tower_8f",
+            "@bell_tower_9f"
+        ]
+    },
+    {
+        "name": "bell_tower_8f",
+        "access_rules": [
+            "@bell_tower_7f",
+            "@bell_tower_9f"
+        ]
+    },
+    {
+        "name": "bell_tower_9f",
+        "access_rules": [
+            "@bell_tower_10f",
+            "@bell_tower_7f",
+            "@bell_tower_8f"
+        ]
+    },
+    {
+        "name": "bell_tower_roof",
+        "access_rules": [
+            "@bell_tower_10f"
+        ]
+    },
+    {
+        "name": "bellchime_tower",
+        "access_rules": [
+            "@bell_tower_1f",
+            "@ecruteak_bell_tower_barrier_station_corridor"
+        ]
+    },
+    {
+        "name": "blackthorn",
+        "access_rules": [
+            "@blackthorn_east_house",
+            "@blackthorn_gym",
+            "@blackthorn_move_tutor_house",
+            "@blackthorn_pokecenter_1f",
+            "@blackthorn_pokemart",
+            "@blackthorn_west_house",
+            "@dragons_den_entrance",
+            "@ice_path_1f_back",
+            "@route_45_north",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "blackthorn_east_house",
+        "access_rules": [
+            "@blackthorn"
+        ]
+    },
+    {
+        "name": "blackthorn_gym",
+        "access_rules": [
+            "@blackthorn"
+        ]
+    },
+    {
+        "name": "blackthorn_move_tutor_house",
+        "access_rules": [
+            "@blackthorn"
+        ]
+    },
+    {
+        "name": "blackthorn_pokecenter_1f",
+        "access_rules": [
+            "@blackthorn",
+            "@blackthorn_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "blackthorn_pokecenter_b1f",
+        "access_rules": [
+            "@blackthorn_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "blackthorn_pokemart",
+        "access_rules": [
+            "@blackthorn"
+        ]
+    },
+    {
+        "name": "blackthorn_west_house",
+        "access_rules": [
+            "@blackthorn"
+        ]
+    },
+    {
+        "name": "burned_tower_1f",
+        "access_rules": [
+            "@burned_tower_b1f",
+            "@ecruteak"
+        ]
+    },
+    {
+        "name": "burned_tower_b1f",
+        "access_rules": [
+            "@burned_tower_1f"
+        ]
+    },
+    {
+        "name": "celadon",
+        "access_rules": [
+            "@celadon_condominiums_1f",
+            "@celadon_department_store_1f",
+            "@celadon_game_corner",
+            "@celadon_gym",
+            "@celadon_pokecenter_1f",
+            "@celadon_prize_corner",
+            "@celadon_restaurant",
+            "@route_16_east",
+            "@route_7",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "celadon_condominiums_1f",
+        "access_rules": [
+            "@celadon",
+            "@celadon_condominiums_2f"
+        ]
+    },
+    {
+        "name": "celadon_condominiums_2f",
+        "access_rules": [
+            "@celadon_condominiums_1f"
+        ]
+    },
+    {
+        "name": "celadon_condominiums_left_elevator",
+        "access_rules": [
+            "@celadon_condominiums_1f"
+        ]
+    },
+    {
+        "name": "celadon_condominiums_right_elevator",
+        "access_rules": [
+            "@celadon_condominiums_2f"
+        ]
+    },
+    {
+        "name": "celadon_department_store_1f",
+        "access_rules": [
+            "@celadon",
+            "@celadon_department_store_2f"
+        ]
+    },
+    {
+        "name": "celadon_department_store_2f",
+        "access_rules": [
+            "@celadon_department_store_1f",
+            "@celadon_department_store_3f"
+        ]
+    },
+    {
+        "name": "celadon_department_store_3f",
+        "access_rules": [
+            "@celadon_department_store_2f",
+            "@celadon_department_store_4f"
+        ]
+    },
+    {
+        "name": "celadon_department_store_4f",
+        "access_rules": [
+            "@celadon_department_store_3f",
+            "@celadon_department_store_5f"
+        ]
+    },
+    {
+        "name": "celadon_department_store_5f",
+        "access_rules": [
+            "@celadon_department_store_4f",
+            "@celadon_department_store_roof"
+        ]
+    },
+    {
+        "name": "celadon_department_store_elevator",
+        "access_rules": [
+            "@celadon_department_store_1f",
+            "@celadon_department_store_2f",
+            "@celadon_department_store_3f",
+            "@celadon_department_store_4f",
+            "@celadon_department_store_5f",
+            "@celadon_department_store_roof"
+        ]
+    },
+    {
+        "name": "celadon_department_store_roof",
+        "access_rules": [
+            "@celadon_department_store_5f"
+        ]
+    },
+    {
+        "name": "celadon_game_corner",
+        "access_rules": [
+            "@celadon"
+        ]
+    },
+    {
+        "name": "celadon_gym",
+        "access_rules": [
+            "@celadon"
+        ]
+    },
+    {
+        "name": "celadon_pokecenter_1f",
+        "access_rules": [
+            "@celadon",
+            "@celadon_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "celadon_pokecenter_b1f",
+        "access_rules": [
+            "@celadon_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "celadon_prize_corner",
+        "access_rules": [
+            "@celadon"
+        ]
+    },
+    {
+        "name": "celadon_restaurant",
+        "access_rules": [
+            "@celadon"
+        ]
+    },
+    {
+        "name": "cerulean",
+        "access_rules": [
+            "@cerulean_bike_maniac_house",
+            "@cerulean_cave_1f",
+            "@cerulean_east_house",
+            "@cerulean_gym",
+            "@cerulean_north_house",
+            "@cerulean_pokecenter_1f",
+            "@cerulean_pokemart",
+            "@cerulean_west_house",
+            "@route_24",
+            "@route_4_bottom",
+            "@route_5",
+            "@route_9",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "cerulean_bike_maniac_house",
+        "access_rules": [
+            "@cerulean"
+        ]
+    },
+    {
+        "name": "cerulean_cave_1f",
+        "access_rules": [
+            "@cerulean",
+            "@cerulean_cave_2f",
+            "@cerulean_cave_b1f"
+        ]
+    },
+    {
+        "name": "cerulean_cave_2f",
+        "access_rules": [
+            "@cerulean_cave_1f"
+        ]
+    },
+    {
+        "name": "cerulean_cave_b1f",
+        "access_rules": [
+            "@cerulean_cave_1f"
+        ]
+    },
+    {
+        "name": "cerulean_east_house",
+        "access_rules": [
+            "@cerulean"
+        ]
+    },
+    {
+        "name": "cerulean_gym",
+        "access_rules": [
+            "@cerulean"
+        ]
+    },
+    {
+        "name": "cerulean_north_house",
+        "access_rules": [
+            "@cerulean"
+        ]
+    },
+    {
+        "name": "cerulean_pokecenter_1f",
+        "access_rules": [
+            "@cerulean",
+            "@cerulean_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "cerulean_pokecenter_b1f",
+        "access_rules": [
+            "@cerulean_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "cerulean_pokemart",
+        "access_rules": [
+            "@cerulean"
+        ]
+    },
+    {
+        "name": "cerulean_west_house",
+        "access_rules": [
+            "@cerulean"
+        ]
+    },
+    {
+        "name": "cherrygrove",
+        "access_rules": [
+            "@cherrygrove_guide_gent_house",
+            "@cherrygrove_pokecenter_1f",
+            "@cherrygrove_pokemart",
+            "@cherrygrove_southeast_house",
+            "@cherrygrove_southwest_house",
+            "@route_29",
+            "@route_30",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "cherrygrove_guide_gent_house",
+        "access_rules": [
+            "@cherrygrove"
+        ]
+    },
+    {
+        "name": "cherrygrove_pokecenter_1f",
+        "access_rules": [
+            "@cherrygrove",
+            "@cherrygrove_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "cherrygrove_pokecenter_b1f",
+        "access_rules": [
+            "@cherrygrove_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "cherrygrove_pokemart",
+        "access_rules": [
+            "@cherrygrove"
+        ]
+    },
+    {
+        "name": "cherrygrove_southeast_house",
+        "access_rules": [
+            "@cherrygrove"
+        ]
+    },
+    {
+        "name": "cherrygrove_southwest_house",
+        "access_rules": [
+            "@cherrygrove"
+        ]
+    },
+    {
+        "name": "cianwood",
+        "access_rules": [
+            "@cianwood_camerons_house",
+            "@cianwood_central_house",
+            "@cianwood_gym",
+            "@cianwood_kirks_house",
+            "@cianwood_north_house",
+            "@cianwood_pharmacy",
+            "@cianwood_pokecenter_1f",
+            "@cliff_edge_gate",
+            "@route_41",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "cianwood_camerons_house",
+        "access_rules": [
+            "@cianwood"
+        ]
+    },
+    {
+        "name": "cianwood_central_house",
+        "access_rules": [
+            "@cianwood"
+        ]
+    },
+    {
+        "name": "cianwood_gym",
+        "access_rules": [
+            "@cianwood"
+        ]
+    },
+    {
+        "name": "cianwood_kirks_house",
+        "access_rules": [
+            "@cianwood"
+        ]
+    },
+    {
+        "name": "cianwood_north_house",
+        "access_rules": [
+            "@cianwood"
+        ]
+    },
+    {
+        "name": "cianwood_pharmacy",
+        "access_rules": [
+            "@cianwood"
+        ]
+    },
+    {
+        "name": "cianwood_pokecenter_1f",
+        "access_rules": [
+            "@cianwood",
+            "@cianwood_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "cianwood_pokecenter_b1f",
+        "access_rules": [
+            "@cianwood_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "cinnabar_island",
+        "access_rules": [
+            "@cinnabar_island_pokecenter_1f",
+            "@route_20_west",
+            "@route_21",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "cinnabar_island_pokecenter_1f",
+        "access_rules": [
+            "@cinnabar_island",
+            "@cinnabar_island_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "cinnabar_island_pokecenter_b1f",
+        "access_rules": [
+            "@cinnabar_island_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "cliff_cave",
+        "access_rules": [
+            "@route_47"
+        ]
+    },
+    {
+        "name": "cliff_edge_gate",
+        "access_rules": [
+            "@cianwood",
+            "@route_47"
+        ]
+    },
+    {
+        "name": "dark_cave_route_31_side_east",
+        "access_rules": [
+            "@dark_cave_route_31_side_south",
+            "@dark_cave_route_31_side_west"
+        ]
+    },
+    {
+        "name": "dark_cave_route_31_side_north",
+        "access_rules": [
+            "@dark_cave_route_31_side_west",
+            "@dark_cave_route_45_side_bottom"
+        ]
+    },
+    {
+        "name": "dark_cave_route_31_side_south",
+        "access_rules": [
+            "@dark_cave_route_31_side_east",
+            "@route_46"
+        ]
+    },
+    {
+        "name": "dark_cave_route_31_side_west",
+        "access_rules": [
+            "@dark_cave_route_31_side_east",
+            "@dark_cave_route_31_side_north",
+            "@route_31"
+        ]
+    },
+    {
+        "name": "dark_cave_route_45_side",
+        "access_rules": [
+            "@route_45_north"
+        ]
+    },
+    {
+        "name": "dark_cave_route_45_side_bottom",
+        "access_rules": [
+            "@dark_cave_route_31_side_north",
+            "@dark_cave_route_45_side"
+        ]
+    },
+    {
+        "name": "diglett_cave",
+        "access_rules": [
+            "@route_11",
+            "@route_2_east"
+        ]
+    },
+    {
+        "name": "dragons_den",
+        "access_rules": [
+            "@dragons_den_entrance",
+            "@dragons_den_shrine"
+        ]
+    },
+    {
+        "name": "dragons_den_entrance",
+        "access_rules": [
+            "@blackthorn",
+            "@dragons_den"
+        ]
+    },
+    {
+        "name": "dragons_den_shrine",
+        "access_rules": [
+            "@dragons_den"
+        ]
+    },
+    {
+        "name": "ecruteak",
+        "access_rules": [
+            "@burned_tower_1f",
+            "@ecruteak_bell_tower_barrier_station",
+            "@ecruteak_dance_theater",
+            "@ecruteak_dowsing_machine_house",
+            "@ecruteak_gym",
+            "@ecruteak_pokecenter_1f",
+            "@ecruteak_pokemart",
+            "@ecruteak_southwest_house",
+            "@route_37",
+            "@route_38_ecruteak_gatehouse",
+            "@route_42_ecruteak_gatehouse",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "ecruteak_bell_tower_barrier_station",
+        "access_rules": [
+            "@ecruteak",
+            "@ecruteak_bell_tower_barrier_station_corridor"
+        ]
+    },
+    {
+        "name": "ecruteak_bell_tower_barrier_station_corridor",
+        "access_rules": [
+            "@bellchime_tower",
+            "@ecruteak_bell_tower_barrier_station"
+        ]
+    },
+    {
+        "name": "ecruteak_dance_theater",
+        "access_rules": [
+            "@ecruteak"
+        ]
+    },
+    {
+        "name": "ecruteak_dowsing_machine_house",
+        "access_rules": [
+            "@ecruteak"
+        ]
+    },
+    {
+        "name": "ecruteak_gym",
+        "access_rules": [
+            "@ecruteak"
+        ]
+    },
+    {
+        "name": "ecruteak_pokecenter_1f",
+        "access_rules": [
+            "@ecruteak",
+            "@ecruteak_pokecenter_b1f",
+            "@union"
+        ]
+    },
+    {
+        "name": "ecruteak_pokecenter_b1f",
+        "access_rules": [
+            "@ecruteak_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "ecruteak_pokemart",
+        "access_rules": [
+            "@ecruteak"
+        ]
+    },
+    {
+        "name": "ecruteak_southwest_house",
+        "access_rules": [
+            "@ecruteak"
+        ]
+    },
+    {
+        "name": "embedded_tower_groudon_room",
+        "access_rules": [
+            "@route_47"
+        ]
+    },
+    {
+        "name": "embedded_tower_kyogre_room",
+        "access_rules": [
+            "@route_47"
+        ]
+    },
+    {
+        "name": "embedded_tower_rayquaza_room",
+        "access_rules": [
+            "@route_47"
+        ]
+    },
+    {
+        "name": "frontier_access_move_tutor_house",
+        "access_rules": [
+            "@battle_frontier_frontier_access"
+        ]
+    },
+    {
+        "name": "frontier_access_pokecenter_1f",
+        "access_rules": [
+            "@battle_frontier_frontier_access",
+            "@frontier_access_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "frontier_access_pokecenter_b1f",
+        "access_rules": [
+            "@frontier_access_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "frontier_access_pokemart",
+        "access_rules": [
+            "@battle_frontier_frontier_access"
+        ]
+    },
+    {
+        "name": "fuchsia",
+        "access_rules": [
+            "@fuchsia_gym",
+            "@fuchsia_pal_park_entrance",
+            "@fuchsia_pokecenter_1f",
+            "@fuchsia_pokemart",
+            "@fuchsia_safari_zone_warden_house",
+            "@fuchsia_southwest_house",
+            "@route_15_fuchsia_gatehouse",
+            "@route_18",
+            "@route_19_fuchsia_gatehouse",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "fuchsia_gym",
+        "access_rules": [
+            "@fuchsia"
+        ]
+    },
+    {
+        "name": "fuchsia_pal_park_entrance",
+        "access_rules": [
+            "@fuchsia"
+        ]
+    },
+    {
+        "name": "fuchsia_pokecenter_1f",
+        "access_rules": [
+            "@fuchsia",
+            "@fuchsia_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "fuchsia_pokecenter_b1f",
+        "access_rules": [
+            "@fuchsia_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "fuchsia_pokemart",
+        "access_rules": [
+            "@fuchsia"
+        ]
+    },
+    {
+        "name": "fuchsia_safari_zone_warden_house",
+        "access_rules": [
+            "@fuchsia"
+        ]
+    },
+    {
+        "name": "fuchsia_southwest_house",
+        "access_rules": [
+            "@fuchsia"
+        ]
+    },
+    {
+        "name": "goldenrod",
+        "access_rules": [
+            "@goldenrod_bike_shop",
+            "@goldenrod_bills_house",
+            "@goldenrod_department_store_1f",
+            "@goldenrod_flower_shop",
+            "@goldenrod_friendship_checker_house",
+            "@goldenrod_game_corner",
+            "@goldenrod_global_terminal_1f",
+            "@goldenrod_gym",
+            "@goldenrod_magnet_train_station_1f",
+            "@goldenrod_name_rater_house",
+            "@goldenrod_northeast_house",
+            "@goldenrod_pokecenter_1f",
+            "@goldenrod_radio_tower_1f",
+            "@goldenrod_tunnel_1f",
+            "@route_34",
+            "@route_35_goldenrod_gatehouse",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "goldenrod_bike_shop",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_bills_house",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_1f",
+        "access_rules": [
+            "@goldenrod",
+            "@goldenrod_department_store_2f"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_2f",
+        "access_rules": [
+            "@goldenrod_department_store_1f",
+            "@goldenrod_department_store_3f"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_3f",
+        "access_rules": [
+            "@goldenrod_department_store_2f",
+            "@goldenrod_department_store_4f"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_4f",
+        "access_rules": [
+            "@goldenrod_department_store_3f",
+            "@goldenrod_department_store_5f"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_5f",
+        "access_rules": [
+            "@goldenrod_department_store_4f",
+            "@goldenrod_department_store_6f"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_6f",
+        "access_rules": [
+            "@goldenrod_department_store_5f"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_basement",
+        "access_rules": [
+            "@goldenrod_department_store_elevator",
+            "@goldenrod_tunnel_warehouse"
+        ]
+    },
+    {
+        "name": "goldenrod_department_store_elevator",
+        "access_rules": [
+            "@goldenrod_department_store_1f",
+            "@goldenrod_department_store_2f",
+            "@goldenrod_department_store_3f",
+            "@goldenrod_department_store_4f",
+            "@goldenrod_department_store_5f",
+            "@goldenrod_department_store_6f",
+            "@goldenrod_department_store_basement"
+        ]
+    },
+    {
+        "name": "goldenrod_flower_shop",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_friendship_checker_house",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_game_corner",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_global_terminal_1f",
+        "access_rules": [
+            "@goldenrod",
+            "@goldenrod_global_terminal_2f",
+            "@goldenrod_global_terminal_3f"
+        ]
+    },
+    {
+        "name": "goldenrod_global_terminal_2f",
+        "access_rules": [
+            "@goldenrod_global_terminal_1f",
+            "@goldenrod_global_terminal_3f"
+        ]
+    },
+    {
+        "name": "goldenrod_global_terminal_3f",
+        "access_rules": [
+            "@goldenrod_global_terminal_1f",
+            "@goldenrod_global_terminal_2f"
+        ]
+    },
+    {
+        "name": "goldenrod_gym",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_magnet_train_station_1f",
+        "access_rules": [
+            "@goldenrod",
+            "@goldenrod_magnet_train_station_2f_empty"
+        ]
+    },
+    {
+        "name": "goldenrod_magnet_train_station_2f_empty",
+        "access_rules": [
+            "@goldenrod_magnet_train_station_1f",
+            "@saffron_magnet_train_station_2f_empty"
+        ]
+    },
+    {
+        "name": "goldenrod_name_rater_house",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_northeast_house",
+        "access_rules": [
+            "@goldenrod"
+        ]
+    },
+    {
+        "name": "goldenrod_pokecenter_1f",
+        "access_rules": [
+            "@goldenrod",
+            "@goldenrod_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "goldenrod_pokecenter_b1f",
+        "access_rules": [
+            "@goldenrod_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_1f",
+        "access_rules": [
+            "@goldenrod",
+            "@goldenrod_radio_tower_2f"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_2f",
+        "access_rules": [
+            "@goldenrod_radio_tower_1f",
+            "@goldenrod_radio_tower_3f"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_3f",
+        "access_rules": [
+            "@goldenrod_radio_tower_2f",
+            "@goldenrod_radio_tower_4f"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_3f_east",
+        "access_rules": [
+            "@goldenrod_radio_tower_3f",
+            "@goldenrod_radio_tower_4f_east"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_4f",
+        "access_rules": [
+            "@goldenrod_radio_tower_3f",
+            "@goldenrod_radio_tower_5f"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_4f_east",
+        "access_rules": [
+            "@goldenrod_radio_tower_3f_east",
+            "@goldenrod_radio_tower_5f_east"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_5f",
+        "access_rules": [
+            "@goldenrod_radio_tower_4f"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_5f_east",
+        "access_rules": [
+            "@goldenrod_radio_tower_4f_east",
+            "@goldenrod_radio_tower_elevator"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_elevator",
+        "access_rules": [
+            "@goldenrod_radio_tower_5f_east",
+            "@goldenrod_radio_tower_observation_deck"
+        ]
+    },
+    {
+        "name": "goldenrod_radio_tower_observation_deck",
+        "access_rules": [
+            "@goldenrod_radio_tower_elevator"
+        ]
+    },
+    {
+        "name": "goldenrod_tunnel_1f",
+        "access_rules": [
+            "@goldenrod",
+            "@goldenrod_tunnel_b1f",
+            "@goldenrod_tunnel_b2f"
+        ]
+    },
+    {
+        "name": "goldenrod_tunnel_b1f",
+        "access_rules": [
+            "@goldenrod_tunnel_1f"
+        ]
+    },
+    {
+        "name": "goldenrod_tunnel_b2f",
+        "access_rules": [
+            "@goldenrod_tunnel_1f",
+            "@goldenrod_tunnel_warehouse"
+        ]
+    },
+    {
+        "name": "goldenrod_tunnel_warehouse",
+        "access_rules": [
+            "@goldenrod_tunnel_b2f"
+        ]
+    },
+    {
+        "name": "ice_path_1f",
+        "access_rules": [
+            "@ice_path_b1f",
+            "@route_44"
+        ]
+    },
+    {
+        "name": "ice_path_1f_back",
+        "access_rules": [
+            "@blackthorn",
+            "@ice_path_b1f_back"
+        ]
+    },
+    {
+        "name": "ice_path_b1f",
+        "access_rules": [
+            "@ice_path_1f",
+            "@ice_path_b2f"
+        ]
+    },
+    {
+        "name": "ice_path_b1f_back",
+        "access_rules": [
+            "@ice_path_1f_back",
+            "@ice_path_b2f_back"
+        ]
+    },
+    {
+        "name": "ice_path_b2f",
+        "access_rules": [
+            "@ice_path_b1f",
+            "@ice_path_b3f"
+        ]
+    },
+    {
+        "name": "ice_path_b2f_back",
+        "access_rules": [
+            "@ice_path_b1f_back",
+            "@ice_path_b3f"
+        ]
+    },
+    {
+        "name": "ice_path_b3f",
+        "access_rules": [
+            "@ice_path_b2f",
+            "@ice_path_b2f_back"
+        ]
+    },
+    {
+        "name": "ilex_forest_north",
+        "access_rules": [
+            "@ilex_forest_south",
+            "@route_34_ilex_forest_gatehouse"
+        ]
+    },
+    {
+        "name": "ilex_forest_south",
+        "access_rules": [
+            "@azalea_ilex_forest_gatehouse",
+            "@ilex_forest_north"
+        ]
+    },
+    {
+        "name": "indigo_plateau",
+        "access_rules": [
+            "@pokemon_league_entrance",
+            "@victory_road_3f",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "lake_of_rage",
+        "access_rules": [
+            "@lake_of_rage_fishing_guru_house",
+            "@lake_of_rage_hidden_power_house",
+            "@route_43",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "lake_of_rage_fishing_guru_house",
+        "access_rules": [
+            "@lake_of_rage"
+        ]
+    },
+    {
+        "name": "lake_of_rage_hidden_power_house",
+        "access_rules": [
+            "@lake_of_rage"
+        ]
+    },
+    {
+        "name": "lake_of_rage_low_tide",
+        "access_rules": [
+            "@lake_of_rage"
+        ]
+    },
+    {
+        "name": "lavender",
+        "access_rules": [
+            "@lavender_house_of_memories",
+            "@lavender_name_rater",
+            "@lavender_pokecenter_1f",
+            "@lavender_pokemart",
+            "@lavender_radio_station",
+            "@lavender_southwest_house",
+            "@lavender_volunteer_pokemon_house",
+            "@route_10_south",
+            "@route_12",
+            "@route_8",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "lavender_house_of_memories",
+        "access_rules": [
+            "@lavender"
+        ]
+    },
+    {
+        "name": "lavender_name_rater",
+        "access_rules": [
+            "@lavender"
+        ]
+    },
+    {
+        "name": "lavender_pokecenter_1f",
+        "access_rules": [
+            "@lavender",
+            "@lavender_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "lavender_pokecenter_b1f",
+        "access_rules": [
+            "@lavender_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "lavender_pokemart",
+        "access_rules": [
+            "@lavender"
+        ]
+    },
+    {
+        "name": "lavender_radio_station",
+        "access_rules": [
+            "@lavender"
+        ]
+    },
+    {
+        "name": "lavender_southwest_house",
+        "access_rules": [
+            "@lavender"
+        ]
+    },
+    {
+        "name": "lavender_volunteer_pokemon_house",
+        "access_rules": [
+            "@lavender"
+        ]
+    },
+    {
+        "name": "mahogany",
+        "access_rules": [
+            "@mahogany_east_house",
+            "@mahogany_gym_room_1",
+            "@mahogany_pokecenter_1f",
+            "@mahogany_souvenir_shop",
+            "@route_42",
+            "@route_43_mahogany_gatehouse",
+            "@route_44",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "mahogany_east_house",
+        "access_rules": [
+            "@mahogany"
+        ]
+    },
+    {
+        "name": "mahogany_gym_leader_room",
+        "access_rules": [
+            "@mahogany_gym_room_2"
+        ]
+    },
+    {
+        "name": "mahogany_gym_room_1",
+        "access_rules": [
+            "@mahogany",
+            "@mahogany_gym_room_2"
+        ]
+    },
+    {
+        "name": "mahogany_gym_room_2",
+        "access_rules": [
+            "@mahogany_gym_leader_room",
+            "@mahogany_gym_room_1"
+        ]
+    },
+    {
+        "name": "mahogany_pokecenter_1f",
+        "access_rules": [
+            "@mahogany",
+            "@mahogany_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "mahogany_pokecenter_b1f",
+        "access_rules": [
+            "@mahogany_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "mahogany_souvenir_shop",
+        "access_rules": [
+            "@mahogany",
+            "@team_rocket_headquarters_b1f"
+        ]
+    },
+    {
+        "name": "mount_moon",
+        "access_rules": [
+            "@mount_moon_square_entrance",
+            "@route_3",
+            "@route_4"
+        ]
+    },
+    {
+        "name": "mount_moon_square",
+        "access_rules": [
+            "@mount_moon_square_entrance",
+            "@mount_moon_square_shop"
+        ]
+    },
+    {
+        "name": "mount_moon_square_clefairy_event",
+        "access_rules": [
+            "@mount_moon_square_entrance"
+        ]
+    },
+    {
+        "name": "mount_moon_square_entrance",
+        "access_rules": [
+            "@mount_moon",
+            "@mount_moon_square",
+            "@mount_moon_square_clefairy_event"
+        ]
+    },
+    {
+        "name": "mount_moon_square_shop",
+        "access_rules": [
+            "@mount_moon_square"
+        ]
+    },
+    {
+        "name": "mount_mortar_1f_back_middle",
+        "access_rules": [
+            "@mount_mortar_1f_back_north",
+            "@mount_mortar_1f_back_south",
+            "@mount_mortar_1f_back_southeast"
+        ]
+    },
+    {
+        "name": "mount_mortar_1f_back_north",
+        "access_rules": [
+            "@mount_mortar_2f",
+            "@mount_mortar_b1f_north"
+        ]
+    },
+    {
+        "name": "mount_mortar_1f_back_south",
+        "access_rules": [
+            "@mount_mortar_1f_back_middle",
+            "@mount_mortar_1f_entrance"
+        ]
+    },
+    {
+        "name": "mount_mortar_1f_back_southeast",
+        "access_rules": [
+            "@mount_mortar_1f_back_middle",
+            "@mount_mortar_1f_entrance"
+        ]
+    },
+    {
+        "name": "mount_mortar_1f_entrance",
+        "access_rules": [
+            "@mount_mortar_1f_back_south",
+            "@mount_mortar_1f_back_southeast",
+            "@mount_mortar_2f",
+            "@mount_mortar_b1f_south",
+            "@route_42"
+        ]
+    },
+    {
+        "name": "mount_mortar_2f",
+        "access_rules": [
+            "@mount_mortar_1f_back_north",
+            "@mount_mortar_1f_entrance"
+        ]
+    },
+    {
+        "name": "mount_mortar_b1f_north",
+        "access_rules": [
+            "@mount_mortar_1f_back_north"
+        ]
+    },
+    {
+        "name": "mount_mortar_b1f_south",
+        "access_rules": [
+            "@mount_mortar_1f_entrance",
+            "@mount_mortar_b1f_north"
+        ]
+    },
+    {
+        "name": "mount_silver",
+        "access_rules": [
+            "@mount_silver_cave_1f",
+            "@mount_silver_pokecenter_1f",
+            "@route_28_north",
+            "@route_28_south",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_1f",
+        "access_rules": [
+            "@mount_silver",
+            "@mount_silver_cave_expert_belt_chamber",
+            "@mount_silver_cave_lower_mountainside",
+            "@mount_silver_cave_moltres_chamber"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_1f_center",
+        "access_rules": [
+            "@mount_silver_cave_2f",
+            "@mount_silver_cave_lower_mountainside"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_1f_northeast",
+        "access_rules": [
+            "@mount_silver_cave_lower_mountainside"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_2f",
+        "access_rules": [
+            "@mount_silver_cave_1f_center",
+            "@mount_silver_cave_upper_mountainside_north"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_2f_northeast",
+        "access_rules": [
+            "@mount_silver_cave_upper_mountainside_north"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_2f_south",
+        "access_rules": [
+            "@mount_silver_cave_upper_mountainside_southeast",
+            "@mount_silver_cave_upper_mountainside_southwest"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_2f_southeast",
+        "access_rules": [
+            "@mount_silver_cave_upper_mountainside_north",
+            "@mount_silver_cave_upper_mountainside_southeast"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_3f",
+        "access_rules": [
+            "@mount_silver_cave_summit",
+            "@mount_silver_cave_upper_mountainside_southwest"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_expert_belt_chamber",
+        "access_rules": [
+            "@mount_silver_cave_1f"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_lower_mountainside",
+        "access_rules": [
+            "@mount_silver_cave_1f",
+            "@mount_silver_cave_1f_northeast"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_moltres_chamber",
+        "access_rules": [
+            "@mount_silver_cave_1f"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_summit",
+        "access_rules": [
+            "@mount_silver_cave_3f"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_upper_mountainside_north",
+        "access_rules": [
+            "@mount_silver_cave_2f",
+            "@mount_silver_cave_2f_northeast",
+            "@mount_silver_cave_2f_southeast"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_upper_mountainside_southeast",
+        "access_rules": [
+            "@mount_silver_cave_2f_south",
+            "@mount_silver_cave_2f_southeast"
+        ]
+    },
+    {
+        "name": "mount_silver_cave_upper_mountainside_southwest",
+        "access_rules": [
+            "@mount_silver_cave_2f_south",
+            "@mount_silver_cave_3f"
+        ]
+    },
+    {
+        "name": "mount_silver_pokecenter_1f",
+        "access_rules": [
+            "@mount_silver",
+            "@mount_silver_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "mount_silver_pokecenter_b1f",
+        "access_rules": [
+            "@mount_silver_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "national_park",
+        "access_rules": [
+            "@route_35_national_park_pokeathalon_gatehouse",
+            "@route_36_national_park_gatehouse",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "new_bark",
+        "access_rules": [
+            "@new_bark_elms_lab_1f",
+            "@new_bark_elms_lab_2f",
+            "@new_bark_player_house_1f",
+            "@new_bark_rival_house_1f",
+            "@new_bark_southwest_house",
+            "@route_29",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "new_bark_east",
+        "access_rules": [
+            "@new_bark",
+            "@route_27_west"
+        ]
+    },
+    {
+        "name": "new_bark_elms_lab_1f",
+        "access_rules": [
+            "@new_bark"
+        ]
+    },
+    {
+        "name": "new_bark_elms_lab_2f",
+        "access_rules": [
+            "@new_bark"
+        ]
+    },
+    {
+        "name": "new_bark_player_house_1f",
+        "access_rules": [
+            "@new_bark",
+            "@new_bark_player_house_2f"
+        ]
+    },
+    {
+        "name": "new_bark_player_house_2f",
+        "access_rules": [
+            ""
+        ]
+    },
+    {
+        "name": "new_bark_rival_house_1f",
+        "access_rules": [
+            "@new_bark",
+            "@new_bark_rival_house_2f"
+        ]
+    },
+    {
+        "name": "new_bark_rival_house_2f",
+        "access_rules": [
+            "@new_bark_rival_house_1f"
+        ]
+    },
+    {
+        "name": "new_bark_southwest_house",
+        "access_rules": [
+            "@new_bark"
+        ]
+    },
+    {
+        "name": "olivine",
+        "access_rules": [
+            "@olivine_cafe",
+            "@olivine_gym",
+            "@olivine_lighthouse_1f",
+            "@olivine_north_house",
+            "@olivine_northeast_house",
+            "@olivine_northwest_house",
+            "@olivine_pokecenter_1f",
+            "@olivine_pokemart",
+            "@route_39",
+            "@route_40",
+            "@ss_aqua_olivine_port_interior",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "olivine_cafe",
+        "access_rules": [
+            "@olivine"
+        ]
+    },
+    {
+        "name": "olivine_gym",
+        "access_rules": [
+            "@olivine"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_1f",
+        "access_rules": [
+            "@olivine",
+            "@olivine_lighthouse_2f"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_2f",
+        "access_rules": [
+            "@olivine_lighthouse_1f",
+            "@olivine_lighthouse_3f"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_3f",
+        "access_rules": [
+            "@olivine_lighthouse_2f",
+            "@olivine_lighthouse_4f",
+            "@olivine_lighthouse_exterior"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_4f",
+        "access_rules": [
+            "@olivine_lighthouse_3f",
+            "@olivine_lighthouse_5f"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_5f",
+        "access_rules": [
+            "@olivine_lighthouse_4f",
+            "@olivine_lighthouse_light_room"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_elevator",
+        "access_rules": [
+            "@olivine_lighthouse_1f",
+            "@olivine_lighthouse_light_room"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_exterior",
+        "access_rules": [
+            "@olivine_lighthouse_3f"
+        ]
+    },
+    {
+        "name": "olivine_lighthouse_light_room",
+        "access_rules": [
+            "@olivine_lighthouse_5f"
+        ]
+    },
+    {
+        "name": "olivine_north_house",
+        "access_rules": [
+            "@olivine"
+        ]
+    },
+    {
+        "name": "olivine_northeast_house",
+        "access_rules": [
+            "@olivine"
+        ]
+    },
+    {
+        "name": "olivine_northwest_house",
+        "access_rules": [
+            "@olivine"
+        ]
+    },
+    {
+        "name": "olivine_pokecenter_1f",
+        "access_rules": [
+            "@olivine",
+            "@olivine_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "olivine_pokecenter_b1f",
+        "access_rules": [
+            "@olivine_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "olivine_pokemart",
+        "access_rules": [
+            "@olivine"
+        ]
+    },
+    {
+        "name": "pallet",
+        "access_rules": [
+            "@pallet_town_blues_house_1f",
+            "@pallet_town_oaks_lab",
+            "@pallet_town_reds_house_1f",
+            "@route_1",
+            "@route_21",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "pallet_town_blues_house_1f",
+        "access_rules": [
+            "@pallet",
+            "@pallet_town_blues_house_2f"
+        ]
+    },
+    {
+        "name": "pallet_town_blues_house_2f",
+        "access_rules": [
+            "@pallet_town_blues_house_1f"
+        ]
+    },
+    {
+        "name": "pallet_town_oaks_lab",
+        "access_rules": [
+            "@pallet"
+        ]
+    },
+    {
+        "name": "pallet_town_reds_house_1f",
+        "access_rules": [
+            "@pallet",
+            "@pallet_town_reds_house_2f"
+        ]
+    },
+    {
+        "name": "pallet_town_reds_house_2f",
+        "access_rules": [
+            "@pallet_town_reds_house_1f"
+        ]
+    },
+    {
+        "name": "pewter",
+        "access_rules": [
+            "@pewter_gym",
+            "@pewter_museum_of_science",
+            "@pewter_northeast_house",
+            "@pewter_pokecenter_1f",
+            "@pewter_pokemart",
+            "@pewter_southwest_house",
+            "@route_2_east",
+            "@route_3",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "pewter_gym",
+        "access_rules": [
+            "@pewter"
+        ]
+    },
+    {
+        "name": "pewter_museum_of_science",
+        "access_rules": [
+            "@pewter"
+        ]
+    },
+    {
+        "name": "pewter_northeast_house",
+        "access_rules": [
+            "@pewter"
+        ]
+    },
+    {
+        "name": "pewter_pokecenter_1f",
+        "access_rules": [
+            "@pewter",
+            "@pewter_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "pewter_pokecenter_b1f",
+        "access_rules": [
+            "@pewter_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "pewter_pokemart",
+        "access_rules": [
+            "@pewter"
+        ]
+    },
+    {
+        "name": "pewter_southwest_house",
+        "access_rules": [
+            "@pewter"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome",
+        "access_rules": [
+            "@pokeathlon_dome_interior_1f",
+            "@route_35_national_park_pokeathalon_gatehouse"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_1f",
+        "access_rules": [
+            "@pokeathlon_dome",
+            "@pokeathlon_dome_interior_2f_entrance",
+            "@pokeathlon_dome_interior_b1f_solidarity_room"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_2f",
+        "access_rules": [
+            "@pokeathlon_dome_interior_2f_entrance"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_2f_entrance",
+        "access_rules": [
+            "@pokeathlon_dome_interior_1f",
+            "@pokeathlon_dome_interior_2f"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_b1f_friendship_room",
+        "access_rules": [
+            "@pokeathlon_dome_interior_b1f_potential_room"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_b1f_potential_room",
+        "access_rules": [
+            "@pokeathlon_dome_interior_b1f_friendship_room",
+            "@pokeathlon_dome_interior_b1f_trust_room"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_b1f_solidarity_room",
+        "access_rules": [
+            "@pokeathlon_dome_interior_1f",
+            "@pokeathlon_dome_interior_b1f_trust_room"
+        ]
+    },
+    {
+        "name": "pokeathlon_dome_interior_b1f_trust_room",
+        "access_rules": [
+            "@pokeathlon_dome_interior_b1f_potential_room",
+            "@pokeathlon_dome_interior_b1f_solidarity_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_bruno_room",
+        "access_rules": [
+            "@pokemon_league_koga_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_entrance",
+        "access_rules": [
+            "@indigo_plateau",
+            "@pokemon_league_entrance_wifi_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_entrance_wifi_room",
+        "access_rules": [
+            "@pokemon_league_entrance"
+        ]
+    },
+    {
+        "name": "pokemon_league_hall_of_fame",
+        "access_rules": [
+            "@pokemon_league_lance_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_karen_room",
+        "access_rules": [
+            "@pokemon_league_bruno_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_koga_room",
+        "access_rules": [
+            "@pokemon_league_will_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_lance_room",
+        "access_rules": [
+            "@pokemon_league_karen_room"
+        ]
+    },
+    {
+        "name": "pokemon_league_will_room",
+        "access_rules": [
+            "@pokemon_league_entrance"
+        ]
+    },
+    {
+        "name": "rock_tunnel_1f",
+        "access_rules": [
+            "@rock_tunnel_b1f",
+            "@route_10",
+            "@route_10_south"
+        ]
+    },
+    {
+        "name": "rock_tunnel_b1f",
+        "access_rules": [
+            "@rock_tunnel_1f"
+        ]
+    },
+    {
+        "name": "route_1",
+        "access_rules": [
+            "@pallet",
+            "@viridian_route_1_gatehouse"
+        ]
+    },
+    {
+        "name": "route_10",
+        "access_rules": [
+            "@rock_tunnel_1f",
+            "@route_10_pokecenter_1f",
+            "@route_10_power_plant_repaired",
+            "@route_9"
+        ]
+    },
+    {
+        "name": "route_10_pokecenter_1f",
+        "access_rules": [
+            "@route_10",
+            "@route_10_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "route_10_pokecenter_b1f",
+        "access_rules": [
+            "@route_10_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "route_10_power_plant_broken",
+        "access_rules": [
+            "@route_10"
+        ]
+    },
+    {
+        "name": "route_10_power_plant_repaired",
+        "access_rules": [
+            "@route_10"
+        ]
+    },
+    {
+        "name": "route_10_south",
+        "access_rules": [
+            "@lavender",
+            "@rock_tunnel_1f"
+        ]
+    },
+    {
+        "name": "route_11",
+        "access_rules": [
+            "@diglett_cave",
+            "@route_11_route_12_gatehouse",
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "route_11_route_12_gatehouse",
+        "access_rules": [
+            "@route_11",
+            "@route_12"
+        ]
+    },
+    {
+        "name": "route_12",
+        "access_rules": [
+            "@lavender",
+            "@route_11_route_12_gatehouse",
+            "@route_12_fishing_brother_house",
+            "@route_13"
+        ]
+    },
+    {
+        "name": "route_12_fishing_brother_house",
+        "access_rules": [
+            "@route_12"
+        ]
+    },
+    {
+        "name": "route_13",
+        "access_rules": [
+            "@route_12",
+            "@route_14"
+        ]
+    },
+    {
+        "name": "route_14",
+        "access_rules": [
+            "@route_13",
+            "@route_15"
+        ]
+    },
+    {
+        "name": "route_15",
+        "access_rules": [
+            "@route_14",
+            "@route_15_fuchsia_gatehouse"
+        ]
+    },
+    {
+        "name": "route_15_fuchsia_gatehouse",
+        "access_rules": [
+            "@fuchsia",
+            "@route_15"
+        ]
+    },
+    {
+        "name": "route_16",
+        "access_rules": [
+            "@route_16_gatehouse",
+            "@route_17"
+        ]
+    },
+    {
+        "name": "route_16_east",
+        "access_rules": [
+            "@celadon",
+            "@route_16_gatehouse",
+            "@route_16_house"
+        ]
+    },
+    {
+        "name": "route_16_gatehouse",
+        "access_rules": [
+            "@route_16",
+            "@route_16_east"
+        ]
+    },
+    {
+        "name": "route_16_house",
+        "access_rules": [
+            "@route_16_east"
+        ]
+    },
+    {
+        "name": "route_17",
+        "access_rules": [
+            "@route_16",
+            "@route_18_gatehouse"
+        ]
+    },
+    {
+        "name": "route_18",
+        "access_rules": [
+            "@fuchsia"
+        ]
+    },
+    {
+        "name": "route_18_gatehouse",
+        "access_rules": [
+            "@route_18"
+        ]
+    },
+    {
+        "name": "route_19",
+        "access_rules": [
+            "@route_19_from_fuchia",
+            "@route_20_east"
+        ]
+    },
+    {
+        "name": "route_19_from_fuchia",
+        "access_rules": [
+            "@route_19",
+            "@route_19_fuchsia_gatehouse"
+        ]
+    },
+    {
+        "name": "route_19_fuchsia_gatehouse",
+        "access_rules": [
+            "@fuchsia",
+            "@route_19_from_fuchia"
+        ]
+    },
+    {
+        "name": "route_2",
+        "access_rules": [
+            "@route_2_east",
+            "@route_2_viridian_forest_south_gatehouse",
+            "@viridian"
+        ]
+    },
+    {
+        "name": "route_20_east",
+        "access_rules": [
+            "@route_19",
+            "@seafoam_islands_1f_west"
+        ]
+    },
+    {
+        "name": "route_20_west",
+        "access_rules": [
+            "@cinnabar_island",
+            "@seafoam_islands_1f_east"
+        ]
+    },
+    {
+        "name": "route_21",
+        "access_rules": [
+            "@cinnabar_island",
+            "@pallet"
+        ]
+    },
+    {
+        "name": "route_22",
+        "access_rules": [
+            "@route_22_pokemon_league_reception_gate",
+            "@viridian"
+        ]
+    },
+    {
+        "name": "route_22_pokemon_league_reception_gate",
+        "access_rules": [
+            "@route_22",
+            "@route_26",
+            "@route_28_south",
+            "@victory_road_1f_entrance"
+        ]
+    },
+    {
+        "name": "route_24",
+        "access_rules": [
+            "@cerulean",
+            "@route_25"
+        ]
+    },
+    {
+        "name": "route_25",
+        "access_rules": [
+            "@route_24",
+            "@route_25_sea_cottage"
+        ]
+    },
+    {
+        "name": "route_25_sea_cottage",
+        "access_rules": [
+            "@route_25"
+        ]
+    },
+    {
+        "name": "route_26",
+        "access_rules": [
+            "@route_22_pokemon_league_reception_gate",
+            "@route_26_north_house",
+            "@route_26_week_siblings_house",
+            "@route_27_east",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "route_26_north_house",
+        "access_rules": [
+            "@route_26"
+        ]
+    },
+    {
+        "name": "route_26_week_siblings_house",
+        "access_rules": [
+            "@route_26"
+        ]
+    },
+    {
+        "name": "route_27_center",
+        "access_rules": [
+            "@route_27_east",
+            "@route_27_house",
+            "@tohjo_falls_east"
+        ]
+    },
+    {
+        "name": "route_27_east",
+        "access_rules": [
+            "@route_26",
+            "@route_27_center"
+        ]
+    },
+    {
+        "name": "route_27_house",
+        "access_rules": [
+            "@route_27_center"
+        ]
+    },
+    {
+        "name": "route_27_west",
+        "access_rules": [
+            "@new_bark_east",
+            "@route_27_center",
+            "@tohjo_falls_west"
+        ]
+    },
+    {
+        "name": "route_28_house",
+        "access_rules": [
+            "@route_28_north"
+        ]
+    },
+    {
+        "name": "route_28_north",
+        "access_rules": [
+            "@mount_silver",
+            "@route_28_house"
+        ]
+    },
+    {
+        "name": "route_28_south",
+        "access_rules": [
+            "@mount_silver",
+            "@route_22_pokemon_league_reception_gate",
+            "@route_28_north"
+        ]
+    },
+    {
+        "name": "route_29",
+        "access_rules": [
+            "@cherrygrove",
+            "@new_bark",
+            "@route_29_route_46_gatehouse"
+        ]
+    },
+    {
+        "name": "route_29_route_46_gatehouse",
+        "access_rules": [
+            "@route_29",
+            "@route_46_south"
+        ]
+    },
+    {
+        "name": "route_2_east",
+        "access_rules": [
+            "@diglett_cave",
+            "@pewter",
+            "@route_2_house",
+            "@route_2_southeast_gatehouse",
+            "@route_2_viridian_forest_north_gatehouse"
+        ]
+    },
+    {
+        "name": "route_2_house",
+        "access_rules": [
+            "@route_2_east"
+        ]
+    },
+    {
+        "name": "route_2_southeast_gatehouse",
+        "access_rules": [
+            "@route_2_east"
+        ]
+    },
+    {
+        "name": "route_2_viridian_forest_north_gatehouse",
+        "access_rules": [
+            "@route_2",
+            "@viridian_forest"
+        ]
+    },
+    {
+        "name": "route_2_viridian_forest_south_gatehouse",
+        "access_rules": [
+            "@route_2",
+            "@viridian_forest"
+        ]
+    },
+    {
+        "name": "route_3",
+        "access_rules": [
+            "@mount_moon",
+            "@pewter",
+            "@route_3_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "route_30",
+        "access_rules": [
+            "@cherrygrove",
+            "@route_30_apricorn_house",
+            "@route_30_mr_pokemon_house",
+            "@route_30_northwest"
+        ]
+    },
+    {
+        "name": "route_30_apricorn_house",
+        "access_rules": [
+            "@route_30"
+        ]
+    },
+    {
+        "name": "route_30_mr_pokemon_house",
+        "access_rules": [
+            "@route_30"
+        ]
+    },
+    {
+        "name": "route_30_northwest",
+        "access_rules": [
+            "@route_30",
+            "@route_31"
+        ]
+    },
+    {
+        "name": "route_31",
+        "access_rules": [
+            "@dark_cave_route_31_side_west",
+            "@route_30_northwest",
+            "@route_31_violet_gatehouse"
+        ]
+    },
+    {
+        "name": "route_31_violet_gatehouse",
+        "access_rules": [
+            "@route_31",
+            "@violet"
+        ]
+    },
+    {
+        "name": "route_32",
+        "access_rules": [
+            "@route_32_north",
+            "@route_32_pokecenter_1f",
+            "@union_cave_1f"
+        ]
+    },
+    {
+        "name": "route_32_north",
+        "access_rules": [
+            "@route_32",
+            "@route_32_ruins_of_alph_gatehouse",
+            "@violet"
+        ]
+    },
+    {
+        "name": "route_32_pokecenter_1f",
+        "access_rules": [
+            "@route_32",
+            "@route_32_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "route_32_pokecenter_b1f",
+        "access_rules": [
+            "@route_32_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "route_32_ruins_of_alph_gatehouse",
+        "access_rules": [
+            "@route_32_north",
+            "@ruins_of_alph"
+        ]
+    },
+    {
+        "name": "route_33",
+        "access_rules": [
+            "@azalea",
+            "@union_cave_1f"
+        ]
+    },
+    {
+        "name": "route_34",
+        "access_rules": [
+            "@goldenrod",
+            "@route_34_daycare",
+            "@route_34_ilex_forest_gatehouse"
+        ]
+    },
+    {
+        "name": "route_34_daycare",
+        "access_rules": [
+            "@route_34"
+        ]
+    },
+    {
+        "name": "route_34_ilex_forest_gatehouse",
+        "access_rules": [
+            "@ilex_forest_north",
+            "@route_34"
+        ]
+    },
+    {
+        "name": "route_35",
+        "access_rules": [
+            "@route_35_goldenrod_gatehouse",
+            "@route_35_national_park_pokeathalon_gatehouse",
+            "@route_36_southwest"
+        ]
+    },
+    {
+        "name": "route_35_goldenrod_gatehouse",
+        "access_rules": [
+            "@goldenrod",
+            "@route_35"
+        ]
+    },
+    {
+        "name": "route_35_national_park_pokeathalon_gatehouse",
+        "access_rules": [
+            "@national_park",
+            "@pokeathlon_dome",
+            "@route_35"
+        ]
+    },
+    {
+        "name": "route_36_national_park_gatehouse",
+        "access_rules": [
+            "@national_park",
+            "@route_36_southwest"
+        ]
+    },
+    {
+        "name": "route_36_north",
+        "access_rules": [
+            "@route_36_southeast",
+            "@route_36_southwest",
+            "@route_37"
+        ]
+    },
+    {
+        "name": "route_36_ruins_of_alph_gatehouse",
+        "access_rules": [
+            "@route_36_southeast",
+            "@ruins_of_alph"
+        ]
+    },
+    {
+        "name": "route_36_southeast",
+        "access_rules": [
+            "@route_36_north",
+            "@route_36_ruins_of_alph_gatehouse",
+            "@route_36_southwest",
+            "@violet_route_36_gatehouse"
+        ]
+    },
+    {
+        "name": "route_36_southwest",
+        "access_rules": [
+            "@route_35",
+            "@route_36_national_park_gatehouse",
+            "@route_36_north",
+            "@route_36_southeast"
+        ]
+    },
+    {
+        "name": "route_37",
+        "access_rules": [
+            "@ecruteak",
+            "@route_36_north"
+        ]
+    },
+    {
+        "name": "route_38",
+        "access_rules": [
+            "@route_38_ecruteak_gatehouse",
+            "@route_39"
+        ]
+    },
+    {
+        "name": "route_38_ecruteak_gatehouse",
+        "access_rules": [
+            "@ecruteak",
+            "@route_38"
+        ]
+    },
+    {
+        "name": "route_39",
+        "access_rules": [
+            "@olivine",
+            "@route_38",
+            "@route_39_moomoo_farm_house",
+            "@route_39_moomoo_farm_stable"
+        ]
+    },
+    {
+        "name": "route_39_moomoo_farm_house",
+        "access_rules": [
+            "@route_39",
+            "@route_39_moomoo_farm_stable"
+        ]
+    },
+    {
+        "name": "route_39_moomoo_farm_stable",
+        "access_rules": [
+            "@route_39",
+            "@route_39_moomoo_farm_house"
+        ]
+    },
+    {
+        "name": "route_3_pokecenter_1f",
+        "access_rules": [
+            "@route_3",
+            "@route_3_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "route_3_pokecenter_b1f",
+        "access_rules": [
+            "@route_3_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "route_4",
+        "access_rules": [
+            "@mount_moon"
+        ]
+    },
+    {
+        "name": "route_40",
+        "access_rules": [
+            "@olivine",
+            "@route_40_battle_frontier_gatehouse",
+            "@route_41"
+        ]
+    },
+    {
+        "name": "route_40_battle_frontier_gatehouse",
+        "access_rules": [
+            "@battle_frontier_frontier_access",
+            "@route_40"
+        ]
+    },
+    {
+        "name": "route_41",
+        "access_rules": [
+            "@cianwood",
+            "@route_40",
+            "@whirl_islands_1f"
+        ]
+    },
+    {
+        "name": "route_42",
+        "access_rules": [
+            "@mahogany",
+            "@mount_mortar_1f_entrance",
+            "@route_42_ecruteak_gatehouse"
+        ]
+    },
+    {
+        "name": "route_42_ecruteak_gatehouse",
+        "access_rules": [
+            "@ecruteak",
+            "@route_42"
+        ]
+    },
+    {
+        "name": "route_43",
+        "access_rules": [
+            "@lake_of_rage",
+            "@route_43_gatehouse",
+            "@route_43_mahogany_gatehouse"
+        ]
+    },
+    {
+        "name": "route_43_gatehouse",
+        "access_rules": [
+            "@route_43"
+        ]
+    },
+    {
+        "name": "route_43_mahogany_gatehouse",
+        "access_rules": [
+            "@mahogany",
+            "@route_43"
+        ]
+    },
+    {
+        "name": "route_44",
+        "access_rules": [
+            "@ice_path_1f",
+            "@mahogany"
+        ]
+    },
+    {
+        "name": "route_45",
+        "access_rules": [
+            "@route_45_north"
+        ]
+    },
+    {
+        "name": "route_45_north",
+        "access_rules": [
+            "@blackthorn",
+            "@dark_cave_route_45_side"
+        ]
+    },
+    {
+        "name": "route_45_south",
+        "access_rules": [
+            "@route_45",
+            "@route_46"
+        ]
+    },
+    {
+        "name": "route_46",
+        "access_rules": [
+            "@dark_cave_route_31_side_south",
+            "@route_45_south"
+        ]
+    },
+    {
+        "name": "route_46_south",
+        "access_rules": [
+            "@route_29_route_46_gatehouse",
+            "@route_46"
+        ]
+    },
+    {
+        "name": "route_47",
+        "access_rules": [
+            "@cliff_cave",
+            "@cliff_edge_gate",
+            "@embedded_tower_groudon_room",
+            "@embedded_tower_kyogre_room",
+            "@embedded_tower_rayquaza_room",
+            "@route_48"
+        ]
+    },
+    {
+        "name": "route_48",
+        "access_rules": [
+            "@route_47",
+            "@safari_zone_gate"
+        ]
+    },
+    {
+        "name": "route_4_bottom",
+        "access_rules": [
+            "@cerulean",
+            "@route_4"
+        ]
+    },
+    {
+        "name": "route_5",
+        "access_rules": [
+            "@cerulean",
+            "@route_5_house",
+            "@route_5_saffron_gatehouse",
+            "@route_5_underground_path_gate"
+        ]
+    },
+    {
+        "name": "route_5_house",
+        "access_rules": [
+            "@route_5"
+        ]
+    },
+    {
+        "name": "route_5_saffron_gatehouse",
+        "access_rules": [
+            "@route_5",
+            "@saffron"
+        ]
+    },
+    {
+        "name": "route_5_underground_path",
+        "access_rules": [
+            "@route_5_underground_path_gate",
+            "@route_6_underground_path_gate"
+        ]
+    },
+    {
+        "name": "route_5_underground_path_gate",
+        "access_rules": [
+            "@route_5",
+            "@route_5_underground_path"
+        ]
+    },
+    {
+        "name": "route_6",
+        "access_rules": [
+            "@route_6_saffron_gatehouse",
+            "@route_6_underground_path_gate",
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "route_6_saffron_gatehouse",
+        "access_rules": [
+            "@route_6",
+            "@saffron"
+        ]
+    },
+    {
+        "name": "route_6_underground_path_gate",
+        "access_rules": [
+            "@route_5_underground_path",
+            "@route_6"
+        ]
+    },
+    {
+        "name": "route_7",
+        "access_rules": [
+            "@celadon",
+            "@route_7_saffron_gatehouse"
+        ]
+    },
+    {
+        "name": "route_7_saffron_gatehouse",
+        "access_rules": [
+            "@route_7",
+            "@saffron"
+        ]
+    },
+    {
+        "name": "route_8",
+        "access_rules": [
+            "@lavender",
+            "@route_8_saffron_gatehouse"
+        ]
+    },
+    {
+        "name": "route_8_saffron_gatehouse",
+        "access_rules": [
+            "@route_8",
+            "@saffron"
+        ]
+    },
+    {
+        "name": "route_9",
+        "access_rules": [
+            "@cerulean",
+            "@route_10"
+        ]
+    },
+    {
+        "name": "ruins_of_alph",
+        "access_rules": [
+            "@route_32_ruins_of_alph_gatehouse",
+            "@route_36_ruins_of_alph_gatehouse",
+            "@ruins_of_alph_hall_entrance",
+            "@ruins_of_alph_hall_entrance_sinjoh_event",
+            "@ruins_of_alph_northeast_entrance_first_room",
+            "@ruins_of_alph_research_center",
+            "@ruins_of_alph_southeast"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_hall_entrance",
+        "access_rules": [
+            "@ruins_of_alph",
+            "@ruins_of_alph_underground_hall",
+            "@ruins_of_alph_underground_hall_sinjoh_event"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_hall_entrance_sinjoh_event",
+        "access_rules": [
+            "@ruins_of_alph",
+            "@ruins_of_alph_underground_hall_sinjoh_event_2"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_northeast_entrance_first_room",
+        "access_rules": [
+            "@ruins_of_alph",
+            "@ruins_of_alph_northeast_entrance_second_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_northeast_entrance_second_room",
+        "access_rules": [
+            "@ruins_of_alph_northeast_entrance_first_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_northwest",
+        "access_rules": [
+            "@ruins_of_alph_northwest_entrance_first_room",
+            "@union_cave_1f"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_northwest_entrance_first_room",
+        "access_rules": [
+            "@ruins_of_alph_northwest",
+            "@ruins_of_alph_northwest_entrance_second_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_northwest_entrance_second_room",
+        "access_rules": [
+            "@ruins_of_alph_northwest_entrance_first_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_research_center",
+        "access_rules": [
+            "@ruins_of_alph"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_southeast",
+        "access_rules": [
+            "@ruins_of_alph",
+            "@ruins_of_alph_southeast_entrance_first_room",
+            "@ruins_of_alph_southwest"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_southeast_entrance_first_room",
+        "access_rules": [
+            "@ruins_of_alph_southeast",
+            "@ruins_of_alph_southeast_entrance_second_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_southeast_entrance_second_room",
+        "access_rules": [
+            "@ruins_of_alph_southeast_entrance_first_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_southwest",
+        "access_rules": [
+            "@ruins_of_alph_southwest_entrance_first_room",
+            "@union_cave_1f"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_southwest_entrance_first_room",
+        "access_rules": [
+            "@ruins_of_alph_southwest",
+            "@ruins_of_alph_southwest_entrance_second_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_southwest_entrance_second_room",
+        "access_rules": [
+            "@ruins_of_alph_southwest_entrance_first_room"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_underground_hall",
+        "access_rules": [
+            "@ruins_of_alph_hall_entrance"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_underground_hall_sinjoh_event",
+        "access_rules": [
+            "@ruins_of_alph_hall_entrance"
+        ]
+    },
+    {
+        "name": "ruins_of_alph_underground_hall_sinjoh_event_2",
+        "access_rules": [
+            "@ruins_of_alph_hall_entrance_sinjoh_event"
+        ]
+    },
+    {
+        "name": "safari_zone_entrance_exterior",
+        "access_rules": [
+            "@safari_zone_entrance_interior"
+        ]
+    },
+    {
+        "name": "safari_zone_entrance_interior",
+        "access_rules": [
+            "@safari_zone_entrance_exterior",
+            "@safari_zone_gate"
+        ]
+    },
+    {
+        "name": "safari_zone_gate",
+        "access_rules": [
+            "@route_48",
+            "@safari_zone_entrance_interior",
+            "@safari_zone_gate_pokecenter_1f",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "safari_zone_gate_pokecenter_1f",
+        "access_rules": [
+            "@safari_zone_gate",
+            "@safari_zone_gate_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "safari_zone_gate_pokecenter_b1f",
+        "access_rules": [
+            "@safari_zone_gate_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "saffron",
+        "access_rules": [
+            "@route_5_saffron_gatehouse",
+            "@route_6_saffron_gatehouse",
+            "@route_7_saffron_gatehouse",
+            "@route_8_saffron_gatehouse",
+            "@saffron_copycat_house_1f",
+            "@saffron_fighting_dojo",
+            "@saffron_gym",
+            "@saffron_magnet_train_station_1f",
+            "@saffron_mr_psychic_house",
+            "@saffron_pokecenter_1f",
+            "@saffron_pokemart",
+            "@saffron_silph_co_hq",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "saffron_copycat_house_1f",
+        "access_rules": [
+            "@saffron",
+            "@saffron_copycat_house_2f"
+        ]
+    },
+    {
+        "name": "saffron_copycat_house_2f",
+        "access_rules": [
+            "@saffron_copycat_house_1f"
+        ]
+    },
+    {
+        "name": "saffron_fighting_dojo",
+        "access_rules": [
+            "@saffron"
+        ]
+    },
+    {
+        "name": "saffron_gym",
+        "access_rules": [
+            "@saffron"
+        ]
+    },
+    {
+        "name": "saffron_magnet_train_station_1f",
+        "access_rules": [
+            "@saffron",
+            "@saffron_magnet_train_station_2f_empty"
+        ]
+    },
+    {
+        "name": "saffron_magnet_train_station_2f_empty",
+        "access_rules": [
+            "@goldenrod_magnet_train_station_2f_empty",
+            "@saffron_magnet_train_station_1f"
+        ]
+    },
+    {
+        "name": "saffron_mr_psychic_house",
+        "access_rules": [
+            "@saffron"
+        ]
+    },
+    {
+        "name": "saffron_pokecenter_1f",
+        "access_rules": [
+            "@saffron",
+            "@saffron_pokecenter_2f"
+        ]
+    },
+    {
+        "name": "saffron_pokecenter_2f",
+        "access_rules": [
+            "@saffron_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "saffron_pokemart",
+        "access_rules": [
+            "@saffron"
+        ]
+    },
+    {
+        "name": "saffron_silph_co_elevator",
+        "access_rules": [
+            "@saffron_silph_co_hq"
+        ]
+    },
+    {
+        "name": "saffron_silph_co_hq",
+        "access_rules": [
+            "@saffron"
+        ]
+    },
+    {
+        "name": "seafoam_islands_1f_east",
+        "access_rules": [
+            "@route_20_west",
+            "@seafoam_islands_b1f"
+        ]
+    },
+    {
+        "name": "seafoam_islands_1f_west",
+        "access_rules": [
+            "@route_20_east",
+            "@seafoam_islands_b1f",
+            "@seafoam_islands_cinnabar_gym"
+        ]
+    },
+    {
+        "name": "seafoam_islands_b1f",
+        "access_rules": [
+            "@seafoam_islands_1f_east",
+            "@seafoam_islands_1f_west",
+            "@seafoam_islands_b2f"
+        ]
+    },
+    {
+        "name": "seafoam_islands_b2f",
+        "access_rules": [
+            "@seafoam_islands_b1f",
+            "@seafoam_islands_b3f"
+        ]
+    },
+    {
+        "name": "seafoam_islands_b3f",
+        "access_rules": [
+            "@seafoam_islands_b2f",
+            "@seafoam_islands_b4f"
+        ]
+    },
+    {
+        "name": "seafoam_islands_b4f",
+        "access_rules": [
+            "@seafoam_islands_b3f"
+        ]
+    },
+    {
+        "name": "seafoam_islands_cinnabar_gym",
+        "access_rules": [
+            "@seafoam_islands_1f_east"
+        ]
+    },
+    {
+        "name": "slowpoke_well_b1f",
+        "access_rules": [
+            "@slowpoke_well_b2f",
+            "@slowpoke_well_entrance"
+        ]
+    },
+    {
+        "name": "slowpoke_well_b2f",
+        "access_rules": [
+            "@slowpoke_well_b1f"
+        ]
+    },
+    {
+        "name": "slowpoke_well_entrance",
+        "access_rules": [
+            "@azalea",
+            "@slowpoke_well_b1f"
+        ]
+    },
+    {
+        "name": "sprout_tower_1f",
+        "access_rules": [
+            "@sprout_tower_2f",
+            "@violet"
+        ]
+    },
+    {
+        "name": "sprout_tower_2f",
+        "access_rules": [
+            "@sprout_tower_1f",
+            "@sprout_tower_3f"
+        ]
+    },
+    {
+        "name": "sprout_tower_3f",
+        "access_rules": [
+            "@sprout_tower_2f"
+        ]
+    },
+    {
+        "name": "ss_aqua_1f",
+        "access_rules": [
+            "@ss_aqua_1f_northeast_rooms",
+            "@ss_aqua_1f_northwest_rooms",
+            "@ss_aqua_1f_southeast_rooms",
+            "@ss_aqua_1f_southwest_rooms",
+            "@ss_aqua_b1f",
+            "@ss_aqua_captain_room",
+            "@ss_aqua_olivine_port_exterior",
+            "@ss_aqua_vermilion_port_exterior"
+        ]
+    },
+    {
+        "name": "ss_aqua_1f_northeast_rooms",
+        "access_rules": [
+            "@ss_aqua_1f"
+        ]
+    },
+    {
+        "name": "ss_aqua_1f_northwest_rooms",
+        "access_rules": [
+            "@ss_aqua_1f"
+        ]
+    },
+    {
+        "name": "ss_aqua_1f_southeast_rooms",
+        "access_rules": [
+            "@ss_aqua_1f"
+        ]
+    },
+    {
+        "name": "ss_aqua_1f_southwest_rooms",
+        "access_rules": [
+            "@ss_aqua_1f"
+        ]
+    },
+    {
+        "name": "ss_aqua_b1f",
+        "access_rules": [
+            "@ss_aqua_1f"
+        ]
+    },
+    {
+        "name": "ss_aqua_captain_room",
+        "access_rules": [
+            "@ss_aqua_1f"
+        ]
+    },
+    {
+        "name": "ss_aqua_olivine_port_exterior",
+        "access_rules": [
+            "@ss_aqua_1f",
+            "@ss_aqua_olivine_port_interior"
+        ]
+    },
+    {
+        "name": "ss_aqua_olivine_port_interior",
+        "access_rules": [
+            "@olivine",
+            "@ss_aqua_olivine_port_exterior"
+        ]
+    },
+    {
+        "name": "ss_aqua_vermilion_port_exterior",
+        "access_rules": [
+            "@ss_aqua_1f",
+            "@ss_aqua_vermilion_port_interior"
+        ]
+    },
+    {
+        "name": "ss_aqua_vermilion_port_interior",
+        "access_rules": [
+            "@ss_aqua_vermilion_port_exterior",
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "team_rocket_headquarters_b1f",
+        "access_rules": [
+            "@mahogany_souvenir_shop",
+            "@team_rocket_headquarters_b2f"
+        ]
+    },
+    {
+        "name": "team_rocket_headquarters_b2f",
+        "access_rules": [
+            "@team_rocket_headquarters_b1f",
+            "@team_rocket_headquarters_b3f"
+        ]
+    },
+    {
+        "name": "team_rocket_headquarters_b3f",
+        "access_rules": [
+            "@team_rocket_headquarters_b2f"
+        ]
+    },
+    {
+        "name": "tohjo_falls_east",
+        "access_rules": [
+            "@route_27_center",
+            "@tohjo_falls_hidden_room",
+            "@tohjo_falls_west"
+        ]
+    },
+    {
+        "name": "tohjo_falls_hidden_room",
+        "access_rules": [
+            "@tohjo_falls_east"
+        ]
+    },
+    {
+        "name": "tohjo_falls_west",
+        "access_rules": [
+            "@route_27_west",
+            "@tohjo_falls_east"
+        ]
+    },
+    {
+        "name": "union",
+        "access_rules": [
+            "@ecruteak_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "union_cave_1f",
+        "access_rules": [
+            "@route_32",
+            "@route_33",
+            "@ruins_of_alph_northwest",
+            "@union_cave_b1f_pathway"
+        ]
+    },
+    {
+        "name": "union_cave_b1f",
+        "access_rules": [
+            "@union_cave_1f",
+            "@union_cave_b2f"
+        ]
+    },
+    {
+        "name": "union_cave_b1f_pathway",
+        "access_rules": [
+            "@union_cave_1f",
+            "@union_cave_b2f"
+        ]
+    },
+    {
+        "name": "union_cave_b2f",
+        "access_rules": [
+            "@union_cave_b1f_pathway"
+        ]
+    },
+    {
+        "name": "vermilion",
+        "access_rules": [
+            "@route_11",
+            "@route_6",
+            "@ss_aqua_vermilion_port_interior",
+            "@vermilion_central_house",
+            "@vermilion_fishing_dude_house",
+            "@vermilion_gym",
+            "@vermilion_pokecenter_1f",
+            "@vermilion_pokemart",
+            "@vermilion_pokemon_fan_club",
+            "@vermilion_south_house",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "vermilion_central_house",
+        "access_rules": [
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "vermilion_fishing_dude_house",
+        "access_rules": [
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "vermilion_gym",
+        "access_rules": [
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "vermilion_pokecenter_1f",
+        "access_rules": [
+            "@vermilion",
+            "@vermilion_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "vermilion_pokecenter_b1f",
+        "access_rules": [
+            "@vermilion_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "vermilion_pokemart",
+        "access_rules": [
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "vermilion_pokemon_fan_club",
+        "access_rules": [
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "vermilion_south_house",
+        "access_rules": [
+            "@vermilion"
+        ]
+    },
+    {
+        "name": "victory_road_1f",
+        "access_rules": [
+            "@victory_road_1f_entrance",
+            "@victory_road_2f"
+        ]
+    },
+    {
+        "name": "victory_road_1f_entrance",
+        "access_rules": [
+            "@route_22_pokemon_league_reception_gate",
+            "@victory_road_1f"
+        ]
+    },
+    {
+        "name": "victory_road_2f",
+        "access_rules": [
+            "@victory_road_1f",
+            "@victory_road_2f_northeast",
+            "@victory_road_2f_northwest",
+            "@victory_road_3f_southeast"
+        ]
+    },
+    {
+        "name": "victory_road_2f_northeast",
+        "access_rules": [
+            "@victory_road_3f_northeast",
+            "@victory_road_3f_southeast"
+        ]
+    },
+    {
+        "name": "victory_road_2f_northwest",
+        "access_rules": [
+            "@victory_road_3f"
+        ]
+    },
+    {
+        "name": "victory_road_2f_south",
+        "access_rules": [
+            "@victory_road_3f",
+            "@victory_road_3f_northeast"
+        ]
+    },
+    {
+        "name": "victory_road_3f",
+        "access_rules": [
+            "@indigo_plateau",
+            "@victory_road_2f_northwest",
+            "@victory_road_2f_south"
+        ]
+    },
+    {
+        "name": "victory_road_3f_northeast",
+        "access_rules": [
+            "@victory_road_2f_northeast"
+        ]
+    },
+    {
+        "name": "victory_road_3f_southeast",
+        "access_rules": [
+            "@victory_road_2f"
+        ]
+    },
+    {
+        "name": "violet",
+        "access_rules": [
+            "@route_31_violet_gatehouse",
+            "@route_32_north",
+            "@sprout_tower_1f",
+            "@violet_bellsprout_onyx_trade_house",
+            "@violet_gym",
+            "@violet_northwest_house",
+            "@violet_pokecenter_1f",
+            "@violet_pokemart",
+            "@violet_pokemon_school",
+            "@violet_route_36_gatehouse",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "violet_bellsprout_onyx_trade_house",
+        "access_rules": [
+            "@violet"
+        ]
+    },
+    {
+        "name": "violet_gym",
+        "access_rules": [
+            "@violet"
+        ]
+    },
+    {
+        "name": "violet_northwest_house",
+        "access_rules": [
+            "@violet"
+        ]
+    },
+    {
+        "name": "violet_pokecenter_1f",
+        "access_rules": [
+            "@violet",
+            "@violet_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "violet_pokecenter_b1f",
+        "access_rules": [
+            "@violet_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "violet_pokemart",
+        "access_rules": [
+            "@violet"
+        ]
+    },
+    {
+        "name": "violet_pokemon_school",
+        "access_rules": [
+            "@violet"
+        ]
+    },
+    {
+        "name": "violet_route_36_gatehouse",
+        "access_rules": [
+            "@route_36_southeast",
+            "@violet"
+        ]
+    },
+    {
+        "name": "viridian",
+        "access_rules": [
+            "@route_2",
+            "@route_22",
+            "@viridian_gym",
+            "@viridian_northeast_house",
+            "@viridian_pokecenter_1f",
+            "@viridian_pokemart",
+            "@viridian_route_1_gatehouse",
+            "@viridian_trainer_house_1f",
+            "@virt_fly"
+        ]
+    },
+    {
+        "name": "viridian_forest",
+        "access_rules": [
+            "@route_2_viridian_forest_north_gatehouse",
+            "@route_2_viridian_forest_south_gatehouse"
+        ]
+    },
+    {
+        "name": "viridian_gym",
+        "access_rules": [
+            "@viridian"
+        ]
+    },
+    {
+        "name": "viridian_northeast_house",
+        "access_rules": [
+            "@viridian"
+        ]
+    },
+    {
+        "name": "viridian_pokecenter_1f",
+        "access_rules": [
+            "@viridian",
+            "@viridian_pokecenter_b1f"
+        ]
+    },
+    {
+        "name": "viridian_pokecenter_b1f",
+        "access_rules": [
+            "@viridian_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "viridian_pokemart",
+        "access_rules": [
+            "@viridian"
+        ]
+    },
+    {
+        "name": "viridian_route_1_gatehouse",
+        "access_rules": [
+            "@route_1",
+            "@viridian"
+        ]
+    },
+    {
+        "name": "viridian_trainer_house_1f",
+        "access_rules": [
+            "@viridian",
+            "@viridian_trainer_house_b1f"
+        ]
+    },
+    {
+        "name": "viridian_trainer_house_b1f",
+        "access_rules": [
+            "@viridian_trainer_house_1f"
+        ]
+    },
+    {
+        "name": "virt_beauty",
+        "access_rules": [
+            "@goldenrod_tunnel_b1f",
+            "@pallet"
+        ]
+    },
+    {
+        "name": "virt_dex",
+        "access_rules": [
+            "@virt_start"
+        ]
+    },
+    {
+        "name": "virt_fly",
+        "access_rules": [
+            "@virt_start"
+        ]
+    },
+    {
+        "name": "virt_fly_map_battle_frontier",
+        "access_rules": [
+            "@battle_frontier_frontier_access",
+            "@viridian_trainer_house_b1f"
+        ]
+    },
+    {
+        "name": "virt_ice_rock",
+        "access_rules": [
+            "@ice_path_1f",
+            "@ice_path_1f_back",
+            "@seafoam_islands_b3f"
+        ]
+    },
+    {
+        "name": "virt_magnetic_field",
+        "access_rules": [
+            "@route_10",
+            "@ruins_of_alph"
+        ]
+    },
+    {
+        "name": "virt_moss_rock",
+        "access_rules": [
+            "@ilex_forest_north",
+            "@ilex_forest_south",
+            "@viridian_forest"
+        ]
+    },
+    {
+        "name": "virt_mount_moon_square",
+        "access_rules": [
+            "@mount_moon_square",
+            "@mount_moon_square_clefairy_event"
+        ]
+    },
+    {
+        "name": "virt_national_dex",
+        "access_rules": [
+            "@virt_start"
+        ]
+    },
+    {
+        "name": "virt_pal_pad",
+        "access_rules": [
+            "@azalea_pokecenter_1f",
+            "@blackthorn_pokecenter_1f",
+            "@celadon_pokecenter_1f",
+            "@cerulean_pokecenter_1f",
+            "@cherrygrove_pokecenter_1f",
+            "@cianwood_pokecenter_1f",
+            "@cinnabar_island_pokecenter_1f",
+            "@ecruteak_pokecenter_1f",
+            "@frontier_access_pokecenter_1f",
+            "@fuchsia_pokecenter_1f",
+            "@goldenrod_pokecenter_1f",
+            "@lavender_pokecenter_1f",
+            "@mahogany_pokecenter_1f",
+            "@mount_silver_pokecenter_1f",
+            "@olivine_pokecenter_1f",
+            "@pewter_pokecenter_1f",
+            "@route_10_pokecenter_1f",
+            "@route_32_pokecenter_1f",
+            "@route_3_pokecenter_1f",
+            "@safari_zone_gate_pokecenter_1f",
+            "@saffron_pokecenter_1f",
+            "@vermilion_pokecenter_1f",
+            "@violet_pokecenter_1f",
+            "@viridian_pokecenter_1f"
+        ]
+    },
+    {
+        "name": "virt_specs",
+        "access_rules": [
+            "@virt_start"
+        ]
+    },
+    {
+        "name": "whirl_islands_1f",
+        "access_rules": [
+            "@route_41",
+            "@whirl_islands_b1f"
+        ]
+    },
+    {
+        "name": "whirl_islands_b1f",
+        "access_rules": [
+            "@whirl_islands_1f",
+            "@whirl_islands_b2f"
+        ]
+    },
+    {
+        "name": "whirl_islands_b2f",
+        "access_rules": [
+            "@whirl_islands_b1f",
+            "@whirl_islands_b3f",
+            "@whirl_islands_b3f_lugia_cave"
+        ]
+    },
+    {
+        "name": "whirl_islands_b3f",
+        "access_rules": [
+            "@whirl_islands_b2f"
+        ]
+    },
+    {
+        "name": "whirl_islands_b3f_lugia_cave",
+        "access_rules": [
+            "@whirl_islands_b2f"
+        ]
+    }
+]

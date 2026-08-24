@@ -43,7 +43,7 @@ Tracker:AddLayouts("layouts/quick_settings.json")
 Tracker:AddLayouts("layouts/dexsearch.json")
 
 -- Locations
---Tracker:AddLocations("locations/access.jsonc")
+Tracker:AddLocations("locations/access.json")
 --Tracker:AddLocations("locations/overworldmap.jsonc")
 --Tracker:AddLocations("locations/submaps_singles.json")
 --Tracker:AddLocations("locations/submaps_groups.json")
