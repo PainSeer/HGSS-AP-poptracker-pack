@@ -2,17 +2,70 @@
     {
         "name": "new_bark_east",
         "access_rules": [
-            ""
+            "@new_bark, event_meet_ho_oh_or_lugia",
+            "@route_27_west, $surf"
         ]
     },
     {
         "name": "new_bark",
         "access_rules": [
-            ""
+            "$can_freefly|new_bark"<
+	    "new_bark_east",
+	    "new_bark_elms_lab_1f",
+	    "new_bark_rival_house_1f",
+	    "new_bark_player_house_1f",
+	    "new_bark_southwest_house",
+	    "route_29"
+
         ]
     },
     {
         "name": "new_bark_elms_lab_1f",
+        "access_rules": [
+            "new_bark"
+            "new_bark_elms_lab_2f"
+        ]
+    },
+    {
+        "name": "new_bark_elms_lab_2f",
+        "access_rules": [
+            "new_bark_elms_lab_1f"
+        ]
+    },
+    {
+        "name": "new_bark_rival_house_1f",
+        "access_rules": [
+            "new_bark",
+            "new_bark_rival_house_2f",
+        ]
+    },
+    {
+        "name": "new_bark_rival_house_2f",
+        "access_rules": [
+            "new_bark_rival_house_1f"
+        ]
+    },
+    {
+        "name": "new_bark_player_house_1f",
+        "access_rules": [
+            "new_bark_player_house_2f",
+            "new_bark"
+        ]
+    },
+    {
+        "name": "new_bark_player_house_2f", --starting region
+        "access_rules": [
+            ""
+        ]
+    },
+    {
+        "name": "new_bark_southwest_house",
+        "access_rules": [
+            "new_bark"
+        ]
+    },
+    {
+        "name": "route_29_route_46_gatehouse",
         "access_rules": [
             ""
         ]
@@ -42,44 +95,7 @@
         ]
     },
     {
-        "name": "new_bark_elms_lab_2f",
-        "access_rules": [
-            ""
-        ]
-    },
-    {
-        "name": "new_bark_rival_house_1f",
-        "access_rules": [
-            ""
-        ]
-    },
-    {
-        "name": "new_bark_player_house_1f",
-        "access_rules": [
-            ""
-        ]
-    },
-    {
-        "name": "new_bark_southwest_house",
-        "access_rules": [
-            ""
-        ]
-    },
-    {
-        "name": "route_29_route_46_gatehouse",
-        "access_rules": [
-            ""
-        ]
-    },
-
-    {
         "name": "route_26",
-        "access_rules": [
-            ""
-        ]
-    },
-    {
-        "name": "new_bark_rival_house_2f",
         "access_rules": [
             ""
         ]
@@ -110,12 +126,6 @@
     },
     {
         "name": "tohjo_falls_west",
-        "access_rules": [
-            ""
-        ]
-    },
-    {
-        "name": "new_bark_player_house_2f",
         "access_rules": [
             ""
         ]
