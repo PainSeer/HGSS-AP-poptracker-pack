@@ -3,34 +3,25 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "Twinleaf Town",
+        "title": "New Bark Town",
         "content": {
           "type": "map",
           "maps": [
-            "twinleaftown"
+            "newbarktown"
           ]
         }
       },
       {
-        "title": "Sandgem Town",
+        "title": "Cherrygrove City",
         "content": {
           "type": "map",
           "maps": [
-            "sandgemtown"
+            "cherrygrovecity"
           ]
         }
       },
       {
-        "title": "Jubilife City",
-        "content": {
-          "type": "map",
-          "maps": [
-            "jubilifecity"
-          ]
-        }
-      },
-      {
-        "title": "Oreburgh City",
+        "title": "Violet City",
         "content": {
           "type": "tabbed",
           "tabs": [
@@ -39,7 +30,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "oreburghcity"
+                  "violetcity"
                 ]
               }
             },
@@ -48,196 +39,39 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "oreburghgym"
+                  "violetgym"
                 ]
               }
             },
             {
-              "title": "Mine",
+              "title": "Sprout Tower",
               "content": {
                 "type": "tabbed",
                 "tabs": [
-                  {
-                    "title": "B1F",
-                    "content": {
-                      "type": "map",
-                      "maps": [
-                        "oreburghmineb1f"
-                      ]
-                    }
-                  },
-                  {
-                    "title": "B2F",
-                    "content": {
-                      "type": "map",
-                      "maps": [
-                        "oreburghmineb2f"
-                      ]
-                    }
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "title": "Floaroma Town",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Town",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "floaromatown"
-                ]
-              }
-            },
-            {
-              "title": "Meadow",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "floaromameadow"
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "title": "Eterna City",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "City",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "eternacity"
-                ]
-              }
-            },
-            {
-              "title": "Gym",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "eternagym"
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "title": "Hearthome City",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "City",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "hearthomecity"
-                ]
-              }
-            },
-            {
-              "title": "Gym",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "hearthomegym"
-                ]
-              }
-            },
-            {
-              "title": "Amity Square",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "amitysquare"
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "title": "Solaceon Town",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Town",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "solaceontown"
-                ]
-              }
-            },
-            {
-              "title": "Ruins",
-              "content": {
-                "type": "tabbed",
-                "tabs": [
-                  {
-                    "title": "2F",
-                    "content": {
-                      "type": "map",
-                      "maps": [
-                        "solaceonruins2f"
-                      ]
-                    }
-                  },
                   {
                     "title": "1F",
                     "content": {
                       "type": "map",
                       "maps": [
-                        "solaceonruins1f"
+                        "sprouttower"
                       ]
                     }
                   },
                   {
-                    "title": "B1F",
+                    "title": "2F",
                     "content": {
                       "type": "map",
                       "maps": [
-                        "solaceonruinsb1f"
+                        "sprouttower2f"
                       ]
                     }
                   },
                   {
-                    "title": "B2F",
+                    "title": "3F",
                     "content": {
                       "type": "map",
                       "maps": [
-                        "solaceonruinsb2f"
-                      ]
-                    }
-                  },
-                  {
-                    "title": "B3F",
-                    "content": {
-                      "type": "map",
-                      "maps": [
-                        "solaceonruinsb3f"
-                      ]
-                    }
-                  },
-                  {
-                    "title": "B4F",
-                    "content": {
-                      "type": "map",
-                      "maps": [
-                        "solaceonruinsb4f"
+                        "sprouttower3f"
                       ]
                     }
                   }
@@ -248,7 +82,7 @@
         }
       },
       {
-        "title": "Veilstone City",
+        "title": "Azalea Town",
         "content": {
           "type": "tabbed",
           "tabs": [
@@ -257,7 +91,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "veilstonecity"
+                  "azaleatown"
                 ]
               }
             },
@@ -266,7 +100,33 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "veilstonegym"
+                  "azaleagym"
+                ]
+              }
+            },
+            {
+              "title": "Slowpoke Well",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "slowpokewellb1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "slowpokewellb2f"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -274,7 +134,7 @@
         }
       },
       {
-        "title": "Pastoria City",
+        "title": "Goldenrod City",
         "content": {
           "type": "tabbed",
           "tabs": [
@@ -283,7 +143,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "pastoriacity"
+                  "goldenrodcity"
                 ]
               }
             },
@@ -292,16 +152,131 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "pastoriagym"
+                  "goldenrodgym"
                 ]
               }
             },
             {
-              "title": "Great Marsh",
+              "title": "Radio Tower",
               "content": {
-                "type": "map",
-                "maps": [
-                  "greatmarsh"
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "radiotower"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "radiotower2f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "3F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "radiotower3f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "4F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "radiotower4f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "5F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "radiotower5f"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Department Store",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstore1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstore2f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "3F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstore3f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "4F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstore4f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "5F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstore5f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "6F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstore6f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Roof",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "departmentstorerf"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -309,11 +284,150 @@
         }
       },
       {
-        "title": "Celestic Town",
+        "title": "Ecruteak City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ecruteakcity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ecruteakgym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Olivine City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "olivinecity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "olivinegym"
+                ]
+              }
+            },
+            {
+              "title": "Olivine Lighthouse",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "olivinglighthose"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Cianwood City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Town",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cianwoodcity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cianwoodgym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Mahogany Town",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mahoganytown"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mahoganygym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Blackthorn City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "blackthorncity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "blackthorngym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Mount Silver",
         "content": {
           "type": "map",
           "maps": [
-            "celestictown"
+            "mountsilver"
           ]
         }
       },
