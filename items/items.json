@@ -1,51 +1,99 @@
 [
     {
-        "name": "Coal Badge",
+        "name": "Boulder Badge",
         "type": "toggle",
-        "img": "images/items/coal_badge.png",
-        "codes": "coalbadge"
+        "img": "images/items/boulderbadge.png",
+        "codes": "boulderbadge"
     },
     {
-        "name": "Forest Badge",
+        "name": "Cascade Badge",
         "type": "toggle",
-        "img": "images/items/forest_badge.png",
-        "codes": "forestbadge"
+        "img": "images/items/cascadebadge.png",
+        "codes": "cascadebadge"
     },
     {
-        "name": "Cobble Badge",
+        "name": "Thunder Badge",
         "type": "toggle",
-        "img": "images/items/cobble_badge.png",
-        "codes": "cobblebadge"
+        "img": "images/items/thunderbadge.png",
+        "codes": "thunderbadge"
     },
     {
-        "name": "Fen Badge",
+        "name": "Rainbow Badge",
         "type": "toggle",
-        "img": "images/items/fen_badge.png",
-        "codes": "fenbadge"
+        "img": "images/items/rainbowbadge.png",
+        "codes": "rainbowbadge"
     },
     {
-        "name": "Relic Badge",
+        "name": "Soul Badge",
         "type": "toggle",
-        "img": "images/items/relic_badge.png",
-        "codes": "relicbadge"
+        "img": "images/items/soulbadge.png",
+        "codes": "soulbadge"
     },
     {
-        "name": "Mine Badge",
+        "name": "Marsh Badge",
         "type": "toggle",
-        "img": "images/items/mine_badge.png",
-        "codes": "minebadge"
+        "img": "images/items/marshbadge.png",
+        "codes": "marshbadge"
     },
     {
-        "name": "Icicle Badge",
+        "name": "Volcano Badge",
         "type": "toggle",
-        "img": "images/items/icicle_badge.png",
-        "codes": "iciclebadge"
+        "img": "images/items/volcanobadge.png",
+        "codes": "volcanobadge"
     },
     {
-        "name": "Beacon Badge",
+        "name": "Earth Badge",
         "type": "toggle",
-        "img": "images/items/beacon_badge.png",
-        "codes": "beaconbadge"
+        "img": "images/items/earthbadge.png",
+        "codes": "earthbadge"
+    },
+    {
+        "name": "Zephyr Badge",
+        "type": "toggle",
+        "img": "images/items/zephyrbadge.png",
+        "codes": "zephyrbadge"
+    },
+    {
+        "name": "Hive Badge",
+        "type": "toggle",
+        "img": "images/items/hivebadge.png",
+        "codes": "hivebadge"
+    },
+    {
+        "name": "Plain Badge",
+        "type": "toggle",
+        "img": "images/items/plainbadge.png",
+        "codes": "plainbadge"
+    },
+    {
+        "name": "Fog Badge",
+        "type": "toggle",
+        "img": "images/items/fogbadge.png",
+        "codes": "fogbadge"
+    },
+    {
+        "name": "Storm Badge",
+        "type": "toggle",
+        "img": "images/items/stormbadge.png",
+        "codes": "stormbadge"
+    },
+    {
+        "name": "Mineral Badge",
+        "type": "toggle",
+        "img": "images/items/mineralbadge.png",
+        "codes": "mineralbadge"
+    },
+    {
+        "name": "Glacier Badge",
+        "type": "toggle",
+        "img": "images/items/glacierbadge.png",
+        "codes": "glacierbadge"
+    },
+    {
+        "name": "Rising Badge",
+        "type": "toggle",
+        "img": "images/items/risingbadge.png",
+        "codes": "risingbadge"
     },
     {
         "name": "HM01 Cut",
@@ -120,20 +168,20 @@
         ]
     },
     {
-        "name": "HM05 Defog",
+        "name": "HM05 Whirlpool",
         "type": "progressive_toggle",
         "stages": [
             {
-                "name": "HM05 Defog",
-                "codes": "hm05defog",
-                "img": "images/items/hm05_defog.png",
+                "name": "HM05 Whirlpool",
+                "codes": "hm05whirlpool",
+                "img": "images/items/hm05_whirlpool.png",
                 "img_mods": "overlay|images/items/overlays/badge5_overlay.png",
                 "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge5_overlay.png"
             },
             {
-                "name": "HM05 Defog - No Badge Requirement",
-                "codes": "hm05defog, free_defog",
-                "img": "images/items/hm05_defog.png"
+                "name": "HM05 Whirlpool - No Badge Requirement",
+                "codes": "hm05whirlpool, free_whirlpool",
+                "img": "images/items/hm05_whirlpool.png"
             }
         ]
     },

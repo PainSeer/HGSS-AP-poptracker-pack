@@ -19,22 +19,31 @@
                         "item_width": 32,
                         "rows": [
                             [
-                                "coalbadge",
-                                "forestbadge",
-                                "cobblebadge",
-                                "fenbadge",
-                                "relicbadge",
-                                "minebadge",
-                                "iciclebadge",
-                                "beaconbadge",
-                                "bag"
+                                "zephyrbadge",
+                                "hivebadge",
+                                "plainbadge",
+                                "fogbadge",
+                                "stormbadge",
+                                "mineralbadge",
+                                "glacierbadge",
+                                "risingbadge"
+                            ],
+                            [
+                                "boulderbadge",
+                                "cascadebadge",
+                                "thunderbadge",
+                                "rainbowbadge",
+                                "soulbadge",
+                                "marshbadge",
+                                "volcanobadge",
+                                "earthbadge"
                             ],
                             [
                                 "hm01cut",
                                 "hm02fly",
                                 "hm03surf",
                                 "hm04strength",
-                                "hm05defog",
+                                "hm05whirlpool",
                                 "hm06rocksmash",
                                 "hm07waterfall",
                                 "hm08rockclimb",
@@ -86,22 +95,31 @@
                         "item_width": 32,
                         "rows": [
                             [
-                                "coalbadge",
-                                "forestbadge",
-                                "cobblebadge",
-                                "fenbadge",
-                                "relicbadge",
-                                "minebadge",
-                                "iciclebadge",
-                                "beaconbadge",
-                                "bag"
+                                "zephyrbadge",
+                                "hivebadge",
+                                "plainbadge",
+                                "fogbadge",
+                                "stormbadge",
+                                "mineralbadge",
+                                "glacierbadge",
+                                "risingbadge"
+                            ],
+                            [
+                                "boulderbadge",
+                                "cascadebadge",
+                                "thunderbadge",
+                                "rainbowbadge",
+                                "soulbadge",
+                                "marshbadge",
+                                "volcanobadge",
+                                "earthbadge"
                             ],
                             [
                                 "hm01cut",
                                 "hm02fly",
                                 "hm03surf",
                                 "hm04strength",
-                                "hm05defog",
+                                "hm05whirlpool",
                                 "hm06rocksmash",
                                 "hm07waterfall",
                                 "hm08rockclimb",

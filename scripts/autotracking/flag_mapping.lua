@@ -42,7 +42,7 @@ HOSTED_VANILLA_CODES = {
     "hm02fly",
     "hm03surf",
     "hm04strength",
-    "hm05defog",
+    "hm05whirlpool",
     "hm06rocksmash",
     "hm07waterfall",
     "hm08rockclimb",
@@ -207,7 +207,7 @@ FLAG_ITEM3_CODES = {
 FLAG_ITEM4_CODES = {
   {option="opt_hidden_off", codes={"waterstone"}},
   {option="opt_hidden_off", codes={"thunderstone"}},
-  {option="opt_hms_off", codes={"hm05defog"}},
+  {option="opt_hms_off", codes={"hm05whirlpool"}},
   {option="opt_timeitems_off", codes={"nighttime"}},
   {option="opt_hidden_off", codes={"firestone"}},
   {option="opt_badges_off", codes={"beaconbadge"}},
