@@ -49,21 +49,23 @@ function onClear(slot_data)
     GAME = Archipelago:GetPlayerGame(PLAYER_ID)
     
     -- we check for correct game, version, and non manual
---    if GAME == "Manual_PokemonPlatinum_Linneus" then
---        Tracker:AddLayouts("layouts/errors/error_manual.json")
---        return
---    elseif GAME == "Pokemon HeartGold and SoulSilver" then
---        local version = tostring(slot_data["version"])
---        local major_version = version:match("^([^.]+%.[^.]+)%.")
---        if major_version == "0.2" then
---            -- yey. pass.
---        else
---            Tracker:AddLayouts("layouts/errors/error_version.json")
---        end
---    else
---        Tracker:AddLayouts("layouts/errors/error_game.json")
---        return
---    end
+    if GAME == "Pokemon HGSS" then
+        Tracker:AddLayouts("layouts/errors/error_singe.json")
+        return
+    elseif GAME == "Pokemon HeartGold and SoulSilver" then
+        -- we don't care about version yet
+        Tracker:AddLayouts("layouts/tracker.json")
+        --local version = tostring(slot_data["version"])
+        --local major_version = version:match("^([^.]+%.[^.]+)%.")
+        --if major_version == "0.2" then
+        --    -- yey. pass.
+        --else
+        --    Tracker:AddLayouts("layouts/errors/error_version.json")
+        --end
+    else
+        Tracker:AddLayouts("layouts/errors/error_game.json")
+        return
+    end
 
     -------------------------------------------------
     -- RESET AREA

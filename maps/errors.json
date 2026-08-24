@@ -10,5 +10,11 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/errors/error_version.png"
+    },
+    {
+        "name": "error_singe",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/errors/error_singe.png"
     }
 ]

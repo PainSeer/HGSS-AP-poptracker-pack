@@ -13,11 +13,11 @@
                         "type": "tabbed",
                         "tabs": [
                             {
-                                "title": "This tracker is NOT for the Manual",
+                                "title": "This tracker is NOT for Singe's implementation of HGSS",
                                 "content": {
                                     "type": "map",
                                     "maps": [
-                                        "error_manual"
+                                        "error_singe"
                                     ]
                                 }
                             }
