@@ -16,31 +16,37 @@
                         "h_alignment": "center",
                         "rows": [
                             [
-                                "flyunlock_twinleaftown",
-                                "flyunlock_sandgemtown",
-                                "flyunlock_jubilifecity",
-                                "flyunlock_oreburghcity",
-                                "flyunlock_floaromatown",
-                                "flyunlock_eternacity",
-                                "flyunlock_hearthomecity",
-                                "flyunlock_solaceontown"
+                                "fly_map_pallet",
+                                "fly_map_viridian",
+                                "fly_map_pewter",
+                                "fly_map_cerulean",
+                                "fly_map_lavender",
+                                "fly_map_vermillion",
+                                "fly_map_fuchsia",
+                                "fly_map_cinnabar_island"
                             ],
                             [
-                                "flyunlock_veilstonecity",
-                                "flyunlock_pastoriacity",
-                                "flyunlock_celestictown",
-                                "flyunlock_canalavecity",
-                                "flyunlock_snowpointcity",
-                                "flyunlock_sunyshorecity",
-                                "flyunlock_pokemonleaguesouth",
-                                "flyunlock_route221"
+                                "fly_map_indigo_plateau",
+                                "fly_map_saffron",
+                                "fly_map_new_bark",
+                                "fly_map_cherrygrove",
+                                "fly_map_violet",
+                                "fly_map_azalea",
+                                "fly_map_cianwood",
+                                "fly_map_goldenrod",
+                                "fly_map_olivine"
                             ],
                             [
-                                "flyunlock_fightarea",
-                                "flyunlock_survivalarea",
-                                "flyunlock_resortarea",
-                                "flyunlock_pokemonleague"
-                            ],
+                                "fly_map_ecruteak",
+                                "fly_map_mahogany",
+                                "fly_map_blackthorn",
+                                "fly_map_lake_of_rage",
+                                "fly_map_mount_silver",
+                                "fly_map_safari_zone_gate",
+                                "fly_map_battle_frontier",
+                                "fly_map_national_park",
+                                "fly_map_victory_road_1f"
+                            ]
                         ]
                     }
                 ]
@@ -57,31 +63,37 @@
                 "h_alignment": "center",
                 "rows": [
                     [
-                        "flyunlock_twinleaftown",
-                        "flyunlock_sandgemtown",
-                        "flyunlock_jubilifecity",
-                        "flyunlock_oreburghcity",
-                        "flyunlock_floaromatown",
-                        "flyunlock_eternacity",
-                        "flyunlock_hearthomecity",
-                        "flyunlock_solaceontown",
-                        "flyunlock_veilstonecity"
+                        "fly_map_pallet",
+                        "fly_map_viridian",
+                        "fly_map_pewter",
+                        "fly_map_cerulean",
+                        "fly_map_lavender",
+                        "fly_map_vermillion",
+                        "fly_map_fuchsia",
+                        "fly_map_cinnabar_island"
                     ],
                     [
-                        "flyunlock_pastoriacity",
-                        "flyunlock_celestictown",
-                        "flyunlock_canalavecity",
-                        "flyunlock_snowpointcity",
-                        "flyunlock_sunyshorecity",
-                        "flyunlock_pokemonleaguesouth",
-                        "flyunlock_route221"
+                        "fly_map_indigo_plateau",
+                        "fly_map_saffron",
+                        "fly_map_new_bark",
+                        "fly_map_cherrygrove",
+                        "fly_map_violet",
+                        "fly_map_azalea",
+                        "fly_map_cianwood",
+                        "fly_map_goldenrod",
+                        "fly_map_olivine"
                     ],
                     [
 
-                        "flyunlock_fightarea",
-                        "flyunlock_survivalarea",
-                        "flyunlock_resortarea",
-                        "flyunlock_pokemonleague"
+                        "fly_map_ecruteak",
+                        "fly_map_mahogany",
+                        "fly_map_blackthorn",
+                        "fly_map_lake_of_rage",
+                        "fly_map_mount_silver",
+                        "fly_map_safari_zone_gate",
+                        "fly_map_battle_frontier",
+                        "fly_map_national_park",
+                        "fly_map_victory_road_1f"
                     ]
                 ]
             }

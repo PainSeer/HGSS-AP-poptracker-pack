@@ -6,16 +6,16 @@
         "img": "images/credits.png"
     },
     {
-        "name": "Sinnoh",
+        "name": "johtokanto",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/sinnoh.png"
+        "img": "images/maps/johtokanto.png"
     },
     {
         "name": "twinleaftown",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/twinleaftown.png"
+        "img": "images/maps/newbarktown.png"
     },
     {
         "name": "sandgemtown",
