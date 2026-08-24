@@ -301,6 +301,7 @@
                 "img": "images/settings/opt_goal_lance.png",
                 "codes": "opt_goal, opt_goal_lance",
                 "inherit_codes": false
+            }
         ]
     },
     {

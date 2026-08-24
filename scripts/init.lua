@@ -43,13 +43,13 @@ Tracker:AddLayouts("layouts/quick_settings.json")
 Tracker:AddLayouts("layouts/dexsearch.json")
 
 -- Locations
-Tracker:AddLocations("locations/access.jsonc")
-Tracker:AddLocations("locations/overworldmap.jsonc")
-Tracker:AddLocations("locations/submaps_singles.json")
-Tracker:AddLocations("locations/submaps_groups.json")
-Tracker:AddLocations("locations/submaps_encounters.json")
-Tracker:AddLocations("locations/pokedex.json")
-Tracker:AddLocations("locations/dexsanity.json")
+--Tracker:AddLocations("locations/access.jsonc")
+--Tracker:AddLocations("locations/overworldmap.jsonc")
+--Tracker:AddLocations("locations/submaps_singles.json")
+--Tracker:AddLocations("locations/submaps_groups.json")
+--Tracker:AddLocations("locations/submaps_encounters.json")
+--Tracker:AddLocations("locations/pokedex.json")
+--Tracker:AddLocations("locations/dexsanity.json")
 
 -- AutoTracking for Poptracker
 require("scripts/autotracking/archipelago")

@@ -105,24 +105,12 @@ function dump_table(o, depth)
     end
 
     local ignore_keys = {
-        generated_trainer_parties = true,
-        generated_starters = true,
-        encounter_species_blacklist = true,
-        starter_whitelist = true,
-        starter_blacklist = true,
-        generated_roamers = true,
-        roamer_blacklist = true,
-        seed = true,
-        generated_special_encounters = true,
-        trainersanity_trainers = true,
-        trainer_party_blacklist = true,
-        generated_encounters = true,
+        start_inventory_from_pool = true,
+        trainersanity_required = true,
+        dexsanity_required = true,
+        possible_ap_struct_addresses = true,
         dexsanity_specs = true,
-        generated_munchlax_trees = true,
-        dexsanity_whitelist = true,
-        trainersanity_whitelist = true,
-        dexsanity_blacklist = true,
-        trainersanity_blacklist = true,
+        generated_encounters = true,
     }
 
     if type(o) == 'table' then
