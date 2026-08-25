@@ -4,14 +4,425 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "New Bark Town",
+        "title": "Route 1",
         "content": {
           "type": "map",
           "maps": [
-            "newbarktown"
+            "route1"
           ]
         }
       },
-	 ]
+      {
+        "title": "Route 2",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "North",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route2_n"
+                ]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route2_s"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 3",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route3_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route3_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 4",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route4_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route4_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 5",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route5"
+          ]
+        }
+      },
+      {
+        "title": "Route 6",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route6"
+          ]
+        }
+      },
+      {
+        "title": "Route 7",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route7"
+          ]
+        }
+      },
+      {
+        "title": "Route 8",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route8"
+          ]
+        }
+      },
+      {
+        "title": "Route 9",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route9_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route9_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 10",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "North",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route10_n"
+                ]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route10_s"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 11",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route11"
+          ]
+        }
+      },
+      {
+        "title": "Route 12",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "North",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route12_n"
+                ]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route12_s"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 13",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route13_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route13_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 14",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route14"
+          ]
+        }
+      },
+      {
+        "title": "Route 15",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route15_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route15_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 16",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route16"
+          ]
+        }
+      },
+      {
+        "title": "Route 17",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "North",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route17_n"
+                ]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route17_s"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 18",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route18"
+          ]
+        }
+      },
+      {
+        "title": "Route 19",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route19"
+          ]
+        }
+      },
+      {
+        "title": "Route 20",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route20_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route20_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 21",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "North",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route21_n"
+                ]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route21_s"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Route 22",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route22"
+          ]
+        }
+      },
+      {
+        "title": "Route 24",
+        "content": {
+          "type": "map",
+          "maps": [
+            "route24"
+          ]
+        }
+      },
+      {
+        "title": "Route 25",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route25_w"
+                ]
+              }
+            },
+            {
+              "title": "East",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route25_e"
+                ]
+              }
+            }
+          ]
+        }
+      },
+    ]
   }
 }

@@ -348,12 +348,22 @@
         "img": "images/maps/route2_s.png"
     },
     {
+        "name": "route3_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route3_w.png"
+    },
+    {
         "name": "route3_e",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/route3_e.png"
     },
     {
+        "name": "route4_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route4_w.png"
         "name": "route3_w",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -396,6 +406,12 @@
         "img": "images/maps/route8.png"
     },
     {
+        "name": "route9_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route9_w.png"
+    },
+    {
         "name": "route9_e",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -417,6 +433,7 @@
         "name": "route10_s",
         "location_size": 14,
         "location_border_thickness": 2,
+        "img": "images/maps/route10_s.png"
         "img": "images/maps/route10_S.png"
     },
     {
@@ -438,6 +455,12 @@
         "img": "images/maps/route12_s.png"
     },
     {
+        "name": "route13_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route13_w.png"
+    },
+    {
         "name": "route13_e",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -454,6 +477,12 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/route14.png"
+    },
+    {
+        "name": "route15_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route15_w.png"
     },
     {
         "name": "route15_e",
@@ -496,6 +525,12 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/route19.png"
+    },
+    {
+        "name": "route20_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route20_w.png"
     },
     {
         "name": "route20_e",
@@ -546,6 +581,22 @@
         "img": "images/maps/route25_w.png"
     },
     {
+        "name": "route26_n",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route26_n.png"
+    },
+    {
+        "name": "route26_s",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route26_s.png"
+    },
+    {
+        "name": "route27_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route27_w.png"
         "name": "route26",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -576,6 +627,12 @@
         "img": "images/maps/route28.png"
     },
     {
+        "name": "route29_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route29_w.png"
+    },
+    {
         "name": "route29_e",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -604,6 +661,12 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/route31.png"
+    },
+    {
+        "name": "route32_n",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route32_n.png"
     },
     {
         "name": "route32_c",
@@ -651,7 +714,7 @@
         "name": "route36",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/route.png36"
+        "img": "images/maps/route36.png"
     },
     {
         "name": "route37",
@@ -684,6 +747,12 @@
         "img": "images/maps/route41.png"
     },
     {
+        "name": "route42_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route42_w.png"
+    },
+    {
         "name": "route42_e",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -702,12 +771,22 @@
         "img": "images/maps/route43.png"
     },
     {
+        "name": "route44_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route44_w.png"
+    },
+    {
         "name": "route44_e",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/route44_e.png"
     },
     {
+        "name": "route45_n",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/route45_n.png"
         "name": "route44_w",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -822,3 +901,4 @@
         "img": "images/maps/unioncaveb2f.png"
     }
 ]
+
