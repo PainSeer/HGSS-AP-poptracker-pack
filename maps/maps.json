@@ -12,6 +12,24 @@
         "img": "images/maps/johtokanto.png"
     },
     {
+        "name": "johtokanto_v",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/johtokanto_v.png"
+    },
+    {
+        "name": "johto",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto.png"
+    },
+    {
+        "name": "kanto",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto.png"
+    },
+    {
         "name": "newbarktown",
         "location_size": 14,
         "location_border_thickness": 2,

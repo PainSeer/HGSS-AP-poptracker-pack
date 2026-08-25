@@ -1,0 +1,17 @@
+{
+  "kanto_routes": {
+
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "New Bark Town",
+        "content": {
+          "type": "map",
+          "maps": [
+            "newbarktown"
+          ]
+        }
+      },
+	 ]
+  }
+}

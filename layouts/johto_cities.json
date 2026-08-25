@@ -1,5 +1,6 @@
 {
   "johto_cities": {
+
     "type": "tabbed",
     "tabs": [
       {
@@ -432,5 +433,5 @@
         }
       }
 	  ]
-	}
+  }
 }

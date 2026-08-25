@@ -1,0 +1,44 @@
+{
+  "overworld": {
+
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Overworld (H)",
+        "content": {
+          "type": "map",
+          "maps": [
+            "johtokanto"
+          ]
+        }
+      },
+      {
+        "title": "Overworld (V)",
+        "content": {
+          "type": "map",
+          "maps": [
+            "johtokanto_v"
+          ]
+        }
+      },
+	        {
+        "title": "Johto Only",
+        "content": {
+          "type": "map",
+          "maps": [
+            "johto"
+          ]
+        }
+      },
+	        {
+        "title": "Kanto Only",
+        "content": {
+          "type": "map",
+          "maps": [
+            "kanto"
+          ]
+        }
+      },
+	 ]
+  }
+}
