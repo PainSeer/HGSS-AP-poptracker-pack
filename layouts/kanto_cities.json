@@ -1,6 +1,5 @@
 {
   "kanto_cities": {
-
     "type": "tabbed",
     "tabs": [
       {
@@ -115,7 +114,7 @@
             }
           ]
         }
-      },      
+      },
       {
         "title": "Celadon City",
         "content": {
@@ -229,6 +228,6 @@
           ]
         }
       }
-	 ]
+    ]
   }
 }
