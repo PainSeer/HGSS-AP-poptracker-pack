@@ -10,15 +10,18 @@
                         {
                             "type": "tabbed",
                             "tabs": [
-                                {
-                                    "title": "Overworld",
-                                    "content": {
-                                        "type": "map",
-                                        "maps": [
-                                            "johtokanto"
-                                        ]
-                                    }
-                                },
+	            {
+	                "title": "Overworld",
+	                "content": {
+	                    "type": "dock",
+	                    "content": [
+	                        {
+	                        "type": "layout",
+	                        "key": "overworld"
+	                        }
+	                    ]
+	                }
+			            },
                                 {
                                     "title": "Pokédex",
                                     "content": {
@@ -46,53 +49,77 @@
                             "type": "tabbed",
                             "tabs": [
                                 {
-                                    "title": "Cities",
+                                    "title": "Johto Cities",
                                     "content": {
                                         "type": "dock",
                                         "content": [
                                             {
                                             "type": "layout",
-                                            "key": "cities"
+                                            "key": "johto_cities"
                                             }
                                         ]
                                     }
                                 },
                                 {
-                                    "title": "Routes",
+                                    "title": "Johto Routes",
                                     "content": {
                                         "type": "dock",
                                         "content": [
                                             {
                                             "type": "layout",
-                                            "key": "routes"
+                                            "key": "johto_routes"
                                             }
                                         ]
                                     }
                                 },
                                 {
-                                    "title": "Dungeons",
+                                    "title": "Johto Dungeons",
                                     "content": {
                                         "type": "dock",
                                         "content": [
                                             {
                                             "type": "layout",
-                                            "key": "dungeons"
+                                            "key": "johto_dungeons"
                                             }
                                         ]
                                     }
                                 },
                                 {
-                                    "title": "Mt. Coronet",
+                                    "title": "Kanto Cities",
                                     "content": {
                                         "type": "dock",
                                         "content": [
                                             {
                                             "type": "layout",
-                                            "key": "mtcoronet"
+                                            "key": "kanto_cities"
                                             }
                                         ]
                                     }
-                                }
+                                },
+                                {
+                                    "title": "Kanto Routes",
+                                    "content": {
+                                        "type": "dock",
+                                        "content": [
+                                            {
+                                            "type": "layout",
+                                            "key": "kanto_routes"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Kanto Dungeons",
+                                    "content": {
+                                        "type": "dock",
+                                        "content": [
+                                            {
+                                            "type": "layout",
+                                            "key": "kanto_dungeons"
+                                            }
+                                        ]
+                                    }
+                                },
                             ]
                         }
                     ]
