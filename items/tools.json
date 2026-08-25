@@ -231,82 +231,6 @@
         ]
     },
     {
-        "name": "Search for Geodude",
-        "type": "progressive",
-        "allow_disabled": false,
-        "stages": [
-            {
-                "name": "Search for Geodude",
-                "img": "/images/pokemon/74.png",
-                "codes": "search_geodude"
-            },
-            {
-                "name": "Search for Geodude",
-                "img": "/images/pokemon/74.png",
-                "codes": "search_geodude_active",
-                "inherit_codes": false,
-                "img_mods": "@disabled"
-            }
-        ]
-    },
-    {
-        "name": "Search for Kecleon",
-        "type": "progressive",
-        "allow_disabled": false,
-        "stages": [
-            {
-                "name": "Search for Kecleon",
-                "img": "/images/pokemon/352.png",
-                "codes": "search_kecleon"
-            },
-            {
-                "name": "Search for Kecleon",
-                "img": "/images/pokemon/352.png",
-                "codes": "search_kecleon_active",
-                "inherit_codes": false,
-                "img_mods": "@disabled"
-            }
-        ]
-    },
-    {
-        "name": "Search for Snorlax",
-        "type": "progressive",
-        "allow_disabled": false,
-        "stages": [
-            {
-                "name": "Search for Snorlax",
-                "img": "/images/pokemon/143.png",
-                "codes": "search_snorlax"
-            },
-            {
-                "name": "Search for Snorlax",
-                "img": "/images/pokemon/143.png",
-                "codes": "search_snorlax_active",
-                "inherit_codes": false,
-                "img_mods": "@disabled"
-            }
-        ]
-    },
-    {
-        "name": "Search Amity Square Pokémon",
-        "type": "progressive",
-        "allow_disabled": false,
-        "stages": [
-            {
-                "name": "Search Amity Square Pokémon",
-                "img": "/images/tools/search_amitysquare.png",
-                "codes": "search_amity"
-            },
-            {
-                "name": "Search Amity Square Pokémon",
-                "img": "/images/tools/search_amitysquare.png",
-                "codes": "search_amity_active",
-                "inherit_codes": false,
-                "img_mods": "@disabled"
-            }
-        ]
-    },
-    {
         "name": "",
         "type": "static",
         "img": "/images/tools/dexentrytop.png",
@@ -2316,10 +2240,6 @@
             {
                 "name": "Searched for Arceus",
                 "img": "/images/pokemon/493.png"
-            },
-            {
-                "name": "Searched for Amity Square Pokémon",
-                "img": "/images/tools/search_amitysquare.png"
             },
             {
                 "name": "Not a valid search!",
