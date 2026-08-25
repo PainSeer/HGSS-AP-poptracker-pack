@@ -37,6 +37,197 @@
             }
           ]
         }
+      },
+      {
+        "title": "Pewter City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "pewtercity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "pewtergym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Cerulean City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleangym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Vermilion City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "vermilioncity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "vermiliongym"
+                ]
+              }
+            }
+          ]
+        }
+      },      
+      {
+        "title": "Celadon City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "celadoncity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "celadongym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Saffron City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "saffroncity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "saffrongym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Lavender Town",
+        "content": {
+          "type": "map",
+          "maps": [
+            "lavendertown"
+          ]
+        }
+      },
+      {
+        "title": "Fuschia City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "fuschiacity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "fuschiagym"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Cinnabar Island",
+        "content": {
+          "type": "map",
+          "maps": [
+            "cinnabarisland"
+          ]
+        }
+      },
+      {
+        "title": "Seafoam Islands",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cinnabargym"
+                ]
+              }
+            }
+          ]
+        }
       }
 	 ]
   }

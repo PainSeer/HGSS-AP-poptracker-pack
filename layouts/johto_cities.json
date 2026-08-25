@@ -54,7 +54,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "sprouttower"
+                        "sprouttower1f"
                       ]
                     }
                   },
@@ -167,7 +167,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "radiotower"
+                        "goldenrodradiotower1f"
                       ]
                     }
                   },
@@ -176,7 +176,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "radiotower2f"
+                        "goldenrodradiotower2f"
                       ]
                     }
                   },
@@ -185,7 +185,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "radiotower3f"
+                        "goldenrodradiotower3f"
                       ]
                     }
                   },
@@ -194,7 +194,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "radiotower4f"
+                        "goldenrodradiotower4f"
                       ]
                     }
                   },
@@ -203,7 +203,16 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "radiotower5f"
+                        "goldenrodradiotower5f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "6F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "goldenrodradiotower6f"
                       ]
                     }
                   }
@@ -220,7 +229,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "departmentstore1f"
+                        "goldenroddepartmentstore1f"
                       ]
                     }
                   },
@@ -229,7 +238,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "departmentstore2f"
+                        "goldenroddepartmentstore2f"
                       ]
                     }
                   },
@@ -238,7 +247,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "departmentstore3f"
+                        "goldenroddepartmentstore3f"
                       ]
                     }
                   },
@@ -247,7 +256,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "departmentstore4f"
+                        "goldenroddepartmentstore4f"
                       ]
                     }
                   },
@@ -256,7 +265,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "departmentstore5f"
+                        "goldenroddepartmentstore5f"
                       ]
                     }
                   },
@@ -265,16 +274,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "departmentstore6f"
-                      ]
-                    }
-                  },
-                  {
-                    "title": "Roof",
-                    "content": {
-                      "type": "map",
-                      "maps": [
-                        "departmentstorerf"
+                        "goldenroddepartmentstore6f"
                       ]
                     }
                   }
