@@ -4,14 +4,41 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "New Bark Town",
+        "title": "Pallet Town",
         "content": {
           "type": "map",
           "maps": [
-            "newbarktown"
+            "pallettown"
           ]
         }
       },
     ]
+      {
+        "title": "Viridian City",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "City",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "viridiancity"
+                ]
+              }
+            },
+            {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "viridiangym"
+                ]
+              }
+            }
+          ]
+        }
+      }
+	 ]
   }
 }
