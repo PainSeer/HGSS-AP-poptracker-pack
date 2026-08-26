@@ -2460,34 +2460,15 @@
     },
     {
         "name": "Goldenrod Tunnel",
-        "children": [
+        "sections": [
             {
-                "name": "Entrance - Fashion Case from Lyra",
+                "name": "Entrance - Fashion Case from Lyra or Ethan",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Ethan",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Goldenrod Tunnel",
-                        "x": 317,
-                        "y": 2179,
-                        "size": 6
-                    }
-                ]
-            }
-        ],
-        "sections": [
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
             {
                 "name": "Item North of Door Puzzle",
                 "chest_unopened_img": "/images/items/close.png",
@@ -6419,83 +6400,6 @@
     },
     {
         "name": "Route 25",
-        "children": [
-            {
-                "name": "Cottage - Item from Bills Grandfather for Showing Jigglypuff (HeartGold)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "or Lickitung (SoulSilver)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Route 25",
-                        "x": 348,
-                        "y": 761,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "or Staryu (SoulSilver)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Route 25",
-                        "x": 140,
-                        "y": 1824,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "or Vulpix (SoulSilver)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Route 25",
-                        "x": 2297,
-                        "y": 2010,
-                        "size": 6
-                    }
-                ]
-            }
-        ],
         "sections": [
             {
                 "name": "Item Behind Cut Tree",
@@ -6515,6 +6419,30 @@
             },
             {
                 "name": "Item from Ace Trainer Kevin",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bills Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [],
@@ -6916,34 +6844,15 @@
     },
     {
         "name": "Route 29",
-        "children": [
+        "sections": [
             {
-                "name": "Poke Balls from Lyra",
+                "name": "Poke Balls from Lyra or Ethan",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Ethan",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Route 29",
-                        "x": 2478,
-                        "y": 1037,
-                        "size": 6
-                    }
-                ]
-            }
-        ],
-        "sections": [
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
             {
                 "name": "Northeast Item",
                 "chest_unopened_img": "/images/items/close.png",
@@ -7244,34 +7153,15 @@
     },
     {
         "name": "Route 31",
-        "children": [
+        "sections": [
             {
-                "name": "Vs. Recorder from Lyra",
+                "name": "Vs. Recorder from Lyra or Ethan at Violet Gate",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Ethan at Violet Gate",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Route 31",
-                        "x": 1433,
-                        "y": 2246,
-                        "size": 6
-                    }
-                ]
-            }
-        ],
-        "sections": [
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
             {
                 "name": "Item Next to Dark Cave",
                 "chest_unopened_img": "/images/items/close.png",
