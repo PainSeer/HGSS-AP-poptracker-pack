@@ -28,7 +28,7 @@
     {
         "name": "azalea_gym_entrance",
         "access_rules": [
-            "@azalea",
+            "@azalea, $event_clear_slowpoke_well",
             "@azalea_gym"
         ]
     },
@@ -107,7 +107,7 @@
             "@frontier_access_move_tutor_house",
             "@frontier_access_pokecenter_1f",
             "@frontier_access_pokemart",
-            "@route_40_battle_frontier_gatehouse"
+            "@route_40_battle_frontier_gatehouse, $event_clear_pokemon_league"
         ]
     },
     {
@@ -140,7 +140,7 @@
     {
         "name": "bell_tower_2f",
         "access_rules": [
-            "@bell_tower_1f",
+            "@bell_tower_1f, $rainbow_wing",
             "@bell_tower_3f"
         ]
     },
@@ -232,7 +232,7 @@
     {
         "name": "blackthorn_gym",
         "access_rules": [
-            "@blackthorn"
+            "@blackthorn, $event_clear_rocket_tower"
         ]
     },
     {
@@ -380,7 +380,7 @@
     {
         "name": "celadon_gym",
         "access_rules": [
-            "@celadon"
+            "@celadon, $cut"
         ]
     },
     {
@@ -435,7 +435,7 @@
     {
         "name": "cerulean_cave_1f",
         "access_rules": [
-            "@cerulean",
+            "@cerulean, $surf, ^$flash, $kanto_badges(8)",
             "@cerulean_cave_2f",
             "@cerulean_cave_b1f"
         ]
@@ -443,13 +443,13 @@
     {
         "name": "cerulean_cave_2f",
         "access_rules": [
-            "@cerulean_cave_1f"
+            "@cerulean_cave_1f, $surf"
         ]
     },
     {
         "name": "cerulean_cave_b1f",
         "access_rules": [
-            "@cerulean_cave_1f"
+            "@cerulean_cave_1f, $surf"
         ]
     },
     {
@@ -555,8 +555,8 @@
             "@cianwood_north_house",
             "@cianwood_pharmacy",
             "@cianwood_pokecenter_1f",
-            "@cliff_edge_gate",
-            "@route_41",
+            "@cliff_edge_gate, $event_cure_amphy",
+            "@route_41, $surf",
             "$can_freefly(cianwood)"
         ]
     },
@@ -613,7 +613,7 @@
         "name": "cinnabar_island",
         "access_rules": [
             "@cinnabar_island_pokecenter_1f",
-            "@route_20_west",
+            "@route_20_west, $surf",
             "@route_21",
             "$can_freefly(cinnabar_island)"
         ]
@@ -640,21 +640,21 @@
     {
         "name": "cliff_edge_gate",
         "access_rules": [
-            "@cianwood",
+            "@cianwood, $event_cure_amphy",
             "@route_47"
         ]
     },
     {
         "name": "dark_cave_route_31_side_east",
         "access_rules": [
-            "@dark_cave_route_31_side_south",
-            "@dark_cave_route_31_side_west"
+            "@dark_cave_route_31_side_south, $rock_smash",
+            "$toocomplicated"
         ]
     },
     {
         "name": "dark_cave_route_31_side_north",
         "access_rules": [
-            "@dark_cave_route_31_side_west",
+            "@dark_cave_route_31_side_west, $surf",
             "@dark_cave_route_45_side_bottom"
         ]
     },
@@ -662,34 +662,34 @@
         "name": "dark_cave_route_31_side_south",
         "access_rules": [
             "@dark_cave_route_31_side_east",
-            "@route_46"
+            "@route_46, ^$flash"
         ]
     },
     {
         "name": "dark_cave_route_31_side_west",
         "access_rules": [
-            "@dark_cave_route_31_side_east",
-            "@dark_cave_route_31_side_north",
-            "@route_31"
+            "$toocomplicated",
+            "@dark_cave_route_31_side_north, $surf",
+            "@route_31, ^$flash"
         ]
     },
     {
         "name": "dark_cave_route_45_side",
         "access_rules": [
-            "@route_45_north"
+            "@route_45_north, ^$flash"
         ]
     },
     {
         "name": "dark_cave_route_45_side_bottom",
         "access_rules": [
             "@dark_cave_route_31_side_north",
-            "@dark_cave_route_45_side"
+            "@dark_cave_route_45_side, $surf"
         ]
     },
     {
         "name": "diglett_cave",
         "access_rules": [
-            "@route_11",
+            "@route_11, expn_card",
             "@route_2_east"
         ]
     },
@@ -703,14 +703,14 @@
     {
         "name": "dragons_den_entrance",
         "access_rules": [
-            "@blackthorn",
+            "@blackthorn, $event_defeat_clair, $surf",
             "@dragons_den"
         ]
     },
     {
         "name": "dragons_den_shrine",
         "access_rules": [
-            "@dragons_den"
+            "@dragons_den, $surf, $whirlpool"
         ]
     },
     {
@@ -741,7 +741,7 @@
         "name": "ecruteak_bell_tower_barrier_station_corridor",
         "access_rules": [
             "@bellchime_tower",
-            "@ecruteak_bell_tower_barrier_station"
+            "@ecruteak_bell_tower_barrier_station, $fog_badge"
         ]
     },
     {
@@ -759,7 +759,7 @@
     {
         "name": "ecruteak_gym",
         "access_rules": [
-            "@ecruteak"
+            "@ecruteak, $event_burned_tower_disperse_legendary_dogs"
         ]
     },
     {
@@ -791,19 +791,19 @@
     {
         "name": "embedded_tower_groudon_room",
         "access_rules": [
-            "@route_47"
+            "@route_47, $surf, $rock_climb"
         ]
     },
     {
         "name": "embedded_tower_kyogre_room",
         "access_rules": [
-            "@route_47"
+            "@route_47, $surf, $rock_climb"
         ]
     },
     {
         "name": "embedded_tower_rayquaza_room",
         "access_rules": [
-            "@route_47"
+            "@route_47, $surf, $rock_climb"
         ]
     },
     {
@@ -968,7 +968,7 @@
         "name": "goldenrod_department_store_basement",
         "access_rules": [
             "@goldenrod_department_store_elevator",
-            "@goldenrod_tunnel_warehouse"
+            "@goldenrod_tunnel_warehouse, $basement_key"
         ]
     },
     {
@@ -1026,7 +1026,7 @@
     {
         "name": "goldenrod_gym",
         "access_rules": [
-            "@goldenrod"
+            "@goldenrod, $event_radio_quiz"
         ]
     },
     {
@@ -1039,7 +1039,7 @@
     {
         "name": "goldenrod_magnet_train_station_2f_empty",
         "access_rules": [
-            "@goldenrod_magnet_train_station_1f",
+            "@goldenrod_magnet_train_station_1f, $use_magnet_train",
             "@saffron_magnet_train_station_2f_empty"
         ]
     },
@@ -1078,7 +1078,7 @@
     {
         "name": "goldenrod_radio_tower_2f",
         "access_rules": [
-            "@goldenrod_radio_tower_1f",
+            "@goldenrod_radio_tower_1f, $radio_tower_trigger",
             "@goldenrod_radio_tower_3f"
         ]
     },
@@ -1092,7 +1092,7 @@
     {
         "name": "goldenrod_radio_tower_3f_east",
         "access_rules": [
-            "@goldenrod_radio_tower_3f",
+            "@goldenrod_radio_tower_3f, $card_key",
             "@goldenrod_radio_tower_4f_east"
         ]
     },
@@ -1153,7 +1153,7 @@
     {
         "name": "goldenrod_tunnel_b2f",
         "access_rules": [
-            "@goldenrod_tunnel_1f",
+            "@goldenrod_tunnel_1f, $basement_key",
             "@goldenrod_tunnel_warehouse"
         ]
     },
@@ -1208,14 +1208,14 @@
     {
         "name": "ice_path_b3f",
         "access_rules": [
-            "@ice_path_b2f",
+            "@ice_path_b2f, $strength",
             "@ice_path_b2f_back"
         ]
     },
     {
         "name": "ilex_forest_north",
         "access_rules": [
-            "@ilex_forest_south",
+            "@ilex_forest_south, $cut",
             "@route_34_ilex_forest_gatehouse"
         ]
     },
@@ -1223,7 +1223,7 @@
         "name": "ilex_forest_south",
         "access_rules": [
             "@azalea_ilex_forest_gatehouse",
-            "@ilex_forest_north"
+            "@ilex_forest_north, $cut"
         ]
     },
     {
@@ -1252,13 +1252,13 @@
     {
         "name": "lake_of_rage_hidden_power_house",
         "access_rules": [
-            "@lake_of_rage"
+            "@lake_of_rage, $surf"
         ]
     },
     {
         "name": "lake_of_rage_low_tide",
         "access_rules": [
-            "@lake_of_rage"
+            "@lake_of_rage, $event_access_low_tide_dialogue"
         ]
     },
     {
@@ -1354,7 +1354,7 @@
     {
         "name": "mahogany_gym_room_1",
         "access_rules": [
-            "@mahogany",
+            "@mahogany, $event_clear_mahogany_hideout",
             "@mahogany_gym_room_2"
         ]
     },
@@ -1396,14 +1396,15 @@
     {
         "name": "mount_moon_square",
         "access_rules": [
-            "@mount_moon_square_entrance",
+            "@mount_moon_square_entrance, $morningtime",
+            "@mount_moon_square_entrance, $daytime",
             "@mount_moon_square_shop"
         ]
     },
     {
         "name": "mount_moon_square_clefairy_event",
         "access_rules": [
-            "@mount_moon_square_entrance"
+            "@mount_moon_square_entrance, $nighttime"
         ]
     },
     {
@@ -1417,21 +1418,21 @@
     {
         "name": "mount_moon_square_shop",
         "access_rules": [
-            "@mount_moon_square"
+            "@mount_moon_square, $daytime"
         ]
     },
     {
         "name": "mount_mortar_1f_back_middle",
         "access_rules": [
             "@mount_mortar_1f_back_north",
-            "@mount_mortar_1f_back_south",
-            "@mount_mortar_1f_back_southeast"
+            "@mount_mortar_1f_back_south, $strength",
+            "@mount_mortar_1f_back_southeast, $rock_climb"
         ]
     },
     {
         "name": "mount_mortar_1f_back_north",
         "access_rules": [
-            "@mount_mortar_2f",
+            "@mount_mortar_2f, $surf",
             "@mount_mortar_b1f_north"
         ]
     },
@@ -1445,8 +1446,8 @@
     {
         "name": "mount_mortar_1f_back_southeast",
         "access_rules": [
-            "@mount_mortar_1f_back_middle",
-            "@mount_mortar_1f_entrance"
+            "@mount_mortar_1f_back_middle, $rock_climb",
+            "@mount_mortar_1f_entrance, $rock_climb"
         ]
     },
     {
@@ -1463,7 +1464,7 @@
         "name": "mount_mortar_2f",
         "access_rules": [
             "@mount_mortar_1f_back_north",
-            "@mount_mortar_1f_entrance"
+            "@mount_mortar_1f_entrance, $surf, $waterfall"
         ]
     },
     {
@@ -1475,8 +1476,8 @@
     {
         "name": "mount_mortar_b1f_south",
         "access_rules": [
-            "@mount_mortar_1f_entrance",
-            "@mount_mortar_b1f_north"
+            "@mount_mortar_1f_entrance, $surf",
+            "@mount_mortar_b1f_north, $strength, $surf"
         ]
     },
     {
@@ -1484,7 +1485,7 @@
         "access_rules": [
             "@mount_silver_cave_1f",
             "@mount_silver_pokecenter_1f",
-            "@route_28_north",
+            "@route_28_north, $cut",
             "@route_28_south",
             "$can_freefly(mount_silver)"
         ]
@@ -1542,32 +1543,32 @@
         "name": "mount_silver_cave_3f",
         "access_rules": [
             "@mount_silver_cave_summit",
-            "@mount_silver_cave_upper_mountainside_southwest"
+            "@mount_silver_cave_upper_mountainside_southwest, $rock_climb"
         ]
     },
     {
         "name": "mount_silver_cave_expert_belt_chamber",
         "access_rules": [
-            "@mount_silver_cave_1f"
+            "@mount_silver_cave_1f, $surf, $waterfall"
         ]
     },
     {
         "name": "mount_silver_cave_lower_mountainside",
         "access_rules": [
-            "@mount_silver_cave_1f",
+            "@mount_silver_cave_1f, $rock_climb",
             "@mount_silver_cave_1f_northeast"
         ]
     },
     {
         "name": "mount_silver_cave_moltres_chamber",
         "access_rules": [
-            "@mount_silver_cave_1f"
+            "@mount_silver_cave_1f, $surf, $waterfall, $rock_climb"
         ]
     },
     {
         "name": "mount_silver_cave_summit",
         "access_rules": [
-            "@mount_silver_cave_3f"
+            "@mount_silver_cave_3f, $rock_climb"
         ]
     },
     {
@@ -1628,8 +1629,8 @@
     {
         "name": "new_bark_east",
         "access_rules": [
-            "@new_bark",
-            "@route_27_west"
+            "$toocomplicated",
+            "@route_27_west, $surf"
         ]
     },
     {
@@ -1901,7 +1902,7 @@
         "name": "pokeathlon_dome",
         "access_rules": [
             "@pokeathlon_dome_interior_1f",
-            "@route_35_national_park_pokeathalon_gatehouse"
+            "@route_35_national_park_pokeathalon_gatehouse, $event_defeat_whitney"
         ]
     },
     {
@@ -2005,8 +2006,8 @@
         "name": "rock_tunnel_1f",
         "access_rules": [
             "@rock_tunnel_b1f",
-            "@route_10",
-            "@route_10_south"
+            "@route_10, ^$flash",
+            "@route_10_south, ^$flash"
         ]
     },
     {
@@ -2047,13 +2048,13 @@
     {
         "name": "route_10_power_plant_broken",
         "access_rules": [
-            "@route_10"
+            "@route_10, $surf"
         ]
     },
     {
         "name": "route_10_power_plant_repaired",
         "access_rules": [
-            "@route_10"
+            "@route_10, $surf, $machine_part"
         ]
     },
     {
@@ -2066,9 +2067,9 @@
     {
         "name": "route_11",
         "access_rules": [
-            "@diglett_cave",
+            "@diglett_cave, expn_card",
             "@route_11_route_12_gatehouse",
-            "@vermilion"
+            "@vermilion, expn_card"
         ]
     },
     {
@@ -2124,7 +2125,7 @@
     {
         "name": "route_16",
         "access_rules": [
-            "@route_16_gatehouse",
+            "@route_16_gatehouse, $bicycle",
             "@route_17"
         ]
     },
@@ -2146,14 +2147,14 @@
     {
         "name": "route_16_house",
         "access_rules": [
-            "@route_16_east"
+            "@route_16_east, $cut"
         ]
     },
     {
         "name": "route_17",
         "access_rules": [
             "@route_16",
-            "@route_18_gatehouse"
+            "@route_18_gatehouse, $bicycle"
         ]
     },
     {
@@ -2171,14 +2172,14 @@
     {
         "name": "route_19",
         "access_rules": [
-            "@route_19_from_fuchia",
+            "@route_19_from_fuchia, $event_defeat_blaine, $surf",
             "@route_20_east"
         ]
     },
     {
         "name": "route_19_from_fuchia",
         "access_rules": [
-            "@route_19",
+            "@route_19, $event_defeat_blaine",
             "@route_19_fuchsia_gatehouse"
         ]
     },
@@ -2193,7 +2194,7 @@
         "name": "route_2",
         "access_rules": [
             "@pewter",
-            "@route_2_east",
+            "@route_2_east, $cut",
             "@route_2_viridian_forest_north_gatehouse",
             "@route_2_viridian_forest_south_gatehouse",
             "@viridian"
@@ -2209,21 +2210,21 @@
     {
         "name": "route_20_west",
         "access_rules": [
-            "@cinnabar_island",
+            "@cinnabar_island, $surf",
             "@seafoam_islands_1f_east"
         ]
     },
     {
         "name": "route_21",
         "access_rules": [
-            "@cinnabar_island",
-            "@pallet"
+            "@cinnabar_island, $surf",
+            "@pallet, $surf"
         ]
     },
     {
         "name": "route_22",
         "access_rules": [
-            "@route_22_pokemon_league_reception_gate",
+            "@route_22_pokemon_league_reception_gate, $event_unlock_west_kanto_exit",
             "@viridian"
         ]
     },
@@ -2231,7 +2232,7 @@
         "name": "route_22_pokemon_league_reception_gate",
         "access_rules": [
             "@route_22",
-            "@route_26",
+            "@route_26, $johto_badges(8)",
             "@route_28_south",
             "@victory_road_1f_entrance"
         ]
@@ -2281,7 +2282,7 @@
     {
         "name": "route_27_center",
         "access_rules": [
-            "@route_27_east",
+            "@route_27_east, $surf",
             "@route_27_house",
             "@tohjo_falls_east"
         ]
@@ -2290,7 +2291,7 @@
         "name": "route_27_east",
         "access_rules": [
             "@route_26",
-            "@route_27_center"
+            "@route_27_center, $surf"
         ]
     },
     {
@@ -2302,7 +2303,7 @@
     {
         "name": "route_27_west",
         "access_rules": [
-            "@new_bark_east",
+            "@new_bark_east, $surf",
             "@route_27_center",
             "@tohjo_falls_west"
         ]
@@ -2316,7 +2317,7 @@
     {
         "name": "route_28_north",
         "access_rules": [
-            "@mount_silver",
+            "@mount_silver, $cut",
             "@route_28_house"
         ]
     },
@@ -2324,7 +2325,7 @@
         "name": "route_28_south",
         "access_rules": [
             "@mount_silver",
-            "@route_22_pokemon_league_reception_gate",
+            "@route_22_pokemon_league_reception_gate, $event_get_hm08",
             "@route_28_north"
         ]
     },
@@ -2347,7 +2348,7 @@
         "name": "route_2_east",
         "access_rules": [
             "@diglett_cave",
-            "@route_2",
+            "@route_2, $cut",
             "@route_2_house",
             "@route_2_southeast_gatehouse"
         ]
@@ -2410,7 +2411,8 @@
     {
         "name": "route_30_northwest",
         "access_rules": [
-            "@route_30",
+            "@route_30, $event_get_mystery_egg",
+            "@route_30, $cut",
             "@route_31"
         ]
     },
@@ -2432,7 +2434,7 @@
     {
         "name": "route_32",
         "access_rules": [
-            "@route_32_north",
+            "@route_32_north, zephyr_badge, $event_get_togepi_egg",
             "@route_32_pokecenter_1f",
             "@union_cave_1f"
         ]
@@ -2498,7 +2500,7 @@
         "access_rules": [
             "@route_35_goldenrod_gatehouse",
             "@route_35_national_park_pokeathalon_gatehouse",
-            "@route_36_southwest"
+            "@route_36_southwest, $cut"
         ]
     },
     {
@@ -2526,8 +2528,8 @@
     {
         "name": "route_36_north",
         "access_rules": [
-            "@route_36_southeast",
-            "@route_36_southwest",
+            "@route_36_southeast, squirtbottle",
+            "@route_36_southwest, squirtbottle",
             "@route_37"
         ]
     },
@@ -2541,19 +2543,19 @@
     {
         "name": "route_36_southeast",
         "access_rules": [
-            "@route_36_north",
+            "@route_36_north, squirtbottle",
             "@route_36_ruins_of_alph_gatehouse",
-            "@route_36_southwest",
+            "@route_36_southwest, squirtbottle",
             "@violet_route_36_gatehouse"
         ]
     },
     {
         "name": "route_36_southwest",
         "access_rules": [
-            "@route_35",
+            "@route_35, $cut",
             "@route_36_national_park_gatehouse",
-            "@route_36_north",
-            "@route_36_southeast"
+            "@route_36_north, squirtbottle",
+            "@route_36_southeast, squirtbottle"
         ]
     },
     {
@@ -2622,9 +2624,9 @@
     {
         "name": "route_40",
         "access_rules": [
-            "@olivine",
+            "@olivine, $hm03",
             "@route_40_battle_frontier_gatehouse",
-            "@route_41"
+            "@route_41, $surf"
         ]
     },
     {
@@ -2637,8 +2639,8 @@
     {
         "name": "route_41",
         "access_rules": [
-            "@cianwood",
-            "@route_40",
+            "@cianwood, $surf",
+            "@route_40, $surf",
             "@whirl_islands_1f"
         ]
     },
@@ -2682,7 +2684,7 @@
         "name": "route_44",
         "access_rules": [
             "@ice_path_1f",
-            "@mahogany"
+            "@mahogany, $event_clear_rocket_tower"
         ]
     },
     {
@@ -2776,7 +2778,7 @@
     {
         "name": "route_5_underground_path_gate",
         "access_rules": [
-            "@route_5",
+            "@route_5, $event_restore_power",
             "@route_5_underground_path"
         ]
     },
@@ -2799,7 +2801,7 @@
         "name": "route_6_underground_path_gate",
         "access_rules": [
             "@route_5_underground_path",
-            "@route_6"
+            "@route_6, $event_restore_power"
         ]
     },
     {
@@ -2846,7 +2848,7 @@
             "@ruins_of_alph_hall_entrance_sinjoh_event",
             "@ruins_of_alph_northeast_entrance_first_room",
             "@ruins_of_alph_research_center",
-            "@ruins_of_alph_southeast"
+            "@ruins_of_alph_southeast, $surf"
         ]
     },
     {
@@ -2874,27 +2876,29 @@
     {
         "name": "ruins_of_alph_northeast_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_northeast_entrance_first_room"
+            "@ruins_of_alph_northeast_entrance_first_room, $badges(1)",
+            "@ruins_of_alph_northeast_entrance_first_room, $event_goldenrod_store",
+            "@ruins_of_alph_northeast_entrance_first_room, $event_celadon_store"
         ]
     },
     {
         "name": "ruins_of_alph_northwest",
         "access_rules": [
             "@ruins_of_alph_northwest_entrance_first_room",
-            "@union_cave_1f"
+            "@union_cave_1f, $surf"
         ]
     },
     {
         "name": "ruins_of_alph_northwest_entrance_first_room",
         "access_rules": [
-            "@ruins_of_alph_northwest",
+            "@ruins_of_alph_northwest, $surf",
             "@ruins_of_alph_northwest_entrance_second_room"
         ]
     },
     {
         "name": "ruins_of_alph_northwest_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_northwest_entrance_first_room"
+            "@ruins_of_alph_northwest_entrance_first_room, $rainbow_wing"
         ]
     },
     {
@@ -2906,7 +2910,7 @@
     {
         "name": "ruins_of_alph_southeast",
         "access_rules": [
-            "@ruins_of_alph",
+            "@ruins_of_alph, $surf",
             "@ruins_of_alph_southeast_entrance_first_room",
             "@ruins_of_alph_southwest"
         ]
@@ -2914,34 +2918,34 @@
     {
         "name": "ruins_of_alph_southeast_entrance_first_room",
         "access_rules": [
-            "@ruins_of_alph_southeast",
+            "@ruins_of_alph_southeast, $surf",
             "@ruins_of_alph_southeast_entrance_second_room"
         ]
     },
     {
         "name": "ruins_of_alph_southeast_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_southeast_entrance_first_room"
+            "@ruins_of_alph_southeast_entrance_first_room, $flash"
         ]
     },
     {
         "name": "ruins_of_alph_southwest",
         "access_rules": [
             "@ruins_of_alph_southwest_entrance_first_room",
-            "@union_cave_1f"
+            "@union_cave_1f, $surf, $strength"
         ]
     },
     {
         "name": "ruins_of_alph_southwest_entrance_first_room",
         "access_rules": [
-            "@ruins_of_alph_southwest",
+            "@ruins_of_alph_southwest, $surf, $strength",
             "@ruins_of_alph_southwest_entrance_second_room"
         ]
     },
     {
         "name": "ruins_of_alph_southwest_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_southwest_entrance_first_room"
+            "@ruins_of_alph_southwest_entrance_first_room, $water_stone"
         ]
     },
     {
@@ -3051,7 +3055,7 @@
         "name": "saffron_magnet_train_station_2f_empty",
         "access_rules": [
             "@goldenrod_magnet_train_station_2f_empty",
-            "@saffron_magnet_train_station_1f"
+            "@saffron_magnet_train_station_1f, $use_magnet_train"
         ]
     },
     {
@@ -3095,14 +3099,14 @@
         "name": "seafoam_islands_1f_east",
         "access_rules": [
             "@route_20_west",
-            "@seafoam_islands_b1f"
+            "@seafoam_islands_b1f, $strength"
         ]
     },
     {
         "name": "seafoam_islands_1f_west",
         "access_rules": [
             "@route_20_east",
-            "@seafoam_islands_b1f",
+            "@seafoam_islands_b1f, $strength",
             "@seafoam_islands_cinnabar_gym"
         ]
     },
@@ -3117,7 +3121,7 @@
     {
         "name": "seafoam_islands_b2f",
         "access_rules": [
-            "@seafoam_islands_b1f",
+            "@seafoam_islands_b1f, $strength",
             "@seafoam_islands_b3f"
         ]
     },
@@ -3150,13 +3154,13 @@
     {
         "name": "slowpoke_well_b2f",
         "access_rules": [
-            "@slowpoke_well_b1f"
+            "@slowpoke_well_b1f, $strength, $surf"
         ]
     },
     {
         "name": "slowpoke_well_entrance",
         "access_rules": [
-            "@azalea",
+            "@azalea, $event_talk_to_kurt",
             "@slowpoke_well_b1f"
         ]
     },
@@ -3189,7 +3193,7 @@
             "@ss_aqua_1f_southwest_rooms",
             "@ss_aqua_b1f",
             "@ss_aqua_captain_room",
-            "@ss_aqua_olivine_port_exterior",
+            "@ss_aqua_olivine_port_exterior, ssticket",
             "@ss_aqua_vermilion_port_exterior"
         ]
     },
@@ -3247,7 +3251,7 @@
         "name": "ss_aqua_vermilion_port_exterior",
         "access_rules": [
             "@ss_aqua_1f",
-            "@ss_aqua_vermilion_port_interior"
+            "@ss_aqua_vermilion_port_interior, ssticket"
         ]
     },
     {
@@ -3260,7 +3264,7 @@
     {
         "name": "team_rocket_headquarters_b1f",
         "access_rules": [
-            "@mahogany_souvenir_shop",
+            "@mahogany_souvenir_shop, $event_shiny_gyarados",
             "@team_rocket_headquarters_b2f"
         ]
     },
@@ -3282,20 +3286,20 @@
         "access_rules": [
             "@route_27_center",
             "@tohjo_falls_hidden_room",
-            "@tohjo_falls_west"
+            "@tohjo_falls_west, $surf, $waterfall"
         ]
     },
     {
         "name": "tohjo_falls_hidden_room",
         "access_rules": [
-            "@tohjo_falls_east"
+            "@tohjo_falls_east, $surf"
         ]
     },
     {
         "name": "tohjo_falls_west",
         "access_rules": [
             "@route_27_west",
-            "@tohjo_falls_east"
+            "@tohjo_falls_east, $surf, $waterfall"
         ]
     },
     {
@@ -3323,20 +3327,20 @@
     {
         "name": "union_cave_b1f_pathway",
         "access_rules": [
-            "@union_cave_1f",
+            "@union_cave_1f, $surf",
             "@union_cave_b2f"
         ]
     },
     {
         "name": "union_cave_b2f",
         "access_rules": [
-            "@union_cave_b1f_pathway"
+            "@union_cave_b1f_pathway, $surf"
         ]
     },
     {
         "name": "vermilion",
         "access_rules": [
-            "@route_11",
+            "@route_11, expn_card",
             "@route_6",
             "@ss_aqua_vermilion_port_interior",
             "@vermilion_central_house",
@@ -3364,7 +3368,8 @@
     {
         "name": "vermilion_gym",
         "access_rules": [
-            "@vermilion"
+            "@vermilion, $cut",
+            "@vermilion, $surf"
         ]
     },
     {
@@ -3401,7 +3406,7 @@
     {
         "name": "victory_road_1f",
         "access_rules": [
-            "@victory_road_1f_entrance",
+            "@victory_road_1f_entrance, $strength",
             "@victory_road_2f"
         ]
     },
@@ -3409,7 +3414,7 @@
         "name": "victory_road_1f_entrance",
         "access_rules": [
             "@route_22_pokemon_league_reception_gate",
-            "@victory_road_1f"
+            "@victory_road_1f, $strength"
         ]
     },
     {
@@ -3417,7 +3422,7 @@
         "access_rules": [
             "@victory_road_1f",
             "@victory_road_2f_northeast",
-            "@victory_road_2f_northwest",
+            "@victory_road_2f_northwest, $strength",
             "@victory_road_3f_southeast"
         ]
     },
@@ -3452,7 +3457,7 @@
     {
         "name": "victory_road_3f_northeast",
         "access_rules": [
-            "@victory_road_2f_northeast"
+            "@victory_road_2f_northeast, $strength"
         ]
     },
     {
@@ -3486,7 +3491,7 @@
     {
         "name": "violet_gym",
         "access_rules": [
-            "@violet"
+            "@violet, $event_beat_sprout_tower"
         ]
     },
     {
@@ -3551,7 +3556,7 @@
     {
         "name": "viridian_gym",
         "access_rules": [
-            "@viridian"
+            "@viridian, $event_cinnabar_island_blue_return_viridian"
         ]
     },
     {
@@ -3628,24 +3633,24 @@
     {
         "name": "virt_ice_rock",
         "access_rules": [
-            "@ice_path_1f",
-            "@ice_path_1f_back",
-            "@seafoam_islands_b3f"
+            "$toocomplicated",
+            "$toocomplicated",
+            "$toocomplicated"
         ]
     },
     {
         "name": "virt_magnetic_field",
         "access_rules": [
-            "@route_10",
-            "@ruins_of_alph"
+            "$toocomplicated",
+            "$toocomplicated"
         ]
     },
     {
         "name": "virt_moss_rock",
         "access_rules": [
-            "@ilex_forest_north",
-            "@ilex_forest_south",
-            "@viridian_forest"
+            "$toocomplicated",
+            "$toocomplicated",
+            "$toocomplicated"
         ]
     },
     {
@@ -3699,7 +3704,7 @@
     {
         "name": "whirl_islands_1f",
         "access_rules": [
-            "@route_41",
+            "@route_41, ^$flash, $surf, $whirlpool",
             "@whirl_islands_b1f"
         ]
     },
@@ -3721,13 +3726,13 @@
     {
         "name": "whirl_islands_b3f",
         "access_rules": [
-            "@whirl_islands_b2f"
+            "@whirl_islands_b2f, $silver_wing"
         ]
     },
     {
         "name": "whirl_islands_b3f_lugia_cave",
         "access_rules": [
-            "@whirl_islands_b2f"
+            "@whirl_islands_b2f, $silver_wing"
         ]
     }
 ]
