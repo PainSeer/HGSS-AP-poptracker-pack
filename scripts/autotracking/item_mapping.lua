@@ -60,7 +60,7 @@ ITEM_MAPPING = {
     [57362] =   {{"morningtime", "toggle"}},
     [57363] =   {{"daytime", "toggle"}},
     [57364] =   {{"nighttime", "toggle"}},
-	[57360] =   {{"upgradablepokedex", "progressive"}},
+	[57360] =   {{"pokedex", "progressive"}},
     
     -- Evolution Related
     [107]   = {{"shinystone", "toggle"}},

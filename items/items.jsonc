@@ -274,38 +274,25 @@
         ]
     },
     {
-        "name": "Pokedex 1",
+        "name": "Pokedex 1", // this exists for vanilla-sync, does not get an image as it's not user-facing
         "type": "toggle",
         "codes": "pokedex_1"
     },
     {
-        "name": "Pokedex 2",
+        "name": "Pokedex 2", // this exists for vanilla-sync, does not get an image as it's not user-facing
         "type": "toggle",
         "codes": "pokedex_2"
     },
     {
-        "name": "Pokedex 3",
+        "name": "Pokedex 3", // this exists for vanilla-sync, does not get an image as it's not user-facing
         "type": "toggle",
         "codes": "pokedex_3"
-    },
-    {
-        "name": "Poketch",
-        "type": "toggle",
-        "img": "images/items/poketch.png",
-        "codes": "poketch"
     },
     {
         "name": "Dowsing Machine",
         "type": "toggle",
         "img": "images/items/dowsing_machine.png",
         "codes": "dowsingmachine"
-    },
-    {
-        "name": "Bag",
-        "type": "toggle",
-        "img": "images/items/bag.png",
-        "initial_active_state": true,
-        "codes": "bag"
     },
     {
         "name": "Bicycle",
@@ -330,12 +317,6 @@
         "type": "toggle",
         "img": "images/items/super_rod.png",
         "codes": "superrod"
-    },
-    {
-        "name": "Parcel",
-        "type": "toggle",
-        "img": "images/items/parcel.png",
-        "codes": "parcel"
     },
     {
         "name": "Secret Potion",
@@ -422,42 +403,6 @@
         "codes": "waterstone"
     },
     {
-        "name": "Odd Keystone",
-        "type": "toggle",
-        "img": "images/items/oddkeystone.png",
-        "codes": "oddkeystone"
-    },
-    {
-        "name": "Markingmap",
-        "type": "toggle",
-        "img": "images/items/markingmap.png",
-        "codes": "markingmap"
-    },
-    {
-        "name": "TM93 Rollout",
-        "type": "toggle",
-        "img": "images/items/tm93rollout.png",
-        "codes": "tm93rollout"
-    },
-    {
-        "name": "TM94 AncientPower",
-        "type": "toggle",
-        "img": "images/items/tm94ancientpower.png",
-        "codes": "tm94ancientpower"
-    },
-    {
-        "name": "TM95 Double Hit",
-        "type": "toggle",
-        "img": "images/items/tm95doublehit.png",
-        "codes": "tm95doublehit"
-    },
-    {
-        "name": "TM96 Mimic",
-        "type": "toggle",
-        "img": "images/items/tm96mimic.png",
-        "codes": "tm96mimic"
-    },
-    {
         "name": "Oval Stone",
         "type": "toggle",
         "img": "images/items/ovalstone.png",
@@ -540,12 +485,6 @@
         "type": "toggle",
         "img": "images/items/razorfang.png",
         "codes": "razorfang"
-    },
-    {
-        "name": "Poké Radar",
-        "type": "toggle",
-        "img": "images/items/pokeradar.png",
-        "codes": "radar"
     },
     {
         "name": "Total Pokemon Caught",
