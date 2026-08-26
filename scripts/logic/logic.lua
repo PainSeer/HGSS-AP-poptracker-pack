@@ -1,25 +1,25 @@
 function cut()
-    return has("hm01cut") and (has ("free_cut") or has(hivebadge))
+    return has("hm01cut") and (has("free_cut") or has("hivebadge"))
 end
 
 function fly()
-    return has("hm02fly") and (has ("free_fly") or has(stormbadge))
+    return has("hm02fly") and (has("free_fly") or has("stormbadge"))
 end
 
 function surf()
-    return has("hm03surf") and (has ("free_surf") or has(fogbadge))
+    return has("hm03surf") and (has("free_surf") or has("fogbadge"))
 end
 
 function strength()
-    return has("hm04strength") and (has ("free_strength") or has(plainbadge))
+    return has("hm04strength") and (has("free_strength") or has("plainbadge"))
 end
 
 function rock_smash()
-    return has("hm01rock_smash") and (has ("free_rock_smash") or has(zephyrbadge))
+    return has("hm01rock_smash") and (has("free_rock_smash") or has("zephyrbadge"))
 end
 
 function waterfall()
-    return has("hm07waterfall") and (has ("free_waterfall") or has(risingbadge))
+    return has("hm07waterfall") and (has("free_waterfall") or has("risingbadge"))
 end
 
 function down_waterfall()
@@ -27,11 +27,11 @@ function down_waterfall()
 end
 
 function whirlpool()
-    return has("hm05whirlpool") and (has ("free_whirlpool") or has(glacierbadge))
+    return has("hm05whirlpool") and (has("free_whirlpool") or has("glacierbadge"))
 end
 
 function rock_climb()
-    return has("hm08rock_climb") and (has ("free_rock_climb") or has(earthbadge))
+    return has("hm08rock_climb") and (has("free_rock_climb") or has("earthbadge"))
 end
 
 function hidden()
