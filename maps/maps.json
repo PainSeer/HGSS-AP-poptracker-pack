@@ -66,6 +66,12 @@
         "img": "images/maps/azaleagym.png"
     },
     {
+        "name": "slowpokewellentrance",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/slowpokewellentrance.png"
+    },
+    {
         "name": "slowpokewellb1f",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -904,6 +910,114 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/unioncaveb2f.png"
+    },
+    {
+        "name": "bellchimetrail",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/bellchimetrail.png"
+    },
+    {
+        "name": "belltower1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower1f.png"
+    },
+    {
+        "name": "belltower2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower2f.png"
+    },
+    {
+        "name": "belltower3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower3f.png"
+    },
+    {
+        "name": "belltower4f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower4f.png"
+    },
+    {
+        "name": "belltower5f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower5f.png"
+    },
+    {
+        "name": "belltower6f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower6f.png"
+    },
+    {
+        "name": "belltower7f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower7f.png"
+    },
+    {
+        "name": "belltower8f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower8f.png"
+    },
+    {
+        "name": "belltower9f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower9f.png"
+    },
+    {
+        "name": "belltower10f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltower.png"
+    },
+    {
+        "name": "belltowertop",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/belltowertop.png"
+    },
+    {
+        "name": "burnedtower1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/burnedtower1f.png"
+    },
+    {
+        "name": "burnedtowerb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/burnedtowerb1f.png"
+    },
+    {
+        "name": "cliffcave1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/cliffcave1f.png"
+    },
+    {
+        "name": "cliffcave2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/cliffcave2f.png"
+    },
+    {
+        "name": "cliffcave3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/cliffcave3f.png"
+    },
+    {
+        "name": "cliffedgegate",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/cliffedgegate.png"
     }
 ]
 

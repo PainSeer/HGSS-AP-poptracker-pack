@@ -111,6 +111,15 @@
                 "type": "tabbed",
                 "tabs": [
                   {
+                    "title": "Entrance",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "slowpokewellentrance"
+                      ]
+                    }
+                  },
+                  {
                     "title": "B1F",
                     "content": {
                       "type": "map",
