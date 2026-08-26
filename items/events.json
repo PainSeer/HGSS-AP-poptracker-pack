@@ -2,308 +2,308 @@
     {
         "name": "Beat Sprout Tower",
         "type": "toggle",
-        "img": "images/events/event_beat_sprout_tower.png",
+        "img": "images/events/beat_sprout_tower.png",
         "codes": "event_beat_sprout_tower",
         "initial_active_state": true
     },
     {
         "name": "Disperse the Legendary Dogs",
         "type": "toggle",
-        "img": "images/events/event_burned_tower_disperse_legendary_dogs.png",
+        "img": "images/events/burned_tower_disperse_legendary_dogs.png",
         "codes": "event_burned_tower_disperse_legendary_dogs",
         "initial_active_state": true
     },
     {
         "name": "Surprise the Grunt in Cerulean Gym",
         "type": "toggle",
-        "img": "images/events/event_cerulean_meet_kanto_grunt.png",
+        "img": "images/events/cerulean_meet_kanto_grunt.png",
         "codes": "event_cerulean_meet_kanto_grunt",
         "initial_active_state": true
     },
     {
         "name": "Make Blue return to Viridian Gym",
         "type": "toggle",
-        "img": "images/events/event_cinnabar_island_blue_return_viridian.png",
+        "img": "images/events/cinnabar_island_blue_return_viridian.png",
         "codes": "event_cinnabar_island_blue_return_viridian",
         "initial_active_state": true
     },
     {
         "name": "Clear Mahogany Hideout",
         "type": "toggle",
-        "img": "images/events/event_clear_mahogany_hideout.png",
+        "img": "images/events/clear_mahogany_hideout.png",
         "codes": "event_clear_mahogany_hideout",
         "initial_active_state": true
     },
     {
         "name": "Become Champion",
         "type": "toggle",
-        "img": "images/events/event_clear_pokemon_league.png",
+        "img": "images/events/clear_pokemon_league.png",
         "codes": "event_clear_pokemon_league",
         "initial_active_state": true
     },
     {
         "name": "Clear Radio Tower",
         "type": "toggle",
-        "img": "images/events/event_clear_rocket_tower.png",
+        "img": "images/events/clear_rocket_tower.png",
         "codes": "event_clear_rocket_tower",
         "initial_active_state": true
     },
     {
         "name": "Clear Slowpoke Well",
         "type": "toggle",
-        "img": "images/events/event_clear_slowpoke_well.png",
+        "img": "images/events/clear_slowpoke_well.png",
         "codes": "event_clear_slowpoke_well",
         "initial_active_state": true
     },
     {
         "name": "Heal Amphy",
         "type": "toggle",
-        "img": "images/events/event_cure_amphy.png",
+        "img": "images/events/cure_amphy.png",
         "codes": "event_cure_amphy",
         "initial_active_state": true
     },
     {
         "name": "Heal Miltank",
         "type": "toggle",
-        "img": "images/events/event_cure_miltank.png",
+        "img": "images/events/cure_miltank.png",
         "codes": "event_cure_miltank",
         "initial_active_state": true
     },
     {
         "name": "Defeat Blaine",
         "type": "toggle",
-        "img": "images/events/event_defeat_blaine.png",
+        "img": "images/events/defeat_blaine.png",
         "codes": "event_defeat_blaine",
         "initial_active_state": true
     },
     {
         "name": "Defeat Blue",
         "type": "toggle",
-        "img": "images/events/event_defeat_blue.png",
+        "img": "images/events/defeat_blue.png",
         "codes": "event_defeat_blue",
         "initial_active_state": true
     },
     {
         "name": "Defeat Brock",
         "type": "toggle",
-        "img": "images/events/event_defeat_brock.png",
+        "img": "images/events/defeat_brock.png",
         "codes": "event_defeat_brock",
         "initial_active_state": true
     },
     {
         "name": "Defeat Bugsy",
         "type": "toggle",
-        "img": "images/events/event_defeat_bugsy.png",
+        "img": "images/events/defeat_bugsy.png",
         "codes": "event_defeat_bugsy",
         "initial_active_state": true
     },
     {
         "name": "Defeat Chuck",
         "type": "toggle",
-        "img": "images/events/event_defeat_chuck.png",
+        "img": "images/events/defeat_chuck.png",
         "codes": "event_defeat_chuck",
         "initial_active_state": true
     },
     {
         "name": "Defeat Clair",
         "type": "toggle",
-        "img": "images/events/event_defeat_clair.png",
+        "img": "images/events/defeat_clair.png",
         "codes": "event_defeat_clair",
         "initial_active_state": true
     },
     {
         "name": "Defeat Erika",
         "type": "toggle",
-        "img": "images/events/event_defeat_erika.png",
+        "img": "images/events/defeat_erika.png",
         "codes": "event_defeat_erika",
         "initial_active_state": true
     },
     {
         "name": "Defeat Falkner",
         "type": "toggle",
-        "img": "images/events/event_defeat_falkner.png",
+        "img": "images/events/defeat_falkner.png",
         "codes": "event_defeat_falkner",
         "initial_active_state": true
     },
     {
         "name": "Defeat Janine",
         "type": "toggle",
-        "img": "images/events/event_defeat_janine.png",
+        "img": "images/events/defeat_janine.png",
         "codes": "event_defeat_janine",
         "initial_active_state": true
     },
     {
         "name": "Defeat Jasmine",
         "type": "toggle",
-        "img": "images/events/event_defeat_jasmine.png",
+        "img": "images/events/defeat_jasmine.png",
         "codes": "event_defeat_jasmine",
         "initial_active_state": true
     },
     {
         "name": "Defeat Lance and Claire at Dragon's Den",
         "type": "toggle",
-        "img": "images/events/event_defeat_lance_clair_dragons_den.png",
+        "img": "images/events/defeat_lance_clair_dragons_den.png",
         "codes": "event_defeat_lance_clair_dragons_den",
         "initial_active_state": true
     },
     {
         "name": "Defeat Lt. Surge",
         "type": "toggle",
-        "img": "images/events/event_defeat_lt_surge.png",
+        "img": "images/events/defeat_lt_surge.png",
         "codes": "event_defeat_lt_surge",
         "initial_active_state": true
     },
     {
         "name": "Defeat Misty",
         "type": "toggle",
-        "img": "images/events/event_defeat_misty.png",
+        "img": "images/events/defeat_misty.png",
         "codes": "event_defeat_misty",
         "initial_active_state": true
     },
     {
         "name": "Defeat Morty",
         "type": "toggle",
-        "img": "images/events/event_defeat_morty.png",
+        "img": "images/events/defeat_morty.png",
         "codes": "event_defeat_morty",
         "initial_active_state": true
     },
     {
         "name": "Defeat Pryce",
         "type": "toggle",
-        "img": "images/events/event_defeat_pryce.png",
+        "img": "images/events/defeat_pryce.png",
         "codes": "event_defeat_pryce",
         "initial_active_state": true
     },
     {
         "name": "Defeat Red",
         "type": "toggle",
-        "img": "images/events/event_defeat_red.png",
+        "img": "images/events/defeat_red.png",
         "codes": "event_defeat_red",
         "initial_active_state": true
     },
     {
         "name": "Defeat Sabrina",
         "type": "toggle",
-        "img": "images/events/event_defeat_sabrina.png",
+        "img": "images/events/defeat_sabrina.png",
         "codes": "event_defeat_sabrina",
         "initial_active_state": true
     },
     {
         "name": "Defeat Whitney",
         "type": "toggle",
-        "img": "images/events/event_defeat_whitney.png",
+        "img": "images/events/defeat_whitney.png",
         "codes": "event_defeat_whitney",
         "initial_active_state": true
     },
     {
         "name": "Defend the Dance Theater from Team Rocket",
         "type": "toggle",
-        "img": "images/events/event_ecruteak_dance_theater_defeat_team_rocket.png",
+        "img": "images/events/ecruteak_dance_theater_defeat_team_rocket.png",
         "codes": "event_ecruteak_dance_theater_defeat_team_rocket",
         "initial_active_state": true
     },
     {
         "name": "Get Master Ball from Elm",
         "type": "toggle",
-        "img": "images/events/event_elms_lab_get_master_ball.png",
+        "img": "images/events/elms_lab_get_master_ball.png",
         "codes": "event_elms_lab_get_master_ball",
         "initial_active_state": true
     },
     {
         "name": "Rescue Farfetch'd",
         "type": "toggle",
-        "img": "images/events/event_farfetchd_rescue.png",
+        "img": "images/events/farfetchd_rescue.png",
         "codes": "event_farfetchd_rescue",
         "initial_active_state": true
     },
     {
         "name": "Get Kenya",
         "type": "toggle",
-        "img": "images/events/event_get_kenya.png",
+        "img": "images/events/get_kenya.png",
         "codes": "event_get_kenya",
         "initial_active_state": true
     },
     {
         "name": "Get Mystery Egg",
         "type": "toggle",
-        "img": "images/events/event_get_mystery_egg.png",
+        "img": "images/events/get_mystery_egg.png",
         "codes": "event_get_mystery_egg",
         "initial_active_state": true
     },
     {
         "name": "Get Togepi Egg",
         "type": "toggle",
-        "img": "images/events/event_get_togepi_egg.png",
+        "img": "images/events/get_togepi_egg.png",
         "codes": "event_get_togepi_egg",
         "initial_active_state": true
     },
     {
         "name": "Deliver Kenya",
         "type": "toggle",
-        "img": "images/events/event_give_kenya.png",
+        "img": "images/events/give_kenya.png",
         "codes": "event_give_kenya",
         "initial_active_state": true
     },
     {
         "name": "Encounter Ho-Oh",
         "type": "toggle",
-        "img": "images/events/event_meet_ho_oh.png",
+        "img": "images/events/meet_ho_oh.png",
         "codes": "event_meet_ho_oh",
         "initial_active_state": true
     },
     {
         "name": "Encounter Lugia",
         "type": "toggle",
-        "img": "images/events/event_meet_lugia.png",
+        "img": "images/events/meet_lugia.png",
         "codes": "event_meet_lugia",
         "initial_active_state": true
     },
     {
         "name": "Beat the Radio Quiz",
         "type": "toggle",
-        "img": "images/events/event_radio_quiz.png",
+        "img": "images/events/radio_quiz.png",
         "codes": "event_radio_quiz",
         "initial_active_state": true
     },
     {
         "name": "Restore Power to Kanto",
         "type": "toggle",
-        "img": "images/events/event_restore_power.png",
+        "img": "images/events/restore_power.png",
         "codes": "event_restore_power",
         "initial_active_state": true
     },
     {
         "name": "Defeat the grunt on Nugget Bridge",
         "type": "toggle",
-        "img": "images/events/event_route_24_defeat_kanto_grunt.png",
+        "img": "images/events/route_24_defeat_kanto_grunt.png",
         "codes": "event_route_24_defeat_kanto_grunt",
         "initial_active_state": true
     },
     {
         "name": "Ruin Misty's Date",
         "type": "toggle",
-        "img": "images/events/event_ruin_mistys_date.png",
+        "img": "images/events/ruin_mistys_date.png",
         "codes": "event_ruin_mistys_date",
         "initial_active_state": true
     },
     {
         "name": "Encounter the Shiny Gyarados",
         "type": "toggle",
-        "img": "images/events/event_shiny_gyarados.png",
+        "img": "images/events/shiny_gyarados.png",
         "codes": "event_shiny_gyarados",
         "initial_active_state": true
     },
     {
         "name": "Learn about the Robbery from the Plant Manager",
         "type": "toggle",
-        "img": "images/events/event_talk_plant_manager.png",
+        "img": "images/events/talk_plant_manager.png",
         "codes": "event_talk_plant_manager",
         "initial_active_state": true
     },
     {
         "name": "Meet Kurt",
         "type": "toggle",
-        "img": "images/events/event_talk_to_kurt.png",
+        "img": "images/events/talk_to_kurt.png",
         "codes": "event_talk_to_kurt",
         "initial_active_state": true
     }
