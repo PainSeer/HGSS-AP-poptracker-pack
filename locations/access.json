@@ -1849,7 +1849,7 @@
             "@pewter_pokecenter_1f",
             "@pewter_pokemart",
             "@pewter_southwest_house",
-            "@route_2_east",
+            "@route_2",
             "@route_3",
             "$can_freefly(pewter)"
         ]
@@ -2192,7 +2192,9 @@
     {
         "name": "route_2",
         "access_rules": [
+            "@pewter",
             "@route_2_east",
+            "@route_2_viridian_forest_north_gatehouse",
             "@route_2_viridian_forest_south_gatehouse",
             "@viridian"
         ]
@@ -2345,10 +2347,9 @@
         "name": "route_2_east",
         "access_rules": [
             "@diglett_cave",
-            "@pewter",
+            "@route_2",
             "@route_2_house",
-            "@route_2_southeast_gatehouse",
-            "@route_2_viridian_forest_north_gatehouse"
+            "@route_2_southeast_gatehouse"
         ]
     },
     {
