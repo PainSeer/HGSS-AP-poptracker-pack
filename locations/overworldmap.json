@@ -126,27 +126,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 668,
-                "y": 49,
-                "size": 6
+                "x": 200,
+                "y": 265,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 173,
-                "y": 284,
-                "size": 6
+                "x": 200,
+                "y": 265,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 10,
-                "y": 303,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 179,
-                "y": 230,
-                "size": 6
+                "x": 200,
+                "y": 265,
+                "size": 16
             }
         ]
     },
@@ -167,27 +161,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 319,
-                "y": 115,
-                "size": 6
+                "x": 112,
+                "y": 144,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 332,
-                "y": 410,
-                "size": 6
+                "x": 112,
+                "y": 144,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 385,
-                "y": 298,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 31,
-                "y": 227,
-                "size": 6
+                "x": 112,
+                "y": 144,
+                "size": 10
             }
         ]
     },
@@ -398,27 +386,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 213,
-                "y": 298,
-                "size": 6
+                "x": 200,
+                "y": 104,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 305,
-                "y": 191,
-                "size": 6
+                "x": 200,
+                "y": 104,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 207,
-                "y": 152,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 162,
-                "y": 65,
-                "size": 6
+                "x": 200,
+                "y": 104,
+                "size": 10
             }
         ]
     },
@@ -509,27 +491,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 323,
-                "y": 200,
-                "size": 6
+                "x": 336,
+                "y": 120,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 8,
-                "y": 156,
-                "size": 6
+                "x": 336,
+                "y": 120,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 4,
-                "y": 59,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 16,
-                "y": 203,
-                "size": 6
+                "x": 336,
+                "y": 120,
+                "size": 16
             }
         ]
     },
@@ -640,27 +616,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 137,
-                "y": 63,
-                "size": 6
+                "x": 184,
+                "y": 104,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 128,
-                "y": 518,
-                "size": 6
+                "x": 184,
+                "y": 104,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 148,
-                "y": 89,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 313,
-                "y": 193,
-                "size": 6
+                "x": 184,
+                "y": 104,
+                "size": 10
             }
         ]
     },
@@ -791,27 +761,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 213,
-                "y": 313,
-                "size": 6
+                "x": 608,
+                "y": 160,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 279,
-                "y": 438,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 476,
-                "y": 106,
-                "size": 6
+                "x": 234,
+                "y": 480,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 350,
-                "y": 101,
-                "size": 6
+                "x": 232,
+                "y": 160,
+                "size": 16
             }
         ]
     },
@@ -1072,27 +1036,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 410,
-                "y": 176,
-                "size": 6
+                "x": 648,
+                "y": 88,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 301,
-                "y": 126,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 328,
-                "y": 185,
-                "size": 6
+                "x": 273,
+                "y": 408,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 34,
-                "y": 123,
-                "size": 6
+                "x": 272,
+                "y": 88,
+                "size": 10
             }
         ]
     },
@@ -1213,27 +1171,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 351,
-                "y": 24,
-                "size": 6
+                "x": 656,
+                "y": 104,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 271,
-                "y": 57,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 429,
-                "y": 305,
-                "size": 6
+                "x": 281,
+                "y": 424,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 344,
-                "y": 180,
-                "size": 6
+                "x": 280,
+                "y": 104,
+                "size": 16
             }
         ]
     },
@@ -1294,27 +1246,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 502,
-                "y": 252,
-                "size": 6
+                "x": 272,
+                "y": 232,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 254,
-                "y": 268,
-                "size": 6
+                "x": 272,
+                "y": 232,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 253,
-                "y": 181,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 260,
-                "y": 110,
-                "size": 6
+                "x": 272,
+                "y": 232,
+                "size": 16
             }
         ]
     },
@@ -1455,27 +1401,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 387,
-                "y": 254,
-                "size": 6
+                "x": 88,
+                "y": 208,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 328,
-                "y": 458,
-                "size": 6
+                "x": 88,
+                "y": 208,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 353,
-                "y": 176,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 64,
-                "y": 198,
-                "size": 6
+                "x": 88,
+                "y": 208,
+                "size": 16
             }
         ]
     },
@@ -1536,27 +1476,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 234,
-                "y": 102,
-                "size": 6
+                "x": 520,
+                "y": 280,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 115,
-                "y": 81,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 399,
-                "y": 134,
-                "size": 6
+                "x": 145,
+                "y": 600,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 196,
-                "y": 116,
-                "size": 6
+                "x": 144,
+                "y": 280,
+                "size": 16
             }
         ]
     },
@@ -1627,27 +1561,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 255,
-                "y": 197,
-                "size": 6
+                "x": 328,
+                "y": 138,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 267,
-                "y": 43,
-                "size": 6
+                "x": 328,
+                "y": 138,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 299,
-                "y": 63,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 86,
-                "y": 90,
-                "size": 6
+                "x": 328,
+                "y": 138,
+                "size": 10
             }
         ]
     },
@@ -1728,27 +1656,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 635,
-                "y": 314,
-                "size": 6
+                "x": 280,
+                "y": 168,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 135,
-                "y": 383,
-                "size": 6
+                "x": 280,
+                "y": 168,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 483,
-                "y": 287,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 58,
-                "y": 74,
-                "size": 6
+                "x": 280,
+                "y": 168,
+                "size": 10
             }
         ]
     },
@@ -1799,27 +1721,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 533,
-                "y": 190,
-                "size": 6
+                "x": 681,
+                "y": 184,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 13,
-                "y": 21,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 439,
-                "y": 175,
-                "size": 6
+                "x": 306,
+                "y": 504,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 13,
-                "y": 83,
-                "size": 6
+                "x": 305,
+                "y": 184,
+                "size": 10
             }
         ]
     },
@@ -1960,27 +1876,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 141,
-                "y": 263,
-                "size": 6
+                "x": 344,
+                "y": 104,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 138,
-                "y": 356,
-                "size": 6
+                "x": 344,
+                "y": 104,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 256,
-                "y": 79,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 129,
-                "y": 293,
-                "size": 6
+                "x": 344,
+                "y": 104,
+                "size": 10
             }
         ]
     },
@@ -2211,27 +2121,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 152,
-                "y": 51,
-                "size": 6
+                "x": 192,
+                "y": 120,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 110,
-                "y": 114,
-                "size": 6
+                "x": 192,
+                "y": 120,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 125,
-                "y": 21,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 313,
-                "y": 318,
-                "size": 6
+                "x": 192,
+                "y": 120,
+                "size": 16
             }
         ]
     },
@@ -2252,27 +2156,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 261,
-                "y": 2,
-                "size": 6
+                "x": 112,
+                "y": 160,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 370,
-                "y": 570,
-                "size": 6
+                "x": 112,
+                "y": 160,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 217,
-                "y": 288,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 306,
-                "y": 17,
-                "size": 6
+                "x": 112,
+                "y": 160,
+                "size": 10
             }
         ]
     },
@@ -2373,27 +2271,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 499,
-                "y": 223,
-                "size": 6
+                "x": 608,
+                "y": 248,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 360,
-                "y": 299,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 76,
-                "y": 223,
-                "size": 6
+                "x": 233,
+                "y": 568,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 341,
-                "y": 163,
-                "size": 6
+                "x": 232,
+                "y": 248,
+                "size": 16
             }
         ]
     },
@@ -2514,27 +2406,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 606,
-                "y": 67,
-                "size": 6
+                "x": 168,
+                "y": 208,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 257,
-                "y": 551,
-                "size": 6
+                "x": 168,
+                "y": 208,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 119,
-                "y": 273,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 102,
-                "y": 43,
-                "size": 6
+                "x": 168,
+                "y": 208,
+                "size": 16
             }
         ]
     },
@@ -2615,27 +2501,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 174,
-                "y": 164,
-                "size": 6
+                "x": 186,
+                "y": 208,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 227,
-                "y": 275,
-                "size": 6
+                "x": 186,
+                "y": 208,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 64,
-                "y": 182,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 315,
-                "y": 150,
-                "size": 6
+                "x": 186,
+                "y": 208,
+                "size": 10
             }
         ]
     },
@@ -2886,27 +2766,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 205,
-                "y": 146,
-                "size": 6
+                "x": 150,
+                "y": 216,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 309,
-                "y": 40,
-                "size": 6
+                "x": 150,
+                "y": 216,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 233,
-                "y": 125,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 276,
-                "y": 158,
-                "size": 6
+                "x": 150,
+                "y": 216,
+                "size": 10
             }
         ]
     },
@@ -3147,27 +3021,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 382,
-                "y": 145,
-                "size": 6
+                "x": 150,
+                "y": 200,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 245,
-                "y": 265,
-                "size": 6
+                "x": 150,
+                "y": 200,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 486,
-                "y": 124,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 350,
-                "y": 86,
-                "size": 6
+                "x": 150,
+                "y": 200,
+                "size": 10
             }
         ]
     },
@@ -3298,27 +3166,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 315,
-                "y": 184,
-                "size": 6
+                "x": 310,
+                "y": 120,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 110,
-                "y": 458,
-                "size": 6
+                "x": 310,
+                "y": 120,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 367,
-                "y": 3,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 175,
-                "y": 195,
-                "size": 6
+                "x": 310,
+                "y": 120,
+                "size": 10
             }
         ]
     },
@@ -3469,27 +3331,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 0,
-                "y": 4,
-                "size": 6
+                "x": 184,
+                "y": 264,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 346,
-                "y": 2,
-                "size": 6
+                "x": 184,
+                "y": 264,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 332,
-                "y": 46,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 310,
-                "y": 163,
-                "size": 6
+                "x": 184,
+                "y": 264,
+                "size": 10
             }
         ]
     },
@@ -3520,27 +3376,27 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 114,
-                "y": 235,
-                "size": 6
+                "x": 456,
+                "y": 138,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 155,
-                "y": 129,
-                "size": 6
+                "x": 81,
+                "y": 458,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 62,
-                "y": 119,
-                "size": 6
+                "x": 456,
+                "y": 138,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 30,
-                "y": 73,
-                "size": 6
+                "x": 80,
+                "y": 138,
+                "size": 10
             }
         ]
     },
@@ -3731,27 +3587,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 402,
+                "x": 264,
                 "y": 64,
-                "size": 6
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 269,
-                "y": 73,
-                "size": 6
+                "x": 264,
+                "y": 64,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 388,
-                "y": 19,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 235,
-                "y": 219,
-                "size": 6
+                "x": 264,
+                "y": 64,
+                "size": 10
             }
         ]
     },
@@ -3782,27 +3632,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 663,
-                "y": 126,
-                "size": 6
+                "x": 714,
+                "y": 152,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 56,
-                "y": 554,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 2,
-                "y": 52,
-                "size": 6
+                "x": 338,
+                "y": 472,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 68,
-                "y": 22,
-                "size": 6
+                "x": 338,
+                "y": 152,
+                "size": 16
             }
         ]
     },
@@ -3913,27 +3757,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 95,
-                "y": 20,
-                "size": 6
+                "x": 264,
+                "y": 120,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 85,
-                "y": 578,
-                "size": 6
+                "x": 264,
+                "y": 120,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 416,
-                "y": 296,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 330,
-                "y": 87,
-                "size": 6
+                "x": 264,
+                "y": 120,
+                "size": 16
             }
         ]
     },
@@ -3984,27 +3822,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 608,
-                "y": 309,
-                "size": 6
+                "x": 584,
+                "y": 88,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 90,
-                "y": 637,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 378,
-                "y": 94,
-                "size": 6
+                "x": 209,
+                "y": 408,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 195,
-                "y": 71,
-                "size": 6
+                "x": 208,
+                "y": 88,
+                "size": 10
             }
         ]
     },
@@ -4405,27 +4237,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 302,
-                "y": 36,
-                "size": 6
+                "x": 232,
+                "y": 120,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 126,
-                "y": 550,
-                "size": 6
+                "x": 232,
+                "y": 120,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 301,
-                "y": 158,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 279,
-                "y": 180,
-                "size": 6
+                "x": 232,
+                "y": 120,
+                "size": 10
             }
         ]
     },
@@ -4656,27 +4482,27 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 384,
-                "y": 253,
-                "size": 6
+                "x": 408,
+                "y": 152,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 76,
-                "y": 296,
-                "size": 6
+                "x": 33,
+                "y": 472,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 385,
-                "y": 123,
-                "size": 6
+                "x": 408,
+                "y": 152,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 148,
-                "y": 295,
-                "size": 6
+                "x": 32,
+                "y": 152,
+                "size": 10
             }
         ]
     },
@@ -4717,27 +4543,27 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 623,
-                "y": 213,
-                "size": 6
+                "x": 408,
+                "y": 168,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 229,
-                "y": 323,
-                "size": 6
+                "x": 33,
+                "y": 488,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 157,
-                "y": 232,
-                "size": 6
+                "x": 408,
+                "y": 168,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 276,
-                "y": 137,
-                "size": 6
+                "x": 32,
+                "y": 168,
+                "size": 10
             }
         ]
     },
@@ -4848,27 +4674,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 317,
-                "y": 286,
-                "size": 6
+                "x": 183,
+                "y": 144,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 293,
-                "y": 224,
-                "size": 6
+                "x": 183,
+                "y": 144,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 179,
-                "y": 300,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 297,
-                "y": 198,
-                "size": 6
+                "x": 183,
+                "y": 144,
+                "size": 10
             }
         ]
     },
@@ -4939,27 +4759,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 428,
-                "y": 233,
-                "size": 6
+                "x": 344,
+                "y": 232,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 338,
-                "y": 432,
-                "size": 6
+                "x": 344,
+                "y": 232,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 42,
-                "y": 79,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 264,
-                "y": 305,
-                "size": 6
+                "x": 344,
+                "y": 232,
+                "size": 16
             }
         ]
     },
@@ -5090,27 +4904,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 414,
-                "y": 138,
-                "size": 6
+                "x": 144,
+                "y": 152,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 220,
-                "y": 486,
-                "size": 6
+                "x": 144,
+                "y": 152,
+                "size": 16
             },
             {
                 "map": "johto",
-                "x": 205,
-                "y": 298,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 154,
-                "y": 247,
-                "size": 6
+                "x": 144,
+                "y": 152,
+                "size": 16
             }
         ]
     },
@@ -5271,27 +5079,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 392,
-                "y": 42,
-                "size": 6
+                "x": 152,
+                "y": 168,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 329,
-                "y": 138,
-                "size": 6
+                "x": 152,
+                "y": 168,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 114,
-                "y": 163,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 189,
-                "y": 148,
-                "size": 6
+                "x": 152,
+                "y": 168,
+                "size": 10
             }
         ]
     },
@@ -5322,27 +5124,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 679,
-                "y": 138,
-                "size": 6
+                "x": 520,
+                "y": 216,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 219,
-                "y": 112,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 262,
-                "y": 8,
-                "size": 6
+                "x": 145,
+                "y": 536,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 69,
-                "y": 117,
-                "size": 6
+                "x": 144,
+                "y": 216,
+                "size": 16
             }
         ]
     },
@@ -5473,27 +5269,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 47,
-                "y": 109,
-                "size": 6
+                "x": 528,
+                "y": 80,
+                "size": 16
             },
             {
                 "map": "johtokanto_v",
-                "x": 301,
-                "y": 50,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 309,
-                "y": 164,
-                "size": 6
+                "x": 153,
+                "y": 400,
+                "size": 16
             },
             {
                 "map": "kanto",
-                "x": 22,
-                "y": 214,
-                "size": 6
+                "x": 152,
+                "y": 80,
+                "size": 16
             }
         ]
     },
@@ -5534,27 +5324,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 724,
-                "y": 155,
-                "size": 6
+                "x": 167,
+                "y": 144,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 71,
-                "y": 416,
-                "size": 6
+                "x": 167,
+                "y": 144,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 96,
-                "y": 287,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 275,
-                "y": 111,
-                "size": 6
+                "x": 167,
+                "y": 144,
+                "size": 10
             }
         ]
     },
@@ -5575,26 +5359,20 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 258,
-                "y": 25,
+                "x": 272,
+                "y": 248,
                 "size": 6
             },
             {
                 "map": "johtokanto_v",
-                "x": 67,
-                "y": 573,
+                "x": 272,
+                "y": 248,
                 "size": 6
             },
             {
                 "map": "johto",
-                "x": 398,
-                "y": 48,
-                "size": 6
-            },
-            {
-                "map": "kanto",
-                "x": 299,
-                "y": 285,
+                "x": 272,
+                "y": 248,
                 "size": 6
             }
         ]
@@ -5714,29 +5492,29 @@
             }
         ],
         "map_locations": [
-            {
+             {
                 "map": "johtokanto",
-                "x": 527,
-                "y": 183,
-                "size": 6
+                "x": 456,
+                "y": 122,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 158,
-                "y": 307,
-                "size": 6
+                "x": 81,
+                "y": 442,
+                "size": 10
             },
             {
                 "map": "johto",
-                "x": 169,
-                "y": 291,
-                "size": 6
+                "x": 456,
+                "y": 122,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 193,
-                "y": 150,
-                "size": 6
+                "x": 80,
+                "y": 122,
+                "size": 10
             }
         ]
     },
@@ -5847,27 +5625,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 411,
-                "y": 301,
-                "size": 6
+                "x": 712,
+                "y": 119,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 194,
-                "y": 280,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 177,
-                "y": 259,
-                "size": 6
+                "x": 337,
+                "y": 439,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 177,
-                "y": 150,
-                "size": 6
+                "x": 336,
+                "y": 119,
+                "size": 10
             }
         ]
     },
@@ -5918,27 +5690,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 367,
-                "y": 260,
-                "size": 6
+                "x": 520,
+                "y": 192,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 236,
-                "y": 439,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 426,
-                "y": 115,
-                "size": 6
+                "x": 145,
+                "y": 512,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 200,
-                "y": 320,
-                "size": 6
+                "x": 144,
+                "y": 192,
+                "size": 10
             }
         ]
     },
@@ -5967,29 +5733,23 @@
             }
         ],
         "map_locations": [
-            {
+		    {
                 "map": "johtokanto",
-                "x": 747,
-                "y": 180,
-                "size": 6
+                "x": 712,
+                "y": 103,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 49,
-                "y": 539,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 480,
-                "y": 214,
-                "size": 6
+                "x": 337,
+                "y": 423,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 343,
-                "y": 146,
-                "size": 6
+                "x": 336,
+                "y": 103,
+                "size": 10
             }
         ]
     },
@@ -6030,27 +5790,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 208,
-                "y": 293,
-                "size": 6
+                "x": 712,
+                "y": 135,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 230,
-                "y": 62,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 176,
-                "y": 250,
-                "size": 6
+                "x": 337,
+                "y": 455,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 61,
-                "y": 145,
-                "size": 6
+                "x": 336,
+                "y": 135,
+                "size": 10
             }
         ]
     },
@@ -6121,27 +5875,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 309,
-                "y": 237,
-                "size": 6
+                "x": 697,
+                "y": 184,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 371,
-                "y": 630,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 509,
-                "y": 198,
-                "size": 6
+                "x": 322,
+                "y": 504,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 350,
-                "y": 34,
-                "size": 6
+                "x": 321,
+                "y": 184,
+                "size": 10
             }
         ]
     },
@@ -6272,27 +6020,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 449,
-                "y": 232,
-                "size": 6
+                "x": 712,
+                "y": 184,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 129,
-                "y": 403,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 511,
-                "y": 98,
-                "size": 6
+                "x": 338,
+                "y": 504,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 113,
-                "y": 22,
-                "size": 6
+                "x": 337,
+                "y": 184,
+                "size": 10
             }
         ]
     },
@@ -6413,27 +6155,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 637,
-                "y": 80,
-                "size": 6
+                "x": 697,
+                "y": 216,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 194,
-                "y": 509,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 420,
-                "y": 90,
-                "size": 6
+                "x": 322,
+                "y": 536,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 176,
-                "y": 138,
-                "size": 6
+                "x": 321,
+                "y": 216,
+                "size": 10
             }
         ]
     },
@@ -6534,27 +6270,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 525,
-                "y": 295,
-                "size": 6
+                "x": 681,
+                "y": 232,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 308,
-                "y": 72,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 402,
-                "y": 197,
-                "size": 6
+                "x": 306,
+                "y": 548,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 220,
-                "y": 0,
-                "size": 6
+                "x": 305,
+                "y": 230,
+                "size": 10
             }
         ]
     },
@@ -6675,27 +6405,56 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 302,
-                "y": 180,
-                "size": 6
+                "x": 649,
+                "y": 248,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 303,
-                "y": 599,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 45,
-                "y": 203,
-                "size": 6
+                "x": 274,
+                "y": 567,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 238,
-                "y": 174,
-                "size": 6
+                "x": 273,
+                "y": 248,
+                "size": 10
+            }
+        ]
+    },
+	{
+        "name": "Route 16",
+        "sections": [
+            {
+                "name": "FAKE ITEM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                    "@route_16"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 576,
+                "y": 168,
+                "size": 10
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 201,
+                "y": 488,
+                "size": 10
+            },
+            {
+                "map": "kanto",
+                "x": 200,
+                "y": 168,
+                "size": 10
             }
         ]
     },
@@ -6836,29 +6595,23 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 419,
-                "y": 139,
-                "size": 6
+                "x": 568,
+                "y": 208,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 349,
-                "y": 387,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 355,
-                "y": 255,
-                "size": 6
+                "x": 193,
+                "y": 528,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 27,
-                "y": 274,
-                "size": 6
+                "x": 192,
+                "y": 208,
+                "size": 10
             }
-        ]
+	    ]
     },
     {
         "name": "Route 18",
@@ -6897,27 +6650,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 638,
-                "y": 141,
-                "size": 6
+                "x": 576,
+                "y": 248,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 339,
-                "y": 454,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 208,
-                "y": 45,
-                "size": 6
+                "x": 201,
+                "y": 568,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 298,
-                "y": 8,
-                "size": 6
+                "x": 200,
+                "y": 248,
+                "size": 10
             }
         ]
     },
@@ -7028,27 +6775,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 295,
-                "y": 26,
-                "size": 6
+                "x": 600,
+                "y": 272,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 6,
-                "y": 2,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 206,
-                "y": 91,
-                "size": 6
+                "x": 225,
+                "y": 592,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 192,
-                "y": 38,
-                "size": 6
+                "x": 224,
+                "y": 272,
+                "size": 10
             }
         ]
     },
@@ -7129,27 +6870,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 189,
-                "y": 238,
-                "size": 6
+                "x": 520,
+                "y": 134,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 81,
-                "y": 398,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 225,
-                "y": 218,
-                "size": 6
+                "x": 145,
+                "y": 454,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 55,
-                "y": 272,
-                "size": 6
+                "x": 144,
+                "y": 134,
+                "size": 10
             }
         ]
     },
@@ -7310,27 +7045,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 128,
-                "y": 46,
-                "size": 6
+                "x": 552,
+                "y": 280,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 340,
-                "y": 138,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 365,
-                "y": 243,
-                "size": 6
+                "x": 177,
+                "y": 600,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 102,
-                "y": 205,
-                "size": 6
+                "x": 176,
+                "y": 280,
+                "size": 10
             }
         ]
     },
@@ -7491,27 +7220,56 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 635,
-                "y": 183,
-                "size": 6
+                "x": 520,
+                "y": 248,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 72,
-                "y": 412,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 297,
-                "y": 91,
-                "size": 6
+                "x": 145,
+                "y": 568,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 278,
-                "y": 6,
-                "size": 6
+                "x": 144,
+                "y": 248,
+                "size": 10
+            }
+        ]
+    },
+	{
+        "name": "Route 22",
+        "sections": [
+            {
+                "name": "FAKE ITEM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "access_rules": [
+                    "@route_21"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+		    {
+                "map": "johtokanto",
+                "x": 478,
+                "y": 168,
+                "size": 10
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 103,
+                "y": 488,
+                "size": 10
+            },
+            {
+                "map": "kanto",
+                "x": 102,
+                "y": 168,
+                "size": 10
             }
         ]
     },
@@ -7530,29 +7288,23 @@
             }
         ],
         "map_locations": [
-            {
+             {
                 "map": "johtokanto",
-                "x": 28,
-                "y": 44,
-                "size": 6
+                "x": 664,
+                "y": 68,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 4,
-                "y": 46,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 336,
-                "y": 320,
-                "size": 6
+                "x": 289,
+                "y": 388,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 57,
-                "y": 184,
-                "size": 6
+                "x": 288,
+                "y": 68,
+                "size": 10
             }
         ]
     },
@@ -7723,27 +7475,21 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 412,
-                "y": 59,
-                "size": 6
+                "x": 688,
+                "y": 56,
+                "size": 10
             },
             {
                 "map": "johtokanto_v",
-                "x": 374,
-                "y": 417,
-                "size": 6
-            },
-            {
-                "map": "johto",
-                "x": 74,
-                "y": 233,
-                "size": 6
+                "x": 313,
+                "y": 376,
+                "size": 10
             },
             {
                 "map": "kanto",
-                "x": 275,
-                "y": 54,
-                "size": 6
+                "x": 312,
+                "y": 56,
+                "size": 10
             }
         ]
     },
@@ -10284,8 +10030,8 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 169,
-                "y": 211,
+                "x": 1,
+                "y": 21,
                 "size": 6
             },
             {
