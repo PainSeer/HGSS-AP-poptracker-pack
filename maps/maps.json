@@ -792,12 +792,6 @@
         "img": "images/maps/route44_e.png"
     },
     {
-        "name": "route45_n",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/route45_n.png"
-    },
-    {
         "name": "route44_w",
         "location_size": 14,
         "location_border_thickness": 2,
