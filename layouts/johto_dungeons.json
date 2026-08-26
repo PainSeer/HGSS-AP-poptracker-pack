@@ -4,14 +4,600 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "New Bark Town",
+        "title": "Dark Cave",
         "content": {
-          "type": "map",
-          "maps": [
-            "newbarktown"
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Route 31 Entrance",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "darkcaveroute31"
+                ]
+              }
+            },
+            {
+              "title": "Route 45 Entrance",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "darkcaveroute45"
+                ]
+              }
+            }
           ]
         }
       },
+      {
+        "title": "Ruins of Alph",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Outside",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ruinsofalph"
+                ]
+              }
+            },
+            {
+              "title": "Inner",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphentrance"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphinterior"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Kabuto Room",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Puzzle Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphpuzzleroom"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Hidden Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphkabutoroom"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Amonyte Room",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Puzzle Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphpuzzleroom"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Hidden Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphamonyteroom"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Aerodactyl Room",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Puzzle Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphpuzzleroom"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Hidden Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphaerodactylroom"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Ho-Oh Room",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Puzzle Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphpuzzleroom"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Hidden Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ruinsofalphhoohroom"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Union Cave",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "unioncave1f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "unioncaveb1f"
+                ]
+              }
+            },
+            {
+              "title": "B2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "unioncaveb2f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ilex Forest",
+        "content": {
+          "type": "map",
+          "maps": [
+            "ilexforest"
+          ]
+        }
+      },
+      {
+        "title": "National Park",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Park",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "nationalpark"
+                ]
+              }
+            },
+            {
+              "title": "Pokéathlon Dome",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "pokeathlondome"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ilex Forest",
+        "content": {
+          "type": "map",
+          "maps": [
+            "ilexforest"
+          ]
+        }
+      },
+      {
+        "title": "Cliff Cave",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cliffcave1f"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cliffcave2f"
+                ]
+              }
+            },
+            {
+              "title": "3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cliffcave3f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Whirl Islands",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Northwest",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "whirlislands1f_nw"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Northeast",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "whirlislands1f_ne"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Southwest",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "whirlislands1f_sw"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Southeast",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "whirlislands1f_se"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "whirlislandsb1f"
+                ]
+              }
+            },
+            {
+              "title": "B2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "whirlislandsb2f"
+                ]
+              }
+            },
+            {
+              "title": "B3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "whirlislandsb3f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Mt. Mortar",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Entrance",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtmortar1fentrance"
+                ]
+              }
+            },
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtmortar1fback"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtmortar2f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtmortarb1f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ice Path",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "icepath1f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "icepathb1f"
+                ]
+              }
+            },
+            {
+              "title": "B2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "icepathb2f"
+                ]
+              }
+            },
+            {
+              "title": "B3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "icepathb3f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tohjo Falls",
+        "content": {
+          "type": "map",
+          "maps": [
+            "tohjofalls"
+          ]
+        }
+      },
+      {
+        "title": "Victory Road",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "victoryroad1f"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "victoryroad2f"
+                ]
+              }
+            },
+            {
+              "title": "3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "victoryroad3f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Mt. Silver",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Outside",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mountsilver"
+                ]
+              }
+            },
+            {
+              "title": "1F",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Entrance",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "mtsilver1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Alcove",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "mtsilverexpertbeltroom"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Moltres Room",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "mtsilvermoltresroom"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Lower Path",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtsilverlowermountainside"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtsilver2f"
+                ]
+              }
+            },
+            {
+              "title": "Upper Path",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtsilveruppermountainside"
+                ]
+              }
+            },
+            {
+              "title": "3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtsilver3f"
+                ]
+              }
+            },
+            {
+              "title": "Top",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtsilvertop"
+                ]
+              }
+            }
+          ]
+        }
+      }
     ]
   }
 }

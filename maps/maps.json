@@ -96,6 +96,24 @@
         "img": "images/maps/goldenrodgym.png"
     },
     {
+        "name": "goldenrodtunnelb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenrodtunnelb1f.png"
+    },
+    {
+        "name": "goldenrodtunnelb2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenrodtunnelb1f.png"
+    },
+    {
+        "name": "goldenrodtunnelwarehouse",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenrodtunnelwarehouse.png"
+    },
+    {
         "name": "olivinecity",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -106,6 +124,48 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/olivinegym.png"
+    },
+    {
+        "name": "lighthouse1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse1f.png"
+    },
+    {
+        "name": "lighthouse2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse2f.png"
+    },
+    {
+        "name": "lighthouse3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse3f.png"
+    },
+    {
+        "name": "lighthousebalcony",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse3fbalcony.png"
+    },
+    {
+        "name": "lighthouse4f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse4f.png"
+    },
+    {
+        "name": "lighthouse5f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse5f.png"
+    },
+    {
+        "name": "lighthouse6f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/lighthouse6f.png"
     },
     {
         "name": "ecruteakcity",
@@ -156,10 +216,70 @@
         "img": "images/maps/blackthorngym.png"
     },
     {
+        "name": "dragonsden1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/dragonsden1f.png"
+    },
+    {
+        "name": "dragonsdenb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/dragonsdenb1f.png"
+    },
+    {
         "name": "mountsilver",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/mountsilver.png"
+    },
+    {
+        "name": "mtsilver1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilver1f.png"
+    },
+    {
+        "name": "mtsilverexpertbeltroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilverexpertbeltroom.png"
+    },
+    {
+        "name": "mtsilvermoltresroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilvermoltresroom.png"
+    },
+    {
+        "name": "mtsilverlowermountainside",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilverlowermountainside.png"
+    },
+    {
+        "name": "mtsilver2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilver2f.png"
+    },
+    {
+        "name": "mtsilveruppermountainside",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilveruppermountainside.png"
+    },
+    {
+        "name": "mtsilver3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilver3f.png"
+    },
+    {
+        "name": "mtsilvertop",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtsilvertop.png"
     },
     {
         "name": "pallettown",
@@ -840,7 +960,25 @@
         "img": "images/maps/ruinsofalph.png"
     },
     {
-        "name": "ruinsofalphchamber",
+        "name": "ruinsofalphkabutoroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphchamber.png"
+    },
+    {
+        "name": "ruinsofalphamonyteroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphchamber.png"
+    },
+    {
+        "name": "ruinsofalphaerodactylroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphchamber.png"
+    },
+        {
+        "name": "ruinsofalphhoohroom",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/ruinsofalphchamber.png"
@@ -969,7 +1107,7 @@
         "name": "belltower10f",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/belltower.png"
+        "img": "images/maps/belltower10f.png"
     },
     {
         "name": "belltowertop",
@@ -1050,6 +1188,12 @@
         "img": "images/maps/nationalpark.png"
     },
     {
+        "name": "pokeathlondome",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/pokeathlondome.png"
+    },
+    {
         "name": "whirlislands1f_ne",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -1071,7 +1215,7 @@
         "name": "whirlislands1f_sw",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/whirlislands1f_w.png"
+        "img": "images/maps/whirlislands1f_sw.png"
     },
     {
         "name": "whirlislandsb1f",
@@ -1090,6 +1234,108 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/whirlislandsb3f.png"
+    },
+    {
+        "name": "mtmortar1fentrance",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtmortar1fentrance.png"
+    },
+    {
+        "name": "mtmortar1fback",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtmortar1fback.png"
+    },
+    {
+        "name": "mtmortar2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtmortar2f.png"
+    },
+    {
+        "name": "mtmortarb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtmortarb1f.png"
+    },
+    {
+        "name": "icepath1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/icepath1f.png"
+    },
+    {
+        "name": "icepathb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/icepathb1f.png"
+    },
+    {
+        "name": "icepathb2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/icepathb2f.png"
+    },
+    {
+        "name": "icepathb3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/icepathb3f.png"
+    },
+    {
+        "name": "tohjofalls",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/tohjofalls.png"
+    },
+    {
+        "name": "victoryroad1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/victoryroad1f.png"
+    },
+    {
+        "name": "victoryroad2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/victoryroad2f.png"
+    },
+    {
+        "name": "victoryroad3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/victoryroad3f.png"
+    },
+    {
+        "name": "frontieraccess",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/frontieraccess.png"
+    },
+    {
+        "name": "safarizonegate",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/safarizonegate.png"
+    },
+    {
+        "name": "rockethqb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/rockethqb1f.png"
+    },
+    {
+        "name": "rockethqb2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/rockethqb2f.png"
+    },
+    {
+        "name": "rockethqb3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/rockethqb3f.png"
     }
 ]
 

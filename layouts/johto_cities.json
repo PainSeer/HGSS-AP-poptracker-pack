@@ -88,7 +88,7 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "City",
+              "title": "Town",
               "content": {
                 "type": "map",
                 "maps": [
@@ -298,6 +298,41 @@
                   }
                 ]
               }
+            },
+            {
+              "title": "Tunnel",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "goldenrodtunnelb1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "goldenrodtunnelb2f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Warehouse",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "goldenrodtunnelwarehouse"
+                      ]
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
@@ -322,6 +357,148 @@
                 "type": "map",
                 "maps": [
                   "ecruteakgym"
+                ]
+              }
+            },
+            {
+              "title": "Burned Tower",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "burnedtower1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "burnedtowerb1f"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Bell Tower",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Bellchime Trail",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "bellchimetrail"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower2f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "3F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower3f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "4F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower4f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "5F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower5f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "6F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower6f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "7F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower7f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "8F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower8f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "9F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower9f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "10F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltower10f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Top",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "belltowertop"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -352,11 +529,73 @@
               }
             },
             {
-              "title": "Olivine Lighthouse",
+              "title": "Lighthouse",
               "content": {
-                "type": "map",
-                "maps": [
-                  "olivinglighthose"
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthouse1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthouse2f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "3F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthouse3f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Balcony",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthousebalcony"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "4F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthouse4f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "5F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthouse5f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "6F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "lighthouse6f"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -369,7 +608,7 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Town",
+              "title": "City",
               "content": {
                 "type": "map",
                 "maps": [
@@ -385,6 +624,15 @@
                   "cianwoodgym"
                 ]
               }
+            },
+            {
+              "title": "Cliff Edge Gate",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cliffedgegate"
+                ]
+              }
             }
           ]
         }
@@ -395,7 +643,7 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "City",
+              "title": "Town",
               "content": {
                 "type": "map",
                 "maps": [
@@ -409,6 +657,41 @@
                 "type": "map",
                 "maps": [
                   "mahoganygym"
+                ]
+              }
+            },
+            {
+              "title": "Rocket HQ",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "rockethqb1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B2F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "rockethqb2f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B3F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "rockethqb3f"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -437,16 +720,51 @@
                   "blackthorngym"
                 ]
               }
+            },
+            {
+              "title": "Dragon's Den",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "dragonsden1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "dragonsdenb1f"
+                      ]
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
       },
-      {	
-        "title": "Mount Silver",
+      {
+        "title": "Safari Zone Gate",
         "content": {
           "type": "map",
           "maps": [
-            "mountsilver"
+            "safarizonegate"
+          ]
+        }
+      },
+      {
+        "title": "Frontier Access",
+        "content": {
+          "type": "map",
+          "maps": [
+            "frontieraccess"
           ]
         }
       }
