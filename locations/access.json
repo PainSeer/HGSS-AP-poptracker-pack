@@ -28,7 +28,7 @@
     {
         "name": "azalea_gym_entrance",
         "access_rules": [
-            "@azalea, $event_clear_slowpoke_well",
+            "@azalea, event_clear_slowpoke_well",
             "@azalea_gym"
         ]
     },
@@ -107,7 +107,7 @@
             "@frontier_access_move_tutor_house",
             "@frontier_access_pokecenter_1f",
             "@frontier_access_pokemart",
-            "@route_40_battle_frontier_gatehouse, $event_clear_pokemon_league"
+            "@route_40_battle_frontier_gatehouse, event_clear_pokemon_league"
         ]
     },
     {
@@ -232,7 +232,7 @@
     {
         "name": "blackthorn_gym",
         "access_rules": [
-            "@blackthorn, $event_clear_rocket_tower"
+            "@blackthorn, event_clear_rocket_tower"
         ]
     },
     {
@@ -555,7 +555,7 @@
             "@cianwood_north_house",
             "@cianwood_pharmacy",
             "@cianwood_pokecenter_1f",
-            "@cliff_edge_gate, $event_cure_amphy",
+            "@cliff_edge_gate, event_cure_amphy",
             "@route_41, $surf",
             "$can_freefly|cianwood"
         ]
@@ -640,7 +640,7 @@
     {
         "name": "cliff_edge_gate",
         "access_rules": [
-            "@cianwood, $event_cure_amphy",
+            "@cianwood, event_cure_amphy",
             "@route_47"
         ]
     },
@@ -703,7 +703,7 @@
     {
         "name": "dragons_den_entrance",
         "access_rules": [
-            "@blackthorn, $event_defeat_clair, $surf",
+            "@blackthorn, event_defeat_clair, $surf",
             "@dragons_den"
         ]
     },
@@ -759,7 +759,7 @@
     {
         "name": "ecruteak_gym",
         "access_rules": [
-            "@ecruteak, $event_burned_tower_disperse_legendary_dogs"
+            "@ecruteak, event_burned_tower_disperse_legendary_dogs"
         ]
     },
     {
@@ -1026,7 +1026,7 @@
     {
         "name": "goldenrod_gym",
         "access_rules": [
-            "@goldenrod, $event_radio_quiz"
+            "@goldenrod, event_radio_quiz"
         ]
     },
     {
@@ -1258,7 +1258,7 @@
     {
         "name": "lake_of_rage_low_tide",
         "access_rules": [
-            "@lake_of_rage, $event_access_low_tide_dialogue"
+            "@lake_of_rage, event_clear_mahogany_hideout"
         ]
     },
     {
@@ -1354,7 +1354,7 @@
     {
         "name": "mahogany_gym_room_1",
         "access_rules": [
-            "@mahogany, $event_clear_mahogany_hideout",
+            "@mahogany, event_clear_mahogany_hideout",
             "@mahogany_gym_room_2"
         ]
     },
@@ -1902,7 +1902,7 @@
         "name": "pokeathlon_dome",
         "access_rules": [
             "@pokeathlon_dome_interior_1f",
-            "@route_35_national_park_pokeathalon_gatehouse, $event_defeat_whitney"
+            "@route_35_national_park_pokeathalon_gatehouse, event_defeat_whitney"
         ]
     },
     {
@@ -2172,14 +2172,14 @@
     {
         "name": "route_19",
         "access_rules": [
-            "@route_19_from_fuchia, $event_defeat_blaine, $surf",
+            "@route_19_from_fuchia, event_defeat_blaine, $surf",
             "@route_20_east"
         ]
     },
     {
         "name": "route_19_from_fuchia",
         "access_rules": [
-            "@route_19, $event_defeat_blaine",
+            "@route_19, event_defeat_blaine",
             "@route_19_fuchsia_gatehouse"
         ]
     },
@@ -2224,7 +2224,7 @@
     {
         "name": "route_22",
         "access_rules": [
-            "@route_22_pokemon_league_reception_gate, $event_unlock_west_kanto_exit",
+            "@route_22_pokemon_league_reception_gate, @viridian",
             "@viridian"
         ]
     },
@@ -2325,7 +2325,7 @@
         "name": "route_28_south",
         "access_rules": [
             "@mount_silver",
-            "@route_22_pokemon_league_reception_gate, $event_get_hm08",
+            "@route_22_pokemon_league_reception_gate, @pallet_town_oaks_lab", // this is the event_get_hm08 in the apworld
             "@route_28_north"
         ]
     },
@@ -2411,7 +2411,7 @@
     {
         "name": "route_30_northwest",
         "access_rules": [
-            "@route_30, $event_get_mystery_egg",
+            "@route_30, event_get_mystery_egg",
             "@route_30, $cut",
             "@route_31"
         ]
@@ -2434,7 +2434,7 @@
     {
         "name": "route_32",
         "access_rules": [
-            "@route_32_north, zephyr_badge, $event_get_togepi_egg",
+            "@route_32_north, zephyr_badge, event_get_togepi_egg",
             "@route_32_pokecenter_1f",
             "@union_cave_1f"
         ]
@@ -2684,7 +2684,7 @@
         "name": "route_44",
         "access_rules": [
             "@ice_path_1f",
-            "@mahogany, $event_clear_rocket_tower"
+            "@mahogany, event_clear_rocket_tower"
         ]
     },
     {
@@ -2778,7 +2778,7 @@
     {
         "name": "route_5_underground_path_gate",
         "access_rules": [
-            "@route_5, $event_restore_power",
+            "@route_5, event_restore_power",
             "@route_5_underground_path"
         ]
     },
@@ -2801,7 +2801,7 @@
         "name": "route_6_underground_path_gate",
         "access_rules": [
             "@route_5_underground_path",
-            "@route_6, $event_restore_power"
+            "@route_6, event_restore_power"
         ]
     },
     {
@@ -2877,8 +2877,8 @@
         "name": "ruins_of_alph_northeast_entrance_second_room",
         "access_rules": [
             "@ruins_of_alph_northeast_entrance_first_room, $badges_req|1",
-            "@ruins_of_alph_northeast_entrance_first_room, $event_goldenrod_store",
-            "@ruins_of_alph_northeast_entrance_first_room, $event_celadon_store"
+            "@ruins_of_alph_northeast_entrance_first_room, @goldenrod_department_store_1f",
+            "@ruins_of_alph_northeast_entrance_first_room, @celadon_department_store_1f"
         ]
     },
     {
@@ -3160,7 +3160,7 @@
     {
         "name": "slowpoke_well_entrance",
         "access_rules": [
-            "@azalea, $event_talk_to_kurt",
+            "@azalea, event_talk_to_kurt",
             "@slowpoke_well_b1f"
         ]
     },
@@ -3264,7 +3264,7 @@
     {
         "name": "team_rocket_headquarters_b1f",
         "access_rules": [
-            "@mahogany_souvenir_shop, $event_shiny_gyarados",
+            "@mahogany_souvenir_shop, event_shiny_gyarados",
             "@team_rocket_headquarters_b2f"
         ]
     },
@@ -3491,7 +3491,7 @@
     {
         "name": "violet_gym",
         "access_rules": [
-            "@violet, $event_beat_sprout_tower"
+            "@violet, event_beat_sprout_tower"
         ]
     },
     {
@@ -3556,7 +3556,7 @@
     {
         "name": "viridian_gym",
         "access_rules": [
-            "@viridian, $event_cinnabar_island_blue_return_viridian"
+            "@viridian, event_cinnabar_island_blue_return_viridian"
         ]
     },
     {

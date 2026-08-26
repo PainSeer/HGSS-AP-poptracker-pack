@@ -27,7 +27,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@azalea_gym, $event_clear_slowpoke_well"
+                    "@azalea_gym, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -37,7 +37,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@azalea_gym, $event_clear_slowpoke_well"
+                    "@azalea_gym, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -47,7 +47,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@azalea_charcoal_kiln, $event_farfetchd_rescue"
+                    "@azalea_charcoal_kiln, event_farfetchd_rescue"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -57,7 +57,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@azalea_kurt_house, $event_clear_slowpoke_well"
+                    "@azalea_kurt_house, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -117,7 +117,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@azalea, $event_clear_slowpoke_well"
+                    "@azalea, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1083,7 +1083,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date"
+                    "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1093,7 +1093,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date"
+                    "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1103,7 +1103,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_route_24_defeat_kanto_grunt"
+                    "@cerulean_gym, event_route_24_defeat_kanto_grunt"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1113,7 +1113,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date"
+                    "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1123,7 +1123,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date, $surf"
+                    "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1133,7 +1133,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date, $surf"
+                    "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1143,7 +1143,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date"
+                    "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1153,7 +1153,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date"
+                    "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1163,7 +1163,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cerulean_gym, $event_ruin_mistys_date, $surf"
+                    "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1323,7 +1323,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cianwood, $event_defeat_chuck"
+                    "@cianwood, event_defeat_chuck"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1393,7 +1393,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cianwood, $event_burned_tower_disperse_legendary_dogs"
+                    "@cianwood, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1818,7 +1818,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@dragons_den, $event_dragons_den_quiz"
+                    "@dragons_den"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1858,7 +1858,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@dragons_den, $event_defeated_rival_mount_moon, $surf"
+                    "@dragons_den, event_defeated_rival_mount_moon, $surf"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1868,7 +1868,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@dragons_den, $event_defeated_rival_mount_moon, $surf"
+                    "@dragons_den, event_defeated_rival_mount_moon, $surf"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -1993,7 +1993,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2003,7 +2003,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2013,7 +2013,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_gym, $event_burned_tower_disperse_legendary_dogs"
+                    "@ecruteak_gym, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2043,7 +2043,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2053,7 +2053,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2063,7 +2063,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2073,7 +2073,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2083,7 +2083,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ecruteak_dance_theater, $event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2318,7 +2318,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@goldenrod_gym, $event_radio_quiz"
+                    "@goldenrod_gym, event_radio_quiz"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2328,7 +2328,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@goldenrod_gym, $event_radio_quiz"
+                    "@goldenrod_gym, event_radio_quiz"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2338,7 +2338,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@goldenrod_flower_shop, $event_defeat_whitney"
+                    "@goldenrod_flower_shop, event_defeat_whitney"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2558,7 +2558,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@goldenrod_radio_tower_2f, $event_clear_rocket_tower"
+                    "@goldenrod_radio_tower_2f, event_clear_rocket_tower"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2568,7 +2568,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@goldenrod_radio_tower_3f, $event_clear_rocket_tower"
+                    "@goldenrod_radio_tower_3f, event_clear_rocket_tower"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -2578,7 +2578,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@goldenrod_radio_tower_4f, $event_clear_rocket_tower"
+                    "@goldenrod_radio_tower_4f, event_clear_rocket_tower"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -3323,7 +3323,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ilex_forest_south, $event_farfetchd_rescue"
+                    "@ilex_forest_south, event_farfetchd_rescue"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -3509,7 +3509,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@lake_of_rage_fishing_guru_house, $mon_magikarp, $event_clear_mahogany_hideout"
+                    "@lake_of_rage_fishing_guru_house, $mon_magikarp, event_clear_mahogany_hideout"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -3559,7 +3559,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@lake_of_rage, $event_shiny_gyarados"
+                    "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -3569,7 +3569,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@lake_of_rage, $event_shiny_gyarados"
+                    "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -3579,7 +3579,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@lake_of_rage, $event_shiny_gyarados"
+                    "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -3624,7 +3624,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@lavender_radio_station, $event_restore_power"
+                    "@lavender_radio_station, event_restore_power"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4701,7 +4701,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@new_bark, $event_get_mystery_egg"
+                    "@new_bark, event_get_mystery_egg"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4721,7 +4721,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@new_bark_elms_lab_1f, $johto_badges_req|8, $event_ecruteak_dance_theater_defeat_team_rocket, $event_burned_tower_disperse_legendary_dogs"
+                    "@new_bark_elms_lab_1f, $johto_badges_req|8, event_ecruteak_dance_theater_defeat_team_rocket, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4741,7 +4741,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@new_bark_elms_lab_1f, $event_clear_pokemon_league"
+                    "@new_bark_elms_lab_1f, event_clear_pokemon_league"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4751,7 +4751,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@new_bark_elms_lab_1f, $event_get_togepi_egg"
+                    "@new_bark_elms_lab_1f, event_get_togepi_egg"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4846,7 +4846,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@olivine_gym, $event_cure_amphy"
+                    "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4856,7 +4856,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@olivine_gym, $event_cure_amphy"
+                    "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4876,7 +4876,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_olivine_port_interior, $event_clear_pokemon_league"
+                    "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4886,7 +4886,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@olivine_gym, $event_cure_amphy"
+                    "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5436,7 +5436,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pokemon_league_entrance, $event_defeat_lance_clair_dragons_den"
+                    "@pokemon_league_entrance, event_defeat_lance_clair_dragons_den"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -7282,7 +7282,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_24, $event_cerulean_meet_kanto_grunt"
+                    "@route_24, event_cerulean_meet_kanto_grunt"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -8137,7 +8137,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_30, $event_get_mystery_egg"
+                    "@route_30, event_get_mystery_egg"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -8228,7 +8228,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_31, $event_get_kenya"
+                    "@route_31, event_get_kenya"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -8359,7 +8359,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_32_north, zephyr_badge, $event_get_togepi_egg"
+                    "@route_32_north, zephyr_badge, event_get_togepi_egg"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -8752,7 +8752,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_35_goldenrod_gatehouse, $event_give_kenya"
+                    "@route_35_goldenrod_gatehouse, event_give_kenya"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -9236,7 +9236,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_39_moomoo_farm_stable, $event_cure_miltank"
+                    "@route_39_moomoo_farm_stable, event_cure_miltank"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -9246,7 +9246,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_39_moomoo_farm_house, $event_cure_miltank"
+                    "@route_39_moomoo_farm_house, event_cure_miltank"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -9821,7 +9821,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_43_gatehouse, $event_clear_mahogany_hideout"
+                    "@route_43_gatehouse, event_clear_mahogany_hideout"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -10345,7 +10345,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@cliff_edge_gate, $surf, $rock_climb, $event_call_from_baoba"
+                    "@cliff_edge_gate, $surf, $rock_climb, event_cure_amphy" // this replaces event_call_from_baoba as they're essentially the same 
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -12188,7 +12188,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@slowpoke_well_entrance, $event_clear_slowpoke_well"
+                    "@slowpoke_well_entrance, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -13284,7 +13284,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@vermilion_pokemon_fan_club, $event_hear_about_missing_doll"
+                    "@vermilion_pokemon_fan_club, event_hear_about_missing_doll"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -13626,7 +13626,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@violet_gym, $event_beat_sprout_tower"
+                    "@violet_gym, event_beat_sprout_tower"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -13636,7 +13636,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@violet_gym, $event_beat_sprout_tower"
+                    "@violet_gym, event_beat_sprout_tower"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -13727,7 +13727,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@viridian_gym, $event_cinnabar_island_blue_return_viridian"
+                    "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -13737,7 +13737,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@viridian_gym, $event_cinnabar_island_blue_return_viridian"
+                    "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
