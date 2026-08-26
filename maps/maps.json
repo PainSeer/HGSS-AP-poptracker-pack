@@ -1012,6 +1012,84 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/cliffedgegate.png"
+    },
+    {
+        "name": "goldenroddepartmentstoreb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstoreb1f.png"
+    },
+    {
+        "name": "goldenrodtunnelb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenrodtunnelb1f.png"
+    },
+    {
+        "name": "goldenrodtunnelb2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenrodtunnelb2f.png"
+    },
+    {
+        "name": "goldenrodtunnelwarehouse",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenrodtunnelwarehouse.png"
+    },
+    {
+        "name": "ilexforest",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ilexforest.png"
+    },
+    {
+        "name": "nationalpark",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/nationalpark.png"
+    },
+    {
+        "name": "whirlislands1f_ne",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislands1f_ne.png"
+    },
+    {
+        "name": "whirlislands1f_nw",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislands1f_nw.png"
+    },
+    {
+        "name": "whirlislands1f_se",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislands1f_se.png"
+    },
+    {
+        "name": "whirlislands1f_sw",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislands1f_w.png"
+    },
+    {
+        "name": "whirlislandsb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislandsb1f.png"
+    },
+    {
+        "name": "whirlislandsb2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislandsb2f.png"
+    },
+    {
+        "name": "whirlislandsb3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/whirlislandsb3f.png"
     }
 ]
 

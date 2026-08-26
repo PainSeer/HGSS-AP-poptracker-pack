@@ -234,6 +234,15 @@
                 "type": "tabbed",
                 "tabs": [
                   {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "goldenroddepartmentstoreb1f"
+                      ]
+                    }
+                  },
+                  {
                     "title": "1F",
                     "content": {
                       "type": "map",
