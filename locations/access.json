@@ -10,7 +10,7 @@
             "@azalea_pokemart",
             "@route_33",
             "@slowpoke_well_entrance",
-            "$can_freefly(azalea)"
+            "$can_freefly|azalea"
         ]
     },
     {
@@ -73,7 +73,7 @@
             "@battle_frontier_battle_hall",
             "@battle_frontier_frontier_access_gatehouse",
             "@battle_tower",
-            "$can_freefly(battle_frontier)"
+            "$can_freefly|battle_frontier"
         ]
     },
     {
@@ -220,7 +220,7 @@
             "@dragons_den_entrance",
             "@ice_path_1f_back",
             "@route_45_north",
-            "$can_freefly(blackthorn)"
+            "$can_freefly|blackthorn"
         ]
     },
     {
@@ -291,7 +291,7 @@
             "@celadon_restaurant",
             "@route_16_east",
             "@route_7",
-            "$can_freefly(celadon)"
+            "$can_freefly|celadon"
         ]
     },
     {
@@ -423,7 +423,7 @@
             "@route_4_bottom",
             "@route_5",
             "@route_9",
-            "$can_freefly(cerulean)"
+            "$can_freefly|cerulean"
         ]
     },
     {
@@ -435,7 +435,7 @@
     {
         "name": "cerulean_cave_1f",
         "access_rules": [
-            "@cerulean, $surf, ^$flash, $kanto_badges(8)",
+            "@cerulean, $surf, ^$flash, $kanto_badges(8",
             "@cerulean_cave_2f",
             "@cerulean_cave_b1f"
         ]
@@ -505,7 +505,7 @@
             "@cherrygrove_southwest_house",
             "@route_29",
             "@route_30",
-            "$can_freefly(cherrygrove)"
+            "$can_freefly|cherrygrove"
         ]
     },
     {
@@ -557,7 +557,7 @@
             "@cianwood_pokecenter_1f",
             "@cliff_edge_gate, $event_cure_amphy",
             "@route_41, $surf",
-            "$can_freefly(cianwood)"
+            "$can_freefly|cianwood"
         ]
     },
     {
@@ -615,7 +615,7 @@
             "@cinnabar_island_pokecenter_1f",
             "@route_20_west, $surf",
             "@route_21",
-            "$can_freefly(cinnabar_island)"
+            "$can_freefly|cinnabar_island"
         ]
     },
     {
@@ -727,7 +727,7 @@
             "@route_37",
             "@route_38_ecruteak_gatehouse",
             "@route_42_ecruteak_gatehouse",
-            "$can_freefly(ecruteak)"
+            "$can_freefly|ecruteak"
         ]
     },
     {
@@ -843,7 +843,7 @@
             "@route_15_fuchsia_gatehouse",
             "@route_18",
             "@route_19_fuchsia_gatehouse",
-            "$can_freefly(fuchsia)"
+            "$can_freefly|fuchsia"
         ]
     },
     {
@@ -908,7 +908,7 @@
             "@goldenrod_tunnel_1f",
             "@route_34",
             "@route_35_goldenrod_gatehouse",
-            "$can_freefly(goldenrod)"
+            "$can_freefly|goldenrod"
         ]
     },
     {
@@ -1231,7 +1231,7 @@
         "access_rules": [
             "@pokemon_league_entrance",
             "@victory_road_3f",
-            "$can_freefly(indigo_plateau)"
+            "$can_freefly|indigo_plateau"
         ]
     },
     {
@@ -1240,7 +1240,7 @@
             "@lake_of_rage_fishing_guru_house",
             "@lake_of_rage_hidden_power_house",
             "@route_43",
-            "$can_freefly(lake_of_rage)"
+            "$can_freefly|lake_of_rage"
         ]
     },
     {
@@ -1274,7 +1274,7 @@
             "@route_10_south",
             "@route_12",
             "@route_8",
-            "$can_freefly(lavender)"
+            "$can_freefly|lavender"
         ]
     },
     {
@@ -1336,7 +1336,7 @@
             "@route_42",
             "@route_43_mahogany_gatehouse",
             "@route_44",
-            "$can_freefly(mahogany)"
+            "$can_freefly|mahogany"
         ]
     },
     {
@@ -1487,7 +1487,7 @@
             "@mount_silver_pokecenter_1f",
             "@route_28_north, $cut",
             "@route_28_south",
-            "$can_freefly(mount_silver)"
+            "$can_freefly|mount_silver"
         ]
     },
     {
@@ -1611,7 +1611,7 @@
         "access_rules": [
             "@route_35_national_park_pokeathalon_gatehouse",
             "@route_36_national_park_gatehouse",
-            "$can_freefly(national_park)"
+            "$can_freefly|national_park"
         ]
     },
     {
@@ -1623,7 +1623,7 @@
             "@new_bark_rival_house_1f",
             "@new_bark_southwest_house",
             "@route_29",
-            "$can_freefly(new_bark)"
+            "$can_freefly|new_bark"
         ]
     },
     {
@@ -1691,7 +1691,7 @@
             "@route_39",
             "@route_40",
             "@ss_aqua_olivine_port_interior",
-            "$can_freefly(olivine)"
+            "$can_freefly|olivine"
         ]
     },
     {
@@ -1806,7 +1806,7 @@
             "@pallet_town_reds_house_1f",
             "@route_1",
             "@route_21",
-            "$can_freefly(pallet)"
+            "$can_freefly|pallet"
         ]
     },
     {
@@ -1852,7 +1852,7 @@
             "@pewter_southwest_house",
             "@route_2",
             "@route_3",
-            "$can_freefly(pewter)"
+            "$can_freefly|pewter"
         ]
     },
     {
@@ -2232,7 +2232,7 @@
         "name": "route_22_pokemon_league_reception_gate",
         "access_rules": [
             "@route_22",
-            "@route_26, $johto_badges(8)",
+            "@route_26, $johto_badges(8",
             "@route_28_south",
             "@victory_road_1f_entrance"
         ]
@@ -2264,7 +2264,7 @@
             "@route_26_north_house",
             "@route_26_week_siblings_house",
             "@route_27_east",
-            "$can_freefly(route_26)"
+            "$can_freefly|route_26"
         ]
     },
     {
@@ -2876,7 +2876,7 @@
     {
         "name": "ruins_of_alph_northeast_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_northeast_entrance_first_room, $badges(1)",
+            "@ruins_of_alph_northeast_entrance_first_room, $badges(1",
             "@ruins_of_alph_northeast_entrance_first_room, $event_goldenrod_store",
             "@ruins_of_alph_northeast_entrance_first_room, $event_celadon_store"
         ]
@@ -2985,7 +2985,7 @@
             "@route_48",
             "@safari_zone_entrance_interior",
             "@safari_zone_gate_pokecenter_1f",
-            "$can_freefly(safari_zone_gate)"
+            "$can_freefly|safari_zone_gate"
         ]
     },
     {
@@ -3016,7 +3016,7 @@
             "@saffron_pokecenter_1f",
             "@saffron_pokemart",
             "@saffron_silph_co_hq",
-            "$can_freefly(saffron)"
+            "$can_freefly|saffron"
         ]
     },
     {
@@ -3350,7 +3350,7 @@
             "@vermilion_pokemart",
             "@vermilion_pokemon_fan_club",
             "@vermilion_south_house",
-            "$can_freefly(vermilion)"
+            "$can_freefly|vermilion"
         ]
     },
     {
@@ -3479,7 +3479,7 @@
             "@violet_pokemart",
             "@violet_pokemon_school",
             "@violet_route_36_gatehouse",
-            "$can_freefly(violet)"
+            "$can_freefly|violet"
         ]
     },
     {
@@ -3543,7 +3543,7 @@
             "@viridian_pokemart",
             "@viridian_route_1_gatehouse",
             "@viridian_trainer_house_1f",
-            "$can_freefly(viridian)"
+            "$can_freefly|viridian"
         ]
     },
     {
