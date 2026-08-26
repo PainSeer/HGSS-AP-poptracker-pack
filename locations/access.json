@@ -435,7 +435,7 @@
     {
         "name": "cerulean_cave_1f",
         "access_rules": [
-            "@cerulean, $surf, ^$flash, $kanto_badges(8",
+            "@cerulean, $surf, ^$flash, $kanto_badges_req|8",
             "@cerulean_cave_2f",
             "@cerulean_cave_b1f"
         ]
@@ -2232,7 +2232,7 @@
         "name": "route_22_pokemon_league_reception_gate",
         "access_rules": [
             "@route_22",
-            "@route_26, $johto_badges(8",
+            "@route_26, $johto_badges_req|8",
             "@route_28_south",
             "@victory_road_1f_entrance"
         ]
@@ -2876,7 +2876,7 @@
     {
         "name": "ruins_of_alph_northeast_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_northeast_entrance_first_room, $badges(1",
+            "@ruins_of_alph_northeast_entrance_first_room, $badges_req|1",
             "@ruins_of_alph_northeast_entrance_first_room, $event_goldenrod_store",
             "@ruins_of_alph_northeast_entrance_first_room, $event_celadon_store"
         ]

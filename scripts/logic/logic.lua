@@ -46,6 +46,15 @@ function badges_req(count)
     return (badges() >= tonumber(count))
 end
 
+function johto_badges_req(count)
+    return (johtobadges() >= tonumber(count))
+end
+
+function kanto_badges_req(count)
+    return (kantobadges() >= tonumber(count))
+end
+
+
 function badges()
     return
     Tracker:ProviderCountForCode("zephyrbadge") +

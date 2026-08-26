@@ -692,7 +692,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@celadon, $kanto_badges(8)"
+                    "@celadon, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -4721,7 +4721,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@new_bark_elms_lab_1f, $johto_badges(8), $event_ecruteak_dance_theater_defeat_team_rocket, $event_burned_tower_disperse_legendary_dogs"
+                    "@new_bark_elms_lab_1f, $johto_badges_req|8, $event_ecruteak_dance_theater_defeat_team_rocket, $event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5446,7 +5446,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pokemon_league_lance_room, $kanto_badges(8)"
+                    "@pokemon_league_lance_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5456,7 +5456,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pokemon_league_will_room, $kanto_badges(8)"
+                    "@pokemon_league_will_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5466,7 +5466,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pokemon_league_koga_room, $kanto_badges(8)"
+                    "@pokemon_league_koga_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5476,7 +5476,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pokemon_league_bruno_room, $kanto_badges(8)"
+                    "@pokemon_league_bruno_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5486,7 +5486,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pokemon_league_karen_room, $kanto_badges(8)"
+                    "@pokemon_league_karen_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11194,7 +11194,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11204,7 +11204,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11214,7 +11214,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11224,7 +11224,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11234,7 +11234,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11244,7 +11244,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11254,7 +11254,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11264,7 +11264,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11274,7 +11274,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11284,7 +11284,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11294,7 +11294,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11304,7 +11304,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11314,7 +11314,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11324,7 +11324,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11334,7 +11334,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11344,7 +11344,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -11354,7 +11354,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@ss_aqua_captain_room, $kanto_badges(8)"
+                    "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -13274,7 +13274,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@vermilion, $kanto_badges(8)"
+                    "@vermilion, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
