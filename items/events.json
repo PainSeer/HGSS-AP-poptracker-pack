@@ -306,5 +306,21 @@
         "img": "images/events/talk_to_kurt.png",
         "codes": "event_talk_to_kurt",
         "initial_active_state": true
+    },
+    {
+        "name": "Cherrygrove Rival",
+        "type": "toggle",
+        "img": "images/events/rival.png",
+        "img_mods": "overlay|images/events/rival_overlays/rival_cherrygrove.png",
+        "codes": "event_rival_cherrygrove",
+        "initial_active_state": true
+    },
+    {
+        "name": "Azelea Rival",
+        "type": "toggle",
+        "img": "images/events/rival.png",
+        "img_mods": "overlay|images/events/rival_overlays/rival_azelea.png",
+        "codes": "event_rival_azelea",
+        "initial_active_state": true
     }
 ]
