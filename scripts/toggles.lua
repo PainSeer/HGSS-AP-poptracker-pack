@@ -30,9 +30,17 @@ end
 
 function toggle_trackerlayout()
     suffix = ""
-   
-    if not has("opt_randomize_fly_items_off") then
-        suffix = suffix.."_flyunlock"
+
+    if has("pokemon_heartgold") then
+        if not has("opt_randomize_fly_items_off") then
+            suffix = suffix.."_hg_flyunlock"
+        end
+    end
+
+    if has("pokemon_soulsilver") then
+        if not has("opt_randomize_fly_items_off") then
+            suffix = suffix.."_ss_flyunlock"
+        end
     end
 
     Tracker:AddLayouts("layouts/tracker"..suffix..".json")
