@@ -40,7 +40,7 @@
                                 "event_beat_sprout_tower",
                                 "event_get_togepi_egg",
                                 "event_talk_to_kurt",
-                                "event_clear_slowpoke_wells",
+                                "event_clear_slowpoke_well",
                                 "event_farfetchd_rescue",
                                 "event_get_kenya",
                                 "event_give_kenya"
@@ -103,7 +103,7 @@
                                 "event_beat_sprout_tower",
                                 "event_get_togepi_egg",
                                 "event_talk_to_kurt",
-                                "event_clear_slowpoke_wells",
+                                "event_clear_slowpoke_well",
                                 "event_farfetchd_rescue",
                                 "event_get_kenya",
                                 "event_give_kenya"
