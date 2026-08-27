@@ -157,3 +157,7 @@ function partial_trainersanity()
         return false
     end
 end
+
+function red_scale()
+    return has("redscale")
+end
