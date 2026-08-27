@@ -34,18 +34,10 @@
                                                     }
                                                 },
                                                 {
-                                                    "title": "Encounter Items",
+                                                    "title": "Encounter and Evolution Items",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "key_encounters_grid"
-                                                    }
-                                                },
-                                                {
-                                                    "title": "Evolution Items",
-                                                    "content": {
-                                                        "type": "layout",
-                                                        "key": "key_evolution_grid"
-                                                    }
+                                                        "key": "key_enc_evo_grid"
                                                 }
                                             ]
                                         }
