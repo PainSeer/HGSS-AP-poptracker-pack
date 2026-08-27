@@ -301,6 +301,132 @@
         "codes": "bicycle"
     },
     {
+        "name": "squirtbottle",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "squirtbottle"
+    },
+    {
+        "name": "Clear Bell",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "clearbell"
+    },
+    {
+        "name": "Basement Key",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "basementkey"
+    },
+    {
+        "name": "Card Key",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "cardkey"
+    },
+    {
+        "name": "Pass",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "pass"
+    },
+    {
+        "name": "Oran berry",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "oranberry"
+    },
+    {
+        "name": "Red Scale",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "redscale"
+    },
+    {
+        "name": "Lost Item",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "lostitem"
+    },
+    {
+        "name": "Machine Part",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "machinepart"
+    },
+    {
+        "name": "Silver Wing",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "silverwing"
+    },
+    {
+        "name": "Rainbow Wing",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "rainbowwing"
+    },
+    {
+        "name": "Mystery Egg",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "mysteryegg"
+    },
+    {
+        "name": "Tidal Bell",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "tidalbell"
+    },
+    {
+        "name": "Rage Candy Bar", // gen 4 includes spaces
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "ragecandybar"
+    },
+    {
+        "name": "Pokegear Radio Card",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "upgradableradiopokegearcard"
+    },
+    {
+        "name": "Hoenn Sound",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "hoennsound"
+    },
+    {
+        "name": "Sinnoh Sound",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "sinnohsound"
+    },
+    {
+        "name": "Morning",
+        "type": "toggle",
+        "img": "images/items/morning.png",
+        "codes": "morningtime"
+    },
+    {
+        "name": "Day",
+        "type": "toggle",
+        "img": "images/items/daytime.png",
+        "codes": "daytime"
+    },
+    {
+        "name": "Night",
+        "type": "toggle",
+        "img": "images/items/nighttime.png",
+        "codes": "nighttime"
+    },
+    {
+        "name": "",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": ""
+    },
+    {
         "name": "Old Rod",
         "type": "toggle",
         "img": "images/items/old_rod.png",
