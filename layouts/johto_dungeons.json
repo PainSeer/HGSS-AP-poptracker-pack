@@ -405,6 +405,32 @@
         }
       },
       {
+        "title": "Lake of Rage",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "High Tide",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "lakeofrageflooded"
+                ]
+              }
+            },
+            {
+              "title": "Low Tide",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "lakeofragedry"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
         "title": "Ice Path",
         "content": {
           "type": "tabbed",

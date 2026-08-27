@@ -4,14 +4,163 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "New Bark Town",
+        "title": "Rock Tunnel",
         "content": {
-          "type": "map",
-          "maps": [
-            "newbarktown"
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "rocktunnel1f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "rocktunnelb1f"
+                ]
+              }
+            }
           ]
         }
       },
+      {
+        "title": "Diglett's Cave",
+        "content": {
+          "type": "map",
+          "maps": [
+            "diglettscave"
+          ]
+        }
+      },
+      {
+        "title": "Underground Path",
+        "content": {
+          "type": "map",
+          "maps": [
+            "undergroundpath"
+          ]
+        }
+      },
+      {
+        "title": "Mt. Moon",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Cave",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtmooncave"
+                ]
+              }
+            },
+            {
+              "title": "Square",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "mtmoonsquare"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Cerulean Cave",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancave1f"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancave2f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancaveb1f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Seafoam Islands",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "seafoamislands1f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "seafoamislandsb1f"
+                ]
+              }
+            },
+            {
+              "title": "B2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "seafoamislandsb2f"
+                ]
+              }
+            },
+            {
+              "title": "B3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "seafoamislandsb3f"
+                ]
+              }
+            },
+            {
+              "title": "B4F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "seafoamislandsb4f"
+                ]
+              }
+            }
+          ]
+        }
+      }
     ]
   }
 }

@@ -1336,6 +1336,108 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/rockethqb3f.png"
+    },
+    {
+        "name": "ssaqua1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaqua1f.png"
+    },
+    {
+        "name": "ssaquab1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaquab1f.png"
+    },
+    {
+        "name": "rocktunnel1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/rocktunnel1f.png"
+    },
+    {
+        "name": "rocktunnelb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/rocktunnelb1f.png"
+    },
+    {
+        "name": "diglettscave",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/diglettscave.png"
+    },
+    {
+        "name": "undergroundpath",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/undergroundpath.png"
+    },
+    {
+        "name": "mtmooncave",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtmooncave.png"
+    },
+    {
+        "name": "mtmoonsquare",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/mtmoonsquare.png"
+    },
+    {
+        "name": "viridianforest",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/viridianforest.png"
+    },
+    {
+        "name": "ceruleancave1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ceruleancave1f.png"
+    },
+    {
+        "name": "ceruleancave2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ceruleancave2f.png"
+    },
+    {
+        "name": "ceruleancaveb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ceruleancaveb1f.png"
+    },
+    {
+        "name": "seafoamislands1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/seafoamislands1f.png"
+    },
+    {
+        "name": "seafoamislandsb1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/seafoamislandsb1f.png"
+    },
+    {
+        "name": "seafoamislandsb2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/seafoamislandsb2f.png"
+    },
+    {
+        "name": "seafoamislandsb3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/seafoamislandsb3f.png"
+    },
+    {
+        "name": "seafoamislandsb4f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/seafoamislandsb4f.png"
     }
 ]
 

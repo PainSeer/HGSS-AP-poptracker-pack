@@ -751,6 +751,15 @@
         }
       },
       {
+        "title": "Indigo Plateau",
+        "content": {
+          "type": "map",
+          "maps": [
+            "indigoplateau"
+          ]
+        }
+      },
+      {
         "title": "Safari Zone Gate",
         "content": {
           "type": "map",

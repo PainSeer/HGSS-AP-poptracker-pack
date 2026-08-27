@@ -111,6 +111,32 @@
                   "vermiliongym"
                 ]
               }
+            },
+            {
+              "title": "S.S. Aqua",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ssaqua1f"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "B1F",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ssaquab1f"
+                      ]
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
@@ -205,17 +231,17 @@
       {
         "title": "Cinnabar Island",
         "content": {
-          "type": "map",
-          "maps": [
-            "cinnabarisland"
-          ]
-        }
-      },
-      {
-        "title": "Seafoam Islands",
-        "content": {
           "type": "tabbed",
           "tabs": [
+            {
+              "title": "Island",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cinnabarisland"
+                ]
+              }
+            },
             {
               "title": "Gym",
               "content": {
