@@ -327,7 +327,7 @@
     {
         "name": "squirtbottle",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/squirtbottle.png",
         "codes": "squirtbottle"
     },
     {
@@ -339,7 +339,7 @@
     {
         "name": "Basement Key",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/basement_key.png",
         "codes": "basementkey"
     },
     {
@@ -357,7 +357,7 @@
     {
         "name": "Oran berry",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/oranberry.png",
         "codes": "oranberry"
     },
     {
