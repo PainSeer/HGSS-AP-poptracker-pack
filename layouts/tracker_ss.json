@@ -57,7 +57,7 @@
                                 "content": [
                                     {
                                         "type": "layout",
-                                        "key": "event_grid"
+                                        "key": "event_ss_grid"
                                     }
                                 ]
                             }

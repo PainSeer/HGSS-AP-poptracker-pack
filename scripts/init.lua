@@ -1,7 +1,7 @@
 local variant = Tracker.ActiveVariantUID
 
 -- Items
-Tracker:AddItems("items/events.json")
+Tracker:AddItems("items/events_hg.json")
 Tracker:AddItems("items/events_hosted.json")
 Tracker:AddItems("items/items.jsonc")
 Tracker:AddItems("items/items_hosted.json")
