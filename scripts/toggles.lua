@@ -12,7 +12,7 @@ function toggle_eventgrid()
     local suffix = ""
 
     if not has("pokemon_heartgold") then
-        suffix = suffix .. "_hg"
+        suffix = suffix .. "_ss"
     end
     
     Tracker:AddLayouts("layouts/items/events"..suffix..".json")
