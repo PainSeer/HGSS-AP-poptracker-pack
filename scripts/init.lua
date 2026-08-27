@@ -1,7 +1,7 @@
 local variant = Tracker.ActiveVariantUID
 
 -- Items
-Tracker:AddItems("items/events_hg.json")
+Tracker:AddItems("items/events.json")
 Tracker:AddItems("items/events_hosted.json")
 Tracker:AddItems("items/items.jsonc")
 Tracker:AddItems("items/items_hosted.json")
@@ -32,7 +32,7 @@ Tracker:AddLayouts("layouts/settings_popup.json")
 Tracker:AddLayouts("layouts/items/items_hg_max.json")
 Tracker:AddLayouts("layouts/items/evo_enc_items.json")
 Tracker:AddLayouts("layouts/flyunlock.json")
-Tracker:AddLayouts("layouts/events.json")
+Tracker:AddLayouts("layouts/events_hg.json")
 Tracker:AddLayouts("layouts/johto_cities.json")
 Tracker:AddLayouts("layouts/johto_routes.json")
 Tracker:AddLayouts("layouts/johto_dungeons.json")
