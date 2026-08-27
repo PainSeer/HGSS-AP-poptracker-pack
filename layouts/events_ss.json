@@ -1,5 +1,5 @@
 {
-    "event_ss_grid": {
+    "event_grid": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
@@ -69,7 +69,7 @@
             }
         ]
     },
-    "v_event_ss_grid": {
+    "v_event_grid": {
         "type": "array",
         "content": [
             {

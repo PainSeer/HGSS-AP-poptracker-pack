@@ -1,29 +1,21 @@
-function toggle_gameversion()
-    if has("pokemon_heartgold") then
-        Tracker:AddLayouts("layouts/tracker_hg.json")
-        Tracker:AddLayouts("layouts/items_hg_max.json")
-    elseif has("pokemon_soulsilver") then
-        Tracker:AddLayouts("layouts/tracker_ss.json")
-        Tracker:AddLayouts("layouts/items_ss_max.json")
-	end
-end
-
-
-
-
-
 function toggle_itemgrid()
-    suffix = ""
+    local suffix = ""
 
-    if has("pokemon_heartgold") then
-        suffix = "_hg_max"
-    end
-
-    if has("pokemon_soulsilver") then
-        suffix = "_ss_max"
+    if not has("pokemon_heartgold") then
+        suffix = suffix .. "_ss_max"
     end
     
     Tracker:AddLayouts("layouts/items/items"..suffix..".json")
+end
+
+function toggle_eventgrid()
+    local suffix = ""
+
+    if not has("pokemon_heartgold") then
+        suffix = suffix .. "_hg"
+    end
+    
+    Tracker:AddLayouts("layouts/items/events"..suffix..".json")
 end
 
 function toggle_splitmap()
@@ -38,25 +30,13 @@ end
 
 function toggle_trackerlayout()
     suffix = ""
-
-    if has("pokemon_heartgold") then
-        if not has("opt_randomize_fly_items_off") then
-            suffix = suffix.."_hg_flyunlock"
-        else suffix = suffix.."_hg"
-        end
-    end
-
-    if has("pokemon_soulsilver") then
-        if not has("opt_randomize_fly_items_off") then
-            suffix = suffix.."_ss_flyunlock"
-        else suffix = suffix.."_ss"
-        end
+   
+    if not has("opt_randomize_fly_items_off") then
+        suffix = suffix.."_flyunlock"
     end
 
     Tracker:AddLayouts("layouts/tracker"..suffix..".json")
 end
-
-
 
 function syncPokedex()
     if not has("opt_pokedex_off") then return end
