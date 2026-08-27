@@ -247,15 +247,6 @@
         }
       },
       {
-        "title": "Ilex Forest",
-        "content": {
-          "type": "map",
-          "maps": [
-            "ilexforest"
-          ]
-        }
-      },
-      {
         "title": "Cliff Cave",
         "content": {
           "type": "tabbed",
