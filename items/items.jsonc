@@ -333,7 +333,7 @@
     {
         "name": "Escape Rope",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/escaperope.png",
         "codes": "escaperope"
     },
     {
@@ -423,13 +423,15 @@
     {
         "name": "Hoenn Sound",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/hoenn.png",
+        "img_mods": "overlay|images/items/overlays/sound.png",
         "codes": "hoennsound"
     },
     {
         "name": "Sinnoh Sound",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/sinnoh.png",
+        "img_mods": "overlay|images/items/overlays/sound.png",
         "codes": "sinnohsound"
     },
     {

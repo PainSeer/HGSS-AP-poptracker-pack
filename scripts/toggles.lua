@@ -14,6 +14,14 @@ end
 
 function toggle_itemgrid()
     suffix = ""
+
+    if has("pokemon_heartgold") then
+        suffix = "_hg_max"
+    end
+
+    if has("pokemon_soulsilver") then
+        suffix = "_ss_max"
+    end
     
     Tracker:AddLayouts("layouts/items/items"..suffix..".json")
 end
@@ -34,12 +42,14 @@ function toggle_trackerlayout()
     if has("pokemon_heartgold") then
         if not has("opt_randomize_fly_items_off") then
             suffix = suffix.."_hg_flyunlock"
+        else suffix = suffix.."_hg"
         end
     end
 
     if has("pokemon_soulsilver") then
         if not has("opt_randomize_fly_items_off") then
             suffix = suffix.."_ss_flyunlock"
+        else suffix = suffix.."_ss"
         end
     end
 
