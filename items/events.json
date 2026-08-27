@@ -140,7 +140,7 @@
         "initial_active_state": true
     },
     {
-        "name": "Defeat Lance and Claire at Dragon's Den",
+        "name": "Defeat Lance and Clair at Dragon's Den",
         "type": "toggle",
         "img": "images/events/defeat_lance_clair_dragons_den.png",
         "codes": "event_defeat_lance_clair_dragons_den",
