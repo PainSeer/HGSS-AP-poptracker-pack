@@ -2,7 +2,7 @@ function toggle_itemgrid()
     local suffix = ""
 
     if not has("pokemon_heartgold") then
-        suffix = suffix .. "_ss_max"
+        suffix = suffix .. "_ss"
     end
     
     Tracker:AddLayouts("layouts/items/items"..suffix..".json")
@@ -15,7 +15,7 @@ function toggle_eventgrid()
         suffix = suffix .. "_ss"
     end
     
-    Tracker:AddLayouts("layouts/items/events"..suffix..".json")
+    Tracker:AddLayouts("layouts/events"..suffix..".json")
 end
 
 function toggle_splitmap()
@@ -29,7 +29,7 @@ function toggle_splitmap()
 end
 
 function toggle_trackerlayout()
-    suffix = ""
+    local suffix = ""
    
     if not has("opt_randomize_fly_items_off") then
         suffix = suffix.."_flyunlock"
