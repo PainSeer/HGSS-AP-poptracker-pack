@@ -277,21 +277,21 @@
             {
                 "name": "Pokedex",
                 "inherit_codes": true,
-                "img": "/images/items/pokedex.png",
+                "img": "/images/items/temp.png",
                 "img_mods": "overlay|images/items/overlays/base.png",
                 "codes": "pokedex"
             },
             {
                 "name": "Pokedex - Forms",
                 "inherit_codes": true,
-                "img": "/images/items/pokedex.png",
+                "img": "/images/items/temp.png",
                 "img_mods": "overlay|images/items/overlays/form.png",
                 "codes": "pokedex"
             },
             {
                 "name": "Pokedex - National",
                 "inherit_codes": true,
-                "img": "/images/items/pokedex.png",
+                "img": "/images/items/temp.png",
                 "img_mods": "overlay|images/items/overlays/nat.png",
                 "codes": "pokedex, national_dex"
             }
@@ -329,6 +329,12 @@
         "type": "toggle",
         "img": "images/items/squirtbottle.png",
         "codes": "squirtbottle"
+    },
+    {
+        "name": "Escape Rope",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "escaperope"
     },
     {
         "name": "Clear Bell",
@@ -443,12 +449,6 @@
         "type": "toggle",
         "img": "images/items/nighttime.png",
         "codes": "nighttime"
-    },
-    {
-        "name": "",
-        "type": "toggle",
-        "img": "images/temp.png",
-        "codes": ""
     },
     {
         "name": "Old Rod",

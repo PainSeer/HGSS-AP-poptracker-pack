@@ -1,3 +1,17 @@
+function toggle_gameversion()
+    if has("pokemon_heartgold") then
+        Tracker:AddLayouts("layouts/tracker_hg.json")
+        Tracker:AddLayouts("layouts/items_hg_max.json")
+    elseif has("pokemon_soulsilver") then
+        Tracker:AddLayouts("layouts/tracker_ss.json")
+        Tracker:AddLayouts("layouts/items_ss_max.json")
+	end
+end
+
+
+
+
+
 function toggle_itemgrid()
     suffix = ""
     

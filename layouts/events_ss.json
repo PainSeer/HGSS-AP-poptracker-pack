@@ -1,0 +1,133 @@
+{
+    "event_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2,2",
+                        "item_size": "32,32",
+                        "h_alignment": "center",
+                        "rows": [
+                            [
+                                "event_defeat_falkner",
+                                "event_defeat_bugsy",
+                                "event_defeat_whitney",
+                                "event_defeat_morty",
+                                "event_defeat_chuck",
+                                "event_defeat_jasmine",
+                                "event_defeat_pryce",
+                                "event_defeat_clair"
+                            ],
+                            [
+                                "event_defeat_brock",
+                                "event_defeat_misty",
+                                "event_defeat_lt_surge",
+                                "event_defeat_erika",
+                                "event_defeat_janine",
+                                "event_defeat_sabrina",
+                                "event_defeat_blaine",
+                                "event_defeat_blue"
+                            ],
+                            [
+                                "event_get_mystery_egg",
+                                "event_beat_sprout_tower",
+                                "event_get_togepi_egg",
+                                "event_talk_to_kurt",
+                                "event_clear_slowpoke_wells",
+                                "event_farfetchd_rescue",
+                                "event_get_kenya",
+                                "event_give_kenya"
+                            ],
+                            [
+                                "event_burned_tower_disperse_legendary_dogs",
+                                "event_cure_amphy",
+                                "event_shiny_gyarados",
+                                "event_clear_mahogany_hideout",
+                                "event_clear_rocket_tower",
+                                "event_radio_quiz",
+                                "event_defeat_lance_clair_dragons_den",
+                                "event_meet_lugia"
+                            ],
+                            [
+                                "event_route_24_defeat_kanto_grunt",
+                                "event_ruin_mistys_date",
+                                "event_restore_power",
+                                "event_cinnabar_island_blue_return_viridian",
+                                "event_clear_pokemon_league",
+                                "event_defeat_red"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "v_event_grid": {
+        "type": "array",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2,2",
+                "item_size": "32,32",
+                "h_alignment": "center",
+                "rows": [
+                            [
+                                "event_defeat_falkner",
+                                "event_defeat_bugsy",
+                                "event_defeat_whitney",
+                                "event_defeat_morty",
+                                "event_defeat_chuck",
+                                "event_defeat_jasmine",
+                                "event_defeat_pryce",
+                                "event_defeat_clair"
+                            ],
+                            [
+                                "event_defeat_brock",
+                                "event_defeat_misty",
+                                "event_defeat_lt_surge",
+                                "event_defeat_erika",
+                                "event_defeat_janine",
+                                "event_defeat_sabrina",
+                                "event_defeat_blaine",
+                                "event_defeat_blue"
+                            ],
+                            [
+                                "event_get_mystery_egg",
+                                "event_beat_sprout_tower",
+                                "event_get_togepi_egg",
+                                "event_talk_to_kurt",
+                                "event_clear_slowpoke_wells",
+                                "event_farfetchd_rescue",
+                                "event_get_kenya",
+                                "event_give_kenya"
+                            ],
+                            [
+                                "event_burned_tower_disperse_legendary_dogs",
+                                "event_cure_amphy",
+                                "event_shiny_gyarados",
+                                "event_clear_mahogany_hideout",
+                                "event_clear_rocket_tower",
+                                "event_radio_quiz",
+                                "event_defeat_lance_clair_dragons_den",
+                                "event_meet_ho_oh"
+                            ],
+                            [
+                                "event_route_24_defeat_kanto_grunt",
+                                "event_ruin_mistys_date",
+                                "event_restore_power",
+                                "event_cinnabar_island_blue_return_viridian",
+                                "event_clear_pokemon_league",
+                                "event_defeat_red"
+                            ]
+                ]
+            }
+        ]
+    }
+}

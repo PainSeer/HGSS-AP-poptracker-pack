@@ -92,7 +92,7 @@
         "h_alignment": "center",
         "rows": [
             [
-                "opt_hms",
+                "game_version",
                 "opt_badges",
                 "opt_overworld",
                 "opt_hidden",

@@ -7,11 +7,11 @@
             {
                 "type": "array",
                 "orientation": "horizontal",
-                "margin": "48,0,0,0",
+                "margin": "16,0,0,0",
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "8, 8",
+                        "item_margin": "5, 5",
                         "h_alignment": "center",
                         "item_height": 32,
                         "item_width": 32,

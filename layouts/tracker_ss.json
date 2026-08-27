@@ -30,7 +30,7 @@
                                                     "title": "Key Items",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "key_items_grid"
+                                                        "key": "key_items_ss_grid"
                                                     }
                                                 },
                                                 {
@@ -38,6 +38,7 @@
                                                     "content": {
                                                         "type": "layout",
                                                         "key": "key_enc_evo_grid"
+                                                    }
                                                 }
                                             ]
                                         }
@@ -47,38 +48,19 @@
                         },
                         {
                             "type": "group",
-                            "margin": "100,100",
                             "background": "#171717",
+                            "header": "Events",
                             "dock": "left",
-                            "content": [
-                                {
-                                    "type": "array",
-                                    "margin": "0,-28, 0, 0",
-                                    "content": [
-                                        {
-                                            "type": "tabbed",
-                                            "h_alignment": "left",
-                                            "dock": "left",
-                                            "tabs": [
-                                                {
-                                                    "title": "Events",
-                                                    "content": {
-                                                        "type": "layout",
-                                                        "key": "event_grid"
-                                                    }
-                                                },
-                                                {
-                                                    "title": "Fly Unlocks",
-                                                    "content": {
-                                                        "type": "layout",
-                                                        "key": "flyunlock_grid"
-                                                    }
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
+                            "content": {
+                                "type": "array",
+                                "margin": "0,-3,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "event_grid"
+                                    }
+                                ]
+                            }
                         },
                         {
                             "type": "group",
