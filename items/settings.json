@@ -517,21 +517,21 @@
         "stages": [
             {
                 "name": "There is a Magnetic Field in the Ruins of Alph",
-                "img": "images/temp.png",
+                "img": "images/settings/magnetic_field.png",
  	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
                 "codes": "opt_magnetic_field, opt_magnetic_field_johto",
                 "inherit_codes": false
             },
             {
                 "name": "There is a Magnetic Field Outsde the Power Plant",
-                "img": "images/temp.png",
+                "img": "images/settings/magnetic_field.png",
  	        "img_mods": "overlay|images/settings/overlays/area_kanto.png",
                 "codes": "opt_magnetic_field, opt_magnetic_field_kanto",
                 "inherit_codes": false
             },
             {
                 "name": "There is a Magnetic Field at the Ruins of Alph and the Power Plant",
-                "img": "images/temp.png",
+                "img": "images/settings/magnetic_field.png",
  	        "img_mods": "overlay|images/settings/overlays/area_both.png",
                 "codes": "opt_magnetic_field, opt_magnetic_field_kanto, opt_magnetic_field_johto",
                 "inherit_codes": false

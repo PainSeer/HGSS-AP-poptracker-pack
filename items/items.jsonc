@@ -339,7 +339,7 @@
     {
         "name": "Clear Bell",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/clearbell.png",
         "codes": "clearbell"
     },
     {
@@ -375,7 +375,7 @@
     {
         "name": "Lost Item",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/lostitem.png",
         "codes": "lostitem"
     },
     {
@@ -387,13 +387,13 @@
     {
         "name": "Silver Wing",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/silver_wing.png",
         "codes": "silverwing"
     },
     {
         "name": "Rainbow Wing",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/rainbow_wing.png",
         "codes": "rainbowwing"
     },
     {
@@ -405,19 +405,19 @@
     {
         "name": "Tidal Bell",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/tidalbell.png",
         "codes": "tidalbell"
     },
     {
         "name": "Rage Candy Bar", // gen 4 includes spaces
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/rage_candy_bar.png",
         "codes": "ragecandybar"
     },
     {
         "name": "Pokegear Radio Card",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/pokegear_radio.png",
         "codes": "upgradableradiopokegearcard"
     },
     {
