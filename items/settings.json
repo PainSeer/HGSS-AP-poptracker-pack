@@ -20,6 +20,37 @@
         ]
     },
     {
+        "name": "Magnet Train Power",
+        "type": "progressive",
+        "initial_stage_idx": 2,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Magnet Train is Working",
+                "img": "images/temp.png",
+                "img_mods": "@disabled",
+                "codes": "opt_train, opt_train_false",
+                "inherit_codes": false
+            },
+            {
+                "name": "Magnet Train Needs an Electrician",
+                "img": "images/temp.png",
+                "codes": "opt_train, opt_train_true",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Kanto Badges Required to Fight Blue",
+        "img": "/images/temp.png",
+        "codes": "opt_blue_badges",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 7,
+        "initial_quantity": 7
+    },
+    {
         "name": "Randomize HMs",
         "type": "progressive",
         "initial_stage_idx": 1,
@@ -28,14 +59,14 @@
         "stages": [
             {
                 "name": "Randomize HMs - OFF",
-                "img": "images/settings/opt_hms.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_hms, opt_hms_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize HMs - ON",
-                "img": "images/settings/opt_hms.png",
+                "img": "images/temp.png",
                 "codes": "opt_hms, opt_hms_on",
                 "inherit_codes": false
             }
@@ -50,14 +81,14 @@
         "stages": [
             {
                 "name": "Randomize Badges - OFF",
-                "img": "images/settings/opt_badges.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_badges, opt_badges_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Badges - ON",
-                "img": "images/settings/opt_badges.png",
+                "img": "images/temp.png",
                 "codes": "opt_badges, opt_badges_on",
                 "inherit_codes": false
             }
@@ -94,14 +125,14 @@
         "stages": [
             {
                 "name": "Randomize Hidden Items - OFF",
-                "img": "images/settings/opt_hidden.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_hidden, opt_hidden_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Hidden Items - ON",
-                "img": "images/settings/opt_hidden.png",
+                "img": "images/temp.png",
                 "codes": "opt_hidden, opt_hidden_on",
                 "inherit_codes": false
             }
@@ -116,14 +147,14 @@
         "stages": [
             {
                 "name": "Randomize NPC Gifts - OFF",
-                "img": "images/settings/opt_npcgifts.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_npcgifts, opt_npcgifts_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize NPC Gifts - ON",
-                "img": "images/settings/opt_npcgifts.png",
+                "img": "images/temp.png",
                 "codes": "opt_npcgifts, opt_npcgifts_on",
                 "inherit_codes": false
             }
@@ -138,14 +169,14 @@
         "stages": [
             {
                 "name": "Randomize Key Items - OFF",
-                "img": "images/settings/opt_keyitems.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_keyitems, opt_keyitems_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Key Items - ON",
-                "img": "images/settings/opt_keyitems.png",
+                "img": "images/temp.png",
                 "codes": "opt_keyitems, opt_keyitems_on",
                 "inherit_codes": false
             }
@@ -160,14 +191,14 @@
         "stages": [
             {
                 "name": "Randomize Fishing Rods - OFF",
-                "img": "images/settings/opt_rods.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_rods, opt_rods_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Fishing Rods - ON",
-                "img": "images/settings/opt_rods.png",
+                "img": "images/temp.png",
                 "codes": "opt_rods, opt_rods_on",
                 "inherit_codes": false
             }
@@ -182,14 +213,14 @@
         "stages": [
             {
                 "name": "Randomize Running Shoes - OFF",
-                "img": "images/settings/opt_shoes.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_shoes, opt_shoes_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Running Shoes - ON",
-                "img": "images/settings/opt_shoes.png",
+                "img": "images/temp.png",
                 "codes": "opt_shoes, opt_shoes_on",
                 "inherit_codes": false
             }
@@ -204,14 +235,14 @@
         "stages": [
             {
                 "name": "Randomize Bicycle - OFF",
-                "img": "images/settings/opt_bicycle.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_bicycle, opt_bicycle_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Bicycle - ON",
-                "img": "images/settings/opt_bicycle.png",
+                "img": "images/temp.png",
                 "codes": "opt_bicycle, opt_bicycle_on",
                 "inherit_codes": false
             }
@@ -226,15 +257,37 @@
         "stages": [
             {
                 "name": "Randomize Pokedex - OFF",
-                "img": "images/settings/opt_pokedex.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_pokedex, opt_pokedex_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Pokedex - ON",
-                "img": "images/settings/opt_pokedex.png",
+                "img": "images/temp.png",
                 "codes": "opt_pokedex, opt_pokedex_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Randomize Pokegear Cards",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Pokegear Cards - OFF",
+                "img": "images/temp.png",
+                "img_mods": "@disabled",
+                "codes": "opt_pokegearcards, opt_pokegearcards_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Pokegear Cards - ON",
+                "img": "images/temp.png",
+                "codes": "opt_pokegearcards, opt_pokegearcards_on",
                 "inherit_codes": false
             }
         ]
@@ -248,14 +301,14 @@
         "stages": [
             {
                 "name": "Darkness need to be traversed without help",
-                "img": "images/settings/opt_hm_visibility.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_hm_visibility, opt_hm_visibility_off",
                 "inherit_codes": false
             },
             {
-                "name": "Darkness logically require Defog and Flash",
-                "img": "images/settings/opt_hm_visibility.png",
+                "name": "Darkness logically requires Flash",
+                "img": "images/temp.png",
                 "codes": "opt_hm_visibility, opt_hm_visibility_on",
                 "inherit_codes": false
             }
@@ -270,14 +323,14 @@
         "stages": [
             {
                 "name": "Hidden Items are expected to be picked up without help",
-                "img": "images/settings/opt_dowsing.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_dowsing, opt_dowsing_off",
                 "inherit_codes": false
             },
             {
                 "name": "Hidden Items logically require the Dowsing Machine",
-                "img": "images/settings/opt_dowsing.png",
+                "img": "images/temp.png",
                 "codes": "opt_dowsing, opt_dowsing_on",
                 "inherit_codes": false
             }
@@ -289,7 +342,7 @@
         "initial_stage_idx": 1,
         "loop": true,
         "allow_disabled": false,
-        "stages": [
+        "stages": [ 
             {
                 "name": "Goal: Defeat Red",
                 "img": "images/settings/opt_goal_red.png",
@@ -305,16 +358,6 @@
         ]
     },
     {
-        "name": "Regional Dex Goal",
-        "type": "consumable",
-        "img": "/images/settings/regional_dex_goal.png",
-        "min_quantity": 1,
-        "max_quantity": 210,
-        "initial_quantity": 60,
-        "overlay_background": "#000000",
-        "codes": "regional_dex_goal"
-    },
-    {
         "name": "Time Items",
         "type": "progressive",
         "initial_stage_idx": 1,
@@ -323,14 +366,35 @@
         "stages": [
             {
                 "name": "Time Items are randomized",
-                "img": "images/settings/opt_timeitems_on.png",
+                "img": "images/temp.png",
                 "codes": "opt_timeitems, opt_timeitems_on",
                 "inherit_codes": false
             },
             {
                 "name": "Time Items are pre-collected",
-                "img": "images/settings/opt_timeitems_precollect.png",
+                "img": "images/temp.png",
                 "codes": "opt_timeitems, opt_timeitems_precollect",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Sound Items",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Sound Items are randomized",
+                "img": "images/temp.png",
+                "codes": "opt_sounditems, opt_timeitems_on",
+                "inherit_codes": false
+            },
+            {
+                "name": "Sound Items are pre-collected",
+                "img": "images/temp.png",
+                "codes": "opt_sounditems, opt_timeitems_precollect",
                 "inherit_codes": false
             }
         ]
@@ -344,19 +408,19 @@
         "stages": [
             {
                 "name": "Add HM Reader - OFF",
-                "img": "images/settings/opt_hmreader_off.png",
+                "img": "images/temp.png",
                 "codes": "opt_hmreader, opt_hmreader_off",
                 "inherit_codes": false
             },
             {
                 "name": "Add HM Reader - Randomized",
-                "img": "images/settings/opt_hmreader_on_reqmon.png",
+                "img": "images/temp.png",
                 "codes": "opt_hmreader, opt_hmreader_on",
                 "inherit_codes": false
             },
             {
                 "name": "Add HM Reader - Pre-Collected",
-                "img": "images/settings/opt_hmreader_on_free.png",
+                "img": "images/temp.png",
                 "codes": "opt_hmreader, opt_hmreader_precollected",
                 "inherit_codes": false
             }
@@ -371,15 +435,96 @@
         "stages": [
             {
                 "name": "EItems Shop in AP Helper - OFF",
-                "img": "images/settings/evo_items_shop_in_ap_helper.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_items_shop_in_ap_helper, opt_items_shop_in_ap_helper_off",
                 "inherit_codes": false
             },
             {
                 "name": "Items Shop in AP Helper - ON",
-                "img": "images/settings/evo_items_shop_in_ap_helper.png",
+                "img": "images/temp.png",
                 "codes": "opt_items_shop_in_ap_helper, opt_items_shop_in_ap_helper_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Mossy Rock",
+        "type": "progressive",
+        "initial_stage_idx": 3,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Mossy Rock is in Ilex Forest",
+                "img": "images/settings/moss_rock.png",
+                "codes": "opt_mossy_rock, opt_mossy_rock_johto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Mossy Rock is in Viridian Forest",
+                "img": "images/settings/moss_rock.png",
+                "codes": "opt_mossy_rock, opt_mossy_rock_kanto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Mossy Rock is in Ilex Forest and Viridian Forest",
+                "img": "images/settings/moss_rock.png",
+                "codes": "opt_mossy_rock, opt_mossy_rock_kanto, opt_mossy_rock_johto",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Icy Rock",
+        "type": "progressive",
+        "initial_stage_idx": 3,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Icy Rock is in Ice Path",
+                "img": "images/settings/ice_rock.png",
+                "codes": "opt_icy_rock, opt_icy_rock_johto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Icy Rock is in Seafoam Islands",
+                "img": "images/settings/ice_rock.png",
+                "codes": "opt_icy_rock, opt_icy_rock_kanto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Icy Rock is in Ice Path and Seafoam Islands",
+                "img": "images/settings/ice_rock.png",
+                "codes": "opt_icy_rock, opt_icy_rock_kanto, opt_icy_rock_johto",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Magnetic Field",
+        "type": "progressive",
+        "initial_stage_idx": 3,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "There is a Magnetic Field in the Ruins of Alph",
+                "img": "images/temp.png",
+                "codes": "opt_magnetic_field, opt_magnetic_field_johto",
+                "inherit_codes": false
+            },
+            {
+                "name": "There is a Magnetic Field Outsde the Power Plant",
+                "img": "images/temp.png",
+                "codes": "opt_magnetic_field, opt_magnetic_field_kanto",
+                "inherit_codes": false
+            },
+            {
+                "name": "There is a Magnetic Field at the Ruins of Alph and the Power Plant",
+                "img": "images/temp.png",
+                "codes": "opt_magnetic_field, opt_magnetic_field_kanto, opt_magnetic_field_johto",
                 "inherit_codes": false
             }
         ]
@@ -403,15 +548,14 @@
         "stages": [
             {
                 "name": "Fly Items Not Required for Flight",
-                "img": "images/items/hm02_fly.png",
+                "img": "images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Items Required for Flight",
-                "img": "images/items/hm02_fly.png",
-                "img_mods": "overlay|images/settings/overlays/fly_red_square_overlay.png",
+                "img": "images/temp.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
                 "inherit_codes": false
             }
@@ -425,24 +569,100 @@
         "allow_disabled": false,
         "stages": [
             {
-                "name": "Randomize Fly Unlocks - OFF",
+                "name": "Fly Unlocks - OFF",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "@disabled",
                 "codes": "opt_randomize_fly_items, opt_randomize_fly_items_off",
                 "inherit_codes": false
             },
             {
-                "name": "Randomize Fly Unlocks - No Pokemon League",
-                "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/NOE4.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_all_except_pokemon_league",
+                "name": "Fly Unlocks - Johto Only",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto",
                 "inherit_codes": false
             },
             {
-                "name": "Randomize Fly Unlocks - ALL",
-                "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/all.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_all",
+                "name": "Fly Unlocks - Kanto Only",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Pokemon League Only",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Mount Silver Only",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Kanto",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Pokemon League",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Mount Silver",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Kanto + Pokemon League",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Kanto + Mount Silver",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Pokemon League + Mount Silver",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Kanto + Pokemon League",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Kanto + Mount Silver",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_kanto, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Pokemon league + Mount Silver",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Kanto + Pokemon League + Mount Silver",
+                "img": "images/temp.png",
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - ALL",
+                "img": "images/temp.png",,
+                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
                 "inherit_codes": false
             }
         ]
