@@ -65,14 +65,14 @@ function badges()
     Tracker:ProviderCountForCode("mineralbadge") +
     Tracker:ProviderCountForCode("glacierbadge") +
     Tracker:ProviderCountForCode("risingbadge") +
-    Tracker:ProviderCountForCode("zephyrbadge") +
-    Tracker:ProviderCountForCode("hivebadge") +
-    Tracker:ProviderCountForCode("plainbadge") +
-    Tracker:ProviderCountForCode("fogbadge") +
-    Tracker:ProviderCountForCode("stormbadge") +
-    Tracker:ProviderCountForCode("mineralbadge") +
-    Tracker:ProviderCountForCode("glacierbadge") +
-    Tracker:ProviderCountForCode("risingbadge")
+    Tracker:ProviderCountForCode("boulderbadge") +
+    Tracker:ProviderCountForCode("cascadebadge") +
+    Tracker:ProviderCountForCode("thunderbadge") +
+    Tracker:ProviderCountForCode("rainbowbadge") +
+    Tracker:ProviderCountForCode("soulbadge") +
+    Tracker:ProviderCountForCode("marshbadge") +
+    Tracker:ProviderCountForCode("volcanobadge") +
+    Tracker:ProviderCountForCode("earthbadge")
 end
 
 function johtobadges()
@@ -89,14 +89,14 @@ end
 
 function kantobadges()
     return
-    Tracker:ProviderCountForCode("zephyrbadge") +
-    Tracker:ProviderCountForCode("hivebadge") +
-    Tracker:ProviderCountForCode("plainbadge") +
-    Tracker:ProviderCountForCode("fogbadge") +
-    Tracker:ProviderCountForCode("stormbadge") +
-    Tracker:ProviderCountForCode("mineralbadge") +
-    Tracker:ProviderCountForCode("glacierbadge") +
-    Tracker:ProviderCountForCode("risingbadge")
+    Tracker:ProviderCountForCode("boulderbadge") +
+    Tracker:ProviderCountForCode("cascadebadge") +
+    Tracker:ProviderCountForCode("thunderbadge") +
+    Tracker:ProviderCountForCode("rainbowbadge") +
+    Tracker:ProviderCountForCode("soulbadge") +
+    Tracker:ProviderCountForCode("marshbadge") +
+    Tracker:ProviderCountForCode("volcanobadge") +
+    Tracker:ProviderCountForCode("earthbadge")
 end
 
 function flash()
@@ -164,4 +164,40 @@ end
 
 function meet_boxart()
     return has("event_meet_ho_oh") or has("event_meet_lugia")    
+end
+
+function basement_key()
+    return has("basementkey")
+end
+
+function ragecandybar()
+    return has("ragecandybar")
+end
+
+function bicycle()
+    return has("bicycle")
+end
+
+function machine_part()
+    return has("machinepart")
+end
+
+function fog_badge()
+    return has("fogbadge")
+end
+
+function silver_wing()
+    return has("silverwing")
+end
+
+function rainbow_wing()
+    return has("rainbowwing")
+end
+
+function water_stone()
+    return has("waterstone")
+end
+
+function lost_item()
+    return has("lostitem")
 end

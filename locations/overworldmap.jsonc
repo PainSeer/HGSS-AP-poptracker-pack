@@ -696,7 +696,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@celadon, $nighttime"
+                    "@celadon, $night"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -5110,7 +5110,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@pallet_town_oaks_lab, $badges(16)"
+                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -8559,7 +8559,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_34, $nighttime"
+                    "@route_34, $night"
                 ],
                 "visibility_rules": [],
                 "item_count": 1
@@ -8784,7 +8784,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "access_rules": [
-                    "@route_35, $nighttime"
+                    "@route_35, $night"
                 ],
                 "visibility_rules": [],
                 "item_count": 1

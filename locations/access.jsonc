@@ -1396,15 +1396,15 @@
     {
         "name": "mount_moon_square",
         "access_rules": [
-            "@mount_moon_square_entrance, $morningtime",
-            "@mount_moon_square_entrance, $daytime",
+            "@mount_moon_square_entrance, $morning",
+            "@mount_moon_square_entrance, $day",
             "@mount_moon_square_shop"
         ]
     },
     {
         "name": "mount_moon_square_clefairy_event",
         "access_rules": [
-            "@mount_moon_square_entrance, $nighttime"
+            "@mount_moon_square_entrance, $night"
         ]
     },
     {
@@ -1418,7 +1418,7 @@
     {
         "name": "mount_moon_square_shop",
         "access_rules": [
-            "@mount_moon_square, $daytime"
+            "@mount_moon_square, $day"
         ]
     },
     {
@@ -2624,7 +2624,7 @@
     {
         "name": "route_40",
         "access_rules": [
-            "@olivine, $hm03",
+            "@olivine, $surf",
             "@route_40_battle_frontier_gatehouse",
             "@route_41, $surf"
         ]
