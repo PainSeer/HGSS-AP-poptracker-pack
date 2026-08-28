@@ -458,18 +458,21 @@
             {
                 "name": "Mossy Rock is in Ilex Forest",
                 "img": "images/settings/moss_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
                 "codes": "opt_mossy_rock, opt_mossy_rock_johto",
                 "inherit_codes": false
             },
             {
                 "name": "Mossy Rock is in Viridian Forest",
                 "img": "images/settings/moss_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_kanto.png",
                 "codes": "opt_mossy_rock, opt_mossy_rock_kanto",
                 "inherit_codes": false
             },
             {
                 "name": "Mossy Rock is in Ilex Forest and Viridian Forest",
                 "img": "images/settings/moss_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_both.png",
                 "codes": "opt_mossy_rock, opt_mossy_rock_kanto, opt_mossy_rock_johto",
                 "inherit_codes": false
             }
@@ -485,18 +488,21 @@
             {
                 "name": "Icy Rock is in Ice Path",
                 "img": "images/settings/ice_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
                 "codes": "opt_icy_rock, opt_icy_rock_johto",
                 "inherit_codes": false
             },
             {
                 "name": "Icy Rock is in Seafoam Islands",
                 "img": "images/settings/ice_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_kanto.png",
                 "codes": "opt_icy_rock, opt_icy_rock_kanto",
                 "inherit_codes": false
             },
             {
                 "name": "Icy Rock is in Ice Path and Seafoam Islands",
                 "img": "images/settings/ice_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_both.png",
                 "codes": "opt_icy_rock, opt_icy_rock_kanto, opt_icy_rock_johto",
                 "inherit_codes": false
             }
@@ -512,18 +518,21 @@
             {
                 "name": "There is a Magnetic Field in the Ruins of Alph",
                 "img": "images/temp.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
                 "codes": "opt_magnetic_field, opt_magnetic_field_johto",
                 "inherit_codes": false
             },
             {
                 "name": "There is a Magnetic Field Outsde the Power Plant",
                 "img": "images/temp.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_kanto.png",
                 "codes": "opt_magnetic_field, opt_magnetic_field_kanto",
                 "inherit_codes": false
             },
             {
                 "name": "There is a Magnetic Field at the Ruins of Alph and the Power Plant",
                 "img": "images/temp.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_both.png",
                 "codes": "opt_magnetic_field, opt_magnetic_field_kanto, opt_magnetic_field_johto",
                 "inherit_codes": false
             }

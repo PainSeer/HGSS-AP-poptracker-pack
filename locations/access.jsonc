@@ -3633,24 +3633,22 @@
     {
         "name": "virt_ice_rock",
         "access_rules": [
-            "$toocomplicated",
-            "$toocomplicated",
-            "$toocomplicated"
+            "@ice_path_1f_back, opt_icy_rock_johto",
+            "@seafoam_islands_b3f, opt_icy_rock_kanto"
         ]
     },
     {
         "name": "virt_magnetic_field",
         "access_rules": [
-            "$toocomplicated",
-            "$toocomplicated"
+            "@route_10, opt_magnetic_field_kanto",
+            "@ruins_of_aplh, opt_magnetic_field_johto"
         ]
     },
     {
         "name": "virt_moss_rock",
         "access_rules": [
-            "$toocomplicated",
-            "$toocomplicated",
-            "$toocomplicated"
+            "@ilex_forest_north, opt_mossy_rock_johto",
+            "@viridian_forest, opt_mossy_rock_kanto"
         ]
     },
     {

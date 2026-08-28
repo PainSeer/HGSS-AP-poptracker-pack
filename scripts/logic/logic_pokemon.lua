@@ -8,6 +8,12 @@ function day_encounters()
     return math.max(has_level("encmethod_time_on"), AccessibilityLevel.SequenceBreak)
 end
 
+function morning_encounters()
+    if not morning() then return AccessibilityLevel.None end
+    
+    return math.max(has_level("encmethod_time_on"), AccessibilityLevel.SequenceBreak)
+end
+
 function night_encounters()
     if not night() then return AccessibilityLevel.None end
     
@@ -37,7 +43,7 @@ end
 --end
 
 function oldrod_encounters()
-    if not has("bag") or not has("oldrod") then return AccessibilityLevel.None end
+    if not has("oldrod") then return AccessibilityLevel.None end
 
     if has("encmethod_fishing_on") then
         return AccessibilityLevel.Normal
@@ -47,7 +53,7 @@ function oldrod_encounters()
 end
 
 function goodrod_encounters()
-    if not has("bag") or not has("goodrod") then return AccessibilityLevel.None end
+    if not has("goodrod") then return AccessibilityLevel.None end
 
     if has("encmethod_fishing_on") then
         return AccessibilityLevel.Normal
@@ -57,7 +63,7 @@ function goodrod_encounters()
 end
 
 function superrod_encounters()
-    if not has("bag") or not has("superrod") then return AccessibilityLevel.None end
+    if not has("superrod") then return AccessibilityLevel.None end
 
     if has("encmethod_fishing_on") then
         return AccessibilityLevel.Normal
@@ -70,8 +76,8 @@ function evo_item_shop()
     if has("opt_evo_items_shop_in_ap_helper_on") then
         return AccessibilityLevel.Normal
     else
-        local veilstone = Tracker:FindObjectForCode("@veilstone_city").AccessibilityLevel
-        return math.max(veilstone, AccessibilityLevel.SequenceBreak)
+        local goldenrod = Tracker:FindObjectForCode("@goldenrod_department_store_1f").AccessibilityLevel
+        return math.max(goldenrod, AccessibilityLevel.SequenceBreak)
     end    
 end
 
@@ -88,7 +94,7 @@ end
 
 
 function evolve_useitem(value)
-    if not has(value) or not has("bag") then return end
+    if not has(value) then return end
     
     if has("evomethod_useitem_on") then
         return AccessibilityLevel.Normal
@@ -98,7 +104,7 @@ function evolve_useitem(value)
 end
 
 function evolve_helditem(value)
-    if not has(value) or not has("bag") then return end
+    if not has(value) then return end
     
     if has("evomethod_helditem_on") then
         return AccessibilityLevel.Normal
@@ -109,7 +115,7 @@ end
 
 
 function evolve_trade_item(value)
-    if not has(value) or not has("linkingcord") or not has("bag") then return end
+    if not has(value) or not has("linkingcord") then return end
     
     if has("evomethod_useitem_on") and has("evomethod_helditem_on") then
         return evo_item_shop()
@@ -119,14 +125,12 @@ function evolve_trade_item(value)
 end
 
 function evolve_area(area)
-    -- TODO: There is a setting that changes this behavior!
-    return AccessibilityLevel.Normal
-    --local evo_area = Tracker:FindObjectForCode("@"..area).AccessibilityLevel
-    --if has("evomethod_location_on") then
-    --    return evo_area
-    --else
-    --    math.min(evo_area, AccessibilityLevel.SequenceBreak)
-    --end
+    local evo_area = Tracker:FindObjectForCode("@"..area).AccessibilityLevel
+    if has("evomethod_location_on") then
+        return evo_area
+    else
+        math.min(evo_area, AccessibilityLevel.SequenceBreak)
+    end
 end
 
 function evolve_mildly(which)
