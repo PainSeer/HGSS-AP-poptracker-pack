@@ -142,7 +142,7 @@
     {
         "name": "Defeat Lance and Clair at Dragon's Den",
         "type": "toggle",
-        "img": "images/events/defeat_lance_clair_dragons_den.png",
+        "img": "images/events/temp.png",
         "codes": "event_defeat_lance_clair_dragons_den",
         "initial_active_state": true
     },
@@ -261,7 +261,7 @@
     {
         "name": "Beat the Radio Quiz",
         "type": "toggle",
-        "img": "images/events/radio_quiz.png",
+        "img": "images/events/temp.png",
         "codes": "event_radio_quiz",
         "initial_active_state": true
     },
