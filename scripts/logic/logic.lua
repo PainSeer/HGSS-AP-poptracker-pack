@@ -15,7 +15,7 @@ function strength()
 end
 
 function rock_smash()
-    return has("hm01rock_smash") and (has("free_rock_smash") or has("zephyrbadge"))
+    return has("hm01rocksmash") and (has("free_rocksmash") or has("zephyrbadge"))
 end
 
 function waterfall()
@@ -31,7 +31,7 @@ function whirlpool()
 end
 
 function rock_climb()
-    return has("hm08rock_climb") and (has("free_rock_climb") or has("earthbadge"))
+    return has("hm08rockclimb") and (has("free_rockclimb") or has("earthbadge"))
 end
 
 function hidden()
