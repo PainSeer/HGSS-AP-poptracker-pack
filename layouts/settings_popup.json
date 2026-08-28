@@ -97,7 +97,7 @@
                 "opt_npcgifts",
                 "opt_keyitems",
                 "opt_hms",
-                "opt_badges",
+                "opt_badges"
             ],
             [
                 "opt_trainer_full",
@@ -148,7 +148,7 @@
         "rows": [
             [
                 "opt_train",
-                "opt_blue_badges",
+                "opt_blue_badges"
             ]
         ]
     },

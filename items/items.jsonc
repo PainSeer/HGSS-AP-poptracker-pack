@@ -351,13 +351,13 @@
     {
         "name": "Card Key",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/cardkey.png",
         "codes": "cardkey"
     },
     {
         "name": "Pass",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/pass.png",
         "codes": "pass"
     },
     {
@@ -369,7 +369,7 @@
     {
         "name": "Red Scale",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/redscale.png",
         "codes": "redscale"
     },
     {
@@ -381,7 +381,7 @@
     {
         "name": "Machine Part",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/machine_part.png",
         "codes": "machinepart"
     },
     {
@@ -399,7 +399,7 @@
     {
         "name": "Mystery Egg",
         "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/items/mysteryegg.png",
         "codes": "mysteryegg"
     },
     {

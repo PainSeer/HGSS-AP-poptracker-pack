@@ -31,34 +31,5 @@
                 ]
             }
         ]
-    },
-    "v_quick_settings_grid": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
-        "content": [
-            {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2,2",
-                        "item_size": "32,32",
-                        "h_alignment": "center",
-                        "rows": [
-                            [
-                                "automap",
-								"splitmap",
-								"location_visibility",
-                                "encounter_tracking",
-								"hint_tracking"
-                            ]
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
+    }    
 }

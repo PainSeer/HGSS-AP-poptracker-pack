@@ -23,7 +23,7 @@
                                 "waterstone",
                                 "thunderstone",
                                 "firestone",
-                                "leafstone",
+                                "leafstone"
                             ],
                             [
                                 "hoennsound",
@@ -32,8 +32,7 @@
                                 "moonstone",
                                 "duskstone",
                                 "dawnstone",
-                                "shinystone",
-
+                                "shinystone"
                             ],
                             [
                                 "tm93rollout",
@@ -42,14 +41,13 @@
                                 "dragonscale",
                                 "metalcoat",
                                 "deepseascale",
-				"deepseatooth",
-
+                                "deepseatooth"
                             ],
                             [
                                 "tm95doublehit",
                                 "tm96mimic",
-				"electirizer",
-				"magmarizer",
+                                "electirizer",
+                                "magmarizer",
                                 "protector",
                                 "razorclaw",
                                 "razorfang"
@@ -57,85 +55,15 @@
                             [
                                 "",
                                 "ovalstone",
-				"reapercloth",
-				"dubiousdisc",
+                                "reapercloth",
+                                "dubiousdisc",
                                 "linkingcord",
-                                "",
-                            ],
+                                ""
+                            ]
                         ]
                     }
                 ]
             }
         ]
-    },
-    "v_key_enc_evo_grid": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
-        "content": [
-            {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "48,0,0,0",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "8, 8",
-                        "h_alignment": "center",
-                        "item_height": 32,
-                        "item_width": 32,
-                        "rows": [
-                            [
-                                "oldrod",
-                                "goodrod",
-                                "superrod",
-                                "waterstone",
-                                "thunderstone",
-                                "firestone",
-                                "leafstone",
-                            ],
-                            [
-                                "hoennsound",
-                                "sinnohsound",
-                                "sunstone",
-                                "moonstone",
-                                "duskstone",
-                                "dawnstone",
-                                "shinystone",
-
-                            ],
-                            [
-                                "tm93rollout",
-                                "tm94ancientpower",
-                                "kingsrock",
-                                "dragonscale",
-                                "metalcoat",
-                                "deepseascale",
-				"deepseatooth",
-
-                            ],
-                            [
-                                "tm95doublehit",
-                                "tm96mimic",
-				"electirizer",
-				"magmarizer",
-                                "protector",
-                                "razorclaw",
-                                "razorfang"
-                            ],
-                            [
-                                "",
-                                "ovalstone",
-				"reapercloth",
-				"dubiousdisc",
-                                "linkingcord",
-                                "",
-                            ],
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
+    }    
 }

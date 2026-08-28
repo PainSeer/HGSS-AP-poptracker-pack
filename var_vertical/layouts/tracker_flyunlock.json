@@ -30,21 +30,21 @@
                                                     "title": "Key Items",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "v_key_items_grid"
+                                                        "key": "key_items_grid"
                                                     }
                                                 },
                                                 {
                                                     "title": "Encounter Items",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "v_key_encounters_grid"
+                                                        "key": "key_encounters_grid"
                                                     }
                                                 },
                                                 {
                                                     "title": "Evolution Items",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "v_key_evolution_grid"
+                                                        "key": "key_evolution_grid"
                                                     }
                                                 }
                                             ]
@@ -72,14 +72,14 @@
                                                     "title": "Events",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "v_event_grid"
+                                                        "key": "event_grid"
                                                     }
                                                 },
                                                 {
                                                     "title": "Fly Unlocks",
                                                     "content": {
                                                         "type": "layout",
-                                                        "key": "v_flyunlock_grid"
+                                                        "key": "flyunlock_grid"
                                                     }
                                                 }
                                             ]
@@ -95,7 +95,7 @@
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "v_quick_settings_grid"
+                                "key": "quick_settings_grid"
                             }
                         },
                         {
@@ -107,7 +107,7 @@
                             "content": {
                                 "type": "layout",
                                 "h_alignment": "center",
-                                "v_alignment": "center",
+                                "alignment": "center",
                                 "key": "dexsearch_grid"
                             }
                         }

@@ -125,14 +125,14 @@
         "stages": [
             {
                 "name": "Randomize Hidden Items - OFF",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_hidden.png",
                 "img_mods": "@disabled",
                 "codes": "opt_hidden, opt_hidden_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Hidden Items - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_hidden.png",
                 "codes": "opt_hidden, opt_hidden_on",
                 "inherit_codes": false
             }
