@@ -15,7 +15,7 @@ function strength()
 end
 
 function rock_smash()
-    return has("hm01rocksmash") and (has("free_rocksmash") or has("zephyrbadge"))
+    return has("hm06rocksmash") and (has("free_rocksmash") or has("zephyrbadge"))
 end
 
 function waterfall()
