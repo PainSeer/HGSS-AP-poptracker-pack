@@ -161,3 +161,7 @@ end
 function red_scale()
     return has("redscale")
 end
+
+function meet_boxart()
+    return has("event_meet_ho_oh") or has("event_meet_lugia")    
+end
