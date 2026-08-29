@@ -11,7 +11,7 @@
                 "access_rules": [
                     "@azalea"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -148,9 +148,9 @@
 				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
-                    "@virt_fly_map_battle_frontier"
+                    "@battle_frontier"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             }
         ],
@@ -410,7 +410,7 @@
                 "access_rules": [
                     "@blackthorn"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -660,7 +660,7 @@
                 "access_rules": [
                     "@celadon"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -1071,7 +1071,7 @@
                 "access_rules": [
                     "@cerulean"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -1206,7 +1206,7 @@
                 "access_rules": [
                     "@cherrygrove"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -1291,7 +1291,7 @@
                 "access_rules": [
                     "@cianwood"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -1464,7 +1464,7 @@
 				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
-                    "@cinnabar_island"
+                    "@cinnabar_island, opt_randomize_fly_items_kanto"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1941,7 +1941,7 @@
                 "access_rules": [
                     "@ecruteak"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -2191,7 +2191,7 @@
                 "access_rules": [
                     "@fuchsia"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -2306,7 +2306,7 @@
                 "access_rules": [
                     "@goldenrod"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -3366,7 +3366,7 @@
                 "access_rules": [
                     "@indigo_plateau"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_pokemon_league"],
                 "item_count": 1
             }
         ],
@@ -3467,7 +3467,7 @@
                 "access_rules": [
                     "@lake_of_rage"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -3612,7 +3612,7 @@
                 "access_rules": [
                     "@lavender"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -3657,7 +3657,7 @@
                 "access_rules": [
                     "@mahogany"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -4533,7 +4533,7 @@
                 "access_rules": [
                     "@mount_silver"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_mount_silver"],
                 "item_count": 1
             }
         ],
@@ -4709,7 +4709,7 @@
                 "access_rules": [
                     "@new_bark"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -4834,7 +4834,7 @@
                 "access_rules": [
                     "@olivine"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -5104,7 +5104,7 @@
                 "access_rules": [
                     "@pallet"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -5189,7 +5189,7 @@
                 "access_rules": [
                     "@pewter"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -5314,7 +5314,7 @@
                 "access_rules": [
                     "@national_park"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             }
         ],
@@ -11525,7 +11525,7 @@
                 "access_rules": [
                     "@safari_zone_gate"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             }
         ],
@@ -11560,7 +11560,7 @@
                 "access_rules": [
                     "@saffron"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -13010,7 +13010,7 @@
                 "access_rules": [
                     "@vermilion"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
@@ -13295,7 +13295,7 @@
                 "access_rules": [
                     "@victory_road_1f"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_pokemon_league"],
                 "item_count": 1
             },
             {
@@ -13386,7 +13386,7 @@
                 "access_rules": [
                     "@violet"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_johto"],
                 "item_count": 1
             },
             {
@@ -13481,7 +13481,7 @@
                 "access_rules": [
                     "@viridian"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             },
             {
