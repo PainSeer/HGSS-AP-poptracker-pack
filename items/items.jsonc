@@ -103,8 +103,8 @@
                 "name": "HM01 Cut",
                 "codes": "hm01cut",
                 "img": "images/items/hm01_cut.png",
-                "img_mods": "overlay|images/items/overlays/badge2_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge2_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/hivebadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/hivebadge.png"
             },
             {
                 "name": "HM01 Cut - No Badge Requirement",
@@ -121,8 +121,8 @@
                 "name": "HM02 Fly",
                 "codes": "hm02fly",
                 "img": "images/items/hm02_fly.png",
-                "img_mods": "overlay|images/items/overlays/badge3_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge3_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/stormbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/stormbadge.png"
             },
             {
                 "name": "HM02 Fly - No Badge Requirement",
@@ -139,8 +139,8 @@
                 "name": "HM03 Surf",
                 "codes": "hm03surf",
                 "img": "images/items/hm03_surf.png",
-                "img_mods": "overlay|images/items/overlays/badge4_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge4_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/fogbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/fogbadge.png"
             },
             {
                 "name": "HM03 Surf - No Badge Requirement",
@@ -157,8 +157,8 @@
                 "name": "HM04 Strength",
                 "codes": "hm04strength",
                 "img": "images/items/hm04_strength.png",
-                "img_mods": "overlay|images/items/overlays/badge6_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge6_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/plainbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/plainbadge.png"
             },
             {
                 "name": "HM04 Strength - No Badge Requirement",
@@ -175,8 +175,8 @@
                 "name": "HM05 Whirlpool",
                 "codes": "hm05whirlpool",
                 "img": "images/items/hm05_whirlpool.png",
-                "img_mods": "overlay|images/items/overlays/badge5_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge5_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/glacierbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/glacierbadge.png"
             },
             {
                 "name": "HM05 Whirlpool - No Badge Requirement",
@@ -193,8 +193,8 @@
                 "name": "HM06 Rock Smash",
                 "codes": "hm06rocksmash",
                 "img": "images/items/hm06_rocksmash.png",
-                "img_mods": "overlay|images/items/overlays/badge1_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge1_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/zephyrbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/zephyrbadge.png"
             },
             {
                 "name": "HM06 Rock Smash - No Badge Requirement",
@@ -211,8 +211,8 @@
                 "name": "HM07 Waterfall",
                 "codes": "hm07waterfall",
                 "img": "images/items/hm07_waterfall.png",
-                "img_mods": "overlay|images/items/overlays/badge8_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge8_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/risingbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/risingbadge.png"
             },
             {
                 "name": "HM07 Waterfall - No Badge Requirement",
@@ -229,8 +229,8 @@
                 "name": "HM08 Rock Climb",
                 "codes": "hm08rockclimb",
                 "img": "images/items/hm08_rockclimb.png",
-                "img_mods": "overlay|images/items/overlays/badge7_overlay.png",
-                "disabled_img_mods": "@disabled,overlay|images/items/overlays/badge7_overlay.png"
+                "img_mods": "overlay|images/items/badge_overlays/earthbadge.png",
+                "disabled_img_mods": "@disabled,overlay|images/items/badge_overlays/earthbadge.png"
             },
             {
                 "name": "HM08 Rock Climb - No Badge Requirement",

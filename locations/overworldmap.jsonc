@@ -1464,9 +1464,9 @@
 				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
-                    "@cinnabar_island, opt_randomize_fly_items_kanto"
+                    "@cinnabar_island"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_randomize_fly_items_kanto"],
                 "item_count": 1
             }
         ],
