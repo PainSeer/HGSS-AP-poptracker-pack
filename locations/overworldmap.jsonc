@@ -17,7 +17,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@azalea"
+                    "@azalea, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -181,7 +181,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bellchime_tower"
+                    "@bellchime_tower, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -191,7 +191,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bellchime_tower"
+                    "@bellchime_tower, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -201,7 +201,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bellchime_tower"
+                    "@bellchime_tower, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -211,7 +211,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bellchime_tower"
+                    "@bellchime_tower, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -221,7 +221,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bellchime_tower"
+                    "@bellchime_tower, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -351,7 +351,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bell_tower_3f"
+                    "@bell_tower_3f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -361,7 +361,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bell_tower_5f"
+                    "@bell_tower_5f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -371,7 +371,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@bell_tower_8f"
+                    "@bell_tower_8f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -541,7 +541,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@burned_tower_1f"
+                    "@burned_tower_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -551,7 +551,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@burned_tower_1f"
+                    "@burned_tower_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -561,7 +561,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@burned_tower_b1f, $strength"
+                    "@burned_tower_b1f, $strength, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -571,7 +571,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@burned_tower_b1f"
+                    "@burned_tower_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -646,7 +646,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@celadon"
+                    "@celadon, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -912,7 +912,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_1f, $surf, $rock_smash"
+                    "@cerulean_cave_1f, $surf, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -922,7 +922,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_1f, $surf"
+                    "@cerulean_cave_1f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -932,7 +932,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_1f, $surf"
+                    "@cerulean_cave_1f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -942,7 +942,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_b1f, $rock_smash"
+                    "@cerulean_cave_b1f, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -952,7 +952,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_b1f, $surf, $rock_smash"
+                    "@cerulean_cave_b1f, $surf, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -962,7 +962,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_b1f, $surf, $rock_smash"
+                    "@cerulean_cave_b1f, $surf, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -972,7 +972,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_2f"
+                    "@cerulean_cave_2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -982,7 +982,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_2f"
+                    "@cerulean_cave_2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -992,7 +992,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_2f"
+                    "@cerulean_cave_2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1002,7 +1002,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_2f"
+                    "@cerulean_cave_2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1012,7 +1012,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_2f"
+                    "@cerulean_cave_2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1022,7 +1022,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean_cave_2f, $rock_smash"
+                    "@cerulean_cave_2f, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1057,7 +1057,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cerulean, $surf"
+                    "@cerulean, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1192,7 +1192,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cherrygrove, $surf, $rock_climb"
+                    "@cherrygrove, $surf, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1267,7 +1267,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cianwood, $rock_smash"
+                    "@cianwood, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1277,7 +1277,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cianwood"
+                    "@cianwood, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1432,7 +1432,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cinnabar_island, $rock_climb"
+                    "@cinnabar_island, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1442,7 +1442,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cinnabar_island, $rock_climb"
+                    "@cinnabar_island, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1452,7 +1452,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cinnabar_island, $rock_climb"
+                    "@cinnabar_island, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1517,7 +1517,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side, $surf"
+                    "@dark_cave_route_45_side, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1527,7 +1527,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side_bottom"
+                    "@dark_cave_route_45_side_bottom, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1537,7 +1537,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side"
+                    "@dark_cave_route_45_side, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1632,7 +1632,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_west"
+                    "@dark_cave_route_31_side_west, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1642,7 +1642,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_east"
+                    "@dark_cave_route_31_side_east, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1697,7 +1697,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@diglett_cave"
+                    "@diglett_cave, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1707,7 +1707,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@diglett_cave, $rock_climb"
+                    "@diglett_cave, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1772,7 +1772,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dragons_den"
+                    "@dragons_den, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1782,7 +1782,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dragons_den, $surf"
+                    "@dragons_den, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1792,7 +1792,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@dragons_den, $surf"
+                    "@dragons_den, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1897,7 +1897,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ecruteak"
+                    "@ecruteak, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1907,7 +1907,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ecruteak"
+                    "@ecruteak, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1917,7 +1917,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ecruteak"
+                    "@ecruteak, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -1927,7 +1927,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ecruteak"
+                    "@ecruteak, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2142,7 +2142,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@battle_frontier_frontier_access"
+                    "@battle_frontier_frontier_access, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2177,7 +2177,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@fuchsia"
+                    "@fuchsia, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2292,7 +2292,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@goldenrod"
+                    "@goldenrod, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2467,7 +2467,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@goldenrod_department_store_basement"
+                    "@goldenrod_department_store_basement, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2477,7 +2477,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@goldenrod_department_store_basement"
+                    "@goldenrod_department_store_basement, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2487,7 +2487,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@goldenrod_department_store_basement"
+                    "@goldenrod_department_store_basement, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2847,7 +2847,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@goldenrod_tunnel_warehouse"
+                    "@goldenrod_tunnel_warehouse, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -2857,7 +2857,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@goldenrod_tunnel_warehouse"
+                    "@goldenrod_tunnel_warehouse, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3122,7 +3122,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ice_path_1f"
+                    "@ice_path_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3132,7 +3132,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ice_path_1f"
+                    "@ice_path_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3142,7 +3142,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ice_path_b1f_back"
+                    "@ice_path_b1f_back, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3152,7 +3152,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ice_path_b2f"
+                    "@ice_path_b2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3227,7 +3227,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3237,7 +3237,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3247,7 +3247,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3257,7 +3257,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3267,7 +3267,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3277,7 +3277,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3297,7 +3297,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_south"
+                    "@ilex_forest_south, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3307,7 +3307,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ilex_forest_north"
+                    "@ilex_forest_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3352,7 +3352,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@indigo_plateau"
+                    "@indigo_plateau, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3433,7 +3433,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@lake_of_rage"
+                    "@lake_of_rage, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3443,7 +3443,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@lake_of_rage"
+                    "@lake_of_rage, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3453,7 +3453,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@lake_of_rage, $surf"
+                    "@lake_of_rage, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3778,7 +3778,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_moon"
+                    "@mount_moon, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -3788,7 +3788,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@virt_mount_moon_square"
+                    "@virt_mount_moon_square, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4063,7 +4063,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_entrance"
+                    "@mount_mortar_1f_entrance, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4073,7 +4073,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_entrance, $rock_climb"
+                    "@mount_mortar_1f_entrance, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4083,7 +4083,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_2f, $surf"
+                    "@mount_mortar_2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4093,7 +4093,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_2f, $surf"
+                    "@mount_mortar_2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4103,7 +4103,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_2f, $surf"
+                    "@mount_mortar_2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4113,7 +4113,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_2f, $surf"
+                    "@mount_mortar_2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4123,7 +4123,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_back_middle"
+                    "@mount_mortar_1f_back_middle, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4133,7 +4133,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_back_north"
+                    "@mount_mortar_1f_back_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4143,7 +4143,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_back_middle, $rock_climb"
+                    "@mount_mortar_1f_back_middle, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4153,7 +4153,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_back_middle, $rock_climb"
+                    "@mount_mortar_1f_back_middle, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4163,7 +4163,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_1f_back_southeast"
+                    "@mount_mortar_1f_back_southeast, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4173,7 +4173,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_b1f_north"
+                    "@mount_mortar_b1f_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4183,7 +4183,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_mortar_b1f_south, $surf"
+                    "@mount_mortar_b1f_south, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4358,7 +4358,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_1f, $rock_climb"
+                    "@mount_silver_cave_1f, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4368,7 +4368,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_1f, $surf, $waterfall, $rock_climb"
+                    "@mount_silver_cave_1f, $surf, $waterfall, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4378,7 +4378,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_1f_center"
+                    "@mount_silver_cave_1f_center, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4388,7 +4388,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_2f, $rock_smash"
+                    "@mount_silver_cave_2f, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4398,7 +4398,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_2f_northeast, $rock_smash"
+                    "@mount_silver_cave_2f_northeast, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4408,7 +4408,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_moltres_chamber"
+                    "@mount_silver_cave_moltres_chamber, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4418,7 +4418,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_moltres_chamber"
+                    "@mount_silver_cave_moltres_chamber, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4428,7 +4428,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_upper_mountainside_southeast, $rock_climb"
+                    "@mount_silver_cave_upper_mountainside_southeast, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4438,7 +4438,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_upper_mountainside_north"
+                    "@mount_silver_cave_upper_mountainside_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4448,7 +4448,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_upper_mountainside_southwest, $rock_climb"
+                    "@mount_silver_cave_upper_mountainside_southwest, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4458,7 +4458,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver_cave_3f, $rock_climb"
+                    "@mount_silver_cave_3f, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4519,7 +4519,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@mount_silver"
+                    "@mount_silver, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4600,7 +4600,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@national_park"
+                    "@national_park, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4610,7 +4610,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@national_park"
+                    "@national_park, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4695,7 +4695,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@new_bark, event_get_mystery_egg"
+                    "@new_bark, event_get_mystery_egg, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4790,7 +4790,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@olivine"
+                    "@olivine, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4800,7 +4800,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@olivine, $rock_climb"
+                    "@olivine, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4810,7 +4810,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ss_aqua_olivine_port_exterior, ssticket"
+                    "@ss_aqua_olivine_port_exterior, ssticket, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4820,7 +4820,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ss_aqua_olivine_port_exterior"
+                    "@ss_aqua_olivine_port_exterior, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -4975,7 +4975,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@olivine_lighthouse_3f"
+                    "@olivine_lighthouse_3f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5155,7 +5155,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@pewter"
+                    "@pewter, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5165,7 +5165,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@pewter"
+                    "@pewter, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5175,7 +5175,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@pewter"
+                    "@pewter, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5290,7 +5290,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@pokeathlon_dome"
+                    "@pokeathlon_dome, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5300,7 +5300,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@pokeathlon_dome"
+                    "@pokeathlon_dome, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5581,7 +5581,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@rock_tunnel_1f"
+                    "@rock_tunnel_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5591,7 +5591,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@rock_tunnel_1f"
+                    "@rock_tunnel_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5611,7 +5611,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@rock_tunnel_b1f, $rock_climb"
+                    "@rock_tunnel_b1f, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5711,7 +5711,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_10, $surf"
+                    "@route_10, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5821,7 +5821,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_11"
+                    "@route_11, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -5916,7 +5916,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_12, $surf"
+                    "@route_12, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6041,7 +6041,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_13"
+                    "@route_13, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6461,7 +6461,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_17"
+                    "@route_17, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6471,7 +6471,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_17"
+                    "@route_17, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6681,7 +6681,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_19, $surf"
+                    "@route_19, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6691,7 +6691,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_19, $surf"
+                    "@route_19, $surf, ^$hidden, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6701,7 +6701,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_19, $surf"
+                    "@route_19, $surf, ^$hidden, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6711,7 +6711,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_19_from_fuchia, $rock_smash"
+                    "@route_19_from_fuchia, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6721,7 +6721,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_19, $surf"
+                    "@route_19, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6891,7 +6891,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_20_west, $surf"
+                    "@route_20_west, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6901,7 +6901,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_20_east, $surf"
+                    "@route_20_east, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -6911,7 +6911,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_20_west, $surf"
+                    "@route_20_west, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7066,7 +7066,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_21, $surf"
+                    "@route_21, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7076,7 +7076,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_21, $surf"
+                    "@route_21, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7086,7 +7086,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_21, $surf"
+                    "@route_21, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7321,7 +7321,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_25"
+                    "@route_25, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7506,7 +7506,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_26"
+                    "@route_26, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7637,7 +7637,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_27_east"
+                    "@route_27_east, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7647,7 +7647,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_27_east"
+                    "@route_27_east, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7657,7 +7657,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_27_east, $surf"
+                    "@route_27_east, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7778,7 +7778,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_28_north"
+                    "@route_28_north, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7894,7 +7894,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_3"
+                    "@route_3, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7904,7 +7904,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_3"
+                    "@route_3, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -7914,7 +7914,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_3, $rock_smash"
+                    "@route_3, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8069,7 +8069,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cherrygrove, $surf"
+                    "@cherrygrove, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8079,7 +8079,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_30"
+                    "@route_30, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8289,7 +8289,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_32, $surf"
+                    "@route_32, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8299,7 +8299,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_32"
+                    "@route_32, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8309,7 +8309,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_32, $cut"
+                    "@route_32, $cut, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8519,7 +8519,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_34, $surf"
+                    "@route_34, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8529,7 +8529,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_34"
+                    "@route_34, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8694,7 +8694,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_35, $surf"
+                    "@route_35, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -8839,7 +8839,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_36_southwest"
+                    "@route_36_southwest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9039,7 +9039,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_38, $rock_climb"
+                    "@route_38, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9134,7 +9134,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_39"
+                    "@route_39, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9144,7 +9144,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_39"
+                    "@route_39, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9154,7 +9154,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_39"
+                    "@route_39, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9259,7 +9259,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_4"
+                    "@route_4, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9269,7 +9269,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_4"
+                    "@route_4, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9344,7 +9344,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_40, $surf"
+                    "@route_40, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9429,7 +9429,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_41, $surf, $whirlpool"
+                    "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9439,7 +9439,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_41, $surf, $whirlpool"
+                    "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9449,7 +9449,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_41, $surf, $whirlpool"
+                    "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9459,7 +9459,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_41, $surf, $whirlpool"
+                    "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9469,7 +9469,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_41, $surf, $whirlpool"
+                    "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9634,7 +9634,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_42, $surf"
+                    "@route_42, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9844,7 +9844,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_44"
+                    "@route_44, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -9999,7 +9999,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_45_south, $rock_climb"
+                    "@route_45_south, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10009,7 +10009,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_45"
+                    "@route_45, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10219,7 +10219,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cliff_edge_gate, $surf, $rock_climb, event_cure_amphy" // this replaces event_call_from_baoba as they're essentially the same 
+                    "@cliff_edge_gate, $surf, $rock_climb, event_cure_amphy, ^$hidden" // this replaces event_call_from_baoba as they're essentially the same 
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10229,7 +10229,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_47, $surf, $rock_climb"
+                    "@route_47, $surf, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10239,7 +10239,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_47, $surf"
+                    "@route_47, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10249,7 +10249,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@cliff_cave"
+                    "@cliff_cave, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10639,7 +10639,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_9"
+                    "@route_9, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10915,7 +10915,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ruins_of_alph"
+                    "@ruins_of_alph, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10925,7 +10925,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ruins_of_alph, $rock_smash"
+                    "@ruins_of_alph, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10935,7 +10935,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ruins_of_alph"
+                    "@ruins_of_alph, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10945,7 +10945,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ruins_of_alph_southwest"
+                    "@ruins_of_alph_southwest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -10955,7 +10955,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ruins_of_alph_southwest"
+                    "@ruins_of_alph_southwest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11491,7 +11491,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@safari_zone_gate"
+                    "@safari_zone_gate, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11501,7 +11501,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@safari_zone_gate"
+                    "@safari_zone_gate, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11511,7 +11511,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@safari_zone_gate"
+                    "@safari_zone_gate, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11761,7 +11761,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_1f_east"
+                    "@seafoam_islands_1f_east, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11771,7 +11771,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_b1f, $strength"
+                    "@seafoam_islands_b1f, $strength, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11781,7 +11781,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_b2f"
+                    "@seafoam_islands_b2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11791,7 +11791,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_b2f, $surf"
+                    "@seafoam_islands_b2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11801,7 +11801,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_b3f"
+                    "@seafoam_islands_b3f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11811,7 +11811,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_b3f, $surf"
+                    "@seafoam_islands_b3f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11821,7 +11821,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@seafoam_islands_b4f, $surf"
+                    "@seafoam_islands_b4f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -11996,7 +11996,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@slowpoke_well_entrance, event_clear_slowpoke_well"
+                    "@slowpoke_well_entrance, event_clear_slowpoke_well, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12006,7 +12006,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@slowpoke_well_b1f"
+                    "@slowpoke_well_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12016,7 +12016,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@slowpoke_well_b1f, $strength, $surf"
+                    "@slowpoke_well_b1f, $strength, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12336,7 +12336,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@team_rocket_headquarters_b1f"
+                    "@team_rocket_headquarters_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12346,7 +12346,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@team_rocket_headquarters_b2f"
+                    "@team_rocket_headquarters_b2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12356,7 +12356,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@team_rocket_headquarters_b2f"
+                    "@team_rocket_headquarters_b2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12576,7 +12576,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_5_underground_path"
+                    "@route_5_underground_path, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12586,7 +12586,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@route_5_underground_path"
+                    "@route_5_underground_path, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12711,7 +12711,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_1f, $surf"
+                    "@union_cave_1f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12721,7 +12721,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_1f"
+                    "@union_cave_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12731,7 +12731,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_1f"
+                    "@union_cave_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12741,7 +12741,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_b1f"
+                    "@union_cave_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12751,7 +12751,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_b1f, $surf"
+                    "@union_cave_b1f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12761,7 +12761,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_b2f, $surf"
+                    "@union_cave_b2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12771,7 +12771,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@union_cave_b2f, $surf"
+                    "@union_cave_b2f, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12946,7 +12946,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@vermilion, $rock_smash"
+                    "@vermilion, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12956,7 +12956,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@vermilion, $surf"
+                    "@vermilion, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12966,7 +12966,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@vermilion, $surf"
+                    "@vermilion, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12976,7 +12976,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@vermilion, $surf"
+                    "@vermilion, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12986,7 +12986,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@vermilion, $surf"
+                    "@vermilion, $surf, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -12996,7 +12996,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@ss_aqua_vermilion_port_exterior"
+                    "@ss_aqua_vermilion_port_exterior, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13221,7 +13221,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_1f"
+                    "@victory_road_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13231,7 +13231,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_1f"
+                    "@victory_road_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13241,7 +13241,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_2f"
+                    "@victory_road_2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13251,7 +13251,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_2f_south, $strength"
+                    "@victory_road_2f_south, $strength, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13261,7 +13261,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_2f_northeast"
+                    "@victory_road_2f_northeast, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13271,7 +13271,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_3f_southeast"
+                    "@victory_road_3f_southeast, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13281,7 +13281,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@victory_road_3f_northeast, $rock_smash"
+                    "@victory_road_3f_northeast, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13362,7 +13362,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@violet, $rock_smash"
+                    "@violet, $rock_smash, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13372,7 +13372,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@violet"
+                    "@violet, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13467,7 +13467,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian"
+                    "@viridian, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13633,7 +13633,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13643,7 +13643,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13653,7 +13653,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13663,7 +13663,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13673,7 +13673,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13683,7 +13683,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13693,7 +13693,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@viridian_forest"
+                    "@viridian_forest, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13888,7 +13888,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@whirl_islands_1f"
+                    "@whirl_islands_1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13898,7 +13898,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@whirl_islands_b1f"
+                    "@whirl_islands_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13908,7 +13908,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@whirl_islands_b1f"
+                    "@whirl_islands_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13918,7 +13918,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@whirl_islands_b1f"
+                    "@whirl_islands_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13928,7 +13928,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@whirl_islands_b1f"
+                    "@whirl_islands_b1f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
@@ -13938,7 +13938,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
-                    "@whirl_islands_b2f"
+                    "@whirl_islands_b2f, ^$hidden"
                 ],
                 "visibility_rules": ["show_items"],
                 "item_count": 1
