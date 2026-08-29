@@ -3641,7 +3641,7 @@
         "name": "virt_magnetic_field",
         "access_rules": [
             "@route_10, opt_magnetic_field_kanto",
-            "@ruins_of_aplh, opt_magnetic_field_johto"
+            "@ruins_of_alph, opt_magnetic_field_johto"
         ]
     },
     {
