@@ -21,7 +21,7 @@
                 "access_rules": [
                     "@azalea, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -185,7 +185,7 @@
                 "access_rules": [
                     "@bellchime_tower, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -195,7 +195,7 @@
                 "access_rules": [
                     "@bellchime_tower, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -205,7 +205,7 @@
                 "access_rules": [
                     "@bellchime_tower, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -215,7 +215,7 @@
                 "access_rules": [
                     "@bellchime_tower, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -225,7 +225,7 @@
                 "access_rules": [
                     "@bellchime_tower, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -355,7 +355,7 @@
                 "access_rules": [
                     "@bell_tower_3f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -365,7 +365,7 @@
                 "access_rules": [
                     "@bell_tower_5f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -375,7 +375,7 @@
                 "access_rules": [
                     "@bell_tower_8f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -545,7 +545,7 @@
                 "access_rules": [
                     "@burned_tower_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -555,7 +555,7 @@
                 "access_rules": [
                     "@burned_tower_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -565,7 +565,7 @@
                 "access_rules": [
                     "@burned_tower_b1f, $strength, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -575,7 +575,7 @@
                 "access_rules": [
                     "@burned_tower_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -650,7 +650,7 @@
                 "access_rules": [
                     "@celadon, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -916,7 +916,7 @@
                 "access_rules": [
                     "@cerulean_cave_1f, $surf, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -926,7 +926,7 @@
                 "access_rules": [
                     "@cerulean_cave_1f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -936,7 +936,7 @@
                 "access_rules": [
                     "@cerulean_cave_1f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -946,7 +946,7 @@
                 "access_rules": [
                     "@cerulean_cave_b1f, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -956,7 +956,7 @@
                 "access_rules": [
                     "@cerulean_cave_b1f, $surf, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -966,7 +966,7 @@
                 "access_rules": [
                     "@cerulean_cave_b1f, $surf, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -976,7 +976,7 @@
                 "access_rules": [
                     "@cerulean_cave_2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -986,7 +986,7 @@
                 "access_rules": [
                     "@cerulean_cave_2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -996,7 +996,7 @@
                 "access_rules": [
                     "@cerulean_cave_2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1006,7 +1006,7 @@
                 "access_rules": [
                     "@cerulean_cave_2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1016,7 +1016,7 @@
                 "access_rules": [
                     "@cerulean_cave_2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1026,7 +1026,7 @@
                 "access_rules": [
                     "@cerulean_cave_2f, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -1061,7 +1061,7 @@
                 "access_rules": [
                     "@cerulean, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1196,7 +1196,7 @@
                 "access_rules": [
                     "@cherrygrove, $surf, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1271,7 +1271,7 @@
                 "access_rules": [
                     "@cianwood, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1281,7 +1281,7 @@
                 "access_rules": [
                     "@cianwood, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1436,7 +1436,7 @@
                 "access_rules": [
                     "@cinnabar_island, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1446,7 +1446,7 @@
                 "access_rules": [
                     "@cinnabar_island, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1456,7 +1456,7 @@
                 "access_rules": [
                     "@cinnabar_island, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1521,7 +1521,7 @@
                 "access_rules": [
                     "@dark_cave_route_45_side, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1531,7 +1531,7 @@
                 "access_rules": [
                     "@dark_cave_route_45_side_bottom, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1541,7 +1541,7 @@
                 "access_rules": [
                     "@dark_cave_route_45_side, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1636,7 +1636,7 @@
                 "access_rules": [
                     "@dark_cave_route_31_side_west, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1646,7 +1646,7 @@
                 "access_rules": [
                     "@dark_cave_route_31_side_east, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -1701,7 +1701,7 @@
                 "access_rules": [
                     "@diglett_cave, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1711,7 +1711,7 @@
                 "access_rules": [
                     "@diglett_cave, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -1776,7 +1776,7 @@
                 "access_rules": [
                     "@dragons_den, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1786,7 +1786,7 @@
                 "access_rules": [
                     "@dragons_den, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1796,7 +1796,7 @@
                 "access_rules": [
                     "@dragons_den, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1901,7 +1901,7 @@
                 "access_rules": [
                     "@ecruteak, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1911,7 +1911,7 @@
                 "access_rules": [
                     "@ecruteak, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1921,7 +1921,7 @@
                 "access_rules": [
                     "@ecruteak, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -1931,7 +1931,7 @@
                 "access_rules": [
                     "@ecruteak, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -2146,7 +2146,7 @@
                 "access_rules": [
                     "@battle_frontier_frontier_access, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -2181,7 +2181,7 @@
                 "access_rules": [
                     "@fuchsia, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -2296,7 +2296,7 @@
                 "access_rules": [
                     "@goldenrod, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -2471,7 +2471,7 @@
                 "access_rules": [
                     "@goldenrod_department_store_basement, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -2481,7 +2481,7 @@
                 "access_rules": [
                     "@goldenrod_department_store_basement, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -2491,7 +2491,7 @@
                 "access_rules": [
                     "@goldenrod_department_store_basement, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -2851,7 +2851,7 @@
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -2861,7 +2861,7 @@
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3126,7 +3126,7 @@
                 "access_rules": [
                     "@ice_path_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3136,7 +3136,7 @@
                 "access_rules": [
                     "@ice_path_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3146,7 +3146,7 @@
                 "access_rules": [
                     "@ice_path_b1f_back, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3156,7 +3156,7 @@
                 "access_rules": [
                     "@ice_path_b2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -3231,7 +3231,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3241,7 +3241,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3251,7 +3251,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3261,7 +3261,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3271,7 +3271,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3281,7 +3281,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3301,7 +3301,7 @@
                 "access_rules": [
                     "@ilex_forest_south, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3311,7 +3311,7 @@
                 "access_rules": [
                     "@ilex_forest_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3356,7 +3356,7 @@
                 "access_rules": [
                     "@indigo_plateau, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3437,7 +3437,7 @@
                 "access_rules": [
                     "@lake_of_rage, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3447,7 +3447,7 @@
                 "access_rules": [
                     "@lake_of_rage, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3457,7 +3457,7 @@
                 "access_rules": [
                     "@lake_of_rage, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3782,7 +3782,7 @@
                 "access_rules": [
                     "@mount_moon, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -3792,7 +3792,7 @@
                 "access_rules": [
                     "@virt_mount_moon_square, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4067,7 +4067,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_entrance, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4077,7 +4077,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_entrance, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4087,7 +4087,7 @@
                 "access_rules": [
                     "@mount_mortar_2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4097,7 +4097,7 @@
                 "access_rules": [
                     "@mount_mortar_2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4107,7 +4107,7 @@
                 "access_rules": [
                     "@mount_mortar_2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4117,7 +4117,7 @@
                 "access_rules": [
                     "@mount_mortar_2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4127,7 +4127,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_back_middle, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4137,7 +4137,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_back_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4147,7 +4147,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_back_middle, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4157,7 +4157,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_back_middle, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4167,7 +4167,7 @@
                 "access_rules": [
                     "@mount_mortar_1f_back_southeast, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4177,7 +4177,7 @@
                 "access_rules": [
                     "@mount_mortar_b1f_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4187,7 +4187,7 @@
                 "access_rules": [
                     "@mount_mortar_b1f_south, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4362,7 +4362,7 @@
                 "access_rules": [
                     "@mount_silver_cave_1f, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4372,7 +4372,7 @@
                 "access_rules": [
                     "@mount_silver_cave_1f, $surf, $waterfall, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4382,7 +4382,7 @@
                 "access_rules": [
                     "@mount_silver_cave_1f_center, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4392,7 +4392,7 @@
                 "access_rules": [
                     "@mount_silver_cave_2f, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4402,7 +4402,7 @@
                 "access_rules": [
                     "@mount_silver_cave_2f_northeast, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4412,7 +4412,7 @@
                 "access_rules": [
                     "@mount_silver_cave_moltres_chamber, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4422,7 +4422,7 @@
                 "access_rules": [
                     "@mount_silver_cave_moltres_chamber, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4432,7 +4432,7 @@
                 "access_rules": [
                     "@mount_silver_cave_upper_mountainside_southeast, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4442,7 +4442,7 @@
                 "access_rules": [
                     "@mount_silver_cave_upper_mountainside_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4452,7 +4452,7 @@
                 "access_rules": [
                     "@mount_silver_cave_upper_mountainside_southwest, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4462,7 +4462,7 @@
                 "access_rules": [
                     "@mount_silver_cave_3f, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4523,7 +4523,7 @@
                 "access_rules": [
                     "@mount_silver, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4604,7 +4604,7 @@
                 "access_rules": [
                     "@national_park, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4614,7 +4614,7 @@
                 "access_rules": [
                     "@national_park, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4699,7 +4699,7 @@
                 "access_rules": [
                     "@new_bark, event_get_mystery_egg, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4794,7 +4794,7 @@
                 "access_rules": [
                     "@olivine, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4804,7 +4804,7 @@
                 "access_rules": [
                     "@olivine, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4814,7 +4814,7 @@
                 "access_rules": [
                     "@ss_aqua_olivine_port_exterior, ssticket, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4824,7 +4824,7 @@
                 "access_rules": [
                     "@ss_aqua_olivine_port_exterior, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -4979,7 +4979,7 @@
                 "access_rules": [
                     "@olivine_lighthouse_3f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5159,7 +5159,7 @@
                 "access_rules": [
                     "@pewter, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5169,7 +5169,7 @@
                 "access_rules": [
                     "@pewter, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5179,7 +5179,7 @@
                 "access_rules": [
                     "@pewter, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5294,7 +5294,7 @@
                 "access_rules": [
                     "@pokeathlon_dome, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5304,7 +5304,7 @@
                 "access_rules": [
                     "@pokeathlon_dome, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5585,7 +5585,7 @@
                 "access_rules": [
                     "@rock_tunnel_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5595,7 +5595,7 @@
                 "access_rules": [
                     "@rock_tunnel_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5615,7 +5615,7 @@
                 "access_rules": [
                     "@rock_tunnel_b1f, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
@@ -5715,7 +5715,7 @@
                 "access_rules": [
                     "@route_10, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5825,7 +5825,7 @@
                 "access_rules": [
                     "@route_11, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -5920,7 +5920,7 @@
                 "access_rules": [
                     "@route_12, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6045,7 +6045,7 @@
                 "access_rules": [
                     "@route_13, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6465,7 +6465,7 @@
                 "access_rules": [
                     "@route_17, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6475,7 +6475,7 @@
                 "access_rules": [
                     "@route_17, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6685,7 +6685,7 @@
                 "access_rules": [
                     "@route_19, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6695,7 +6695,7 @@
                 "access_rules": [
                     "@route_19, $surf, ^$hidden, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6705,7 +6705,7 @@
                 "access_rules": [
                     "@route_19, $surf, ^$hidden, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6715,7 +6715,7 @@
                 "access_rules": [
                     "@route_19_from_fuchia, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6725,7 +6725,7 @@
                 "access_rules": [
                     "@route_19, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6895,7 +6895,7 @@
                 "access_rules": [
                     "@route_20_west, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6905,7 +6905,7 @@
                 "access_rules": [
                     "@route_20_east, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -6915,7 +6915,7 @@
                 "access_rules": [
                     "@route_20_west, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7070,7 +7070,7 @@
                 "access_rules": [
                     "@route_21, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7080,7 +7080,7 @@
                 "access_rules": [
                     "@route_21, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7090,7 +7090,7 @@
                 "access_rules": [
                     "@route_21, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7325,7 +7325,7 @@
                 "access_rules": [
                     "@route_25, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7510,7 +7510,7 @@
                 "access_rules": [
                     "@route_26, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7641,7 +7641,7 @@
                 "access_rules": [
                     "@route_27_east, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7651,7 +7651,7 @@
                 "access_rules": [
                     "@route_27_east, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7661,7 +7661,7 @@
                 "access_rules": [
                     "@route_27_east, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7782,7 +7782,7 @@
                 "access_rules": [
                     "@route_28_north, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7898,7 +7898,7 @@
                 "access_rules": [
                     "@route_3, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7908,7 +7908,7 @@
                 "access_rules": [
                     "@route_3, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -7918,7 +7918,7 @@
                 "access_rules": [
                     "@route_3, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8073,7 +8073,7 @@
                 "access_rules": [
                     "@cherrygrove, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8083,7 +8083,7 @@
                 "access_rules": [
                     "@route_30, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8293,7 +8293,7 @@
                 "access_rules": [
                     "@route_32, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8303,7 +8303,7 @@
                 "access_rules": [
                     "@route_32, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8313,7 +8313,7 @@
                 "access_rules": [
                     "@route_32, $cut, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8523,7 +8523,7 @@
                 "access_rules": [
                     "@route_34, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8533,7 +8533,7 @@
                 "access_rules": [
                     "@route_34, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8698,7 +8698,7 @@
                 "access_rules": [
                     "@route_35, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -8843,7 +8843,7 @@
                 "access_rules": [
                     "@route_36_southwest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9043,7 +9043,7 @@
                 "access_rules": [
                     "@route_38, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9138,7 +9138,7 @@
                 "access_rules": [
                     "@route_39, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9148,7 +9148,7 @@
                 "access_rules": [
                     "@route_39, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9158,7 +9158,7 @@
                 "access_rules": [
                     "@route_39, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9263,7 +9263,7 @@
                 "access_rules": [
                     "@route_4, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9273,7 +9273,7 @@
                 "access_rules": [
                     "@route_4, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9348,7 +9348,7 @@
                 "access_rules": [
                     "@route_40, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9433,7 +9433,7 @@
                 "access_rules": [
                     "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9443,7 +9443,7 @@
                 "access_rules": [
                     "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9453,7 +9453,7 @@
                 "access_rules": [
                     "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9463,7 +9463,7 @@
                 "access_rules": [
                     "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9473,7 +9473,7 @@
                 "access_rules": [
                     "@route_41, $surf, $whirlpool, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9638,7 +9638,7 @@
                 "access_rules": [
                     "@route_42, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -9848,7 +9848,7 @@
                 "access_rules": [
                     "@route_44, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10003,7 +10003,7 @@
                 "access_rules": [
                     "@route_45_south, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10013,7 +10013,7 @@
                 "access_rules": [
                     "@route_45, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10223,7 +10223,7 @@
                 "access_rules": [
                     "@cliff_edge_gate, $surf, $rock_climb, event_cure_amphy, ^$hidden" // this replaces event_call_from_baoba as they're essentially the same 
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10233,7 +10233,7 @@
                 "access_rules": [
                     "@route_47, $surf, $rock_climb, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10243,7 +10243,7 @@
                 "access_rules": [
                     "@route_47, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10253,7 +10253,7 @@
                 "access_rules": [
                     "@cliff_cave, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10643,7 +10643,7 @@
                 "access_rules": [
                     "@route_9, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10919,7 +10919,7 @@
                 "access_rules": [
                     "@ruins_of_alph, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10929,7 +10929,7 @@
                 "access_rules": [
                     "@ruins_of_alph, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10939,7 +10939,7 @@
                 "access_rules": [
                     "@ruins_of_alph, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10949,7 +10949,7 @@
                 "access_rules": [
                     "@ruins_of_alph_southwest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -10959,7 +10959,7 @@
                 "access_rules": [
                     "@ruins_of_alph_southwest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11495,7 +11495,7 @@
                 "access_rules": [
                     "@safari_zone_gate, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11505,7 +11505,7 @@
                 "access_rules": [
                     "@safari_zone_gate, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11515,7 +11515,7 @@
                 "access_rules": [
                     "@safari_zone_gate, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11765,7 +11765,7 @@
                 "access_rules": [
                     "@seafoam_islands_1f_east, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11775,7 +11775,7 @@
                 "access_rules": [
                     "@seafoam_islands_b1f, $strength, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11785,7 +11785,7 @@
                 "access_rules": [
                     "@seafoam_islands_b2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11795,7 +11795,7 @@
                 "access_rules": [
                     "@seafoam_islands_b2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11805,7 +11805,7 @@
                 "access_rules": [
                     "@seafoam_islands_b3f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11815,7 +11815,7 @@
                 "access_rules": [
                     "@seafoam_islands_b3f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -11825,7 +11825,7 @@
                 "access_rules": [
                     "@seafoam_islands_b4f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12000,7 +12000,7 @@
                 "access_rules": [
                     "@slowpoke_well_entrance, event_clear_slowpoke_well, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12010,7 +12010,7 @@
                 "access_rules": [
                     "@slowpoke_well_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12020,7 +12020,7 @@
                 "access_rules": [
                     "@slowpoke_well_b1f, $strength, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12340,7 +12340,7 @@
                 "access_rules": [
                     "@team_rocket_headquarters_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12350,7 +12350,7 @@
                 "access_rules": [
                     "@team_rocket_headquarters_b2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12360,7 +12360,7 @@
                 "access_rules": [
                     "@team_rocket_headquarters_b2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12580,7 +12580,7 @@
                 "access_rules": [
                     "@route_5_underground_path, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12590,7 +12590,7 @@
                 "access_rules": [
                     "@route_5_underground_path, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12715,7 +12715,7 @@
                 "access_rules": [
                     "@union_cave_1f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12725,7 +12725,7 @@
                 "access_rules": [
                     "@union_cave_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12735,7 +12735,7 @@
                 "access_rules": [
                     "@union_cave_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12745,7 +12745,7 @@
                 "access_rules": [
                     "@union_cave_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12755,7 +12755,7 @@
                 "access_rules": [
                     "@union_cave_b1f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12765,7 +12765,7 @@
                 "access_rules": [
                     "@union_cave_b2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12775,7 +12775,7 @@
                 "access_rules": [
                     "@union_cave_b2f, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12950,7 +12950,7 @@
                 "access_rules": [
                     "@vermilion, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12960,7 +12960,7 @@
                 "access_rules": [
                     "@vermilion, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12970,7 +12970,7 @@
                 "access_rules": [
                     "@vermilion, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12980,7 +12980,7 @@
                 "access_rules": [
                     "@vermilion, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -12990,7 +12990,7 @@
                 "access_rules": [
                     "@vermilion, $surf, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13000,7 +13000,7 @@
                 "access_rules": [
                     "@ss_aqua_vermilion_port_exterior, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13225,7 +13225,7 @@
                 "access_rules": [
                     "@victory_road_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13235,7 +13235,7 @@
                 "access_rules": [
                     "@victory_road_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13245,7 +13245,7 @@
                 "access_rules": [
                     "@victory_road_2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13255,7 +13255,7 @@
                 "access_rules": [
                     "@victory_road_2f_south, $strength, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13265,7 +13265,7 @@
                 "access_rules": [
                     "@victory_road_2f_northeast, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13275,7 +13275,7 @@
                 "access_rules": [
                     "@victory_road_3f_southeast, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13285,7 +13285,7 @@
                 "access_rules": [
                     "@victory_road_3f_northeast, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13366,7 +13366,7 @@
                 "access_rules": [
                     "@violet, $rock_smash, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13376,7 +13376,7 @@
                 "access_rules": [
                     "@violet, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13471,7 +13471,7 @@
                 "access_rules": [
                     "@viridian, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13637,7 +13637,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13647,7 +13647,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13657,7 +13657,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13667,7 +13667,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13677,7 +13677,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13687,7 +13687,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13697,7 +13697,7 @@
                 "access_rules": [
                     "@viridian_forest, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13892,7 +13892,7 @@
                 "access_rules": [
                     "@whirl_islands_1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13902,7 +13902,7 @@
                 "access_rules": [
                     "@whirl_islands_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13912,7 +13912,7 @@
                 "access_rules": [
                     "@whirl_islands_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13922,7 +13922,7 @@
                 "access_rules": [
                     "@whirl_islands_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13932,7 +13932,7 @@
                 "access_rules": [
                     "@whirl_islands_b1f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             },
             {
@@ -13942,7 +13942,7 @@
                 "access_rules": [
                     "@whirl_islands_b2f, ^$hidden"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hidden_on"],
                 "item_count": 1
             }
         ],
