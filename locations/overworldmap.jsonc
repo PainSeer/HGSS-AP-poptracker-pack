@@ -6,6 +6,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@azalea"
                 ],
@@ -143,8 +145,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@virt_fly_map_battle_frontier"
                 ],
@@ -403,8 +405,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@blackthorn"
                 ],
@@ -653,8 +655,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@celadon"
                 ],
@@ -1064,8 +1066,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@cerulean"
                 ],
@@ -1199,8 +1201,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@cherrygrove"
                 ],
@@ -1284,8 +1286,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@cianwood"
                 ],
@@ -1459,8 +1461,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@cinnabar_island"
                 ],
@@ -1934,8 +1936,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@ecruteak"
                 ],
@@ -2184,8 +2186,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@fuchsia"
                 ],
@@ -2299,8 +2301,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@goldenrod"
                 ],
@@ -3359,8 +3361,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@indigo_plateau"
                 ],
@@ -3460,8 +3462,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@lake_of_rage"
                 ],
@@ -3605,8 +3607,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@lavender"
                 ],
@@ -3650,8 +3652,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@mahogany"
                 ],
@@ -4526,8 +4528,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@mount_silver"
                 ],
@@ -4702,8 +4704,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@new_bark"
                 ],
@@ -4827,8 +4829,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@olivine"
                 ],
@@ -5097,8 +5099,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@pallet"
                 ],
@@ -5182,8 +5184,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@pewter"
                 ],
@@ -5307,8 +5309,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@national_park"
                 ],
@@ -11518,8 +11520,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@safari_zone_gate"
                 ],
@@ -11553,8 +11555,8 @@
         "sections": [
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@saffron"
                 ],
@@ -13003,8 +13005,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@vermilion"
                 ],
@@ -13288,8 +13290,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@victory_road_1f"
                 ],
@@ -13379,8 +13381,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@violet"
                 ],
@@ -13474,8 +13476,8 @@
             },
             {
                 "name": "Fly Unlock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+				"chest_unopened_img": "/images/items/fly_items/fly_item.png",
+                "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
                     "@viridian"
                 ],
