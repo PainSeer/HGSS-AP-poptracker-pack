@@ -30,6 +30,26 @@ function surf_encounters()
     end
 end
 
+function hoennsound_encounters()
+    if not (has("hoennsound")) then return AccessibilityLevel.None end
+    
+    if has("encmethod_sounds_on") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
+function sinnohsound_encounters()
+    if not (has("sinnohsound")) then return AccessibilityLevel.None end
+    
+    if has("encmethod_sounds_on") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
 -- This will come back sooner than later I think -palex00
 --function roamer_encounters()
 --    if not has("poketch") or not has("markingmap") then return AccessibilityLevel.None end

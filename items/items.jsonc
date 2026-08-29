@@ -415,10 +415,24 @@
         "codes": "ragecandybar"
     },
     {
-        "name": "Pokegear Radio Card",
-        "type": "toggle",
-        "img": "images/items/pokegear_radio.png",
-        "codes": "upgradableradiopokegearcard"
+        "name": "Upgradable Pokegear Radio Card",
+        "type": "progressive",
+        "loop": false,
+        "stages": [
+            {
+                "name": "Radio Card",
+                "inherit_codes": true,
+                "img": "/images/items/pokegear_radio.png",
+                "codes": "upgradableradiopokegearcard"
+            },
+            {
+                "name": "Radio Card Expansion",
+                "inherit_codes": true,
+                "img": "/images/items/pokegear_radio.png",
+                "img_mods": "overlay|images/items/overlays/radio_overlay.png",
+                "codes": "upgradableradiopokegearcard"
+            }
+        ]
     },
     {
         "name": "Hoenn Sound",
