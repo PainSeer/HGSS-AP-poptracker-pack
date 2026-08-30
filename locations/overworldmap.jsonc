@@ -84,10 +84,12 @@
             },
             {
                 "name": "Gym - Badge from Bugsy",
+                "chest_unopened_img": "/images/locations/badges/hivebadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@azalea_gym, event_clear_slowpoke_well"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -735,12 +737,12 @@
             },
             {
                 "name": "Gym - Badge from Erika",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/rainbowbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@celadon_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -1146,12 +1148,12 @@
             },
             {
                 "name": "Gym - Badge from Misty",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/cascadebadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -1367,12 +1369,12 @@
             },
             {
                 "name": "Gym - Badge from Chuck",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/stormbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -1842,12 +1844,12 @@
             },
             {
                 "name": "Shrine - Badge from Clair",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/risingbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@dragons_den_shrine"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -2097,12 +2099,12 @@
             },
             {
                 "name": "Gym - Badge from Morty",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/fogbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@ecruteak_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -2247,12 +2249,12 @@
             },
             {
                 "name": "Gym - Badge from Janine",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/soulbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@fuchsia_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -2372,12 +2374,12 @@
             },
             {
                 "name": "Gym - Badge from Whitney",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/plainbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@goldenrod_gym, event_radio_quiz"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -3733,12 +3735,12 @@
             },
             {
                 "name": "Gym - Badge from Pryce",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/glacierbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -4880,12 +4882,12 @@
             },
             {
                 "name": "Gym - Badge from Jasmine",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/mineralbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@olivine_gym, event_cure_amphy"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -5246,12 +5248,12 @@
             },
             {
                 "name": "Gym - Badge from Brock",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/boulderbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@pewter_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -11654,12 +11656,12 @@
             },
             {
                 "name": "Gym - Badge from Sabrina",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/marshbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -11939,12 +11941,12 @@
             },
             {
                 "name": "Gym - Badge from Blaine",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/volcanobadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -13093,12 +13095,12 @@
             },
             {
                 "name": "Gym - Badge from Lt. Surge",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/thunderbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -13429,12 +13431,12 @@
             },
             {
                 "name": "Gym - Badge from Falkner",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/zephyrbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@violet_gym, event_beat_sprout_tower"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
@@ -13555,12 +13557,12 @@
             },
             {
                 "name": "Gym - Earth Badge",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/locations/badges/earthbadge.png",
+                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_badges_on"],
                 "item_count": 1
             },
             {
