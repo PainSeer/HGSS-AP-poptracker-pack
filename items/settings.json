@@ -301,14 +301,14 @@
         "stages": [
             {
                 "name": "Darkness need to be traversed without help",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_flash.png",
                 "codes": "opt_hm_visibility, opt_hm_visibility_off",
                 "inherit_codes": false
             },
             {
                 "name": "Darkness logically requires Flash",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_flash.png",
+                "img_mods": "overlay|/images/settings/overlays/flash_req.png",
                 "codes": "opt_hm_visibility, opt_hm_visibility_on",
                 "inherit_codes": false
             }
