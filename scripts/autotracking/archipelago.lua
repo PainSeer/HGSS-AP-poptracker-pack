@@ -73,129 +73,111 @@ function onClear(slot_data)
     resetItems()
     
     -- resets trainer visibility. I gave up on making it dynamic, now we just flat out reset everything :(
-    for id, _ in pairs(LOCATION_MAPPING) do
-        if id >= TRAINER_START_ID and id <= TRAINER_END_ID then
-            Tracker:FindObjectForCode("opt_trainer_" .. id).Active = false
-        end
-    end
+--    for id, _ in pairs(LOCATION_MAPPING) do
+--        if id >= TRAINER_START_ID and id <= TRAINER_END_ID then
+--            Tracker:FindObjectForCode("opt_trainer_" .. id).Active = false
+--        end
+--    end
+--    -------------------------------------------------
+--
+--    local generated = slot_data.generated_encounters
+--    ENCOUNTERS_GROUPED = {}
+--
+--    local used_keys = {}
+--
+--    for area_slot_key, slot_counts in pairs(AREA_SLOTS) do
+--
+--        local base_area = area_slot_key:gsub("_land$", "")
+--        local is_special_case = (base_area == "old_chateau_back_middle_east_room")
+--        local special_types = { "land", "any_cartridge" }
+--
+--        local cursor = 0
+--
+--        for type_index, count in ipairs(slot_counts) do
+--            if count > 0 then
+--
+--                local area_type
+--
+--                -- There is specifically one room in old Chateau which has a slot
+--                -- whose access rules is ANY cartridge.
+--                if is_special_case then
+--                    area_type = special_types[type_index]
+--                else
+--                    area_type = AREA_TYPES[type_index]
+--                end
+--                
+--                local grouped_key
+--                if area_type == "land" then
+--                    grouped_key = area_slot_key
+--                else
+--                    grouped_key = base_area .. "_" .. area_type
+--                end
+--
+--                ENCOUNTERS_GROUPED[grouped_key] = ENCOUNTERS_GROUPED[grouped_key] or {}
+--
+--                for i = 0, count - 1 do
+--                    local old_index = cursor + i
+--                    local old_key = area_slot_key .. "_" .. old_index
+--
+--                    local value = generated[old_key]
+--                    if value ~= nil then
+--                        table.insert(ENCOUNTERS_GROUPED[grouped_key], value)
+--                        used_keys[old_key] = true
+--                    end
+--                end
+--
+--                cursor = cursor + count
+--            end
+--        end
+--    end
+--
+--    for key, value in pairs(generated) do
+--        if not used_keys[key] then
+--            local base = key:match("^(.*)_%d+$")
+--
+--            ENCOUNTERS_GROUPED[base] = ENCOUNTERS_GROUPED[base] or {}
+--            table.insert(ENCOUNTERS_GROUPED[base], value)
+--
+--        end
+--    end
+--
+--    -- at this point we have the entire list as region = {number, number, etc.}.
+--    -- now we gotta append the special encounters because why does no pokemon dev
+--    -- want to ever give me these in the original table? :(
+--    
+--    local special = slot_data.generated_special_encounters
+--    for key, value in pairs(special) do
+--        local base = key:match("^(.*)_%d+$")
+--
+--        ENCOUNTERS_GROUPED[base] = ENCOUNTERS_GROUPED[base] or {}
+--        table.insert(ENCOUNTERS_GROUPED[base], value)
+--    end
+--
+--    ENCOUNTERS_GROUPED["roamer_0"] = {slot_data.generated_roamers[1]}
+--    ENCOUNTERS_GROUPED["roamer_1"] = {slot_data.generated_roamers[2]}
+--    ENCOUNTERS_GROUPED["roamer_345"] = {slot_data.generated_roamers[3], slot_data.generated_roamers[4], slot_data.generated_roamers[5]}
+--
+--    -- and now we flip this on the head by instead matching pokemon -> region instead of region -> pokemon
+--    
+--    POKEMON_TO_LOCATIONS = {}
+--    for location, dex_list in pairs(ENCOUNTERS_GROUPED) do
+--        for _, dex_number in pairs(dex_list) do
+--            if POKEMON_TO_LOCATIONS[dex_number] == nil then
+--                POKEMON_TO_LOCATIONS[dex_number] = {}
+--            end
+--            table.insert(POKEMON_TO_LOCATIONS[dex_number], location)
+--        end
+--    end
+--    
+--    --print(dump_table(POKEMON_TO_LOCATIONS))
+--    --print(dump_table(ENCOUNTERS_GROUPED))
     -------------------------------------------------
 
-    local generated = slot_data.generated_encounters
-    ENCOUNTERS_GROUPED = {}
 
-    local used_keys = {}
-
-    for area_slot_key, slot_counts in pairs(AREA_SLOTS) do
-
-        local base_area = area_slot_key:gsub("_land$", "")
-        local is_special_case = (base_area == "old_chateau_back_middle_east_room")
-        local special_types = { "land", "any_cartridge" }
-
-        local cursor = 0
-
-        for type_index, count in ipairs(slot_counts) do
-            if count > 0 then
-
-                local area_type
-
-                -- There is specifically one room in old Chateau which has a slot
-                -- whose access rules is ANY cartridge.
-                if is_special_case then
-                    area_type = special_types[type_index]
-                else
-                    area_type = AREA_TYPES[type_index]
-                end
-                
-                local grouped_key
-                if area_type == "land" then
-                    grouped_key = area_slot_key
-                else
-                    grouped_key = base_area .. "_" .. area_type
-                end
-
-                ENCOUNTERS_GROUPED[grouped_key] = ENCOUNTERS_GROUPED[grouped_key] or {}
-
-                for i = 0, count - 1 do
-                    local old_index = cursor + i
-                    local old_key = area_slot_key .. "_" .. old_index
-
-                    local value = generated[old_key]
-                    if value ~= nil then
-                        table.insert(ENCOUNTERS_GROUPED[grouped_key], value)
-                        used_keys[old_key] = true
-                    end
-                end
-
-                cursor = cursor + count
-            end
-        end
-    end
-
-    for key, value in pairs(generated) do
-        if not used_keys[key] then
-            local base = key:match("^(.*)_%d+$")
-    
-            ENCOUNTERS_GROUPED[base] = ENCOUNTERS_GROUPED[base] or {}
-            table.insert(ENCOUNTERS_GROUPED[base], value)
-    
-        end
-    end
-
-    -- at this point we have the entire list as region = {number, number, etc.}.
-    -- now we gotta append the special encounters because why does no pokemon dev
-    -- want to ever give me these in the original table? :(
-    
-    local special = slot_data.generated_special_encounters
-    for key, value in pairs(special) do
-        local base = key:match("^(.*)_%d+$")
-    
-        ENCOUNTERS_GROUPED[base] = ENCOUNTERS_GROUPED[base] or {}
-        table.insert(ENCOUNTERS_GROUPED[base], value)
-    end
-
-    ENCOUNTERS_GROUPED["roamer_0"] = {slot_data.generated_roamers[1]}
-    ENCOUNTERS_GROUPED["roamer_1"] = {slot_data.generated_roamers[2]}
-    ENCOUNTERS_GROUPED["roamer_345"] = {slot_data.generated_roamers[3], slot_data.generated_roamers[4], slot_data.generated_roamers[5]}
-
-    -- and now we flip this on the head by instead matching pokemon -> region instead of region -> pokemon
-    
-    POKEMON_TO_LOCATIONS = {}
-    for location, dex_list in pairs(ENCOUNTERS_GROUPED) do
-        for _, dex_number in pairs(dex_list) do
-            if POKEMON_TO_LOCATIONS[dex_number] == nil then
-                POKEMON_TO_LOCATIONS[dex_number] = {}
-            end
-            table.insert(POKEMON_TO_LOCATIONS[dex_number], location)
-        end
-    end
-    
-    --print(dump_table(POKEMON_TO_LOCATIONS))
-    --print(dump_table(ENCOUNTERS_GROUPED))
-    -------------------------------------------------
-
-
-
-    local prevent_spoiling = {}
-    for _, name in ipairs(slot_data["prevent_poptracker_spoiling"] or {}) do
-        prevent_spoiling[name] = true
-    end
-    SAVED_ROADBLOCKS = {}
-
-    local roadblock_by_option = {}
-    for _, rb in ipairs(FLAG_ROADBLOCKS) do
-        roadblock_by_option[rb.option] = rb
-    end
 
     for k, v in pairs(slot_data) do
         if SLOT_CODES[k] then
             local stage = (SLOT_CODES[k].mapping and SLOT_CODES[k].mapping[v] or v)
-            local rb = roadblock_by_option[k]
-            if rb then
-                SAVED_ROADBLOCKS[k] = stage
-                if prevent_spoiling[k] then
-                    stage = rb.hide_stage
-                end
-            end
             Tracker:FindObjectForCode(SLOT_CODES[k].code).CurrentStage = stage
         elseif LIST_CODES[k] then
             for _, code in pairs(LIST_CODES[k].values) do
@@ -208,14 +190,17 @@ function onClear(slot_data)
                     Tracker:FindObjectForCode(code).CurrentStage = 1
                 end
             end
-        elseif k == "regional_dex_goal" then
-            Tracker:FindObjectForCode("regional_dex_goal").AcquiredCount = v
         elseif k == "hm_badge_requirement" then
             if v == 0 then
                 for _, code in pairs(HM_CODES) do
                     Tracker:FindObjectForCode(code).CurrentStage = 1
                 end
             end
+--        elseif k == "randomize_fly_items" then
+--            TODO - I added the list in option_mapping in case we go for 4 individual items.
+--            Otherwise, it needs to be done like the tea in the crystal pack.
+        elseif k == "blue_return_viridian_badge_requirement" then
+            Tracker:FindObjectForCode("opt_blue_badges").AcquiredCount = v
         elseif k == "remove_badge_requirements" then
             for _, hm in pairs(v) do
                 if HM_CODES[hm] then
@@ -274,14 +259,14 @@ function onClear(slot_data)
         local function makeID(s) return "pokemon_platinum_" .. s .. suffix end
         IDs = {
             EVENT      = makeID("tracked_events_"),
-            SEEN       = makeID("seen_pokemon_"),
-            CAUGHT     = makeID("caught_pokemon_"),
-            ROADBLOCK  = makeID("saw_locations_"),
-            KEY1       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_0",
-            KEY2       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_1",
-            KEY3       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_2",
-            KEY4       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_3",
-            KEY5       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_4",
+--            SEEN       = makeID("seen_pokemon_"),
+--            CAUGHT     = makeID("caught_pokemon_"),
+--            ROADBLOCK  = makeID("saw_locations_"),
+--            KEY1       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_0",
+--            KEY2       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_1",
+--            KEY3       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_2",
+--            KEY4       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_3",
+--            KEY5       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_4",
             HINT       = "_read_hints_" .. suffix,
         }
         
@@ -448,25 +433,25 @@ function onNotify(key, value, old_value)
     if value ~= nil and value ~= 0 and old_value ~= value then
         if key == IDs.EVENT then
             updateEvents(value)
-        elseif key == IDs.ROADBLOCK then
-            updateRoadblock(value)
-        elseif key == IDs.KEY1 then
-            updateVanillaKeyItems(1, value)
-        elseif key == IDs.KEY2 then
-            updateVanillaKeyItems(2, value)
-        elseif key == IDs.KEY3 then
-            updateVanillaKeyItems(3, value)
-        elseif key == IDs.KEY4 then
-            updateVanillaKeyItems(4, value)
-        elseif key == IDs.KEY5 then
-            updateVanillaKeyItems(5, value)
+--        elseif key == IDs.ROADBLOCK then
+--            updateRoadblock(value)
+--        elseif key == IDs.KEY1 then
+--            updateVanillaKeyItems(1, value)
+--        elseif key == IDs.KEY2 then
+--            updateVanillaKeyItems(2, value)
+--        elseif key == IDs.KEY3 then
+--            updateVanillaKeyItems(3, value)
+--        elseif key == IDs.KEY4 then
+--            updateVanillaKeyItems(4, value)
+--        elseif key == IDs.KEY5 then
+--            updateVanillaKeyItems(5, value)
         elseif key == IDs.HINT then
             SAVED_HINTS = value
             updateHints()
-        elseif key == IDs.CAUGHT then
-            updateCaught(value)
-        elseif key == IDs.SEEN then
-            updateSeen(value)
+--        elseif key == IDs.CAUGHT then
+--            updateCaught(value)
+--        elseif key == IDs.SEEN then
+--            updateSeen(value)
         end
     end
 end
@@ -480,33 +465,31 @@ function updateEvents(value)
     end
 end
 
-function updateRoadblock(value)
-    for i, rb in ipairs(FLAG_ROADBLOCKS) do
-        local bit = (value >> (i - 1)) & 1
-        if bit == 1 then
-            Tracker:FindObjectForCode(SLOT_CODES[rb.option].code).CurrentStage = SAVED_ROADBLOCKS[rb.option]
-        end
-    end
-end
+--function updateRoadblock(value)
+--    for i, rb in ipairs(FLAG_ROADBLOCKS) do
+--        local bit = (value >> (i - 1)) & 1
+--        if bit == 1 then
+--            Tracker:FindObjectForCode(SLOT_CODES[rb.option].code).CurrentStage = SAVED_ROADBLOCKS[rb.option]
+--        end
+--    end
+--end
 
-function updateVanillaKeyItems(register, value)
-    if value == nil then return end
+--function updateVanillaKeyItems(register, value)
+--    if value == nil then return end
+--
+--    local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
+--
+--    for i, obj in ipairs(list) do
+--        local bit = (value >> (i - 1)) & 1
+--        if bit == 1 and obj.codes and (not obj.option or has(obj.option)) then
+--            for _, code in ipairs(obj.codes) do
+--                Tracker:FindObjectForCode(code).Active = true
+--            end
+--        end
+--    end
 
-    local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
-
-    for i, obj in ipairs(list) do
-        local bit = (value >> (i - 1)) & 1
-        if bit == 1 and obj.codes and (not obj.option or has(obj.option)) then
-            for _, code in ipairs(obj.codes) do
-                Tracker:FindObjectForCode(code).Active = true
-            end
-        end
-    end
-
-    syncCoupons()
-    syncUnownFile()
-    syncPokedex()
-end
+--    syncPokedex()
+--end
 
 function toggleHints()
     if has("hint_tracking_off") then
@@ -566,12 +549,12 @@ function updateHints()
             end
         end
     end
-    for _, location in pairs(ENCOUNTER_MAPPING) do
-        if location:sub(1, 1) == "@" then
-            local obj = Tracker:FindObjectForCode(location)
-            obj.Highlight = 0
-        end
-    end
+--    for _, location in pairs(ENCOUNTER_MAPPING) do
+--        if location:sub(1, 1) == "@" then
+--            local obj = Tracker:FindObjectForCode(location)
+--            obj.Highlight = 0
+--        end
+--    end
     
     local tracking_plus = has("hint_tracking_on_plus")
     for _, hint in ipairs(SAVED_HINTS) do
@@ -586,34 +569,34 @@ function updateHints()
             end
 
             -- Special handling for Pokémon locations (262145–262637)
-            if hint.location >= 262145 and hint.location <= 262637 then
-                local poke_id = hint.location - 262144
-                local poke_locations = POKEMON_TO_LOCATIONS[poke_id]
+--            if hint.location >= 262145 and hint.location <= 262637 then
+--                local poke_id = hint.location - 262144
+--                local poke_locations = POKEMON_TO_LOCATIONS[poke_id]
+--
+--                if poke_locations then
+--                    for _, encounter_key in pairs(poke_locations) do
+--                        local mapped_location = ENCOUNTER_MAPPING[encounter_key]
+--                        if mapped_location and mapped_location:sub(1, 1) == "@" then
+--                            local obj = Tracker:FindObjectForCode(mapped_location)
+--    
+--                            if tracking_plus then
+--                                if hint.found == false then
+--                                    if incoming_val == Highlight.Priority then
+--                                        obj.Highlight = incoming_val
+--                                    end
+--                                end
+--                            else
+--                                local current_val = obj.Highlight
+--                                if current_val == nil or HIGHLIGHT_PRIORITY[incoming_val] < HIGHLIGHT_PRIORITY[current_val] then
+--                                    obj.Highlight = incoming_val
+--                                end
+--                            end
+--                        end
+--                    end
+--                end
 
-                if poke_locations then
-                    for _, encounter_key in pairs(poke_locations) do
-                        local mapped_location = ENCOUNTER_MAPPING[encounter_key]
-                        if mapped_location and mapped_location:sub(1, 1) == "@" then
-                            local obj = Tracker:FindObjectForCode(mapped_location)
-    
-                            if tracking_plus then
-                                if hint.found == false then
-                                    if incoming_val == Highlight.Priority then
-                                        obj.Highlight = incoming_val
-                                    end
-                                end
-                            else
-                                local current_val = obj.Highlight
-                                if current_val == nil or HIGHLIGHT_PRIORITY[incoming_val] < HIGHLIGHT_PRIORITY[current_val] then
-                                    obj.Highlight = incoming_val
-                                end
-                            end
-                        end
-                    end
-                end
-
-                goto continue_hint
-            end
+--                goto continue_hint
+--            end
 
             local locations = (type(mapped) == "table") and mapped or { mapped }
 
@@ -655,32 +638,32 @@ function updateHints()
     end
 end
 
-function onMap(mapBounce)
-    if has("automap_on") and mapBounce.data ~= nil then
-        local mapID = mapBounce.data.mapNumber
+--function onMap(mapBounce)
+--    if has("automap_on") and mapBounce.data ~= nil then
+--        local mapID = mapBounce.data.mapNumber
 
-        if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
-            local matrixX = mapBounce.data.matrixX
-            local matrixZ = mapBounce.data.matrixZ
-            local playerY = mapBounce.data.playerY
-            local tabs = MAP_XZYSPLIT_MAPPING[mapID] and MAP_XZYSPLIT_MAPPING[mapID][matrixX] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ][playerY]
-            if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-        elseif MAP_SPLIT_MAPPING[mapID] ~= nil then
-            local matrixX = mapBounce.data.matrixX
-            local matrixZ = mapBounce.data.matrixZ
-            local tabs = MAP_SPLIT_MAPPING[mapID] and MAP_SPLIT_MAPPING[mapID][matrixX] and MAP_SPLIT_MAPPING[mapID][matrixX][matrixZ]
-            if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-        elseif mapID == 336 or mapID == 373 then
-            Tracker:UiHint("ActivateTab", "Routes")
-            Tracker:UiHint("ActivateTab", "R213 & VLF")
+--        if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
+--            local matrixX = mapBounce.data.matrixX
+--            local matrixZ = mapBounce.data.matrixZ
+--            local playerY = mapBounce.data.playerY
+--            local tabs = MAP_XZYSPLIT_MAPPING[mapID] and MAP_XZYSPLIT_MAPPING[mapID][matrixX] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ][playerY]
+--            if tabs then
+--                for i, tab in ipairs(tabs) do
+--                    Tracker:UiHint("ActivateTab", tab)
+--                end
+--            end
+--        elseif MAP_SPLIT_MAPPING[mapID] ~= nil then
+--            local matrixX = mapBounce.data.matrixX
+--            local matrixZ = mapBounce.data.matrixZ
+--            local tabs = MAP_SPLIT_MAPPING[mapID] and MAP_SPLIT_MAPPING[mapID][matrixX] and MAP_SPLIT_MAPPING[mapID][matrixX][matrixZ]
+--            if tabs then
+--                for i, tab in ipairs(tabs) do
+--                    Tracker:UiHint("ActivateTab", tab)
+--                end
+--            end
+--        elseif mapID == 336 or mapID == 373 then
+--            Tracker:UiHint("ActivateTab", "Routes")
+--            Tracker:UiHint("ActivateTab", "R213 & VLF")
 
             -- Special handling for this as they're a mess of interconectedness
             -- We are specifically panning to the areas the player is in,
@@ -692,32 +675,32 @@ function onMap(mapBounce)
             -- matrixZ: 23-26 (including)
             -- matrixX: 20-22 (including)
 
-            local x_cor = 294 + ((mapBounce.data.matrixX - 20) * 500)
-            if x_cor >= 1094 then
-                x_cor = 1094
-            elseif x_cor <= 794 then
-                x_cor = 794
-            end
+--            local x_cor = 294 + ((mapBounce.data.matrixX - 20) * 500)
+--            if x_cor >= 1094 then
+--                x_cor = 1094
+--            elseif x_cor <= 794 then
+--                x_cor = 794
+--            end
 
-            local y_cor = 200 + ((mapBounce.data.matrixZ - 23) * 500)
-            if y_cor >= 1648 then
-                y_cor = 1648
-            elseif y_cor <= 200 then
-                y_cor = 500
-            end
+--            local y_cor = 200 + ((mapBounce.data.matrixZ - 23) * 500)
+--            if y_cor >= 1648 then
+--                y_cor = 1648
+--            elseif y_cor <= 200 then
+--                y_cor = 500
+--            end
 
-            Tracker:UiHint("Zoom route213valorlakefront", 2)
-            Tracker:UiHint("Pan route213valorlakefront", x_cor..","..y_cor)
-        elseif MAP_MAPPING[mapID] ~= nil then    
-            local tabs = MAP_MAPPING[mapID]
-            if tabs then
-                for _, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-        else
-            --print("No Mapping found for:")
-            --print(dump_table(mapBounce))
-        end
-    end
-end
+--            Tracker:UiHint("Zoom route213valorlakefront", 2)
+--            Tracker:UiHint("Pan route213valorlakefront", x_cor..","..y_cor)
+--        elseif MAP_MAPPING[mapID] ~= nil then    
+--            local tabs = MAP_MAPPING[mapID]
+--            if tabs then
+--                for _, tab in ipairs(tabs) do
+--                    Tracker:UiHint("ActivateTab", tab)
+--                end
+--            end
+--        else
+--            --print("No Mapping found for:")
+--            --print(dump_table(mapBounce))
+--        end
+--    end
+--end

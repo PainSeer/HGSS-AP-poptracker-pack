@@ -1,4 +1,6 @@
 SLOT_CODES = {
+    version = {code = "game_version"},
+    pokegear_card = {code = "opt_pokegearcards"},
     hms = {code = "opt_hms"},
     badges = {code = "opt_badges"},
     overworlds = {code = "opt_overworld"},
@@ -6,117 +8,20 @@ SLOT_CODES = {
     npc_gifts = {code = "opt_npcgifts"},
     key_items = {code = "opt_keyitems"},
     rods = {code = "opt_rods"},
-    poketch_apps = {code = "opt_poketchapps"},
     running_shoes = {code = "opt_shoes"},
     bicycle = {code = "opt_bicycle"},
     pokedex = {code = "opt_pokedex"},
-    accessories = {code = "opt_accessories"},
-    s_s_ticket = {code = "opt_ssticket"},
-    marsh_pass = {code = "opt_marsh_pass"},
-    storage_key = {code = "opt_storage_key"},
-    bag = {code = "opt_bag"},
-    unown_option = {code = "opt_unown"},
     visibility_hm_logic = {code = "opt_hm_visibility"},
     dowsing_machine_logic = {code = "opt_dowsing"},
-    north_sinnoh_fly = {code = "opt_north_sinnoh_fly"},
-    poketch_route_203 = {code = "opt_route_203"},
-    early_sunyshore = {code = "opt_early_sunyshore"},
-    pastoria_barriers = {code = "opt_pastoria_barriers"},
     goal = {code = "opt_goal"},
-    evo_items_shop_in_ap_helper = {code = "opt_evo_items_shop_in_ap_helper"},
-    start_with_swarms = {code = "opt_start_with_swarms"},
-    can_reset_legendaries_in_ap_helper = {code = "opt_can_reset_legendaries_in_ap_helper"},
-    cartridges = {code = "opt_cartridges"},
+    require_restored_power_for_magnet_train = {code = "opt_train"},
     hm_reader = {code = "opt_hmreader"},
+    sound_items = {code = "opt_sounditems"},
     time_items = {code = "opt_timeitems"},
-    boat_canalave_pastoria = {code = "opt_boat_canalave_pastoria"},
-    boat_canalave_snowpoint = {code = "opt_boat_canalave_snowpoint"},
-    boat_pastoria_snowpoint = {code = "opt_boat_pastoria_snowpoint"},
-    require_fly_items_for_flight = {code = "opt_require_fly_items_for_flight"},
-    randomize_fly_items = {code = "opt_randomize_fly_items"},
-    route_207_barricade = {
-        code = "opt_route_207_barricade",
-        mapping = {
-            [0]  = 0,   -- none
-            [1]  = 1,   -- bicycle_slope
-            [2]  = 2,   -- rock_climb
-            [4]  = 3,   -- impassable
-            [8]  = 4,   -- cut_tree
-            [12] = 5,   -- rock_smash
-            [16] = 6,   -- strength_boulder
-            [20] = 7,   -- psyduck
-            [9]  = 8,   -- bicycle_slope_and_cut_tree
-            [13] = 9,   -- bicycle_slope_and_rock_smash
-            [17] = 10,  -- bicycle_slope_and_strength_boulder
-            [21] = 11,  -- bicycle_slope_and_psyduck
-            [10] = 12,  -- rock_climb_and_cut_tree
-            [14] = 13,  -- rock_climb_and_rock_smash
-            [18] = 14,  -- rock_climb_and_strength_boulder
-            [22] = 15,  -- rock_climb_and_psyduck
-        }
-    },
-    route_210_lower_barricade = {
-        code = "opt_route_210_lower_barricade",
-        mapping = {
-            [0]  = 0,   -- none
-            [1]  = 1,   -- bicycle_slope
-            [2]  = 2,   -- rock_climb
-            [3]  = 3,   -- surf
-            [4]  = 4,   -- waterfall
-            [8]  = 5,   -- impassable
-            [16] = 6,   -- cut_tree
-            [24] = 7,   -- rock_smash
-            [32] = 8,   -- strength_boulder
-            [40] = 9,   -- psyduck
-            [17] = 10,  -- bicycle_slope_and_cut_tree
-            [25] = 11,  -- bicycle_slope_and_rock_smash
-            [33] = 12,  -- bicycle_slope_and_strength_boulder
-            [41] = 13,  -- bicycle_slope_and_psyduck
-            [18] = 14,  -- rock_climb_and_cut_tree
-            [26] = 15,  -- rock_climb_and_rock_smash
-            [34] = 16,  -- rock_climb_and_strength_boulder
-            [42] = 17,  -- rock_climb_and_psyduck
-            [19] = 18,  -- surf_and_cut_tree
-            [27] = 19,  -- surf_and_rock_smash
-            [35] = 20,  -- surf_and_strength_boulder
-            [43] = 21,  -- surf_and_psyduck
-            [20] = 22,  -- waterfall_and_cut_tree
-            [28] = 23,  -- waterfall_and_rock_smash
-            [36] = 24,  -- waterfall_and_strength_boulder
-            [44] = 25,  -- waterfall_and_psyduck
-        }
-    },
-    route_215_barricade = {
-        code = "opt_route_215_barricade",
-        mapping = {
-            [0]  = 0,   -- none
-            [1]  = 1,   -- bicycle_bridge
-            [2]  = 2,   -- rock_climb
-            [3]  = 3,   -- surf
-            [4]  = 4,   -- waterfall
-            [8]  = 5,   -- impassable
-            [16] = 6,   -- cut_tree
-            [24] = 7,   -- rock_smash
-            [32] = 8,   -- strength_boulder
-            [40] = 9,   -- psyduck
-            [17] = 10,  -- bicycle_bridge_and_cut_tree
-            [25] = 11,  -- bicycle_bridge_and_rock_smash
-            [33] = 12,  -- bicycle_bridge_and_strength_boulder
-            [41] = 13,  -- bicycle_bridge_and_psyduck
-            [18] = 14,  -- rock_climb_and_cut_tree
-            [26] = 15,  -- rock_climb_and_rock_smash
-            [34] = 16,  -- rock_climb_and_strength_boulder
-            [42] = 17,  -- rock_climb_and_psyduck
-            [19] = 18,  -- surf_and_cut_tree
-            [27] = 19,  -- surf_and_rock_smash
-            [35] = 20,  -- surf_and_strength_boulder
-            [43] = 21,  -- surf_and_psyduck
-            [20] = 22,  -- waterfall_and_cut_tree
-            [28] = 23,  -- waterfall_and_rock_smash
-            [36] = 24,  -- waterfall_and_strength_boulder
-            [44] = 25,  -- waterfall_and_psyduck
-        }
-    }
+    mossy_rock_locations = {code = "opt_mossy_rock"},
+    icy_rock_locations = {code = "opt_icy_rock"},
+    ap_items_shop_in_ap_helper = {code = "opt_items_shop_in_ap_helper"},
+    require_fly_items_for_flight = {code = "opt_require_fly_items_for_flight"}
 }
 
 HM_CODES = {
@@ -124,7 +29,7 @@ HM_CODES = {
     fly = "hm02fly",
     surf = "hm03surf",
     strength = "hm04strength",
-    defog = "hm05defog",
+    defog = "hm05whirlpool",
     rock_smash = "hm06rocksmash",
     waterfall = "hm07waterfall",
     rock_climb = "hm08rockclimb"
@@ -133,19 +38,12 @@ HM_CODES = {
 LIST_CODES = {
     in_logic_encounters = {
         values = {
-            ["trophy_garden"]               = "encmethod_trophygarden",
-            ["radar"]                       = "encmethod_radar",
-            ["swarms"]                      = "encmethod_swarm",
-            ["surf"]                        = "encmethod_surf",
+            ["rock_smash"]                  = "encmethod_rocksmash",
+            ["sounds"]                      = "encmethod_sounds",
+--            ["surf"]                        = "encmethod_surf",
             ["rods"]                        = "encmethod_fishing",
-            ["feebas_fishing"]              = "encmethod_feebasfishing",
-            ["cartridges"]                  = "encmethod_cartridge",
             ["time"]                        = "encmethod_time",
-            ["great_marsh_observatory"]     = "encmethod_greatmarsh",
-            ["regular_honey_tree"]          = "encmethod_honeytree",
-            ["munchlax_honey_tree"]         = "encmethod_munchlaxtree",
-            ["roamers"]                     = "encmethod_roamer",
-            ["odd_keystone"]                = "encmethod_oddkeystone",
+--            ["roamers"]                     = "encmethod_roamer",
         }
     },
     in_logic_evolution_methods = {
@@ -159,5 +57,14 @@ LIST_CODES = {
             ["mildly_annoying"]     = "evomethod_mildlyannoying",
             ["highly_annoying"]     = "evomethod_highlyannoying",
         }
-    }
+    },
+--    randomize_fly_items = {
+--        values = {
+--            ["kanto"]               = "flyunlocks_kanto",
+--            ["johto"]               = "flyunlocks_johto",
+--            ["pokemon_league"]      = "flyunlocks_pokemon_league",
+--            ["mount_silver"]        = "flyunlocks_mount_silver"
+--        }
+--    }
+
 }
