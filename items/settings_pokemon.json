@@ -59,14 +59,14 @@
         "stages": [
             {
                 "name": "Encounter Method: Fishing Encounters NOT in logic",
-                "img": "/images/settings/temp.png",
+                "img": "/images/settings/fishing.png",
                 "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
                 "codes": "encmethod_fishing, encmethod_fishing_off",
                 "inherit_codes": false
             },
             {
                 "name": "Encounter Method: Fishing Encounters in logic",
-                "img": "/images/temp.png",
+                "img": "/images/settings/fishing.png",
                 "img_mods": "overlay|images/settings/overlays/greencircle.png",
                 "codes": "encmethod_fishing, encmethod_fishing_on",
                 "inherit_codes": false
@@ -82,14 +82,14 @@
         "stages": [
             {
                 "name": "Encounter Method: Rock Smash Encounters NOT in logic",
-                "img": "/images/settings/temp.png",
+                "img": "/images/settings/rocksmash.png",
                 "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
                 "codes": "encmethod_rocksmash, encmethod_rocksmash_off",
                 "inherit_codes": false
             },
             {
                 "name": "Encounter Method: Rock Smash Encounters in logic",
-                "img": "/images/temp.png",
+                "img": "/images/settings/rocksmash.png",
                 "img_mods": "overlay|images/settings/overlays/greencircle.png",
                 "codes": "encmethod_rocksmash, encmethod_rocksmash_on",
                 "inherit_codes": false
@@ -105,14 +105,14 @@
         "stages": [
             {
                 "name": "Encounter Method: Sound Encounters NOT in logic",
-                "img": "/images/settings/temp.png",
+                "img": "/images/settings/sounds.png",
                 "img_mods": "overlay|images/settings/overlays/yellowdiamond.png",
                 "codes": "encmethod_sounds, encmethod_sounds_off",
                 "inherit_codes": false
             },
             {
                 "name": "Encounter Method: Sound Encounters in logic",
-                "img": "/images/temp.png",
+                "img": "/images/settings/sounds.png",
                 "img_mods": "overlay|images/settings/overlays/greencircle.png",
                 "codes": "encmethod_sounds, encmethod_sounds_on",
                 "inherit_codes": false
