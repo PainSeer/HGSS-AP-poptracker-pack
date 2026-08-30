@@ -8366,7 +8366,7 @@
             {
                 "name": "Gift From Tuscany",
                 "access_rules": [
-                    "@route_29, zephyr_badge"
+                    "@route_29, zephyrbadge"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -8806,7 +8806,7 @@
             {
                 "name": "Miracle Seed from Man",
                 "access_rules": [
-                    "@route_32_north, zephyr_badge, event_get_togepi_egg"
+                    "@route_32_north, zephyrbadge, event_get_togepi_egg"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
