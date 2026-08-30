@@ -3903,19 +3903,19 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 714,
+                "x": 713,
                 "y": 152,
                 "size": 14
             },
             {
                 "map": "johtokanto_v",
-                "x": 338,
+                "x": 337,
                 "y": 472,
                 "size": 14
             },
             {
                 "map": "kanto",
-                "x": 338,
+                "x": 337,
                 "y": 152,
                 "size": 14
             }
@@ -5021,19 +5021,19 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 183,
+                "x": 182,
                 "y": 144,
                 "size": 8
             },
             {
                 "map": "johtokanto_v",
-                "x": 183,
+                "x": 182,
                 "y": 144,
                 "size": 8
             },
             {
                 "map": "johto",
-                "x": 183,
+                "x": 182,
                 "y": 144,
                 "size": 8
             }
@@ -5723,19 +5723,19 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 167,
+                "x": 168,
                 "y": 144,
                 "size": 8
             },
             {
                 "map": "johtokanto_v",
-                "x": 167,
+                "x": 168,
                 "y": 144,
                 "size": 8
             },
             {
                 "map": "johto",
-                "x": 167,
+                "x": 168,
                 "y": 144,
                 "size": 8
             }
