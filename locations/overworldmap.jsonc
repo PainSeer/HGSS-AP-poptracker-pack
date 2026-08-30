@@ -46,7 +46,7 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -58,7 +58,7 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -70,7 +70,7 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -82,7 +82,7 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -92,7 +92,7 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -124,7 +124,7 @@
                     "@azalea, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -473,7 +473,7 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -483,7 +483,7 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -493,7 +493,7 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -503,7 +503,7 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -513,7 +513,7 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -523,7 +523,7 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -582,7 +582,7 @@
                     "@burned_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -602,7 +602,7 @@
                     "@burned_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -624,7 +624,7 @@
                     "@burned_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -749,7 +749,7 @@
                     "@celadon_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -761,7 +761,7 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -771,7 +771,7 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -781,7 +781,7 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -791,7 +791,7 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1186,7 +1186,7 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1196,7 +1196,7 @@
                     "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1206,7 +1206,7 @@
                     "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1216,7 +1216,7 @@
                     "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1226,7 +1226,7 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1236,7 +1236,7 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1406,7 +1406,7 @@
                     "@cianwood, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1428,7 +1428,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1438,7 +1438,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1448,7 +1448,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1458,7 +1458,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1468,7 +1468,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1885,7 +1885,7 @@
                     "@dragons_den"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1929,7 +1929,7 @@
                     "@dragons_den, event_defeated_rival_mount_moon, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1939,7 +1939,7 @@
                     "@dragons_den, event_defeated_rival_mount_moon, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1949,7 +1949,7 @@
                     "@dragons_den, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -1973,7 +1973,7 @@
                     "@dragons_den, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2122,7 +2122,7 @@
                     "@ecruteak_dance_theater"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2140,7 +2140,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2150,7 +2150,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2160,7 +2160,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2170,7 +2170,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2180,7 +2180,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2210,7 +2210,7 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2220,7 +2220,7 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2230,7 +2230,7 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2240,7 +2240,7 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2250,7 +2250,7 @@
                     "@ecruteak_gym, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2370,7 +2370,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2380,7 +2380,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2390,7 +2390,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2400,7 +2400,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2410,7 +2410,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2501,7 +2501,7 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2511,7 +2511,7 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2521,7 +2521,7 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2531,7 +2531,7 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2541,7 +2541,7 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2721,7 +2721,7 @@
                     "@goldenrod_radio_tower_1f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2731,7 +2731,7 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2741,7 +2741,7 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2751,7 +2751,7 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2761,7 +2761,7 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2781,7 +2781,7 @@
                     "@goldenrod_radio_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2791,7 +2791,7 @@
                     "@goldenrod_radio_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2801,7 +2801,7 @@
                     "@goldenrod_radio_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2811,7 +2811,7 @@
                     "@goldenrod_radio_tower_3f_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2831,7 +2831,7 @@
                     "@goldenrod_radio_tower_4f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2841,7 +2841,7 @@
                     "@goldenrod_radio_tower_4f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2851,7 +2851,7 @@
                     "@goldenrod_radio_tower_4f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2861,7 +2861,7 @@
                     "@goldenrod_radio_tower_4f_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2891,7 +2891,7 @@
                     "@goldenrod_radio_tower_5f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2911,7 +2911,7 @@
                     "@goldenrod_radio_tower_5f_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2921,7 +2921,7 @@
                     "@goldenrod_radio_tower_observation_deck"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2988,7 +2988,7 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -2998,7 +2998,7 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3008,7 +3008,7 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3018,7 +3018,7 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3028,7 +3028,7 @@
                     "@goldenrod_tunnel_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3038,7 +3038,7 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3058,7 +3058,7 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3078,7 +3078,7 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3088,7 +3088,7 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3098,7 +3098,7 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3108,7 +3108,7 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3140,7 +3140,7 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3172,7 +3172,7 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3182,7 +3182,7 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3728,7 +3728,7 @@
                     "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3738,7 +3738,7 @@
                     "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3748,7 +3748,7 @@
                     "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3788,7 +3788,7 @@
                     "@lake_of_rage_low_tide"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3914,7 +3914,7 @@
                     "@mahogany_gym_room_2"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3924,7 +3924,7 @@
                     "@mahogany_gym_room_2"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3934,7 +3934,7 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3944,7 +3944,7 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3954,7 +3954,7 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -3964,7 +3964,7 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4023,7 +4023,7 @@
                     "@mount_moon"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4138,7 +4138,7 @@
                     "@mount_mortar_1f_back_south"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4180,7 +4180,7 @@
                     "@mount_mortar_1f_back_middle"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4308,7 +4308,7 @@
                     "@mount_mortar_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4500,7 +4500,7 @@
                     "@mount_mortar_b1f_north"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -4769,7 +4769,7 @@
                     "@mount_silver_cave_summit"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -4901,7 +4901,7 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4911,7 +4911,7 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4921,7 +4921,7 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -4931,7 +4931,7 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5121,7 +5121,7 @@
                     "@olivine_pokecenter_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5197,7 +5197,7 @@
                     "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5256,7 +5256,7 @@
                     "@olivine_lighthouse_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5266,7 +5266,7 @@
                     "@olivine_lighthouse_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5276,7 +5276,7 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5286,7 +5286,7 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5308,7 +5308,7 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5318,7 +5318,7 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5328,7 +5328,7 @@
                     "@olivine_lighthouse_exterior"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5338,7 +5338,7 @@
                     "@olivine_lighthouse_4f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5348,7 +5348,7 @@
                     "@olivine_lighthouse_4f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5368,7 +5368,7 @@
                     "@olivine_lighthouse_5f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5388,7 +5388,7 @@
                     "@olivine_lighthouse_5f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5560,7 +5560,7 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5570,7 +5570,7 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5580,7 +5580,7 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5737,7 +5737,7 @@
                     "@pokemon_league_entrance, event_defeat_lance_clair_dragons_den"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5747,7 +5747,7 @@
                     "@pokemon_league_will_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5757,7 +5757,7 @@
                     "@pokemon_league_koga_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5767,7 +5767,7 @@
                     "@pokemon_league_bruno_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5777,7 +5777,7 @@
                     "@pokemon_league_karen_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5787,7 +5787,7 @@
                     "@pokemon_league_lance_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5797,7 +5797,7 @@
                     "@pokemon_league_will_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5807,7 +5807,7 @@
                     "@pokemon_league_koga_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5817,7 +5817,7 @@
                     "@pokemon_league_bruno_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5827,7 +5827,7 @@
                     "@pokemon_league_karen_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -5837,7 +5837,7 @@
                     "@pokemon_league_lance_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -6013,7 +6013,7 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6023,7 +6023,7 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6033,7 +6033,7 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6043,7 +6043,7 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -6139,7 +6139,7 @@
                     "@route_10_south"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6149,7 +6149,7 @@
                     "@route_10_south"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -6196,7 +6196,7 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6208,7 +6208,7 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6232,7 +6232,7 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6242,7 +6242,7 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -6279,7 +6279,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6289,7 +6289,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6299,7 +6299,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6309,7 +6309,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6331,7 +6331,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6349,7 +6349,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6359,7 +6359,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6379,7 +6379,7 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6426,7 +6426,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6436,7 +6436,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6446,7 +6446,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6456,7 +6456,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6466,7 +6466,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6488,7 +6488,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6498,7 +6498,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6508,7 +6508,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6518,7 +6518,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6528,7 +6528,7 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -6565,7 +6565,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6575,7 +6575,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6585,7 +6585,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6595,7 +6595,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6605,7 +6605,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6615,7 +6615,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6625,7 +6625,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6635,7 +6635,7 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6682,7 +6682,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6692,7 +6692,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6704,7 +6704,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6714,7 +6714,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6734,7 +6734,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6744,7 +6744,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6754,7 +6754,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6774,7 +6774,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6784,7 +6784,7 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -6858,7 +6858,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6868,7 +6868,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6878,7 +6878,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6888,7 +6888,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6898,7 +6898,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6908,7 +6908,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6918,7 +6918,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6940,7 +6940,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6962,7 +6962,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6972,7 +6972,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -6982,7 +6982,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -7019,7 +7019,7 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7029,7 +7029,7 @@
                     "@route_18"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7039,7 +7039,7 @@
                     "@route_18"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -7076,7 +7076,7 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7086,7 +7086,7 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7118,7 +7118,7 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7128,7 +7128,7 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7225,7 +7225,7 @@
                     "@route_2"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7267,7 +7267,7 @@
                     "@route_2"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7279,7 +7279,7 @@
                     "@route_2"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -7316,7 +7316,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7326,7 +7326,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7336,7 +7336,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7346,7 +7346,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7368,7 +7368,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7378,7 +7378,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7388,7 +7388,7 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7410,7 +7410,7 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7432,7 +7432,7 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7442,7 +7442,7 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7452,7 +7452,7 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7462,7 +7462,7 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -7499,7 +7499,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7521,7 +7521,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7531,7 +7531,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7541,7 +7541,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7551,7 +7551,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7585,7 +7585,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7595,7 +7595,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7605,7 +7605,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7615,7 +7615,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7625,7 +7625,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7635,7 +7635,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7645,7 +7645,7 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -7719,7 +7719,7 @@
                     "@route_24, event_cerulean_meet_kanto_grunt"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -7768,7 +7768,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7778,7 +7778,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7788,7 +7788,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7798,7 +7798,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7808,7 +7808,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7818,7 +7818,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7838,7 +7838,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7858,7 +7858,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7950,7 +7950,7 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7960,7 +7960,7 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7970,7 +7970,7 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7980,7 +7980,7 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -7990,7 +7990,7 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8012,7 +8012,7 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8075,7 +8075,7 @@
                     "@route_27_center"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8095,7 +8095,7 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8115,7 +8115,7 @@
                     "@route_27_east, $surf, $whirlpool"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8125,7 +8125,7 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8157,7 +8157,7 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8167,7 +8167,7 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8358,7 +8358,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8368,7 +8368,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8404,7 +8404,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8416,7 +8416,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8426,7 +8426,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8446,7 +8446,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8456,7 +8456,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8466,7 +8466,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8476,7 +8476,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8486,7 +8486,7 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8597,7 +8597,7 @@
                     "@route_30, event_get_mystery_egg"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8609,7 +8609,7 @@
                     "@route_30_northwest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8633,7 +8633,7 @@
                     "@route_30_northwest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -8702,7 +8702,7 @@
                     "@route_31"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8761,7 +8761,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8783,7 +8783,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8803,7 +8803,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8835,7 +8835,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8845,7 +8845,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8867,7 +8867,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8877,7 +8877,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8915,7 +8915,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -8974,7 +8974,7 @@
                     "@route_33"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -9023,7 +9023,7 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9033,7 +9033,7 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9043,7 +9043,7 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9055,7 +9055,7 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9099,7 +9099,7 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9109,7 +9109,7 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9119,7 +9119,7 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9139,7 +9139,7 @@
                     "@route_34, $night"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9149,7 +9149,7 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9206,7 +9206,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9228,7 +9228,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9238,7 +9238,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9248,7 +9248,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9258,7 +9258,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9268,7 +9268,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9278,7 +9278,7 @@
                     "@route_35, $night"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9290,7 +9290,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9310,7 +9310,7 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9375,7 +9375,7 @@
                     "@route_36_southwest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9397,7 +9397,7 @@
                     "@route_36_southwest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9474,7 +9474,7 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9496,7 +9496,7 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9506,7 +9506,7 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9516,7 +9516,7 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -9553,7 +9553,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9563,7 +9563,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9573,7 +9573,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9583,7 +9583,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9593,7 +9593,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9603,7 +9603,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9728,7 +9728,7 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9738,7 +9738,7 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9748,7 +9748,7 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9758,7 +9758,7 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -9795,7 +9795,7 @@
                     "@route_4"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9817,7 +9817,7 @@
                     "@route_4"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9839,7 +9839,7 @@
                     "@route_4"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9896,7 +9896,7 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9906,7 +9906,7 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9938,7 +9938,7 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9948,7 +9948,7 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -9985,7 +9985,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -9995,7 +9995,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10017,7 +10017,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10027,7 +10027,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10037,7 +10037,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10059,7 +10059,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10069,7 +10069,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10091,7 +10091,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10101,7 +10101,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10111,7 +10111,7 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10212,7 +10212,7 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10222,7 +10222,7 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10232,7 +10232,7 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10279,7 +10279,7 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10309,7 +10309,7 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10319,7 +10319,7 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10329,7 +10329,7 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10339,7 +10339,7 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10349,7 +10349,7 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -10386,7 +10386,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10406,7 +10406,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10416,7 +10416,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10458,7 +10458,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10468,7 +10468,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10478,7 +10478,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10488,7 +10488,7 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -10535,7 +10535,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10545,7 +10545,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10555,7 +10555,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10575,7 +10575,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10585,7 +10585,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10637,7 +10637,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10647,7 +10647,7 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10696,7 +10696,7 @@
                     "@route_46"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10706,7 +10706,7 @@
                     "@route_46"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10726,7 +10726,7 @@
                     "@route_46"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -10775,7 +10775,7 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10785,7 +10785,7 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10861,7 +10861,7 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -10881,7 +10881,7 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -10992,7 +10992,7 @@
                     "@route_6"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11014,7 +11014,7 @@
                     "@route_6"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11024,7 +11024,7 @@
                     "@route_6"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -11098,7 +11098,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11108,7 +11108,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11118,7 +11118,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11128,7 +11128,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11138,7 +11138,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11148,7 +11148,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11158,7 +11158,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11168,7 +11168,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -11217,7 +11217,7 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11237,7 +11237,7 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11247,7 +11247,7 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11257,7 +11257,7 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11287,7 +11287,7 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11307,7 +11307,7 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -11555,7 +11555,7 @@
                     "@ruins_of_alph_northwest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11632,7 +11632,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11642,7 +11642,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11652,7 +11652,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11662,7 +11662,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11672,7 +11672,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11684,7 +11684,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11694,7 +11694,7 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11704,7 +11704,7 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11716,7 +11716,7 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11726,7 +11726,7 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11736,7 +11736,7 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11746,7 +11746,7 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11756,7 +11756,7 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11766,7 +11766,7 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11776,7 +11776,7 @@
                     "@ss_aqua_1f_southeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11786,7 +11786,7 @@
                     "@ss_aqua_1f_southeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11796,7 +11796,7 @@
                     "@ss_aqua_1f_southeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11806,7 +11806,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11816,7 +11816,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11826,7 +11826,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11836,7 +11836,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11846,7 +11846,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11856,7 +11856,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11866,7 +11866,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11876,7 +11876,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11886,7 +11886,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -11896,7 +11896,7 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12236,7 +12236,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12246,7 +12246,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12256,7 +12256,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12266,7 +12266,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12276,7 +12276,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12401,7 +12401,7 @@
                     "@seafoam_islands_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12411,7 +12411,7 @@
                     "@seafoam_islands_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12421,7 +12421,7 @@
                     "@seafoam_islands_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12519,7 +12519,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12529,7 +12529,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12539,7 +12539,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12549,7 +12549,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12559,7 +12559,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12569,7 +12569,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12579,7 +12579,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12650,7 +12650,7 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12670,7 +12670,7 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12692,7 +12692,7 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12702,7 +12702,7 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12781,7 +12781,7 @@
                     "@sprout_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12791,7 +12791,7 @@
                     "@sprout_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12811,7 +12811,7 @@
                     "@sprout_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12831,7 +12831,7 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12841,7 +12841,7 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12851,7 +12851,7 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12871,7 +12871,7 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12916,7 +12916,7 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12926,7 +12926,7 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12936,7 +12936,7 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -12946,7 +12946,7 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13010,7 +13010,7 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13020,7 +13020,7 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13042,7 +13042,7 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13062,7 +13062,7 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13072,7 +13072,7 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13100,7 +13100,7 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13110,7 +13110,7 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13120,7 +13120,7 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13130,7 +13130,7 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13180,7 +13180,7 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -13325,7 +13325,7 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13335,7 +13335,7 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13345,7 +13345,7 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13377,7 +13377,7 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13421,7 +13421,7 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13473,7 +13473,7 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13495,7 +13495,7 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13505,7 +13505,7 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13515,7 +13515,7 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13535,7 +13535,7 @@
                     "@union_cave_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13555,7 +13555,7 @@
                     "@union_cave_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13589,7 +13589,7 @@
                     "@union_cave_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -13760,7 +13760,7 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13770,7 +13770,7 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13780,7 +13780,7 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -13790,7 +13790,7 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14035,7 +14035,7 @@
                     "@victory_road_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
@@ -14134,7 +14134,7 @@
                     "@violet_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14144,7 +14144,7 @@
                     "@violet_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14154,7 +14154,7 @@
                     "@violet_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14248,7 +14248,7 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14258,7 +14258,7 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14268,7 +14268,7 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14278,7 +14278,7 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14288,7 +14288,7 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14395,7 +14395,7 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14429,7 +14429,7 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14453,7 +14453,7 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14487,7 +14487,7 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             },
@@ -14521,7 +14521,7 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
             }
