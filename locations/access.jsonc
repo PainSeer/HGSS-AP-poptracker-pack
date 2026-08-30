@@ -1092,7 +1092,7 @@
     {
         "name": "goldenrod_radio_tower_3f_east",
         "access_rules": [
-            "@goldenrod_radio_tower_3f, $card_key",
+            "@goldenrod_radio_tower_3f, cardkey",
             "@goldenrod_radio_tower_4f_east"
         ]
     },
