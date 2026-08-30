@@ -3805,7 +3805,7 @@
             {
                 "name": "Item from Fishing Guru",
                 "access_rules": [
-                    "@lake_of_rage_fishing_guru_house, $mon_magikarp, event_clear_mahogany_hideout"
+                    "@lake_of_rage_fishing_guru_house, ^$has_mon|129, event_clear_mahogany_hideout"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -6702,7 +6702,7 @@
             {
                 "name": "Item from Woman in Grass Patch after Showing Chansey",
                 "access_rules": [
-                    "@route_14, $cut, $mon_chansey"
+                    "@route_14, $cut, ^$has_mon|113"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -7925,8 +7925,8 @@
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, $mon_jigglypuff, pokemon_heartgold",
-                    "@route_25_sea_cottage, $mon_lickitung, pokemon_soulsilver"
+                    "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -7936,8 +7936,8 @@
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Oddish",
                 "access_rules": [
-                    "@route_25_sea_cottage, $mon_jigglypuff, $mon_oddish pokemon_heartgold",
-                    "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, pokemon_soulsilver"
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -7947,8 +7947,8 @@
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, $mon_jigglypuff, $mon_oddish, $mon_marill, pokemon_heartgold",
-                    "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, $mon_staryu, pokemon_soulsilver"
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -7958,8 +7958,8 @@
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, $mon_jigglypuff, $mon_oddish, $mon_marill, $mon_growlithe, pokemon_heartgold",
-                    "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, $mon_staryu, $mon_vulpix, pokemon_soulsilver"
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -7969,8 +7969,8 @@
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Pichu",
                 "access_rules": [
-                    "@route_25_sea_cottage, $mon_jigglypuff, $mon_oddish, $mon_marill, $mon_growlithe, $mon_pichu, pokemon_heartgold",
-                    "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, $mon_staryu, $mon_vulpix, $mon_pichu, pokemon_soulsilver"
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -12273,7 +12273,7 @@
             {
                 "name": "Item from Copycat after Returning Lost Item",
                 "access_rules": [
-                    "@saffron_copycat_house_2f, $lost_item"
+                    "@saffron_copycat_house_2f, event_hear_about_missing_doll, $lost_item"
                 ],
                 "visibility_rules": [
                     "show_items, opt_keyitems_on"
