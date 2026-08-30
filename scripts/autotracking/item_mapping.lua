@@ -50,6 +50,7 @@ ITEM_MAPPING = {
 	[16887] =   {{"tidalbell", "toggle"}},
 	[504] =     {{"ragecandybar", "toggle"}},
 	[57371] =   {{"upgradableradiopokegearcard", "toggle"}},
+    [78] =      {{"escaperope", "toggle"}},
 
     -- Encounter Related
 	[445] =     {{"oldrod", "toggle"}},

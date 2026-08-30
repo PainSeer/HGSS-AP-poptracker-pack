@@ -308,19 +308,53 @@
         "initial_active_state": true
     },
     {
-        "name": "Cherrygrove Rival",
+        "name": "Mt. Moon Rival",
         "type": "toggle",
         "img": "images/events/rival.png",
-        "img_mods": "overlay|images/events/rival_overlays/rival_cherrygrove.png",
-        "codes": "event_rival_cherrygrove",
+        "img_mods": "overlay|images/events/rival_overlays/rival_mount_moon.png",
+        "codes": "event_defeated_rival_mount_moon",
         "initial_active_state": true
     },
     {
-        "name": "Azelea Rival",
+        "name": "Get HM08",
         "type": "toggle",
-        "img": "images/events/rival.png",
-        "img_mods": "overlay|images/events/rival_overlays/rival_azelea.png",
-        "codes": "event_rival_azelea",
+        "img": "images/events/event_get_hm08.png",
+        "codes": "event_get_hm08",
+        "initial_active_state": true
+    },
+    {
+        "name": "Call from Baoba",
+        "type": "toggle",
+        "img": "images/events/event_call_from_baoba.png",
+        "codes": "event_call_from_baoba",
+        "initial_active_state": true
+    },
+    {
+        "name": "Hear about missing doll",
+        "type": "toggle",
+        "img": "images/events/event_hear_about_missing_doll.png",
+        "codes": "event_hear_about_missing_doll",
+        "initial_active_state": true
+    },
+    {
+        "name": "Dragon's Den quiz",
+        "type": "toggle",
+        "img": "images/events/event_dragons_den_quiz.png",
+        "codes": "event_dragons_den_quiz",
+        "initial_active_state": true
+    },
+    {
+        "name": "Low tide dialogue",
+        "type": "toggle",
+        "img": "images/events/event_access_low_tide_dialogue.png",
+        "codes": "event_access_low_tide_dialogue",
+        "initial_active_state": true
+    },
+    {
+        "name": "Unlock West Kanto Exit",
+        "type": "toggle",
+        "img": "images/events/event_unlock_west_kanto_exit.png",
+        "codes": "event_unlock_west_kanto_exit",
         "initial_active_state": true
     }
 ]
