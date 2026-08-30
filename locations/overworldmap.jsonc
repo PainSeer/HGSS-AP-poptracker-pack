@@ -1394,7 +1394,7 @@
                 "access_rules": [
                     "@cianwood, event_defeat_chuck"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             }
         ],
@@ -1974,7 +1974,7 @@
                 "access_rules": [
                     "@ecruteak_dance_theater"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             },
             {
@@ -3059,7 +3059,7 @@
                 "access_rules": [
                     "@ice_path_1f"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             },
             {
@@ -3214,7 +3214,7 @@
                 "access_rules": [
                     "@ilex_forest_south, event_farfetchd_rescue"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             },
             {
@@ -5118,7 +5118,7 @@
                 "access_rules": [
                     "@pallet_town_oaks_lab, $kanto_badges_req|8"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             }
         ],
@@ -8854,7 +8854,7 @@
                 "access_rules": [
                     "@route_36_southeast"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             },
             {
@@ -9629,7 +9629,7 @@
                 "access_rules": [
                     "@route_42"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             },
             {
@@ -12226,7 +12226,7 @@
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             }
         ],
@@ -12421,7 +12421,7 @@
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
             },
             {
