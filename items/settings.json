@@ -570,123 +570,164 @@
             }
         ]
     },
-        {
+    {
+        "name": "Fly Unlocks - Kanto",
+        "type": "progressive",
+        "stages": [
+            {},
+            {
+                "codes": "flyunlocks_kanto"
+            }
+        ]
+    },
+    {
+        "name": "Fly Unlocks - Johto",
+        "type": "progressive",
+        "stages": [
+            {},
+            {
+                "codes": "flyunlocks_johto"
+            }
+        ]
+    },
+    {
+        "name": "Fly Unlocks - Pokémon League",
+        "type": "progressive",
+        "stages": [
+            {},
+            {
+                "codes": "flyunlocks_pokemonleague"
+            }
+        ]
+    },
+    {
+        "name": "Fly Unlocks - Mt. Silver",
+        "type": "progressive",
+        "stages": [
+            {},
+            {
+                "codes": "flyunlocks_mtsilver"
+            }
+        ]
+    },
+    {
         "name": "Randomize Fly Unlocks",
         "type": "progressive",
+        "allow_disabled": false,
+        "codes": "opt_randomize_fly_items",
         "initial_stage_idx": 0,
         "loop": true,
-        "allow_disabled": false,
         "stages": [
             {
                 "name": "Fly Unlocks - OFF",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "@disabled",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_off",
-                "inherit_codes": false
-            },
-            {
-                "name": "Fly Unlocks - Johto Only",
-                "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto",
-                "inherit_codes": false
-            },
-            {
-                "name": "Fly Unlocks - Kanto Only",
-                "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto",
-                "inherit_codes": false
-            },
-            {
-                "name": "Fly Unlocks - Pokemon League Only",
-                "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/league.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_pokemon_league",
+                "codes": "",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Unlocks - Mount Silver Only",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_mount_silver",
+                "codes": "opt_randomize_fly_items_mount_silver",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Unlocks - Johto + Kanto",
+                "name": "Fly Unlocks - Pokémon League Only",
                 "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/kanto.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/league.png",
+                "codes": "opt_randomize_fly_items_pokemon_league",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Unlocks - Johto + Pokemon League",
+                "name": "Fly Unlocks - Pokémon League + Mount Silver",
                 "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/league.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/league.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
+                "codes": "opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto Only",
+                "img": "images/settings/fly_item.png",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png",
+                "codes": "opt_randomize_fly_items_johto",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Unlocks - Johto + Mount Silver",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_mount_silver",
+                "codes": "opt_randomize_fly_items_johto, opt_randomize_fly_items_mount_silver",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Unlocks - Kanto + Pokemon League",
+                "name": "Fly Unlocks - Johto + Pokémon League",
                 "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/league.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_pokemon_league",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/league.png",
+                "codes": "opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Pokémon League + Mount Silver",
+                "img": "images/settings/fly_item.png",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/league.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
+                "codes": "opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Kanto Only",
+                "img": "images/settings/fly_item.png",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png",
+                "codes": "opt_randomize_fly_items_kanto",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Unlocks - Kanto + Mount Silver",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_mount_silver",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_mount_silver",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Unlocks - Pokemon League + Mount Silver",
+                "name": "Fly Unlocks - Kanto + Pokémon League",
                 "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/league.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/league.png",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_pokemon_league",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Unlocks - Johto + Kanto + Pokemon League",
+                "name": "Fly Unlocks - Kanto + Pokémon League + Mount Silver",
                 "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/league.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/league.png,overlay|images/settings/overlays/fly_overlays/mtsilver.png",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Unlocks - Johto + Kanto",
+                "img": "images/settings/fly_item.png",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/kanto.png",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Unlocks - Johto + Kanto + Mount Silver",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_kanto, opt_randomize_fly_items_mount_silver",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_mount_silver",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Unlocks - Johto + Pokemon league + Mount Silver",
+                "name": "Fly Unlocks - Johto + Kanto + Pokémon League",
                 "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/league.png, overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
-                "inherit_codes": false
-            },
-            {
-                "name": "Fly Unlocks - Kanto + Pokemon League + Mount Silver",
-                "img": "images/settings/fly_item.png",
-                "img_mods": "overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/league.png,overlay|images/settings/overlays/fly_overlays/mtsilver.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "img_mods": "overlay|images/settings/overlays/fly_overlays/johto.png, overlay|images/settings/overlays/fly_overlays/kanto.png, overlay|images/settings/overlays/fly_overlays/league.png",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Unlocks - ALL",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "overlay|images/settings/overlays/all.png",
-                "codes": "opt_randomize_fly_items, opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
+                "codes": "opt_randomize_fly_items_kanto, opt_randomize_fly_items_johto, opt_randomize_fly_items_pokemon_league, opt_randomize_fly_items_mount_silver",
                 "inherit_codes": false
             }
         ]

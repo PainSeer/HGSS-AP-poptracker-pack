@@ -196,9 +196,6 @@ function onClear(slot_data)
                     Tracker:FindObjectForCode(code).CurrentStage = 1
                 end
             end
---        elseif k == "randomize_fly_items" then
---            TODO - I added the list in option_mapping in case we go for 4 individual items.
---            Otherwise, it needs to be done like the tea in the crystal pack.
         elseif k == "blue_return_viridian_badge_requirement" then
             Tracker:FindObjectForCode("opt_blue_badges").AcquiredCount = v
         elseif k == "remove_badge_requirements" then
@@ -235,7 +232,39 @@ function onClear(slot_data)
             end
         end
     end
-    
+
+    -- Fly Unlocks processing
+    local stages = {
+        ["0000"] = 0,
+        ["0001"] = 1,
+        ["0010"] = 2,
+        ["0011"] = 3,
+        ["0100"] = 4,
+        ["0101"] = 5,
+        ["0110"] = 6,
+        ["0111"] = 7,
+        ["1000"] = 8,
+        ["1001"] = 9,
+        ["1010"] = 10,
+        ["1011"] = 11,
+        ["1100"] = 12,
+        ["1101"] = 13,
+        ["1110"] = 14,
+        ["1111"] = 15
+    }
+
+    -- Fetch Active values for Kanto, Johto, Pokémon League, Mount Silver
+    local kanto = Tracker:FindObjectForCode("flyunlocks_kanto").Active and "1" or "0"
+    local johto = Tracker:FindObjectForCode("flyunlocks_johto").Active and "1" or "0"
+    local pokemon_league = Tracker:FindObjectForCode("flyunlocks_pokemonleague").Active and "1" or "0"
+    local mount_silver = Tracker:FindObjectForCode("flyunlocks_mtsilver").Active and "1" or "0"
+
+    -- Concatenate values to form the key
+    local key = kanto .. johto .. pokemon_league .. mount_silver
+
+    -- Set CurrentStage for "flyunlocks"
+    Tracker:FindObjectForCode("opt_randomize_fly_items").CurrentStage = stages[key] or 0
+
     -- resetting datastorage events that aren't reset at other places
     updateEvents(0)
 

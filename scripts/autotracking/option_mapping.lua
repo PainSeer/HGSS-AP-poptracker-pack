@@ -58,13 +58,12 @@ LIST_CODES = {
             ["highly_annoying"]     = "evomethod_highlyannoying",
         }
     },
---    randomize_fly_items = {
---        values = {
---            ["kanto"]               = "flyunlocks_kanto",
---            ["johto"]               = "flyunlocks_johto",
---            ["pokemon_league"]      = "flyunlocks_pokemon_league",
---            ["mount_silver"]        = "flyunlocks_mount_silver"
---        }
---    }
-
+    randomize_fly_items = {
+        values = {
+            ["kanto"]          = "flyunlocks_kanto",
+            ["johto"]          = "flyunlocks_johto",
+            ["pokemon_league"] = "flyunlocks_pokemonleague",
+            ["mount_silver"]   = "flyunlocks_mtsilver",
+        }
+    }
 }
