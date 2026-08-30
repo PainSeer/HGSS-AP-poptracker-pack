@@ -158,6 +158,14 @@ function partial_trainersanity()
     end
 end
 
+function radio_tower_trigger()
+    if not (has("fogbadge") and has("mineralbadge") and has("stormbadge") and has("glacierbadge")) then
+	return false
+    else
+        return true
+    end
+end
+
 function red_scale()
     return has("redscale")
 end
