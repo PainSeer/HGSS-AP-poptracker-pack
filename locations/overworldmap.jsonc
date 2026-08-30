@@ -1306,13 +1306,7 @@
                 "access_rules": [
                     "@cherrygrove"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_shoes_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -1320,13 +1314,7 @@
                 "access_rules": [
                     "@cherrygrove"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_pokegearcards_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -1511,13 +1499,7 @@
                 "access_rules": [
                     "@cianwood, event_defeat_chuck"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             }
         ],
@@ -2149,13 +2131,7 @@
                 "access_rules": [
                     "@ecruteak_dance_theater"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -2516,13 +2492,7 @@
                 "access_rules": [
                     "@goldenrod_bike_shop"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_bicycle_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -2742,13 +2712,7 @@
                 "access_rules": [
                     "@goldenrod_radio_tower_1f"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_pokegearcards_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -3286,13 +3250,7 @@
                 "access_rules": [
                     "@ice_path_1f"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -3455,13 +3413,7 @@
                 "access_rules": [
                     "@ilex_forest_south, event_farfetchd_rescue"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -3904,13 +3856,7 @@
                 "access_rules": [
                     "@lavender_radio_station, event_restore_power"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_pokegearcards_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             }
         ],
@@ -5166,13 +5112,7 @@
                 "access_rules": [
                     "@olivine_northwest_house"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_rods_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -5224,13 +5164,7 @@
                 "access_rules": [
                     "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_pokedex_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -5512,13 +5446,7 @@
                 "access_rules": [
                     "@pallet_town_oaks_lab, $kanto_badges_req|8"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             }
         ],
@@ -6412,13 +6340,7 @@
                 "access_rules": [
                     "@route_12_fishing_brother_house"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_rods_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -8654,13 +8576,7 @@
                 "access_rules": [
                     "@route_30_mr_pokemon_house"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_pokedex_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -8980,13 +8896,7 @@
                 "access_rules": [
                     "@route_32_pokecenter_1f"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_rods_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -9456,13 +9366,7 @@
                 "access_rules": [
                     "@route_36_southeast"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -10277,13 +10181,7 @@
                 "access_rules": [
                     "@route_42"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
@@ -12982,13 +12880,7 @@
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             }
         ],
@@ -13189,13 +13081,7 @@
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
-<<<<<<< Updated upstream
                 "visibility_rules": ["show_items, opt_hms_on"],
-=======
-                "visibility_rules": [
-                    "show_items"
-                ],
->>>>>>> Stashed changes
                 "item_count": 1
             },
             {
