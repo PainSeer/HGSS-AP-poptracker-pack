@@ -4,6 +4,10 @@ function toggle_itemgrid()
     if not has("pokemon_heartgold") then
         suffix = suffix .. "_ss"
     end
+
+    if not has("opt_hmreader_off") then
+        suffix = suffix .. "_hmreader"
+    end
     
     Tracker:AddLayouts("layouts/items/items"..suffix..".json")
 end
