@@ -65,7 +65,7 @@
     {
         "name": "Heal Miltank",
         "type": "toggle",
-        "img": "images/events/cure_miltank.png",
+        "img": "images/events/event_cure_miltank.png",
         "codes": "event_cure_miltank",
         "initial_active_state": true
     },
@@ -198,7 +198,7 @@
     {
         "name": "Defend the Dance Theater from Team Rocket",
         "type": "toggle",
-        "img": "images/events/ecruteak_dance_theater_defeat_team_rocket.png",
+        "img": "images/events/event_ecruteak_dance_theater_defeat_team_rocket.png",
         "codes": "event_ecruteak_dance_theater_defeat_team_rocket",
         "initial_active_state": true
     },
@@ -296,7 +296,7 @@
     {
         "name": "Learn about the Robbery from the Plant Manager",
         "type": "toggle",
-        "img": "images/events/talk_plant_manager.png",
+        "img": "images/events/event_talk_plant_manager.png",
         "codes": "event_talk_plant_manager",
         "initial_active_state": true
     },
