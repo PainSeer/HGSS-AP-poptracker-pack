@@ -1218,7 +1218,7 @@
                 "access_rules": [
                     "@cherrygrove"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_pokegearcards_on"],
                 "item_count": 1
             },
             {
@@ -2529,7 +2529,7 @@
                 "access_rules": [
                     "@goldenrod_radio_tower_1f"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_pokegearcards_on"],
                 "item_count": 1
             },
             {
@@ -3625,7 +3625,7 @@
                 "access_rules": [
                     "@lavender_radio_station, event_restore_power"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_pokegearcards_on"],
                 "item_count": 1
             }
         ],
@@ -4847,7 +4847,7 @@
                 "access_rules": [
                     "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_pokedex_on"],
                 "item_count": 1
             },
             {
@@ -8104,7 +8104,7 @@
                 "access_rules": [
                     "@route_30_mr_pokemon_house"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_pokedex_on"],
                 "item_count": 1
             },
             {
