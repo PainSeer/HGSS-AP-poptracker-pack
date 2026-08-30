@@ -1208,7 +1208,7 @@
                 "access_rules": [
                     "@cherrygrove"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_shoes_on"],
                 "item_count": 1
             },
             {
@@ -2319,7 +2319,7 @@
                 "access_rules": [
                     "@goldenrod_bike_shop"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_bicycle_on"],
                 "item_count": 1
             },
             {
@@ -4797,7 +4797,7 @@
                 "access_rules": [
                     "@olivine_northwest_house"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_rods_on"],
                 "item_count": 1
             },
             {
@@ -5964,7 +5964,7 @@
                 "access_rules": [
                     "@route_12_fishing_brother_house"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_rods_on"],
                 "item_count": 1
             },
             {
@@ -8404,7 +8404,7 @@
                 "access_rules": [
                     "@route_32_pokecenter_1f"
                 ],
-                "visibility_rules": ["show_items"],
+                "visibility_rules": ["show_items, opt_rods_on"],
                 "item_count": 1
             },
             {
