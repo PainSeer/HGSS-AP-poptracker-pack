@@ -16,7 +16,7 @@
     {
         "name": "Surprise the Grunt in Cerulean Gym",
         "type": "toggle",
-        "img": "images/events/cerulean_meet_kanto_grunt.png",
+        "img": "images/events/event_cerulean_meet_kanto_grunt.png",
         "codes": "event_cerulean_meet_kanto_grunt",
         "initial_active_state": true
     },
