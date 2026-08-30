@@ -717,7 +717,7 @@
                     "@celadon, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -1176,7 +1176,7 @@
                     "@cerulean_gym, event_route_24_defeat_kanto_grunt"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -1396,7 +1396,7 @@
                     "@cianwood_pharmacy"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -2064,7 +2064,7 @@
                     "@ecruteak_dowsing_machine_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -2190,14 +2190,14 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_heartgold"
+                    "show_items, pokemon_heartgold, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
             {
                 "name": "Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)",
                 "access_rules": [
-                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_on"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_soulsilver"
@@ -2573,7 +2573,7 @@
                     "@goldenrod_flower_shop, event_defeat_whitney"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             }
@@ -2771,7 +2771,7 @@
                     "@goldenrod_radio_tower_2f, event_clear_rocket_tower"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -2901,7 +2901,7 @@
                     "@goldenrod_radio_tower_5f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -2931,7 +2931,7 @@
                     "@goldenrod_radio_tower_observation_deck"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_heartgold"
+                    "show_items, pokemon_heartgold, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -2941,7 +2941,7 @@
                     "@goldenrod_radio_tower_observation_deck"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_soulsilver"
+                    "show_items, pokemon_soulsilver, opt_keyitems_on"
                 ],
                 "item_count": 1
             }
@@ -2978,7 +2978,7 @@
                     "@goldenrod_tunnel_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -3202,7 +3202,7 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             }
@@ -3718,7 +3718,7 @@
                     "@lake_of_rage, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -3904,7 +3904,7 @@
                     "@mahogany"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -5064,7 +5064,7 @@
                     "@new_bark_elms_lab_1f, event_clear_pokemon_league"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             }
@@ -5518,7 +5518,7 @@
                     "@pewter"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_heartgold"
+                    "show_items, pokemon_heartgold, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -5528,7 +5528,7 @@
                     "@pewter"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_soulsilver"
+                    "show_items, pokemon_soulsilver, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -5702,7 +5702,7 @@
                     "@virt_pal_pad"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             }
@@ -8557,7 +8557,7 @@
                     "@route_30"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -8712,7 +8712,7 @@
                     "@route_31_violet_gatehouse"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             }
@@ -9407,7 +9407,7 @@
                     "@route_36_southwest, squirtbottle"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -9662,7 +9662,7 @@
                     "@route_39_moomoo_farm_stable, event_cure_miltank"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -11401,7 +11401,7 @@
                     "@ruins_of_alph_underground_hall"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -12206,7 +12206,7 @@
                     "@saffron_copycat_house_2f, $lost_item"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
@@ -13660,7 +13660,7 @@
                     "@vermilion_pokemon_fan_club, event_hear_about_missing_doll"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
             },
