@@ -34,7 +34,7 @@
                     "@azalea_kurt_house, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -114,7 +114,7 @@
                     "@azalea_gym, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -134,7 +134,7 @@
                     "@azalea_charcoal_kiln, event_farfetchd_rescue"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -463,7 +463,7 @@
                     "@blackthorn"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -727,7 +727,7 @@
                     "@celadon, $night"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -813,7 +813,7 @@
                     "@celadon_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -1258,7 +1258,7 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -1323,7 +1323,7 @@
                     "@cherrygrove, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -1490,7 +1490,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -1652,7 +1652,7 @@
                     "@dark_cave_route_45_side, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -2005,7 +2005,7 @@
                     "@dragons_den"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -2272,7 +2272,7 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -2432,7 +2432,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -2563,7 +2563,7 @@
                     "@goldenrod_gym, event_radio_quiz"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -2821,7 +2821,7 @@
                     "@goldenrod_radio_tower_3f, event_clear_rocket_tower"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -2881,7 +2881,7 @@
                     "@goldenrod_radio_tower_4f, event_clear_rocket_tower"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -3698,7 +3698,7 @@
                     "@lake_of_rage_hidden_power_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -3758,7 +3758,7 @@
                     "@lake_of_rage_low_tide"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -3768,7 +3768,7 @@
                     "@lake_of_rage_fishing_guru_house, $mon_magikarp, event_clear_mahogany_hideout"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -3986,7 +3986,7 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -4891,7 +4891,7 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -5034,7 +5034,7 @@
                     "@new_bark_elms_lab_1f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -5044,7 +5044,7 @@
                     "@new_bark_elms_lab_1f, event_get_togepi_egg"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -5054,7 +5054,7 @@
                     "@new_bark_elms_lab_1f, $johto_badges_req|8, event_ecruteak_dance_theater_defeat_team_rocket, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -5219,7 +5219,7 @@
                     "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -5602,7 +5602,7 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -6092,7 +6092,7 @@
                     "@route_10_power_plant_broken, $machine_part"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -6645,7 +6645,7 @@
                     "@route_14, $cut, $mon_chansey"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -7235,7 +7235,7 @@
                     "@route_2_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7245,7 +7245,7 @@
                     "@route_2_southeast_gatehouse"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7848,7 +7848,7 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7869,7 +7869,7 @@
                     "@route_25_sea_cottage, $mon_lickitung, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7880,7 +7880,7 @@
                     "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7891,7 +7891,7 @@
                     "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, $mon_staryu, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7902,7 +7902,7 @@
                     "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, $mon_staryu, $mon_vulpix, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -7913,7 +7913,7 @@
                     "@route_25_sea_cottage, $mon_lickitung, $mon_oddish, $mon_staryu, $mon_vulpix, $mon_pichu, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -8085,7 +8085,7 @@
                     "@route_27_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8234,7 +8234,7 @@
                     "@route_28_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8299,7 +8299,7 @@
                     "@route_29"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8309,7 +8309,7 @@
                     "@route_29, zephyr_badge"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8585,7 +8585,7 @@
                     "@route_30_mr_pokemon_house, $red_scale"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8680,7 +8680,7 @@
                     "@route_31, event_get_kenya"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8749,7 +8749,7 @@
                     "@route_32_north, zephyr_badge, event_get_togepi_egg"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8887,7 +8887,7 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -8925,7 +8925,7 @@
                     "@route_32, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9011,7 +9011,7 @@
                     "@route_34_ilex_forest_gatehouse"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9129,7 +9129,7 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9196,7 +9196,7 @@
                     "@route_35_goldenrod_gatehouse, event_give_kenya"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9357,7 +9357,7 @@
                     "@route_36_southeast"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9417,7 +9417,7 @@
                     "@route_36_southwest, squirtbottle"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9427,7 +9427,7 @@
                     "@route_36_southwest, squirtbottle"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9484,7 +9484,7 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9672,7 +9672,7 @@
                     "@route_39_moomoo_farm_house, event_cure_miltank"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -9886,7 +9886,7 @@
                     "@route_40"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -10289,7 +10289,7 @@
                     "@route_43_gatehouse, event_clear_mahogany_hideout"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -10955,7 +10955,7 @@
                     "@route_5_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -11906,7 +11906,7 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11916,7 +11916,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11926,7 +11926,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11936,7 +11936,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11946,7 +11946,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11956,7 +11956,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11966,7 +11966,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11976,7 +11976,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11986,7 +11986,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -11996,7 +11996,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12006,7 +12006,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12016,7 +12016,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12026,7 +12026,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12036,7 +12036,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12046,7 +12046,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12056,7 +12056,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12066,7 +12066,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12076,7 +12076,7 @@
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -12216,7 +12216,7 @@
                     "@saffron_silph_co_hq"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12226,7 +12226,7 @@
                     "@saffron_mr_psychic_house"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -12298,7 +12298,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -12601,7 +12601,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -12734,7 +12734,7 @@
                     "@slowpoke_well_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -13266,7 +13266,7 @@
                     "@route_5_underground_path, $ragecandybar"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -13650,7 +13650,7 @@
                     "@vermilion_pokemon_fan_club"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -13682,7 +13682,7 @@
                     "@vermilion, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -13812,7 +13812,7 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -14176,7 +14176,7 @@
                     "@violet_gym, event_beat_sprout_tower"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
@@ -14238,7 +14238,7 @@
                     "@viridian, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
@@ -14305,12 +14305,12 @@
                 "item_count": 1
             },
             {
-                "name": "Gym - TM from Blue",
+                "name": "Gym - Gift from Blue",
                 "access_rules": [
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             }
