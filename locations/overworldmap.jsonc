@@ -629,6 +629,16 @@
                 "item_count": 1
             },
             {
+                "name": "B1F - Disperse the Legendary Dogs (Event)",
+                "access_rules": [
+                    "@burned_tower_b1f"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_burned_tower_disperse_legendary_dogs"
+            },
+            {
                 "name": "B1F - Hidden Item By Northwest Pillar",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -1171,6 +1181,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Surprise the Grunt in Cerulean Gym (Event)",
+                "access_rules": [
+                    "@cerulean_gym"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_cerulean_meet_kanto_grunt"
+            },
+            {
                 "name": "Gym - Item after Rocket Grunt",
                 "access_rules": [
                     "@cerulean_gym, event_route_24_defeat_kanto_grunt"
@@ -1540,6 +1560,16 @@
                     "show_items, opt_randomize_fly_items_kanto"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Make Blue return to Viridian Gym (Event)",
+                "access_rules": [
+                    "@cinnabar_island"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_cinnabar_island_blue_return_viridian"
             },
             {
                 "name": "Hidden Item on Center Rock",
@@ -2944,6 +2974,16 @@
                     "show_items, pokemon_soulsilver, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Observatory Deck - Clear Radio Tower (Event)",
+                "access_rules": [
+                    "@goldenrod_radio_tower_observation_deck"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_clear_rocket_tower"
             }
         ],
         "map_locations": [
@@ -5393,6 +5433,16 @@
                 "item_count": 1
             },
             {
+                "name": "6F - Heal Amphy (Event)",
+                "access_rules": [
+                    "@olivine_lighthouse_light_room, secretpotion"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_cure_amphy"
+            },
+            {
                 "name": "6F - Item on Right",
                 "access_rules": [
                     "@olivine_lighthouse_light_room"
@@ -5790,6 +5840,16 @@
                     "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Become Champion (Event)",
+                "access_rules": [
+                    "@pokemon_league_hall_of_fame"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_clear_pokemon_league"
             },
             {
                 "name": "Elite Four Will 2",
@@ -9657,6 +9717,16 @@
         "chest_opened_img": "/images/locations/ballopen.png",
         "sections": [
             {
+                "name": "Heal Miltank (Event)",
+                "access_rules": [
+                    "@route_39_moomoo_farm_stable, oranberry"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_cure_miltank"
+            },
+            {
                 "name": "Gift from Farm Girl in Stable",
                 "access_rules": [
                     "@route_39_moomoo_farm_stable, event_cure_miltank"
@@ -12574,6 +12644,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Defeat Blaine (Event)",
+                "access_rules": [
+                    "@seafoam_islands_cinnabar_gym"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_defeat_blaine"
+            },
+            {
                 "name": "Gym - Leader Blaine",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
@@ -12705,6 +12785,16 @@
                     "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "B1F - Clear Slowpoke Well (Event)",
+                "access_rules": [
+                    "@slowpoke_well_b1f"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_clear_slowpoke_well"
             },
             {
                 "name": "B1F - Hidden Item on East Hill",
@@ -12882,6 +12972,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
+            },
+            {
+                "name": "3F - Beat Sprout Tower (Event)",
+                "access_rules": [
+                    "@sprout_tower_3f"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_beat_sprout_tower"
             }
         ],
         "map_locations": [
@@ -13083,6 +13183,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
+            },
+            {
+                "name": "B2F - Clear Mahogany Hideout (Event)",
+                "access_rules": [
+                    "@lake_of_rage, @mahogany_souvenir_shop, @team_rocket_headquarters_b2f, @team_rocket_headquarters_b3f"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_clear_mahogany_hideout"
             },
             {
                 "name": "B3F - Item in Eastern Hallway",
