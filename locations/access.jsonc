@@ -648,7 +648,8 @@
         "name": "dark_cave_route_31_side_east",
         "access_rules": [
             "@dark_cave_route_31_side_south, $rock_smash",
-            "$toocomplicated"
+            "@dark_cave_route_31_side_west, $strength, $surf",
+            "@dark_cave_route_31_side_west, $strength, $rock_smash"
         ]
     },
     {
@@ -668,7 +669,8 @@
     {
         "name": "dark_cave_route_31_side_west",
         "access_rules": [
-            "$toocomplicated",
+            "@dark_cave_route_31_side_east, $strength, $surf",
+            "@dark_cave_route_31_side_east, $strength, $rock_smash",
             "@dark_cave_route_31_side_north, $surf",
             "@route_31, ^$flash"
         ]
