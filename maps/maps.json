@@ -1158,6 +1158,42 @@
         "img": "images/maps/goldenroddepartmentstoreb1f.png"
     },
     {
+        "name": "goldenroddepartmentstore1f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstore1f.png"
+    },
+    {
+        "name": "goldenroddepartmentstore2f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstore2f.png"
+    },
+    {
+        "name": "goldenroddepartmentstore3f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstore3f.png"
+    },
+    {
+        "name": "goldenroddepartmentstore4f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstore4f.png"
+    },
+    {
+        "name": "goldenroddepartmentstore5f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstore5f.png"
+    },
+    {
+        "name": "goldenroddepartmentstore6f",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/goldenroddepartmentstore6f.png"
+    },
+    {
         "name": "goldenrodtunnelb1f",
         "location_size": 14,
         "location_border_thickness": 2,
