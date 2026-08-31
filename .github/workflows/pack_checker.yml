@@ -1,5 +1,6 @@
 name: Run Pack Checker
 on:
+  push:
   pull_request:
 jobs:
   validate:
