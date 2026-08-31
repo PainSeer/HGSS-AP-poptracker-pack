@@ -140,7 +140,7 @@
     {
         "name": "bell_tower_2f",
         "access_rules": [
-            "@bell_tower_1f, $rainbow_wing",
+            "@bell_tower_1f, rainbowwing",
             "@bell_tower_3f"
         ]
     },
@@ -741,7 +741,7 @@
         "name": "ecruteak_bell_tower_barrier_station_corridor",
         "access_rules": [
             "@bellchime_tower",
-            "@ecruteak_bell_tower_barrier_station, $fog_badge"
+            "@ecruteak_bell_tower_barrier_station, fogbadge"
         ]
     },
     {
@@ -968,7 +968,7 @@
         "name": "goldenrod_department_store_basement",
         "access_rules": [
             "@goldenrod_department_store_elevator",
-            "@goldenrod_tunnel_warehouse, $basement_key"
+            "@goldenrod_tunnel_warehouse, basementkey"
         ]
     },
     {
@@ -1153,7 +1153,7 @@
     {
         "name": "goldenrod_tunnel_b2f",
         "access_rules": [
-            "@goldenrod_tunnel_1f, $basement_key",
+            "@goldenrod_tunnel_1f, basementkey",
             "@goldenrod_tunnel_warehouse"
         ]
     },
@@ -1396,15 +1396,15 @@
     {
         "name": "mount_moon_square",
         "access_rules": [
-            "@mount_moon_square_entrance, $morning",
-            "@mount_moon_square_entrance, $day",
+            "@mount_moon_square_entrance, morningtime",
+            "@mount_moon_square_entrance, daytime",
             "@mount_moon_square_shop"
         ]
     },
     {
         "name": "mount_moon_square_clefairy_event",
         "access_rules": [
-            "@mount_moon_square_entrance, $night"
+            "@mount_moon_square_entrance, nighttime"
         ]
     },
     {
@@ -1418,7 +1418,7 @@
     {
         "name": "mount_moon_square_shop",
         "access_rules": [
-            "@mount_moon_square, $day"
+            "@mount_moon_square, daytime"
         ]
     },
     {
@@ -2054,7 +2054,7 @@
     {
         "name": "route_10_power_plant_repaired",
         "access_rules": [
-            "@route_10, $surf, $machine_part"
+            "@route_10, $surf, machinepart"
         ]
     },
     {
@@ -2125,7 +2125,7 @@
     {
         "name": "route_16",
         "access_rules": [
-            "@route_16_gatehouse, $bicycle",
+            "@route_16_gatehouse, bicycle",
             "@route_17"
         ]
     },
@@ -2154,7 +2154,7 @@
         "name": "route_17",
         "access_rules": [
             "@route_16",
-            "@route_18_gatehouse, $bicycle"
+            "@route_18_gatehouse, bicycle"
         ]
     },
     {
@@ -2898,7 +2898,7 @@
     {
         "name": "ruins_of_alph_northwest_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_northwest_entrance_first_room, $rainbow_wing"
+            "@ruins_of_alph_northwest_entrance_first_room, rainbowwing"
         ]
     },
     {
@@ -2945,7 +2945,7 @@
     {
         "name": "ruins_of_alph_southwest_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_southwest_entrance_first_room, $water_stone"
+            "@ruins_of_alph_southwest_entrance_first_room, waterstone"
         ]
     },
     {
@@ -3724,13 +3724,13 @@
     {
         "name": "whirl_islands_b3f",
         "access_rules": [
-            "@whirl_islands_b2f, $silver_wing"
+            "@whirl_islands_b2f, silverwing"
         ]
     },
     {
         "name": "whirl_islands_b3f_lugia_cave",
         "access_rules": [
-            "@whirl_islands_b2f, $silver_wing"
+            "@whirl_islands_b2f, silverwing"
         ]
     }
 ]

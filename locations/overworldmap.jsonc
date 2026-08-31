@@ -796,7 +796,7 @@
             {
                 "name": "Condominiums 4F - Gift After Man's Scary Story",
                 "access_rules": [
-                    "@celadon, $night"
+                    "@celadon, nighttime"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -2937,7 +2937,7 @@
             {
                 "name": "B1F - Item By Staircase",
                 "access_rules": [
-                    "@goldenrod_department_store_basement, $basement_key"
+                    "@goldenrod_department_store_basement, basementkey"
                 ],
                 "visibility_rules": [
                     "show_items, opt_overworld_on"
@@ -6545,7 +6545,7 @@
             {
                 "name": "Power Plant - Restore Power to Kanto (Event)",
                 "access_rules": [
-                    "@route_10_power_plant_broken, $machine_part"
+                    "@route_10_power_plant_broken, machinepart"
                 ],
                 "visibility_rules": [
                     "show_items"
@@ -6555,7 +6555,7 @@
             {
                 "name": "Power Plant - Gift from Manager",
                 "access_rules": [
-                    "@route_10_power_plant_broken, $machine_part"
+                    "@route_10_power_plant_broken, machinepart"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9124,7 +9124,7 @@
             {
                 "name": "Mr. Pokemon's House - Exp. Share from Mr. Pokemon",
                 "access_rules": [
-                    "@route_30_mr_pokemon_house, $red_scale"
+                    "@route_30_mr_pokemon_house, redscale"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9704,7 +9704,7 @@
             {
                 "name": "Policeman Keith",
                 "access_rules": [
-                    "@route_34, $night"
+                    "@route_34, nighttime"
                 ],
                 "visibility_rules": [
                     "show_items, opt_trainer_full"
@@ -9857,7 +9857,7 @@
             {
                 "name": "Policeman Dirk",
                 "access_rules": [
-                    "@route_35, $night"
+                    "@route_35, nighttime"
                 ],
                 "visibility_rules": [
                     "show_items, opt_trainer_full"
@@ -12873,7 +12873,7 @@
             {
                 "name": "Item from Copycat after Returning Lost Item",
                 "access_rules": [
-                    "@saffron_copycat_house_2f, event_hear_about_missing_doll, $lost_item"
+                    "@saffron_copycat_house_2f, event_hear_about_missing_doll, lostitem"
                 ],
                 "visibility_rules": [
                     "show_items, opt_keyitems_on"
@@ -13983,7 +13983,7 @@
             {
                 "name": "Gift From Man For RageCandyBar",
                 "access_rules": [
-                    "@route_5_underground_path, $ragecandybar"
+                    "@route_5_underground_path, ragecandybar"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"

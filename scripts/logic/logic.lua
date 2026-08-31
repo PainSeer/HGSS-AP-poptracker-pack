@@ -133,18 +133,6 @@ function has_mon(dexnumber)
     end
 end
 
-function day()
-    return has("daytime")
-end
-
-function night()
-    return has("nighttime")
-end
-
-function morning()
-    return has("morningtime")
-end
-
 function can_freefly(destination)
   return fly() and 
   (has("fly_map_"..destination))
@@ -159,61 +147,20 @@ function partial_trainersanity()
 end
 
 function radio_tower_trigger()
-    if not (has("fogbadge") and has("mineralbadge") and has("stormbadge") and has("glacierbadge")) then
-	return false
-    else
-        return true
-    end
-end
-
-function red_scale()
-    return has("redscale")
+    return has("fogbadge")
+    and has("mineralbadge")
+    and has("stormbadge")
+    and has("glacierbadge")
 end
 
 function meet_boxart()
     return has("event_meet_ho_oh") or has("event_meet_lugia")    
 end
 
-function basement_key()
-    return has("basementkey")
-end
-
-function ragecandybar()
-    return has("ragecandybar")
-end
-
-function bicycle()
-    return has("bicycle")
-end
-
-function machine_part()
-    return has("machinepart")
-end
-
-function fog_badge()
-    return has("fogbadge")
-end
-
-function silver_wing()
-    return has("silverwing")
-end
-
-function rainbow_wing()
-    return has("rainbowwing")
-end
-
-function water_stone()
-    return has("waterstone")
-end
-
-function lost_item()
-    return has("lostitem")
-end
-
 function ap_helper()
     if has("opt_items_shop_in_ap_helper_on") then
-	return true
+        return true
     else
-	return Tracker:FindObjectForCode("@goldenrod_department_store_1f").AccessibilityLevel
+        return Tracker:FindObjectForCode("@goldenrod_department_store_1f").AccessibilityLevel
     end
 end
