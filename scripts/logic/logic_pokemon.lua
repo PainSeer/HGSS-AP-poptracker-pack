@@ -3,19 +3,19 @@ function land_encounters()
 end
 
 function day_encounters()
-    if not day() then return AccessibilityLevel.None end
+    if not has("daytime") then return AccessibilityLevel.None end
     
     return math.max(has_level("encmethod_time_on"), AccessibilityLevel.SequenceBreak)
 end
 
 function morning_encounters()
-    if not morning() then return AccessibilityLevel.None end
+    if not has("morningtime") then return AccessibilityLevel.None end
     
     return math.max(has_level("encmethod_time_on"), AccessibilityLevel.SequenceBreak)
 end
 
 function night_encounters()
-    if not night() then return AccessibilityLevel.None end
+    if not has("nighttime") then return AccessibilityLevel.None end
     
     return math.max(has_level("encmethod_time_on"), AccessibilityLevel.SequenceBreak)
 end
@@ -193,9 +193,9 @@ end
 
 function evolve_time(timeofday)
     if timeofday == "night" then
-        if not night() then return AccessibilityLevel.None end
+        if not has("nighttime") then return AccessibilityLevel.None end
     elseif timeofday == "day" then
-        if not day() then return AccessibilityLevel.None end
+        if not has("daytime") then return AccessibilityLevel.None end
     else
         print("Typo!")
     end
