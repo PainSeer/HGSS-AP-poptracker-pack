@@ -2150,21 +2150,11 @@
                 "item_count": 1
             },
             {
-                "name": "Shrine - Dragon's Den Quiz (Event)",
-                "access_rules": [
-                    "@dragons_den_shrine"
-                ],
-                "visibility_rules": [
-                    "show_items"
-                ],
-                "hosted_item": "event_dragons_den_quiz"
-            },
-            {
                 "name": "Shrine - Badge from Clair",
                 "chest_unopened_img": "/images/locations/badges/risingbadge.png",
                 "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
-                    "@dragons_den_shrine, event_dragons_den_quiz"
+                    "@dragons_den_shrine"
                 ],
                 "visibility_rules": [
                     "show_items, opt_badges_on"

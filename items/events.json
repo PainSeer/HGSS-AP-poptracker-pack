@@ -315,20 +315,13 @@
         "codes": "event_defeated_rival_mount_moon",
         "initial_active_state": true
     },
- //   { probably not going to bother tracking, please yell at me if i'm wrong
- //       "name": "Get HM08",
- //       "type": "toggle",
- //       "img": "images/events/event_get_hm08.png",
- //       "codes": "event_get_hm08",
- //       "initial_active_state": true
- //   },
- //  {  Not currently using, happens at the same time as healing amphy 
- //      "name": "Call from Baoba",
- //      "type": "toggle",
- //      "img": "images/events/event_call_from_baoba.png",
- //      "codes": "event_call_from_baoba",
- //      "initial_active_state": true
- //  },
+    {
+        "name": "Talk to Oak to unlock Mt. Silver",
+        "type": "toggle",
+        "img": "images/events/event_get_hm08.png",
+        "codes": "event_get_hm08",
+        "initial_active_state": true
+    },
     {
         "name": "Hear about the Missing Doll",
         "type": "toggle",
@@ -337,24 +330,10 @@
         "initial_active_state": true
     },
     {
-        "name": "Dragon's Den Quiz",
+        "name": "Lower Lake of Rage's water",
         "type": "toggle",
-        "img": "images/events/event_dragons_den_quiz.png",
-        "codes": "event_dragons_den_quiz",
-        "initial_active_state": true
-    },
-    {
-        "name": "Low Tide Dialogue",
-        "type": "toggle",
-        "img": "images/temp.png",
+        "img": "images/events/event_access_low_tide_dialogue.png",
         "codes": "event_access_low_tide_dialogue",
         "initial_active_state": true
-    },
-  //    { not needed until trueblue does some crazt thing later
-  //      "name": "Unlock West Kanto Exit",
-  //      "type": "toggle",
-  //      "img": "images/events/event_unlock_west_kanto_exit.png",
-  //      "codes": "event_unlock_west_kanto_exit",
-  //      "initial_active_state": true
-  //  }
+    }
 ]

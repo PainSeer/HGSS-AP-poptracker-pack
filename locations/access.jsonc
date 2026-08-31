@@ -2327,7 +2327,7 @@
         "name": "route_28_south",
         "access_rules": [
             "@mount_silver",
-            "@route_22_pokemon_league_reception_gate, @pallet_town_oaks_lab", // this is the event_get_hm08 in the apworld
+            "@route_22_pokemon_league_reception_gate, event_get_hm08",
             "@route_28_north"
         ]
     },

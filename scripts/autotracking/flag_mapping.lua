@@ -43,6 +43,10 @@ FLAG_EVENT_CODES = {
     "event_shiny_gyarados",
     "event_talk_plant_manager",
     "event_talk_to_kurt",
+    "event_defeated_rival_mount_moon",
+    "event_get_hm08",
+    "event_hear_about_missing_doll",
+    "event_access_low_tide_dialogue",
 }
 
 HOSTED_VANILLA_CODES = {
