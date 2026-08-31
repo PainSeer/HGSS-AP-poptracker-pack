@@ -164,3 +164,9 @@ function ap_helper()
         return Tracker:FindObjectForCode("@goldenrod_department_store_1f").AccessibilityLevel
     end
 end
+
+function use_magnet_train()
+    if not has("pass") then return false end
+    
+    return has("opt_train_false") or has("event_restore_power")
+end
