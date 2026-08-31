@@ -268,7 +268,7 @@ function onClear(slot_data)
     -- resetting datastorage events that aren't reset at other places
     updateEvents(0)
 
-    for register = 1, 5 do
+    for register = 1, 3 do
         local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
         for _, obj in ipairs(list) do
             if obj.codes then
@@ -285,17 +285,15 @@ function onClear(slot_data)
 
     if Archipelago.PlayerNumber > -1 then
         local suffix = TEAM_NUMBER .. "_" .. PLAYER_ID
-        local function makeID(s) return "pokemon_platinum_" .. s .. suffix end
+        local function makeID(s) return "pokemon_hgss_" .. s .. suffix end
         IDs = {
             EVENT      = makeID("tracked_events_"),
 --            SEEN       = makeID("seen_pokemon_"),
 --            CAUGHT     = makeID("caught_pokemon_"),
 --            ROADBLOCK  = makeID("saw_locations_"),
---            KEY1       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_0",
---            KEY2       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_1",
---            KEY3       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_2",
---            KEY4       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_3",
---            KEY5       = "pokemon_platinum_tracked_unrandomized_required_locations_"..suffix.."_4",
+            KEY1       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_0",
+            KEY2       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_1",
+            KEY3       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_2",
             HINT       = "_read_hints_" .. suffix,
         }
         

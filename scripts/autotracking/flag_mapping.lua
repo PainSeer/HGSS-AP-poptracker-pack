@@ -57,22 +57,114 @@ FLAG_ROADBLOCKS = {
 
 }
 
-FLAG_ITEM1_CODES = {
+-- instructions from palex00:
+-- search the name (e.g. "overworld_d45r0101_moon_stone") in https://github.com/ljtpetersen/hgss_archipelago/blob/devel/data_gen/locations.toml
+-- check its type: overworld, hidden, hm, badge, key_item, npc_gift, rod, running_shoes, bicycle, pokedex, pokegear_card, various fly locations (https://github.com/ljtpetersen/hgss_archipelago/blob/22bdb082aed301849c7c76090f5bae42a63e4bf4/locations.py#L25-L69)
+-- the option code you need to input is the option that code that needs to be true for this to work (so: if it's a hidden item, hidden_off)
+-- the code is the item code of the item that this would turn on
+-- leave the location name as a comment like in the examples so we can debug easier later
 
+FLAG_ITEM1_CODES = {
+  {option="opt_overworld_off", codes={"moonstone"}}, -- "overworld_d45r0101_moon_stone",
+  -- "overworld_t31_reaper_cloth",
+  -- "overworld_d39r0101_hm07",
+  -- "overworld_r42_dubious_disc",
+  -- "overworld_d46r0101_leaf_stone",
+  -- "overworld_d24r0212_oran_berry",
+  -- "overworld_d41r0102_dawn_stone",
+  -- "overworld_d24r0213_moon_stone",
+  -- "overworld_d22r0101_shiny_stone",
+  -- "overworld_d38r0103_dragon_scale",
+  -- "overworld_t09_magmarizer",
+  -- "overworld_d38r0102_protector",
+  -- "overworld_d11r0103_water_stone",
+  -- "overworld_d03r0103_dusk_stone",
+  -- "overworld_d03r0103_electirizer",
+  -- "overworld_d05r0102_oval_stone",
+  -- "hidden_w20_deepseascale",
+  -- "hidden_w20_deepseatooth",
+  {option="{}", codes={""}}, -- "fly_map_pallet",
+  {option="{}", codes={""}}, -- "fly_map_viridian",
+  {option="{}", codes={""}}, -- "fly_map_pewter",
+  {option="{}", codes={""}}, -- "fly_map_cerulean",
+  {option="{}", codes={""}}, -- "fly_map_lavender",
+  {option="{}", codes={""}}, -- "fly_map_vermilion",
+  {option="{}", codes={""}}, -- "fly_map_celadon",
+  {option="{}", codes={""}}, -- "fly_map_fuchsia",
+  {option="{}", codes={""}}, -- "fly_map_cinnabar_island",
+  {option="{}", codes={""}}, -- "fly_map_indigo_plateau",
+  {option="{}", codes={""}}, -- "fly_map_saffron",
+  {option="{}", codes={""}}, -- "fly_map_new_bark",
+  {option="{}", codes={""}}, -- "fly_map_cherrygrove",
+  {option="{}", codes={""}}, -- "fly_map_violet",
 }
   
 FLAG_ITEM2_CODES = {
-
+  {option="{}", codes={""}}, -- "fly_map_azalea",
+  {option="{}", codes={""}}, -- "fly_map_cianwood",
+  {option="{}", codes={""}}, -- "fly_map_goldenrod",
+  {option="{}", codes={""}}, -- "fly_map_olivine",
+  {option="{}", codes={""}}, -- "fly_map_ecruteak",
+  {option="{}", codes={""}}, -- "fly_map_mahogany",
+  {option="{}", codes={""}}, -- "fly_map_blackthorn",
+  {option="{}", codes={""}}, -- "fly_map_lake_of_rage",
+  {option="{}", codes={""}}, -- "fly_map_mount_silver",
+  {option="{}", codes={""}}, -- "fly_map_safari_zone_gate",
+  {option="{}", codes={""}}, -- "fly_map_battle_frontier",
+  {option="{}", codes={""}}, -- "fly_map_national_park",
+  {option="{}", codes={""}}, -- "fly_map_victory_road_1f",
+  {option="opt_badges_off", codes={"fogbadge"}}, -- "ecruteak_badge_fog",
+  {option="opt_badges_off", codes={"zephyrbadge"}}, -- "violet_badge_zephyr",
+  -- "goldenrod_badge_plain",
+  -- "olivine_badge_mineral",
+  -- "cianwood_badge_storm",
+  -- "dragons_den_shrine_badge_rising",
+  -- "azalea_badge_hive",
+  -- "viridian_badge_earth",
+  -- "mahogany_badge_glacier",
+  -- "ilex_forest_hm01",
+  -- "cianwood_hm02",
+  -- "ecruteak_dance_theater_hm03",
+  -- "route_42_hm04",
+  -- "team_rocket_headquarters_b2f_hm05",
+  -- "route_36_hm06",
+  -- "pallet_town_oaks_lab_hm08",
+  -- "olivine_northwest_house_good_rod",
+  -- "route_32_pokemon_center_1f_old_rod",
+  -- "route_12_fishing_brother_house_super_rod",
 }
 
 FLAG_ITEM3_CODES = {
-
-}
-
-FLAG_ITEM4_CODES = {
-
-}
-
-FLAG_ITEM5_CODES = {
-
+  -- "route_30_mr_pokemon_house_pokedex",
+  -- "ss_aqua_olivine_port_interior_pokedex",
+  -- "lavender_town_radio_station_radio",
+  -- "goldenrod_radio_tower_1f_radio",
+  -- "ecruteak_dowsing_machine_house_dowsing_mchn",
+  -- "new_bark_elms_lab_1f_ss_ticket",
+  -- "cianwood_pharmacy_secretpotion",
+  -- "d37r0105_cardkey",
+  -- "route_36_oran_berries",
+  -- "slowpoke_well_kings_rock",
+  -- "sprout_tower_tm70",
+  -- "t06_lost_item",
+  -- "t29_red_scale",
+  -- "goldenrod_squirtbottle",
+  -- "goldenrod_radio_tower_5f_basement_key",
+  -- "cerulean_machine_part",
+  -- "pewter_rainbow_wing",
+  -- "pewter_silver_wing",
+  -- "goldenrod_radio_tower_observation_deck_rainbow_wing",
+  -- "goldenrod_radio_tower_observation_deck_silver_wing",
+  -- "ecruteak_dance_theater_clear_bell",
+  -- "ecruteak_dance_theater_tidal_bell",
+  -- "mount_moon_square_clefairy_event_moon_stone",
+  -- "ss_aqua_metal_coat",
+  -- "route_25_sea_cottage_leaf_stone",
+  -- "route_25_sea_cottage_water_stone",
+  -- "route_25_sea_cottage_fire_stone",
+  -- "route_25_sea_cottage_thunderstone",
+  -- "saffron_silph_co_hq_upgrade",
+  -- "goldenrod_bike_shop_bicycle",
+  -- "mahogany_ragecandybar",
+  -- "saffron_copycat_house_2f_pass"
 }
