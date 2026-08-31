@@ -349,8 +349,12 @@
         "codes": "pass"
     },
     {
-        "name": "Oran berry",
-        "type": "toggle",
+        "name": "Oran Berry",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "initial_quantity": 0,
         "img": "images/items/oranberry.png",
         "codes": "oranberry"
     },
