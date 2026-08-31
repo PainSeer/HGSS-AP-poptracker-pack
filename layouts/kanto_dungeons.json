@@ -113,6 +113,15 @@
         "content": {
           "type": "tabbed",
           "tabs": [
+		    {
+              "title": "Gym",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "cinnabargym"
+                ]
+              }
+            },
             {
               "title": "1F",
               "content": {

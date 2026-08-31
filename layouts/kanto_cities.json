@@ -231,26 +231,9 @@
       {
         "title": "Cinnabar Island",
         "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Island",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cinnabarisland"
-                ]
-              }
-            },
-            {
-              "title": "Gym",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cinnabargym"
-                ]
-              }
-            }
+          "type": "map",
+          "maps": [
+            "cinnabarisland"
           ]
         }
       }
