@@ -4514,6 +4514,8 @@
             },
             {
                 "name": "1F Back - Poke Maniac Harrison",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@mount_mortar_1f_back_south"
                 ],
@@ -6469,6 +6471,8 @@
             },
             {
                 "name": "Ace Trainer French",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_1"
                 ],
@@ -6479,6 +6483,8 @@
             },
             {
                 "name": "Ace Trainer Quinn",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_1"
                 ],
@@ -6735,6 +6741,8 @@
         "sections": [
             {
                 "name": "Fisherman Kyle",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6755,6 +6763,8 @@
             },
             {
                 "name": "Fisherman Martin",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6787,6 +6797,8 @@
             },
             {
                 "name": "Fisherman Stephen",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6815,6 +6827,8 @@
             },
             {
                 "name": "Fisherman Barney",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6835,6 +6849,8 @@
             },
             {
                 "name": "Fisherman Kyler",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6892,6 +6908,8 @@
             },
             {
                 "name": "Picnicker Piper",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -6964,6 +6982,8 @@
             },
             {
                 "name": "Picnicker Ginger",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -7802,6 +7822,8 @@
             },
             {
                 "name": "Picnicker Cheyenne",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7844,6 +7866,8 @@
             },
             {
                 "name": "Picnicker Adrian",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7977,6 +8001,8 @@
             },
             {
                 "name": "Fisherman Arnold",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -7997,6 +8023,8 @@
             },
             {
                 "name": "Fisherman Murphy",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8051,6 +8079,8 @@
             },
             {
                 "name": "Fisherman Liam",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8061,6 +8091,8 @@
             },
             {
                 "name": "Fisherman Gideon",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8324,6 +8356,8 @@
             },
             {
                 "name": "Ace Trainer Kevin",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8426,6 +8460,8 @@
         "sections": [
             {
                 "name": "Fisherman Scott",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_26"
                 ],
@@ -8446,6 +8482,8 @@
             },
             {
                 "name": "Ace Trainer Joyce",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_26"
                 ],
@@ -8456,6 +8494,8 @@
             },
             {
                 "name": "Ace Trainer Gaven",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_26"
                 ],
@@ -8466,6 +8506,8 @@
             },
             {
                 "name": "Ace Trainer Jake",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_26"
                 ],
@@ -8488,6 +8530,8 @@
             },
             {
                 "name": "Ace Trainer Jamie",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_26"
                 ],
@@ -8551,6 +8595,8 @@
             },
             {
                 "name": "Ace Trainer Megan",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_27_center"
                 ],
@@ -8571,6 +8617,8 @@
             },
             {
                 "name": "Ace Trainer Blake",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_27_east"
                 ],
@@ -8601,6 +8649,8 @@
             },
             {
                 "name": "Ace Trainer Brian",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_27_east"
                 ],
@@ -8643,6 +8693,8 @@
             },
             {
                 "name": "Ace Trainer Reena",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_27_east"
                 ],
@@ -9279,6 +9331,8 @@
             },
             {
                 "name": "Picnicker Liz",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -9341,6 +9395,8 @@
             },
             {
                 "name": "Fisherman Ralph",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -9363,6 +9419,8 @@
             },
             {
                 "name": "Fisherman Justin",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -9373,6 +9431,8 @@
             },
             {
                 "name": "Fisherman Henry",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -9539,6 +9599,8 @@
             },
             {
                 "name": "Picnicker Gina",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_34"
                 ],
@@ -9595,6 +9657,8 @@
             },
             {
                 "name": "Ace Trainer Irene",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_34, $surf"
                 ],
@@ -9605,6 +9669,8 @@
             },
             {
                 "name": "Ace Trainer Jenn",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_34, $surf"
                 ],
@@ -9615,6 +9681,8 @@
             },
             {
                 "name": "Ace Trainer Kate",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_34, $surf"
                 ],
@@ -9712,6 +9780,8 @@
             },
             {
                 "name": "Picnicker Kim",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -9744,6 +9814,8 @@
             },
             {
                 "name": "Picnicker Brooke",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -10311,6 +10383,8 @@
         "sections": [
             {
                 "name": "Picnicker Hope",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_4"
                 ],
@@ -10355,6 +10429,8 @@
             },
             {
                 "name": "Picnicker Sharon",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_4"
                 ],
@@ -10728,6 +10804,8 @@
             },
             {
                 "name": "Fisherman Tully",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_42"
                 ],
@@ -10738,6 +10816,8 @@
             },
             {
                 "name": "Poke Maniac Shane",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@route_42"
                 ],
@@ -10825,6 +10905,8 @@
             },
             {
                 "name": "Poke Maniac Brent",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@route_43"
                 ],
@@ -10835,6 +10917,8 @@
             },
             {
                 "name": "Picnicker Tiffany",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_43"
                 ],
@@ -10845,6 +10929,8 @@
             },
             {
                 "name": "Poke Maniac Beckett",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@route_43"
                 ],
@@ -10855,6 +10941,8 @@
             },
             {
                 "name": "Poke Maniac Ron",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@route_43"
                 ],
@@ -10865,6 +10953,8 @@
             },
             {
                 "name": "Fisherman Marvin",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_43"
                 ],
@@ -10932,6 +11022,8 @@
             },
             {
                 "name": "Fisherman Wilton",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -10942,6 +11034,8 @@
             },
             {
                 "name": "Poke Maniac Zach",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -10984,6 +11078,8 @@
             },
             {
                 "name": "Fisherman Edgar",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -10994,6 +11090,8 @@
             },
             {
                 "name": "Ace Trainer Cybil",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -11004,6 +11102,8 @@
             },
             {
                 "name": "Ace Trainer Allen",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -11071,6 +11171,8 @@
             },
             {
                 "name": "Ace Trainer Ryan",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11101,6 +11203,8 @@
             },
             {
                 "name": "Ace Trainer Kelly",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11232,6 +11336,8 @@
             },
             {
                 "name": "Picnicker Erin",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_46"
                 ],
@@ -11301,6 +11407,8 @@
             },
             {
                 "name": "Hiker Devin",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_47"
                 ],
@@ -11518,6 +11626,8 @@
         "sections": [
             {
                 "name": "Picnicker Selina",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_6"
                 ],
@@ -11743,6 +11853,8 @@
             },
             {
                 "name": "Picnicker Heidi",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_9"
                 ],
@@ -11763,6 +11875,8 @@
             },
             {
                 "name": "Hiker Clarke",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_9"
                 ],
@@ -11783,6 +11897,8 @@
             },
             {
                 "name": "Hiker Eoin",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_9"
                 ],
@@ -11813,6 +11929,8 @@
             },
             {
                 "name": "Picnicker Edna",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@route_9"
                 ],
@@ -12262,6 +12380,8 @@
             },
             {
                 "name": "1F Southwest Rooms - Poke Maniac Morgan",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southwest_rooms"
                 ],
@@ -12272,6 +12392,8 @@
             },
             {
                 "name": "1F Southwest Rooms - Hiker Noland",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southwest_rooms"
                 ],
@@ -12282,6 +12404,8 @@
             },
             {
                 "name": "1F Southwest Rooms - Ace Trainer Shaye",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southwest_rooms"
                 ],
@@ -12292,6 +12416,8 @@
             },
             {
                 "name": "1F Southwest Rooms - Ace Trainer Carol",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southwest_rooms"
                 ],
@@ -12332,6 +12458,8 @@
             },
             {
                 "name": "B1F - Picnicker Debra",
+                "chest_unopened_img": "/images/trainers/picnicker.png",
+                "chest_opened_img": "/images/trainers/picnicker_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12342,6 +12470,8 @@
             },
             {
                 "name": "B1F - Fisherman Jonah",
+                "chest_unopened_img": "/images/trainers/fisherman.png",
+                "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -13921,6 +14051,8 @@
             },
             {
                 "name": "1F - Hiker Daniel",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@union_cave_1f"
                 ],
@@ -13931,6 +14063,8 @@
             },
             {
                 "name": "1F - Hiker Russel",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@union_cave_1f"
                 ],
@@ -14007,6 +14141,8 @@
             },
             {
                 "name": "1F - Poke Maniac Larry",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@union_cave_1f"
                 ],
@@ -14059,6 +14195,8 @@
             },
             {
                 "name": "B1F - Hiker Leonard",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@union_cave_b1f, $surf"
                 ],
@@ -14081,6 +14219,8 @@
             },
             {
                 "name": "B1F - Hiker Phillip",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@union_cave_b1f, $surf"
                 ],
@@ -14091,6 +14231,8 @@
             },
             {
                 "name": "B1F - Poke Maniac Andrew",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@union_cave_b1f, $surf"
                 ],
@@ -14101,6 +14243,8 @@
             },
             {
                 "name": "B1F - Poke Maniac Calvin",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@union_cave_b1f, $surf"
                 ],
@@ -14121,6 +14265,8 @@
             },
             {
                 "name": "B2F - Ace Trainer Nick",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@union_cave_b2f, $surf"
                 ],
@@ -14141,6 +14287,8 @@
             },
             {
                 "name": "B2F - Ace Trainer Gwen",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@union_cave_b2f, $surf"
                 ],
@@ -14175,6 +14323,8 @@
             },
             {
                 "name": "B2F - Ace Trainer Emma",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@union_cave_b2f, $surf"
                 ],
@@ -14864,6 +15014,8 @@
             },
             {
                 "name": "Gym - Ace Trainer Arabella",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],
@@ -14874,6 +15026,8 @@
             },
             {
                 "name": "Gym - Ace Trainer Salma",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],
@@ -14884,6 +15038,8 @@
             },
             {
                 "name": "Gym - Ace Trainer Bonita",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],

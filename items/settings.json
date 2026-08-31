@@ -235,14 +235,13 @@
         "stages": [
             {
                 "name": "Randomize Bicycle - OFF",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_bicycle_off.png",
                 "codes": "opt_bicycle, opt_bicycle_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Bicycle - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_bicycle_on.png",
                 "codes": "opt_bicycle, opt_bicycle_on",
                 "inherit_codes": false
             }
