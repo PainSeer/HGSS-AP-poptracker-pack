@@ -361,6 +361,15 @@
               }
             },
             {
+              "title": "Dance Theater",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ecruteakdancetheater"
+                ]
+              }
+            },
+            {
               "title": "Burned Tower",
               "content": {
                 "type": "tabbed",

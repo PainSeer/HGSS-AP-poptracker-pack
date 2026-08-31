@@ -180,6 +180,12 @@
         "img": "images/maps/ecruteakgym.png"
     },
     {
+        "name": "ecruteakdancetheater",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ecruteakdancetheater.png"
+    },
+    {
         "name": "cianwoodcity",
         "location_size": 14,
         "location_border_thickness": 2,
