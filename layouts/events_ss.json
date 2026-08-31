@@ -42,26 +42,36 @@
                                 "event_talk_to_kurt",
                                 "event_clear_slowpoke_well",
                                 "event_farfetchd_rescue",
-                                "event_get_kenya",
-                                "event_give_kenya"
+                                "event_radio_quiz",
+                                "event_get_kenya"
                             ],
                             [
+                                "event_give_kenya",
                                 "event_burned_tower_disperse_legendary_dogs",
+                                "event_ecruteak_dance_theater_defeat_team_rocket",
+                                "event_cure_miltank",
                                 "event_cure_amphy",
                                 "event_shiny_gyarados",
                                 "event_clear_mahogany_hideout",
-                                "event_clear_rocket_tower",
-                                "event_radio_quiz",
-                                "event_defeat_lance_clair_dragons_den",
-                                "event_meet_lugia"
+                                "event_access_low_tide_dialogue"
                             ],
                             [
+                                "event_clear_rocket_tower",
+                                "event_elms_lab_get_master_ball",
+                                "event_meet_lugia",
+                                "event_talk_plant_manager",
+                                "event_cerulean_meet_kanto_grunt",
                                 "event_route_24_defeat_kanto_grunt",
                                 "event_ruin_mistys_date",
-                                "event_restore_power",
+                                "event_restore_power"
+                            ],
+                            [
+                                "event_hear_about_missing_doll",
                                 "event_cinnabar_island_blue_return_viridian",
+                                "event_defeat_lance_clair_dragons_den",
                                 "event_clear_pokemon_league",
                                 "event_defeat_red"
+
                             ]
                         ]
                     }
