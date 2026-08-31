@@ -209,3 +209,11 @@ end
 function lost_item()
     return has("lostitem")
 end
+
+function ap_helper()
+    if has("opt_items_shop_in_ap_helper_on") then
+	return true
+    else
+	return Tracker:FindObjectForCode("@goldenrod_department_store_1f").AccessibilityLevel
+    end
+end

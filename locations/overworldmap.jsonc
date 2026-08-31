@@ -9719,7 +9719,7 @@
             {
                 "name": "Heal Miltank (Event)",
                 "access_rules": [
-                    "@route_39_moomoo_farm_stable, oranberry"
+                    "@route_39_moomoo_farm_stable, $ap_helper, oranberry"
                 ],
                 "visibility_rules": [
                     "show_items"
