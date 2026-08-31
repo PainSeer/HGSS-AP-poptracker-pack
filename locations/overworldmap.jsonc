@@ -1343,7 +1343,7 @@
             {
                 "name": "Gym - Defeat Misty (Event)",
                 "access_rules": [
-                    "@@cerulean_gym, event_ruin_mistys_date"
+                    "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
                     "show_items"
@@ -14943,7 +14943,7 @@
             {
                 "name": "Get Togepi Egg (Event)",
                 "access_rules": [
-                    "@violet_city_pokemart, event_defeat_falkner"
+                    "@violet_pokemart, event_defeat_falkner"
                 ],
                 "visibility_rules": [
                     "show_items"
