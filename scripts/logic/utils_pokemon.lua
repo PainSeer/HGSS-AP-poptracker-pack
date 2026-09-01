@@ -403,54 +403,52 @@ function searchSpecificMon(dexID)
     searchMon()
 end
 
-function searchGeodude()
-    searchSpecificMon(74)
-    Tracker:FindObjectForCode("search_geodude").CurrentStage = 0
+function searchMagikarp()
+    searchSpecificMon(129)
+    Tracker:FindObjectForCode("search_magikarp").CurrentStage = 0
 end
 
-function searchKecleon()
-    searchSpecificMon(352)
-    Tracker:FindObjectForCode("search_kecleon").CurrentStage = 0
+function searchChansey()
+    searchSpecificMon(113)
+    Tracker:FindObjectForCode("search_chansey").CurrentStage = 0
 end
 
-function searchSnorlax()
-    searchSpecificMon(143)
-    Tracker:FindObjectForCode("search_snorlax").CurrentStage = 0
+function searchJigglypuff()
+    searchSpecificMon(39)
+    Tracker:FindObjectForCode("search_jigglypuff").CurrentStage = 0
 end
 
--- special handling so it looks for all Amity-Square eligible mons
-function searchAmity()
-    Tracker:FindObjectForCode("dexsearch_digit1").CurrentStage = 4
-    Tracker:FindObjectForCode("dexsearch_digit2").CurrentStage = 9
-    Tracker:FindObjectForCode("dexsearch_digit3").CurrentStage = 4
-    Tracker:FindObjectForCode("search_ID_result").CurrentStage = 494
+function searchLickitung()
+    searchSpecificMon(108)
+    Tracker:FindObjectForCode("search_lickitung").CurrentStage = 0
+end
 
-    local dexIds = amity_square_dex_ids()
+function searchOddish()
+    searchSpecificMon(43)
+    Tracker:FindObjectForCode("search_oddish").CurrentStage = 0
+end
 
-    if POKEMON_TO_LOCATIONS ~= nil then
-        Tracker:FindObjectForCode("location_visibility").CurrentStage = 2
-        Tracker:FindObjectForCode("no_wild_encounters_found").Active = false
+function searchMarill()
+    searchSpecificMon(183)
+    Tracker:FindObjectForCode("search_marill").CurrentStage = 0
+end
 
-        for region_key, location in pairs(ENCOUNTER_MAPPING) do
-            local object = Tracker:FindObjectForCode(location)
-            object.AvailableChestCount = 0
-        end
+function searchStaryu()
+    searchSpecificMon(120)
+    Tracker:FindObjectForCode("search_staryu").CurrentStage = 0
+end
 
-        for _, dexID in ipairs(dexIds) do
-            local locations = POKEMON_TO_LOCATIONS[dexID]
-            if locations then
-                for _, location in ipairs(locations) do
-                    local object_name = ENCOUNTER_MAPPING[location]
-                    if object_name then
-                        local object = Tracker:FindObjectForCode(object_name)
-                        if object then
-                            object.AvailableChestCount = object.AvailableChestCount + 1
-                        end
-                    end
-                end
-            end
-        end
-    end
+function searchGrowlithe()
+    searchSpecificMon(58)
+    Tracker:FindObjectForCode("search_growlithe").CurrentStage = 0
+end
 
-    Tracker:FindObjectForCode("search_amity").CurrentStage = 0
+function searchVulpix()
+    searchSpecificMon(37)
+    Tracker:FindObjectForCode("search_vulpix").CurrentStage = 0
+end
+
+function searchPichu()
+    searchSpecificMon(172)
+    Tracker:FindObjectForCode("search_pichu").CurrentStage = 0
 end

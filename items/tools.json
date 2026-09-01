@@ -2274,5 +2274,195 @@
                 "inherit_codes": false
             }
         ]
-    }
+    },
+	    {
+        "name": "Search for Magikarp",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Magikarp",
+                "img": "/images/pokemon/129.png",
+                "codes": "search_magikarp"
+            },
+            {
+                "name": "Search for Magikarp",
+                "img": "/images/pokemon/129.png",
+                "codes": "search_magikarp_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Chansey",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Chansey",
+                "img": "/images/pokemon/113.png",
+                "codes": "search_chansey"
+            },
+            {
+                "name": "Search for Chansey",
+                "img": "/images/pokemon/113.png",
+                "codes": "search_chansey_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Jigglypuff",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Jigglypuff",
+                "img": "/images/pokemon/39.png",
+                "codes": "search_jigglypuff"
+            },
+            {
+                "name": "Search for Jigglypuff",
+                "img": "/images/pokemon/29.png",
+                "codes": "search_jigglypuff_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Lickitung",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Lickitung",
+                "img": "/images/pokemon/108.png",
+                "codes": "search_lickitung"
+            },
+            {
+                "name": "Search for Lickitung",
+                "img": "/images/pokemon/108.png",
+                "codes": "search_lickitung_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Oddish",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Oddish",
+                "img": "/images/pokemon/43.png",
+                "codes": "search_oddish"
+            },
+            {
+                "name": "Search for Oddish",
+                "img": "/images/pokemon/43.png",
+                "codes": "search_oddish_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Marill",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Marill",
+                "img": "/images/pokemon/183.png",
+                "codes": "search_marill"
+            },
+            {
+                "name": "Search for Marill",
+                "img": "/images/pokemon/183.png",
+                "codes": "search_marill_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Staryu",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Staryu",
+                "img": "/images/pokemon/120.png",
+                "codes": "search_staryu"
+            },
+            {
+                "name": "Search for Staryu",
+                "img": "/images/pokemon/120.png",
+                "codes": "search_staryu_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Growlithe",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Growlithe",
+                "img": "/images/pokemon/58.png",
+                "codes": "search_growlithe"
+            },
+            {
+                "name": "Search for Growlithe",
+                "img": "/images/pokemon/58.png",
+                "codes": "search_growlithe_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Vulpix",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Vulpix",
+                "img": "/images/pokemon/37.png",
+                "codes": "search_vulpix"
+            },
+            {
+                "name": "Search for Vulpix",
+                "img": "/images/pokemon/37.png",
+                "codes": "search_vulpix_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
+	    {
+        "name": "Search for Pichu",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search for Pichu",
+                "img": "/images/pokemon/172.png",
+                "codes": "search_pichu"
+            },
+            {
+                "name": "Search for Pichu",
+                "img": "/images/pokemon/172.png",
+                "codes": "search_pichu_active",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    },
 ]
