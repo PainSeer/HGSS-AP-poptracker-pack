@@ -111,6 +111,7 @@ function dump_table(o, depth)
         possible_ap_struct_addresses = true,
         dexsanity_specs = true,
         generated_encounters = true,
+        generated_trainer_parties = true
     }
 
     if type(o) == 'table' then
