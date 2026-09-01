@@ -365,13 +365,14 @@
         "stages": [
             {
                 "name": "Time Items are randomized",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_time.png",
                 "codes": "opt_timeitems, opt_timeitems_on",
                 "inherit_codes": false
             },
             {
                 "name": "Time Items are pre-collected",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_time.png",
+                "img_mods": "@disabled",
                 "codes": "opt_timeitems, opt_timeitems_precollect",
                 "inherit_codes": false
             }
@@ -386,14 +387,16 @@
         "stages": [
             {
                 "name": "Sound Items are randomized",
-                "img": "images/temp.png",
-                "codes": "opt_sounditems, opt_timeitems_on",
+                "img": "images/settings/opt_sound.png",
+				"img_mods": "overlay|images/settings/overlays/sound.png",
+                "codes": "opt_sounditems, opt_sounditems_on",
                 "inherit_codes": false
             },
             {
                 "name": "Sound Items are pre-collected",
-                "img": "images/temp.png",
-                "codes": "opt_sounditems, opt_timeitems_precollect",
+                "img": "images/settings/opt_sound.png",
+				"img_mods": "@disabled",
+                "codes": "opt_sounditems, opt_sounditems_precollect",
                 "inherit_codes": false
             }
         ]
