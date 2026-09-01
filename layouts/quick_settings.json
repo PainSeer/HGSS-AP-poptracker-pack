@@ -16,11 +16,15 @@
                         "h_alignment": "center",
                         "rows": [
                             [
-                                "automap",
+                                "automap"
+                            ],
+                            [
 			        "splitmap"
                             ],
                             [
-                                "location_visibility",
+                                "location_visibility"
+                            ],
+                            [
 				"encounter_tracking"
                             ],
                             [
