@@ -88,8 +88,8 @@
         "name": "Defeat Blaine",
         "type": "toggle",
         "img": "images/events/defeat_blaine.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_blaine_hosted"
 
     },
@@ -97,8 +97,8 @@
         "name": "Defeat Blue",
         "type": "toggle",
         "img": "images/events/defeat_blue.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_blue_hosted"
 
     },
@@ -106,8 +106,8 @@
         "name": "Defeat Brock",
         "type": "toggle",
         "img": "images/events/defeat_brock.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_brock_hosted"
 
     },
@@ -115,8 +115,8 @@
         "name": "Defeat Bugsy",
         "type": "toggle",
         "img": "images/events/defeat_bugsy.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_bugsy_hosted"
 
     },
@@ -124,8 +124,8 @@
         "name": "Defeat Chuck",
         "type": "toggle",
         "img": "images/events/defeat_chuck.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_chuck_hosted"
 
     },
@@ -133,8 +133,8 @@
         "name": "Defeat Clair",
         "type": "toggle",
         "img": "images/events/defeat_clair.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_clair_hosted"
 
     },
@@ -142,8 +142,8 @@
         "name": "Defeat Erika",
         "type": "toggle",
         "img": "images/events/defeat_erika.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_erika_hosted"
 
     },
@@ -151,8 +151,8 @@
         "name": "Defeat Falkner",
         "type": "toggle",
         "img": "images/events/defeat_falkner.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_falkner_hosted"
 
     },
@@ -160,8 +160,8 @@
         "name": "Defeat Janine",
         "type": "toggle",
         "img": "images/events/defeat_janine.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_janine_hosted"
 
     },
@@ -169,8 +169,8 @@
         "name": "Defeat Jasmine",
         "type": "toggle",
         "img": "images/events/defeat_jasmine.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_jasmine_hosted"
 
     },
@@ -187,8 +187,8 @@
         "name": "Defeat Lt. Surge",
         "type": "toggle",
         "img": "images/events/defeat_lt_surge.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_lt_surge_hosted"
 
     },
@@ -196,8 +196,8 @@
         "name": "Defeat Misty",
         "type": "toggle",
         "img": "images/events/defeat_misty.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_misty_hosted"
 
     },
@@ -205,8 +205,8 @@
         "name": "Defeat Morty",
         "type": "toggle",
         "img": "images/events/defeat_morty.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_morty_hosted"
 
     },
@@ -214,8 +214,8 @@
         "name": "Defeat Pryce",
         "type": "toggle",
         "img": "images/events/defeat_pryce.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_pryce_hosted"
 
     },
@@ -232,8 +232,8 @@
         "name": "Defeat Sabrina",
         "type": "toggle",
         "img": "images/events/defeat_sabrina.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_sabrina_hosted"
 
     },
@@ -241,8 +241,8 @@
         "name": "Defeat Whitney",
         "type": "toggle",
         "img": "images/events/defeat_whitney.png",
-		"img_mods": "@disabled",
-        "disabled_img_mods": "none",
+		"img_mods": "@disabled, overlay|/images/events/gym_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|/images/events/gym_overlay.png",
         "codes": "event_defeat_whitney_hosted"
 
     },
@@ -394,8 +394,8 @@
         "name": "Defeated Mt. Moon Rival",
         "type": "toggle",
         "img": "images/events/rival.png",
-        "img_mods": "@disabled, overlay|images/events/rival_overlays/rival_mount_moon.png",
-        "disabled_img_mods": "none",
+        "img_mods": "@disabled, overlay|images/events/rival_overlays/rival_mount_moon.png|@disabled",
+        "disabled_img_mods": "overlay|images/events/rival_overlays/rival_mount_moon.png",
         "codes": "event_defeated_rival_mount_moon_hosted"
 
     },
