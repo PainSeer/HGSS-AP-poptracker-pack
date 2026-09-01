@@ -169,14 +169,14 @@
         "stages": [
             {
                 "name": "Randomize Key Items - OFF",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_keyitems.png",
                 "img_mods": "@disabled",
                 "codes": "opt_keyitems, opt_keyitems_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Key Items - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_keyitems.png",
                 "codes": "opt_keyitems, opt_keyitems_on",
                 "inherit_codes": false
             }
