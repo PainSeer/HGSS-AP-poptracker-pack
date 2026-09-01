@@ -53,25 +53,24 @@
                                 "event_cure_amphy",
                                 "event_shiny_gyarados",
                                 "event_clear_mahogany_hideout",
-                                "event_access_low_tide_dialogue"
+                                "event_clear_rocket_tower"
                             ],
                             [
-                                "event_clear_rocket_tower",
                                 "event_elms_lab_get_master_ball",
                                 "event_meet_ho_oh",
                                 "event_talk_plant_manager",
                                 "event_cerulean_meet_kanto_grunt",
                                 "event_route_24_defeat_kanto_grunt",
                                 "event_ruin_mistys_date",
-                                "event_restore_power"
+                                "event_restore_power",
+                                "event_hear_about_missing_doll"
                             ],
                             [
-                                "event_hear_about_missing_doll",
                                 "event_cinnabar_island_blue_return_viridian",
                                 "event_defeated_rival_mount_moon",
+                                "event_get_hm08",
                                 "event_defeat_lance_clair_dragons_den",
                                 "event_clear_pokemon_league",
-                                "event_get_hm08",
                                 "event_defeat_red"
                             ]
                         ]

@@ -10952,16 +10952,6 @@
                     "show_items, opt_trainer_full"
                 ],
                 "item_count": 1
-            },
-            {
-                "name": "Mid-Route Guardhouse - Low Tide Dialogue (Event)",
-                "access_rules": [
-                    "@route_43_gatehouse, event_clear_mahogany_hideout"
-                ],
-                "visibility_rules": [
-                    "show_items"
-                ],
-                "hosted_item": "event_low_tide_dialogue"
             }
         ],
         "map_locations": [
@@ -10982,6 +10972,46 @@
                 "x": 264,
                 "y": 96,
                 "size": 8
+            }
+        ]
+    },
+    {
+        "name": "Low Tide",
+        "chest_unopened_img": "/images/locations/ball.png",
+        "chest_opened_img": "/images/locations/ballopen.png",
+        "sections": [
+            {
+                "name": "Lower Lake of Rage's Water",
+                "access_rules": [
+                    "@route_43_gatehouse, event_clear_mahogany_hideout, {}"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_access_low_tide_dialogue"
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 274,
+                "y": 96,
+                "size": 6,
+		"shape": "diamond"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 274,
+                "y": 96,
+                "size": 6,
+		"shape": "diamond"
+            },
+            {
+                "map": "johto",
+                "x": 274,
+                "y": 96,
+                "size": 6,
+		"shape": "diamond"
             }
         ]
     },
