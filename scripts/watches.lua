@@ -33,10 +33,10 @@ ScriptHost:AddWatchForCode("hint_tracking", "hint_tracking", toggleHints)
 --end
 --
 ---- Event Location Syncs
---for _, code in ipairs(FLAG_EVENT_CODES) do
---    ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
---    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
---end
+for _, code in ipairs(FLAG_EVENT_CODES) do
+    ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
+    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
+end
 --
 ---- Vanilla Item Location Syncs
 --for _, code in ipairs(HOSTED_VANILLA_CODES) do

@@ -36,7 +36,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_meet_kurt"
+                "hosted_item": "event_talk_to_kurt_hosted"
             },
             {
                 "name": "Kurt's House - Fast Ball from Kurt",
@@ -104,7 +104,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_bugsy"
+                "hosted_item": "event_defeat_bugsy_hosted"
             },
             {
                 "name": "Gym - Leader Bugsy",
@@ -450,7 +450,7 @@
                 "visibility_rules": [
                     "show_items, pokemon_heartgold"
                 ],
-                "hosted_item": "event_meet_ho_oh"
+                "hosted_item": "event_meet_ho_oh_hosted"
             }
         ],
         "map_locations": [
@@ -569,7 +569,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_clair"
+                "hosted_item": "event_defeat_clair_hosted"
             },
             {
                 "name": "Gym - Leader Clair",
@@ -698,7 +698,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_burned_tower_disperse_legendary_dogs"
+                "hosted_item": "event_burned_tower_disperse_legendary_dogs_hosted"
             },
             {
                 "name": "B1F - Hidden Item By Northwest Pillar",
@@ -871,7 +871,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_erika"
+                "hosted_item": "event_defeat_erika_hosted"
             },
             {
                 "name": "Gym - Leader Erika",
@@ -1268,7 +1268,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_cerulean_meet_kanto_grunt"
+                "hosted_item": "event_cerulean_meet_kanto_grunt_hosted"
             },
             {
                 "name": "Gym - Item after Rocket Grunt",
@@ -1348,7 +1348,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_misty"
+                "hosted_item": "event_defeat_misty_hosted"
             },
             {
                 "name": "Gym - Leader Misty",
@@ -1602,7 +1602,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_chuck"
+                "hosted_item": "event_defeat_chuck_hosted"
             },
             {
                 "name": "Gym - Leader Chuck",
@@ -1693,7 +1693,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_cinnabar_island_blue_return_viridian"
+                "hosted_item": "event_cinnabar_island_blue_return_viridian_hosted"
             },
             {
                 "name": "Hidden Item on Center Rock",
@@ -2189,7 +2189,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_lance_clair_dragons_den"
+                "hosted_item": "event_defeat_lance_clair_dragons_den_hosted"
             }
         ],
         "map_locations": [
@@ -2308,7 +2308,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_ecruteak_dance_theater_defeat_team_rocket"
+                "hosted_item": "event_ecruteak_dance_theater_defeat_team_rocket_hosted"
             },
             {
                 "name": "Dance Theater - Gift from Theater's Owner",
@@ -2454,7 +2454,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_morty"
+                "hosted_item": "event_defeat_morty_hosted"
             },
             {
                 "name": "Gym - Leader Morty",
@@ -2634,7 +2634,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_janine"
+                "hosted_item": "event_defeat_janine_hosted"
             },
             {
                 "name": "Gym - Leader Janine",
@@ -2785,7 +2785,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_whitney"
+                "hosted_item": "event_defeat_whitney_hosted"
             },
             {
                 "name": "Gym - Leader Whitney",
@@ -2977,7 +2977,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_radio_quiz"
+                "hosted_item": "event_radio_quiz_hosted"
             },
             {
                 "name": "1F - Grunt Blocking Stairs",
@@ -3241,7 +3241,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_clear_rocket_tower"
+                "hosted_item": "event_clear_rocket_tower_hosted"
             }
         ],
         "map_locations": [
@@ -3716,7 +3716,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_farfetchd_rescue"
+                "hosted_item": "event_farfetchd_rescue_hosted"
             },
             {
                 "name": "Item in Southeast Corner",
@@ -3976,7 +3976,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_shiny_gyarados"
+                "hosted_item": "event_shiny_gyarados_hosted"
             },
             {
                 "name": "Hidden Item in Southeast Corner",
@@ -4316,7 +4316,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_pryce"
+                "hosted_item": "event_defeat_pryce_hosted"
             },
             {
                 "name": "Gym - Leader Pryce",
@@ -4385,7 +4385,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeated_rival_mount_moon"
+                "hosted_item": "event_defeated_rival_mount_moon_hosted"
             },
             {
                 "name": "Rival",
@@ -5143,7 +5143,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_red"
+                "hosted_item": "event_defeat_red_hosted"
             },
             {
                 "name": "Summit - Pokemon Trainer Red",
@@ -5448,7 +5448,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_elms_lab_get_master_ball"
+                "hosted_item": "event_elms_lab_get_master_ball_hosted"
             },
             {
                 "name": "Elm's Lab - Gift from Prof. Elm after Clearing the Pokemon League",
@@ -5591,7 +5591,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_jasmine"
+                "hosted_item": "event_defeat_jasmine_hosted"
             },
             {
                 "name": "Gym - Leader Jasmine",
@@ -5802,7 +5802,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_cure_amphy"
+                "hosted_item": "event_cure_amphy_hosted"
             },
             {
                 "name": "6F - Item on Right",
@@ -5852,6 +5852,14 @@
                     "show_items, opt_randomize_fly_items_kanto"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Talk to Oak to unlock Mt. Silver (Event)",
+                "access_rules": [
+                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                ],
+                "visibility_rules": ["show_items"],
+                "hosted_item": "event_get_hm08_hosted"
             },
             {
                 "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges",
@@ -5994,7 +6002,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_brock"
+                "hosted_item": "event_defeat_brock_hosted"
             },
             {
                 "name": "Gym - Leader Brock",
@@ -6221,7 +6229,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_clear_pokemon_league"
+                "hosted_item": "event_clear_pokemon_league_hosted"
             },
             {
                 "name": "Elite Four Will 2",
@@ -6530,7 +6538,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_talk_plant_manager"
+                "hosted_item": "event_talk_plant_manager_hosted"
             },
             {
                 "name": "Power Plant - Restore Power to Kanto (Event)",
@@ -6540,7 +6548,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_restore_power"
+                "hosted_item": "event_restore_power_hosted"
             },
             {
                 "name": "Power Plant - Gift from Manager",
@@ -8203,7 +8211,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_route_24_defeat_kanto_grunt"
+                "hosted_item": "event_route_24_defeat_kanto_grunt_hosted"
             },
             {
                 "name": "Team Rocket Grunt",
@@ -8364,7 +8372,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_ruin_mistys_date"
+                "hosted_item": "event_ruin_mistys_date_hosted"
             },
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
@@ -9101,7 +9109,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_get_mystery_egg"
+                "hosted_item": "event_get_mystery_egg_hosted"
             },
             {
                 "name": "Mr. Pokemon's House - Pokedex from Prof. Oak",
@@ -9214,7 +9222,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_give_kenya"
+                "hosted_item": "event_give_kenya_hosted"
             },
             {
                 "name": "Gift From Sleepy Man",
@@ -9756,7 +9764,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_get_kenya"
+                "hosted_item": "event_get_kenya_hosted"
             },
             {
                 "name": "Gift From Guard After Delivering Kenya",
@@ -10236,7 +10244,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_cure_miltank"
+                "hosted_item": "event_cure_miltank_hosted"
             },
             {
                 "name": "Gift from Farm Girl in Stable",
@@ -10988,7 +10996,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_access_low_tide_dialogue"
+                "hosted_item": "event_access_low_tide_dialogue_hosted"
             }
         ],
         "map_locations": [
@@ -12888,7 +12896,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_hear_about_missing_doll"
+                "hosted_item": "event_hear_about_missing_doll_hosted"
             },
             {
                 "name": "Item from Copycat after Returning Lost Item",
@@ -12968,7 +12976,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_sabrina"
+                "hosted_item": "event_defeat_sabrina_hosted"
             },
             {
                 "name": "Gym - Leader Sabrina",
@@ -13281,7 +13289,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_blaine"
+                "hosted_item": "event_defeat_blaine_hosted"
             },
             {
                 "name": "Gym - Leader Blaine",
@@ -13424,7 +13432,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_clear_slowpoke_well"
+                "hosted_item": "event_clear_slowpoke_well_hosted"
             },
             {
                 "name": "B1F - Hidden Item on East Hill",
@@ -13611,7 +13619,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_beat_sprout_tower"
+                "hosted_item": "event_beat_sprout_tower_hosted"
             }
         ],
         "map_locations": [
@@ -13822,7 +13830,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_clear_mahogany_hideout"
+                "hosted_item": "event_clear_mahogany_hideout_hosted"
             },
             {
                 "name": "B3F - Item in Eastern Hallway",
@@ -14552,7 +14560,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_lt_surge"
+                "hosted_item": "event_defeat_lt_surge_hosted"
             },
             {
                 "name": "Gym - Leader Lt. Surge",
@@ -14926,7 +14934,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_falkner"
+                "hosted_item": "event_defeat_falkner_hosted"
             },
             {
                 "name": "Gym - Leader Falkner",
@@ -14968,7 +14976,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_togepi_egg"
+                "hosted_item": "event_get_togepi_egg_hosted"
             }
         ],
         "map_locations": [
@@ -15086,7 +15094,7 @@
                 "visibility_rules": [
                     "show_items"
                 ],
-                "hosted_item": "event_defeat_blue"
+                "hosted_item": "event_defeat_blue_hosted"
             },
             {
                 "name": "Gym - Leader Blue",
@@ -15548,7 +15556,7 @@
                 "visibility_rules": [
                     "show_items, pokemon_soulsilver"
                 ],
-                "hosted_item": "event_meet_lugia"
+                "hosted_item": "event_meet_lugia_hosted"
             }
         ],
         "map_locations": [

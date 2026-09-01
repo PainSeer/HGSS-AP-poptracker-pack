@@ -1,10 +1,430 @@
 [
     {
-        "name": "",
+        "name": "Beat Sprout Tower",
         "type": "toggle",
-        "img": "",
+        "img": "images/events/beat_sprout_tower.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes":""
+        "codes": "event_beat_sprout_tower_hosted",
+    },
+    {
+        "name": "Disperse the Legendary Dogs",
+        "type": "toggle",
+        "img": "images/events/burned_tower_disperse_legendary_dogs.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_burned_tower_disperse_legendary_dogs_hosted",
+    },
+    {
+        "name": "Surprise the Grunt in Cerulean Gym",
+        "type": "toggle",
+        "img": "images/events/event_cerulean_meet_kanto_grunt.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_cerulean_meet_kanto_grunt_hosted",
+    },
+    {
+        "name": "Make Blue return to Viridian Gym",
+        "type": "toggle",
+        "img": "images/events/cinnabar_island_blue_return_viridian.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_cinnabar_island_blue_return_viridian_hosted",
+    },
+    {
+        "name": "Clear Mahogany Hideout",
+        "type": "toggle",
+        "img": "images/events/clear_mahogany_hideout.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_clear_mahogany_hideout_hosted",
+    },
+    {
+        "name": "Become Champion",
+        "type": "toggle",
+        "img": "images/events/clear_pokemon_league.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_clear_pokemon_league_hosted",
+
+    },
+    {
+        "name": "Clear Radio Tower",
+        "type": "toggle",
+        "img": "images/events/clear_rocket_tower.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_clear_rocket_tower_hosted",
+
+    },
+    {
+        "name": "Clear Slowpoke Well",
+        "type": "toggle",
+        "img": "images/events/clear_slowpoke_well.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_clear_slowpoke_well_hosted",
+
+    },
+    {
+        "name": "Heal Amphy",
+        "type": "toggle",
+        "img": "images/events/cure_amphy.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_cure_amphy_hosted",
+
+    },
+    {
+        "name": "Heal Miltank",
+        "type": "toggle",
+        "img": "images/events/event_cure_miltank.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+		"codes": "event_cure_miltank_hosted",
+
+    },
+    {
+        "name": "Defeat Blaine",
+        "type": "toggle",
+        "img": "images/events/defeat_blaine.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_blaine_hosted",
+
+    },
+    {
+        "name": "Defeat Blue",
+        "type": "toggle",
+        "img": "images/events/defeat_blue.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_blue_hosted",
+
+    },
+    {
+        "name": "Defeat Brock",
+        "type": "toggle",
+        "img": "images/events/defeat_brock.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_brock_hosted",
+
+    },
+    {
+        "name": "Defeat Bugsy",
+        "type": "toggle",
+        "img": "images/events/defeat_bugsy.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_bugsy_hosted",
+
+    },
+    {
+        "name": "Defeat Chuck",
+        "type": "toggle",
+        "img": "images/events/defeat_chuck.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_chuck_hosted",
+
+    },
+    {
+        "name": "Defeat Clair",
+        "type": "toggle",
+        "img": "images/events/defeat_clair.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_clair_hosted",
+
+    },
+    {
+        "name": "Defeat Erika",
+        "type": "toggle",
+        "img": "images/events/defeat_erika.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_erika_hosted",
+
+    },
+    {
+        "name": "Defeat Falkner",
+        "type": "toggle",
+        "img": "images/events/defeat_falkner.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_falkner_hosted",
+
+    },
+    {
+        "name": "Defeat Janine",
+        "type": "toggle",
+        "img": "images/events/defeat_janine.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_janine_hosted",
+
+    },
+    {
+        "name": "Defeat Jasmine",
+        "type": "toggle",
+        "img": "images/events/defeat_jasmine.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_jasmine_hosted",
+
+    },
+    {
+        "name": "Defeat Lance and Clair at Dragon's Den",
+        "type": "toggle",
+        "img": "images/events/event_defeat_lance_clair_dragons_den.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_lance_clair_dragons_den_hosted",
+
+    },
+    {
+        "name": "Defeat Lt. Surge",
+        "type": "toggle",
+        "img": "images/events/defeat_lt_surge.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_lt_surge_hosted",
+
+    },
+    {
+        "name": "Defeat Misty",
+        "type": "toggle",
+        "img": "images/events/defeat_misty.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_misty_hosted",
+
+    },
+    {
+        "name": "Defeat Morty",
+        "type": "toggle",
+        "img": "images/events/defeat_morty.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_morty_hosted",
+
+    },
+    {
+        "name": "Defeat Pryce",
+        "type": "toggle",
+        "img": "images/events/defeat_pryce.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_pryce_hosted",
+
+    },
+    {
+        "name": "Defeat Red",
+        "type": "toggle",
+        "img": "images/events/defeat_red.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_red_hosted",
+
+    },
+    {
+        "name": "Defeat Sabrina",
+        "type": "toggle",
+        "img": "images/events/defeat_sabrina.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_sabrina_hosted",
+
+    },
+    {
+        "name": "Defeat Whitney",
+        "type": "toggle",
+        "img": "images/events/defeat_whitney.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeat_whitney_hosted",
+
+    },
+    {
+        "name": "Defend the Dance Theater from Team Rocket",
+        "type": "toggle",
+        "img": "images/events/event_ecruteak_dance_theater_defeat_team_rocket.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_ecruteak_dance_theater_defeat_team_rocket_hosted",
+
+    },
+    {
+        "name": "Get Master Ball from Elm",
+        "type": "toggle",
+        "img": "images/events/elms_lab_get_master_ball.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_elms_lab_get_master_ball_hosted",
+
+    },
+    {
+        "name": "Rescue Farfetch'd",
+        "type": "toggle",
+        "img": "images/events/farfetchd_rescue.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_farfetchd_rescue_hosted",
+
+    },
+    {
+        "name": "Get Kenya",
+        "type": "toggle",
+        "img": "images/events/get_kenya.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_get_kenya_hosted",
+
+    },
+    {
+        "name": "Get Mystery Egg",
+        "type": "toggle",
+        "img": "images/events/get_mystery_egg.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_get_mystery_egg_hosted",
+
+    },
+    {
+        "name": "Get Togepi Egg",
+        "type": "toggle",
+        "img": "images/events/get_togepi_egg.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_get_togepi_egg_hosted",
+
+    },
+    {
+        "name": "Deliver Kenya",
+        "type": "toggle",
+        "img": "images/events/give_kenya.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_give_kenya_hosted",
+
+    },
+    {
+        "name": "Encounter Ho-Oh",
+        "type": "toggle",
+        "img": "images/events/meet_ho_oh.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_meet_ho_oh_hosted",
+
+    },
+    {
+        "name": "Encounter Lugia",
+        "type": "toggle",
+        "img": "images/events/meet_lugia.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_meet_lugia_hosted",
+
+    },
+    {
+        "name": "Beat the Radio Quiz",
+        "type": "toggle",
+        "img": "images/events/event_radio_quiz.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_radio_quiz_hosted",
+
+    },
+    {
+        "name": "Restore Power to Kanto",
+        "type": "toggle",
+        "img": "images/events/restore_power.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_restore_power_hosted",
+
+    },
+    {
+        "name": "Defeat the grunt on Nugget Bridge",
+        "type": "toggle",
+        "img": "images/events/route_24_defeat_kanto_grunt.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_route_24_defeat_kanto_grunt_hosted",
+
+    },
+    {
+        "name": "Ruin Misty's Date",
+        "type": "toggle",
+        "img": "images/events/ruin_mistys_date.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_ruin_mistys_date_hosted",
+
+    },
+    {
+        "name": "Encounter the Shiny Gyarados",
+        "type": "toggle",
+        "img": "images/events/shiny_gyarados.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_shiny_gyarados_hosted",
+
+    },
+    {
+        "name": "Learn about the Robbery from the Plant Manager",
+        "type": "toggle",
+        "img": "images/events/event_talk_plant_manager.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_talk_plant_manager_hosted",
+
+    },
+    {
+        "name": "Meet Kurt",
+        "type": "toggle",
+        "img": "images/events/talk_to_kurt.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_talk_to_kurt_hosted",
+
+    },
+    {
+        "name": "Defeated Mt. Moon Rival",
+        "type": "toggle",
+        "img": "images/events/rival.png",
+        "img_mods": "overlay|images/events/rival_overlays/rival_mount_moon.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_defeated_rival_mount_moon_hosted",
+
+    },
+    {
+        "name": "Talk to Oak to unlock Mt. Silver",
+        "type": "toggle",
+        "img": "images/events/event_get_hm08.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_get_hm08_hosted",
+
+    },
+    {
+        "name": "Hear about the Missing Doll",
+        "type": "toggle",
+        "img": "images/events/event_hear_about_missing_doll.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_hear_about_missing_doll_hosted",
+
+    },
+    {
+        "name": "Lower Lake of Rage's water",
+        "type": "toggle",
+        "img": "images/events/event_access_low_tide_dialogue.png",
+		"img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "event_access_low_tide_dialogue_hosted",
+        "initial_active_state": false
     }
 ]
