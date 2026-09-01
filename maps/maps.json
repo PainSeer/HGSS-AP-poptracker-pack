@@ -1218,12 +1218,6 @@
         "img": "images/maps/goldenrodtunnelwarehouse.png"
     },
     {
-        "name": "ilexforest",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/ilexforest.png"
-    },
-    {
         "name": "nationalpark",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -1300,12 +1294,6 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/mtmortarb1f.png"
-    },
-    {
-        "name": "icepath1f",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/icepath1f.png"
     },
     {
         "name": "icepathb1f",
@@ -1428,12 +1416,6 @@
         "img": "images/maps/mtmoonsquare.png"
     },
     {
-        "name": "viridianforest",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/viridianforest.png"
-    },
-    {
         "name": "ceruleancave1f",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -1468,12 +1450,6 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/seafoamislandsb2f.png"
-    },
-    {
-        "name": "seafoamislandsb3f",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/seafoamislandsb3f.png"
     },
     {
         "name": "seafoamislandsb4f",

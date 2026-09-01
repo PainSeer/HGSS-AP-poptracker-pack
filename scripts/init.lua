@@ -25,6 +25,10 @@ ScriptHost:LoadScript("scripts/custom_items.lua")
 -- Maps
 Tracker:AddMaps("maps/errors.json")
 Tracker:AddMaps("maps/maps.json")
+Tracker:AddMaps("maps/viridianforest.json")
+Tracker:AddMaps("maps/seafoamislandsb3f.json")
+Tracker:AddMaps("maps/ilexforest.json")
+Tracker:AddMaps("maps/icepath1f.json")
 Tracker:AddMaps("maps/pokedex.json")
 
 -- Layout
