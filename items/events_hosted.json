@@ -5,7 +5,7 @@
         "img": "images/events/beat_sprout_tower.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_beat_sprout_tower_hosted",
+        "codes": "event_beat_sprout_tower_hosted"
     },
     {
         "name": "Disperse the Legendary Dogs",
@@ -13,7 +13,7 @@
         "img": "images/events/burned_tower_disperse_legendary_dogs.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_burned_tower_disperse_legendary_dogs_hosted",
+        "codes": "event_burned_tower_disperse_legendary_dogs_hosted"
     },
     {
         "name": "Surprise the Grunt in Cerulean Gym",
@@ -21,7 +21,7 @@
         "img": "images/events/event_cerulean_meet_kanto_grunt.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_cerulean_meet_kanto_grunt_hosted",
+        "codes": "event_cerulean_meet_kanto_grunt_hosted"
     },
     {
         "name": "Make Blue return to Viridian Gym",
@@ -29,7 +29,7 @@
         "img": "images/events/cinnabar_island_blue_return_viridian.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_cinnabar_island_blue_return_viridian_hosted",
+        "codes": "event_cinnabar_island_blue_return_viridian_hosted"
     },
     {
         "name": "Clear Mahogany Hideout",
@@ -37,7 +37,7 @@
         "img": "images/events/clear_mahogany_hideout.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_clear_mahogany_hideout_hosted",
+        "codes": "event_clear_mahogany_hideout_hosted"
     },
     {
         "name": "Become Champion",
@@ -45,7 +45,7 @@
         "img": "images/events/clear_pokemon_league.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_clear_pokemon_league_hosted",
+        "codes": "event_clear_pokemon_league_hosted"
 
     },
     {
@@ -54,7 +54,7 @@
         "img": "images/events/clear_rocket_tower.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_clear_rocket_tower_hosted",
+        "codes": "event_clear_rocket_tower_hosted"
 
     },
     {
@@ -63,7 +63,7 @@
         "img": "images/events/clear_slowpoke_well.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_clear_slowpoke_well_hosted",
+        "codes": "event_clear_slowpoke_well_hosted"
 
     },
     {
@@ -72,7 +72,7 @@
         "img": "images/events/cure_amphy.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_cure_amphy_hosted",
+        "codes": "event_cure_amphy_hosted"
 
     },
     {
@@ -81,7 +81,7 @@
         "img": "images/events/event_cure_miltank.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-		"codes": "event_cure_miltank_hosted",
+		"codes": "event_cure_miltank_hosted"
 
     },
     {
@@ -90,7 +90,7 @@
         "img": "images/events/defeat_blaine.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_blaine_hosted",
+        "codes": "event_defeat_blaine_hosted"
 
     },
     {
@@ -99,7 +99,7 @@
         "img": "images/events/defeat_blue.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_blue_hosted",
+        "codes": "event_defeat_blue_hosted"
 
     },
     {
@@ -108,7 +108,7 @@
         "img": "images/events/defeat_brock.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_brock_hosted",
+        "codes": "event_defeat_brock_hosted"
 
     },
     {
@@ -117,7 +117,7 @@
         "img": "images/events/defeat_bugsy.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_bugsy_hosted",
+        "codes": "event_defeat_bugsy_hosted"
 
     },
     {
@@ -126,7 +126,7 @@
         "img": "images/events/defeat_chuck.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_chuck_hosted",
+        "codes": "event_defeat_chuck_hosted"
 
     },
     {
@@ -135,7 +135,7 @@
         "img": "images/events/defeat_clair.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_clair_hosted",
+        "codes": "event_defeat_clair_hosted"
 
     },
     {
@@ -144,7 +144,7 @@
         "img": "images/events/defeat_erika.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_erika_hosted",
+        "codes": "event_defeat_erika_hosted"
 
     },
     {
@@ -153,7 +153,7 @@
         "img": "images/events/defeat_falkner.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_falkner_hosted",
+        "codes": "event_defeat_falkner_hosted"
 
     },
     {
@@ -162,7 +162,7 @@
         "img": "images/events/defeat_janine.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_janine_hosted",
+        "codes": "event_defeat_janine_hosted"
 
     },
     {
@@ -171,7 +171,7 @@
         "img": "images/events/defeat_jasmine.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_jasmine_hosted",
+        "codes": "event_defeat_jasmine_hosted"
 
     },
     {
@@ -180,7 +180,7 @@
         "img": "images/events/event_defeat_lance_clair_dragons_den.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_lance_clair_dragons_den_hosted",
+        "codes": "event_defeat_lance_clair_dragons_den_hosted"
 
     },
     {
@@ -189,7 +189,7 @@
         "img": "images/events/defeat_lt_surge.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_lt_surge_hosted",
+        "codes": "event_defeat_lt_surge_hosted"
 
     },
     {
@@ -198,7 +198,7 @@
         "img": "images/events/defeat_misty.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_misty_hosted",
+        "codes": "event_defeat_misty_hosted"
 
     },
     {
@@ -207,7 +207,7 @@
         "img": "images/events/defeat_morty.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_morty_hosted",
+        "codes": "event_defeat_morty_hosted"
 
     },
     {
@@ -216,7 +216,7 @@
         "img": "images/events/defeat_pryce.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_pryce_hosted",
+        "codes": "event_defeat_pryce_hosted"
 
     },
     {
@@ -225,7 +225,7 @@
         "img": "images/events/defeat_red.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_red_hosted",
+        "codes": "event_defeat_red_hosted"
 
     },
     {
@@ -234,7 +234,7 @@
         "img": "images/events/defeat_sabrina.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_sabrina_hosted",
+        "codes": "event_defeat_sabrina_hosted"
 
     },
     {
@@ -243,7 +243,7 @@
         "img": "images/events/defeat_whitney.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_defeat_whitney_hosted",
+        "codes": "event_defeat_whitney_hosted"
 
     },
     {
@@ -252,7 +252,7 @@
         "img": "images/events/event_ecruteak_dance_theater_defeat_team_rocket.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_ecruteak_dance_theater_defeat_team_rocket_hosted",
+        "codes": "event_ecruteak_dance_theater_defeat_team_rocket_hosted"
 
     },
     {
@@ -261,7 +261,7 @@
         "img": "images/events/elms_lab_get_master_ball.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_elms_lab_get_master_ball_hosted",
+        "codes": "event_elms_lab_get_master_ball_hosted"
 
     },
     {
@@ -270,7 +270,7 @@
         "img": "images/events/farfetchd_rescue.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_farfetchd_rescue_hosted",
+        "codes": "event_farfetchd_rescue_hosted"
 
     },
     {
@@ -279,7 +279,7 @@
         "img": "images/events/get_kenya.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_get_kenya_hosted",
+        "codes": "event_get_kenya_hosted"
 
     },
     {
@@ -288,7 +288,7 @@
         "img": "images/events/get_mystery_egg.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_get_mystery_egg_hosted",
+        "codes": "event_get_mystery_egg_hosted"
 
     },
     {
@@ -297,7 +297,7 @@
         "img": "images/events/get_togepi_egg.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_get_togepi_egg_hosted",
+        "codes": "event_get_togepi_egg_hosted"
 
     },
     {
@@ -306,7 +306,7 @@
         "img": "images/events/give_kenya.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_give_kenya_hosted",
+        "codes": "event_give_kenya_hosted"
 
     },
     {
@@ -315,7 +315,7 @@
         "img": "images/events/meet_ho_oh.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_meet_ho_oh_hosted",
+        "codes": "event_meet_ho_oh_hosted"
 
     },
     {
@@ -324,7 +324,7 @@
         "img": "images/events/meet_lugia.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_meet_lugia_hosted",
+        "codes": "event_meet_lugia_hosted"
 
     },
     {
@@ -333,7 +333,7 @@
         "img": "images/events/event_radio_quiz.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_radio_quiz_hosted",
+        "codes": "event_radio_quiz_hosted"
 
     },
     {
@@ -342,7 +342,7 @@
         "img": "images/events/restore_power.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_restore_power_hosted",
+        "codes": "event_restore_power_hosted"
 
     },
     {
@@ -351,7 +351,7 @@
         "img": "images/events/route_24_defeat_kanto_grunt.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_route_24_defeat_kanto_grunt_hosted",
+        "codes": "event_route_24_defeat_kanto_grunt_hosted"
 
     },
     {
@@ -360,7 +360,7 @@
         "img": "images/events/ruin_mistys_date.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_ruin_mistys_date_hosted",
+        "codes": "event_ruin_mistys_date_hosted"
 
     },
     {
@@ -369,7 +369,7 @@
         "img": "images/events/shiny_gyarados.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_shiny_gyarados_hosted",
+        "codes": "event_shiny_gyarados_hosted"
 
     },
     {
@@ -378,7 +378,7 @@
         "img": "images/events/event_talk_plant_manager.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_talk_plant_manager_hosted",
+        "codes": "event_talk_plant_manager_hosted"
 
     },
     {
@@ -387,17 +387,16 @@
         "img": "images/events/talk_to_kurt.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_talk_to_kurt_hosted",
+        "codes": "event_talk_to_kurt_hosted"
 
     },
     {
         "name": "Defeated Mt. Moon Rival",
         "type": "toggle",
         "img": "images/events/rival.png",
-        "img_mods": "overlay|images/events/rival_overlays/rival_mount_moon.png",
-		"img_mods": "@disabled",
+        "img_mods": "@disabled, overlay|images/events/rival_overlays/rival_mount_moon.png",
         "disabled_img_mods": "none",
-        "codes": "event_defeated_rival_mount_moon_hosted",
+        "codes": "event_defeated_rival_mount_moon_hosted"
 
     },
     {
@@ -406,7 +405,7 @@
         "img": "images/events/event_get_hm08.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_get_hm08_hosted",
+        "codes": "event_get_hm08_hosted"
 
     },
     {
@@ -415,7 +414,7 @@
         "img": "images/events/event_hear_about_missing_doll.png",
 		"img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "event_hear_about_missing_doll_hosted",
+        "codes": "event_hear_about_missing_doll_hosted"
 
     },
     {

@@ -31,7 +31,7 @@ function surf_encounters()
 end
 
 function hoennsound_encounters()
-    if not (has("hoennsound")) then return AccessibilityLevel.None end
+    if not (has("hoennsound") and has("upgradableradiopokegearcard")) then return AccessibilityLevel.None end
     
     if has("encmethod_sounds_on") then
         return AccessibilityLevel.Normal
@@ -41,7 +41,7 @@ function hoennsound_encounters()
 end
 
 function sinnohsound_encounters()
-    if not (has("sinnohsound")) then return AccessibilityLevel.None end
+    if not (has("sinnohsound") and has("upgradableradiopokegearcard")) then return AccessibilityLevel.None end
     
     if has("encmethod_sounds_on") then
         return AccessibilityLevel.Normal

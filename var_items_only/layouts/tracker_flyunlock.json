@@ -1,0 +1,83 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#171717",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dropshadow": false,
+                    "dock": "top",
+                    "content": [
+                        {
+                            "type": "group",
+                            "margin": "100,100",
+                            "background": "#171717",
+                            "header": "Key Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "array",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "key_items_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Events",
+                            "dock": "top",
+                            "content": {
+                                "type": "array",
+                                "margin": "0,-3, 0, 0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "event_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Encounter and Evolution Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "array",
+                                "margin": "0,-3,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "key_enc_evo_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Fly Unlocks",
+                            "dock": "top",
+                            "content": {
+                                "type": "array",
+                                "margin": "0,-3,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "flyunlock_grid"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
