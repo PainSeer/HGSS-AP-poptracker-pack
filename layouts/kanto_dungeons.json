@@ -3,6 +3,15 @@
 
     "type": "tabbed",
     "tabs": [
+	  {
+        "title": "Viridian Forest",
+        "content": {
+          "type": "map",
+          "maps": [
+            "viridianforest"
+          ]
+        }
+      },
       {
         "title": "Rock Tunnel",
         "content": {
