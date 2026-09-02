@@ -2436,7 +2436,7 @@
     {
         "name": "route_32",
         "access_rules": [
-            "@route_32_north, zephyr_badge, event_get_togepi_egg",
+            "@route_32_north, zephyrbadge, event_get_togepi_egg",
             "@route_32_pokecenter_1f",
             "@union_cave_1f"
         ]
