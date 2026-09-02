@@ -37,7 +37,7 @@ Tracker:AddLayouts("layouts/items/items_hmreader.json")
 Tracker:AddLayouts("layouts/items/evo_enc_items.json")
 Tracker:AddLayouts("layouts/flyunlock.json")
 Tracker:AddLayouts("layouts/events.json")
-Tracker:AddLayouts("layouts/events_hosted.json")
+--Tracker:AddLayouts("layouts/events_hosted.json") --doesn't exist
 Tracker:AddLayouts("layouts/johto_cities.json")
 Tracker:AddLayouts("layouts/johto_routes.json")
 Tracker:AddLayouts("layouts/johto_dungeons.json")
