@@ -100,19 +100,19 @@
                 "opt_badges"
             ],
             [
-                "opt_trainer_full",
-                "opt_dexsanity",
-                "opt_randomize_fly_items",
+                "opt_pokedex",
+                "opt_pokegearcards"
                 "opt_rods",
                 "opt_bicycle",
                 "opt_shoes"
 
             ],
             [
-                "opt_pokedex",
+                "opt_dexsanity",
+                "opt_trainer_full",
+                "opt_randomize_fly_items",
                 "opt_timeitems",
-                "opt_sounditems",
-                "opt_pokegearcards"
+                "opt_sounditems"
             ]
         ]
     },
@@ -188,6 +188,19 @@
                 "evomethod_location",
                 "evomethod_mildlyannoying",
                 "evomethod_highlyannoying"
+            ]
+        ]
+    },
+    "information_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "item_size": "176,147",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "h_alignment": "center",
+        "rows": [
+            [
+                "info"
             ]
         ]
     }

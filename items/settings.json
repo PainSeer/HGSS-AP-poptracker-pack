@@ -28,14 +28,13 @@
         "stages": [
             {
                 "name": "Magnet Train is Working",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_train_open.png",
                 "codes": "opt_train, opt_train_false",
                 "inherit_codes": false
             },
             {
                 "name": "Magnet Train Needs an Electrician",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_train_power.png",
                 "codes": "opt_train, opt_train_true",
                 "inherit_codes": false
             }
