@@ -43,7 +43,7 @@
     },
     {
         "name": "Kanto Badges Required to Fight Blue",
-        "img": "/images/temp.png",
+        "img": "/images/settings/opt_blue.png",
         "codes": "opt_blue_badges",
         "type": "consumable",
         "min_quantity": 0,
