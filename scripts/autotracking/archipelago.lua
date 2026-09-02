@@ -462,14 +462,14 @@ function onNotify(key, value, old_value)
             updateEvents(value)
 --        elseif key == IDs.ROADBLOCK then
 --            updateRoadblock(value)
---        elseif key == IDs.KEY1 then
---            updateVanillaKeyItems(1, value)
---        elseif key == IDs.KEY2 then
---            updateVanillaKeyItems(2, value)
---        elseif key == IDs.KEY3 then
---            updateVanillaKeyItems(3, value)
---        elseif key == IDs.KEY4 then
---            updateVanillaKeyItems(4, value)
+        elseif key == IDs.KEY1 then
+            updateVanillaKeyItems(1, value)
+        elseif key == IDs.KEY2 then
+            updateVanillaKeyItems(2, value)
+        elseif key == IDs.KEY3 then
+            updateVanillaKeyItems(3, value)
+        elseif key == IDs.KEY4 then
+            updateVanillaKeyItems(4, value)
 --        elseif key == IDs.KEY5 then
 --            updateVanillaKeyItems(5, value)
         elseif key == IDs.HINT then
@@ -501,22 +501,22 @@ end
 --    end
 --end
 
---function updateVanillaKeyItems(register, value)
---    if value == nil then return end
---
---    local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
---
---    for i, obj in ipairs(list) do
---        local bit = (value >> (i - 1)) & 1
---        if bit == 1 and obj.codes and (not obj.option or has(obj.option)) then
---            for _, code in ipairs(obj.codes) do
---                Tracker:FindObjectForCode(code).Active = true
---            end
---        end
---    end
+function updateVanillaKeyItems(register, value)
+    if value == nil then return end
 
---    syncPokedex()
---end
+    local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
+
+    for i, obj in ipairs(list) do
+        local bit = (value >> (i - 1)) & 1
+        if bit == 1 and obj.codes and (not obj.option or has(obj.option)) then
+            for _, code in ipairs(obj.codes) do
+                Tracker:FindObjectForCode(code).Active = true
+            end
+        end
+    end
+
+    --syncPokedex()
+end
 
 function toggleHints()
     if has("hint_tracking_off") then

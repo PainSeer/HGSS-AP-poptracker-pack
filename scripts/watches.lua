@@ -4,7 +4,7 @@ Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
 Archipelago:AddSetReplyHandler("notify handler", onNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", onNotify)
-Archipelago:AddBouncedHandler("map handler", onMap)
+--Archipelago:AddBouncedHandler("map handler", onMap)
 
 -- Layout Watches
 ScriptHost:AddWatchForCode("opt_hmreader", "opt_hmreader", toggle_itemgrid)
