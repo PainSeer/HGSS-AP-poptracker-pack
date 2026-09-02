@@ -3211,6 +3211,8 @@
             },
             {
                 "name": "Observatory Deck - Executive Archer",
+                "chest_unopened_img": "/images/trainers/archer.png",
+                "chest_opened_img": "/images/trainers/archer_bw.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_observation_deck"
                 ],
@@ -3370,6 +3372,8 @@
             },
             {
                 "name": "B2F - Burglar Duncan",
+                "chest_unopened_img": "/images/trainers/burglar.png",
+                "chest_opened_img": "/images/trainers/burglar_bw.png",
                 "access_rules": [
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
@@ -3390,6 +3394,8 @@
             },
             {
                 "name": "B2F - Burglar Orson",
+                "chest_unopened_img": "/images/trainers/burglar.png",
+                "chest_opened_img": "/images/trainers/burglar_bw.png",
                 "access_rules": [
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
@@ -4336,6 +4342,8 @@
             },
             {
                 "name": "Gym - Leader Pryce",
+                "chest_unopened_img": "/images/trainers/pryce.png",
+                "chest_opened_img": "/images/trainers/pryce_bw.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
@@ -4566,6 +4574,8 @@
             },
             {
                 "name": "1F Back - Super Nerd Markus",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@mount_mortar_1f_back_middle"
                 ],
@@ -4694,6 +4704,8 @@
             },
             {
                 "name": "2F - Super Nerd Hugh",
+                "chest_unopened_img": "/images/trainers/pokemaniac.png",
+                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
                     "@mount_mortar_2f"
                 ],
@@ -4886,6 +4898,8 @@
             },
             {
                 "name": "B1F - Black Belt Kiyo",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@mount_mortar_b1f_north"
                 ],
@@ -5154,7 +5168,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gym - Defeat Red (Event)",
+                "name": "Summit - Defeat Red (Event)",
                 "access_rules": [
                     "@mount_silver_cave_summit"
                 ],
@@ -5165,6 +5179,8 @@
             },
             {
                 "name": "Summit - Pokemon Trainer Red",
+                "chest_unopened_img": "/images/trainers/red.png",
+                "chest_opened_img": "/images/trainers/red_bw.png",
                 "access_rules": [
                     "@mount_silver_cave_summit"
                 ],
@@ -5755,12 +5771,12 @@
                 "item_count": 1
             },
             {
-                "name": "3F - Item Next to Sailor",
+                "name": "3F - Item Next to Sailor", 
                 "access_rules": [
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items"
                 ],
                 "item_count": 1
             },
@@ -5770,7 +5786,7 @@
                     "@olivine_lighthouse_exterior"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items"
                 ],
                 "item_count": 1
             },
@@ -6863,6 +6879,8 @@
             },
             {
                 "name": "Young Couple Vic & Tara",
+                "chest_unopened_img": "/images/trainers/young_couple.png",
+                "chest_opened_img": "/images/trainers/young_couple_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -7024,6 +7042,8 @@
             },
             {
                 "name": "Young Couple Tim & Sue",
+                "chest_unopened_img": "/images/trainers/young_couple.png",
+                "chest_opened_img": "/images/trainers/young_couple_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -7217,6 +7237,8 @@
             },
             {
                 "name": "Teacher Clarice",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7288,6 +7310,8 @@
             },
             {
                 "name": "Teacher Colette",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7344,6 +7368,8 @@
             },
             {
                 "name": "School Kid Tommy",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7354,6 +7380,8 @@
             },
             {
                 "name": "Teacher Hillary",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -8857,6 +8885,8 @@
             },
             {
                 "name": "Bird Keeper Jose",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_27_east, $surf, $whirlpool"
                 ],
@@ -9116,6 +9146,8 @@
             },
             {
                 "name": "Double Team Zac & Jen",
+                "chest_unopened_img": "/images/trainers/double_team.png",
+                "chest_opened_img": "/images/trainers/double_team_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -10425,7 +10457,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items"
                 ],
                 "item_count": 1
             },
@@ -11863,6 +11895,8 @@
             },
             {
                 "name": "Double Team Thom & Kae",
+                "chest_unopened_img": "/images/trainers/double_team.png",
+                "chest_opened_img": "/images/trainers/double_team_bw.png",
                 "access_rules": [
                     "@route_47"
                 ],
@@ -11883,6 +11917,8 @@
             },
             {
                 "name": "Young Couple Duff & Eda",
+                "chest_unopened_img": "/images/trainers/young_couple.png",
+                "chest_opened_img": "/images/trainers/young_couple_bw.png",
                 "access_rules": [
                     "@route_47"
                 ],
@@ -12144,7 +12180,7 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items"
                 ],
                 "item_count": 1
             },
@@ -12162,6 +12198,8 @@
             },
             {
                 "name": "Young Couple Moe & Lulu",
+                "chest_unopened_img": "/images/trainers/young_couple.png",
+                "chest_opened_img": "/images/trainers/young_couple_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -12952,6 +12990,8 @@
             },
             {
                 "name": "B1F - Teacher Shirley",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -15574,6 +15614,8 @@
             },
             {
                 "name": "Gym - Double Team Elan & Ida",
+                "chest_unopened_img": "/images/trainers/double_team.png",
+                "chest_opened_img": "/images/trainers/double_team_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],
