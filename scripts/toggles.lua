@@ -75,19 +75,27 @@ end
 function toggle_mossyrock()
     if has("opt_mossy_rock_johto") then
         Tracker:AddMaps("maps/ilexforest_mossy.json")
+    else
+        Tracker:AddMaps("maps/ilexforest.json")
     end
 
-   if has("opt_mossy_rock_kanto") then
+    if has("opt_mossy_rock_kanto") then
         Tracker:AddMaps("maps/viridianforest_mossy.json")
-	end
+	else
+        Tracker:AddMaps("maps/viridianforest.json")
+    end
 end
 
 function toggle_icyrock()
     if has("opt_icy_rock_johto") then
         Tracker:AddMaps("maps/icepath1f_icy.json")
-    end
+    else
+        Tracker:AddMaps("maps/icepath1f.json")
+    end    
 
     if has("opt_icy_rock_kanto") then
         Tracker:AddMaps("maps/seafoamislandsb3f_icy.json")
+    else 
+        Tracker:AddMaps("maps/seafoamislandsb3f.json")
     end
 end
