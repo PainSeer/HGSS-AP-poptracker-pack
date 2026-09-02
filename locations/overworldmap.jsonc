@@ -13036,6 +13036,8 @@
             },
             {
                 "name": "Flame Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13046,6 +13048,8 @@
             },
             {
                 "name": "Splash Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13056,6 +13060,8 @@
             },
             {
                 "name": "Zap Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13066,6 +13072,8 @@
             },
             {
                 "name": "Meadow Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13076,6 +13084,8 @@
             },
             {
                 "name": "Icicle Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13086,6 +13096,8 @@
             },
             {
                 "name": "Fist Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13096,6 +13108,8 @@
             },
             {
                 "name": "Toxic Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13106,6 +13120,8 @@
             },
             {
                 "name": "Earth Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13116,6 +13132,8 @@
             },
             {
                 "name": "Sky Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13126,6 +13144,8 @@
             },
             {
                 "name": "Mind Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13136,6 +13156,8 @@
             },
             {
                 "name": "Insect Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13146,6 +13168,8 @@
             },
             {
                 "name": "Stone Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13156,6 +13180,8 @@
             },
             {
                 "name": "Spooky Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13166,6 +13192,8 @@
             },
             {
                 "name": "Draco Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13176,6 +13204,8 @@
             },
             {
                 "name": "Dread Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13186,6 +13216,8 @@
             },
             {
                 "name": "Iron Plate from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
@@ -13196,6 +13228,8 @@
             },
             {
                 "name": "Nugget from Captain",
+                "chest_unopened_img": "/images/locations/captain_closed.png",
+                "chest_opened_img": "/images/locations/captain_open.png",
                 "access_rules": [
                     "@ss_aqua_captain_room, $kanto_badges_req|8"
                 ],
