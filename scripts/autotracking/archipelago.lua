@@ -12,8 +12,8 @@ SLOT_DATA = {}
 ENCOUNTERS_GROUPED = {}
 ROOM_SEED = "default"
 SAVED_HINTS = {}
-TRAINER_START_ID = 327681
-TRAINER_END_ID = 328607
+TRAINER_START_ID = 262148
+TRAINER_END_ID = 262878
 
 if Highlight then
     HIGHLIGHT_LEVEL= {
@@ -73,12 +73,12 @@ function onClear(slot_data)
     resetItems()
     
     -- resets trainer visibility. I gave up on making it dynamic, now we just flat out reset everything :(
---    for id, _ in pairs(LOCATION_MAPPING) do
---        if id >= TRAINER_START_ID and id <= TRAINER_END_ID then
---            Tracker:FindObjectForCode("opt_trainer_" .. id).Active = false
---        end
---    end
---    -------------------------------------------------
+    for id, _ in pairs(LOCATION_MAPPING) do
+        if id >= TRAINER_START_ID and id <= TRAINER_END_ID then
+            Tracker:FindObjectForCode("opt_trainer_" .. id).Active = false
+        end
+    end
+    -------------------------------------------------
 --
 --    local generated = slot_data.generated_encounters
 --    ENCOUNTERS_GROUPED = {}
