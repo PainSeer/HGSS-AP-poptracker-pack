@@ -45,7 +45,7 @@ end
 function toggle_trackerlayout()
     local suffix = ""
    
-    if not has("opt_randomize_fly_items_off") then
+    if not has("opt_randomize_fly_items_none") then
         suffix = suffix.."_flyunlock"
     end
 

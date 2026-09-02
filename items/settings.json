@@ -618,7 +618,7 @@
                 "name": "Fly Unlocks - OFF",
                 "img": "images/settings/fly_item.png",
                 "img_mods": "@disabled",
-                "codes": "",
+                "codes": "opt_randomize_fly_items_none",
                 "inherit_codes": false
             },
             {
