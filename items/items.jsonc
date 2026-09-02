@@ -384,12 +384,12 @@
         "img": "images/items/rainbow_wing.png",
         "codes": "rainbowwing"
     },
-    {
-        "name": "Mystery Egg",
-        "type": "toggle",
-        "img": "images/items/mysteryegg.png",
-        "codes": "mysteryegg"
-    },
+//    {
+//        "name": "Mystery Egg",
+//        "type": "toggle",
+//        "img": "images/items/mysteryegg.png",
+//        "codes": "mysteryegg"
+//    },
     {
         "name": "Tidal Bell",
         "type": "toggle",
