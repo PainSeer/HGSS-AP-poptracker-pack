@@ -436,14 +436,14 @@
         "stages": [
             {
                 "name": "Items Shop in AP Helper - OFF",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_ap_helper.png",
                 "img_mods": "@disabled",
                 "codes": "opt_items_shop_in_ap_helper, opt_items_shop_in_ap_helper_off",
                 "inherit_codes": false
             },
             {
                 "name": "Items Shop in AP Helper - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_ap_helper.png",
                 "codes": "opt_items_shop_in_ap_helper, opt_items_shop_in_ap_helper_on",
                 "inherit_codes": false
             }
