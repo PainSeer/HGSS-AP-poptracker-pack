@@ -207,7 +207,7 @@ function onClear(slot_data)
         elseif k == "trainersanity_trainers" then
             if #v == 0 then
                 TRAINERS:setType("none")
-            elseif #v == 457 then
+            elseif #v == 461 then
                 TRAINERS:setType("full")
             else
                 TRAINERS:setType("partial")
