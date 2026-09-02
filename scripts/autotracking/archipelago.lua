@@ -515,7 +515,8 @@ function updateVanillaKeyItems(register, value)
         end
     end
 
-    --syncPokedex()
+    syncPokedex()
+    syncPokegear()
 end
 
 function toggleHints()

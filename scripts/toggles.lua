@@ -55,12 +55,23 @@ end
 function syncPokedex()
     if not has("opt_pokedex_off") then return end
     local count = 0
-    for _, code in ipairs({"pokedex_1", "pokedex_2", "pokedex_3"}) do
+    for _, code in ipairs({"pokedex_1", "pokedex_2""}) do
         if Tracker:FindObjectForCode(code).Active then
             count = count + 1
         end
     end
     Tracker:FindObjectForCode("pokedex").CurrentStage = count
+end
+
+function syncPokegear()
+    if not has("opt_pokegearcards_off") then return end
+    local count = 0
+    for _, code in ipairs({"upgradableradiopokegearcard_1", "upgradableradiopokegearcard_2"}) do
+        if Tracker:FindObjectForCode(code).Active then
+            count = count + 1
+        end
+    end
+    Tracker:FindObjectForCode("upgradableradiopokegearcard").CurrentStage = count
 end
 
 function syncHostedFromBase(code)
