@@ -56,7 +56,8 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262212"
                 ],
                 "item_count": 1
             },
@@ -68,7 +69,8 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262211"
                 ],
                 "item_count": 1
             },
@@ -80,7 +82,8 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262213"
                 ],
                 "item_count": 1
             },
@@ -92,7 +95,8 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262154"
                 ],
                 "item_count": 1
             },
@@ -114,7 +118,8 @@
                     "@azalea_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262165"
                 ],
                 "item_count": 1
             },
@@ -148,7 +153,8 @@
                     "@azalea, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262410"
                 ],
                 "item_count": 1
             },
@@ -509,7 +515,8 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262254"
                 ],
                 "item_count": 1
             },
@@ -521,7 +528,8 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262261"
                 ],
                 "item_count": 1
             },
@@ -533,7 +541,8 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262256"
                 ],
                 "item_count": 1
             },
@@ -545,7 +554,8 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262263"
                 ],
                 "item_count": 1
             },
@@ -557,7 +567,8 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262255"
                 ],
                 "item_count": 1
             },
@@ -579,7 +590,8 @@
                     "@blackthorn_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262179"
                 ],
                 "item_count": 1
             }
@@ -640,7 +652,8 @@
                     "@burned_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262425"
                 ],
                 "item_count": 1
             },
@@ -662,7 +675,8 @@
                     "@burned_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262426"
                 ],
                 "item_count": 1
             },
@@ -686,7 +700,8 @@
                     "@burned_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262411"
                 ],
                 "item_count": 1
             },
@@ -823,7 +838,8 @@
                     "@celadon_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262500"
                 ],
                 "item_count": 1
             },
@@ -835,7 +851,8 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262470"
                 ],
                 "item_count": 1
             },
@@ -847,7 +864,8 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262480"
                 ],
                 "item_count": 1
             },
@@ -859,7 +877,8 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262490"
                 ],
                 "item_count": 1
             },
@@ -881,7 +900,8 @@
                     "@celadon_gym, $cut"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262400"
                 ],
                 "item_count": 1
             },
@@ -1288,7 +1308,8 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262820"
                 ],
                 "item_count": 1
             },
@@ -1300,7 +1321,8 @@
                     "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262441"
                 ],
                 "item_count": 1
             },
@@ -1312,7 +1334,8 @@
                     "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262822"
                 ],
                 "item_count": 1
             },
@@ -1324,7 +1347,8 @@
                     "@cerulean_gym, event_ruin_mistys_date, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262442"
                 ],
                 "item_count": 1
             },
@@ -1336,7 +1360,8 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262821"
                 ],
                 "item_count": 1
             },
@@ -1358,7 +1383,8 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262398"
                 ],
                 "item_count": 1
             },
@@ -1530,7 +1556,8 @@
                     "@cianwood, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262642"
                 ],
                 "item_count": 1
             },
@@ -1554,7 +1581,8 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262301"
                 ],
                 "item_count": 1
             },
@@ -1566,7 +1594,8 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262303"
                 ],
                 "item_count": 1
             },
@@ -1578,7 +1607,8 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262300"
                 ],
                 "item_count": 1
             },
@@ -1590,7 +1620,8 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262395"
                 ],
                 "item_count": 1
             },
@@ -1612,7 +1643,8 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262178"
                 ],
                 "item_count": 1
             },
@@ -2041,7 +2073,8 @@
                     "@dragons_den"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262644"
                 ],
                 "item_count": 1
             },
@@ -2087,7 +2120,8 @@
                     "@dragons_den, event_defeated_rival_mount_moon, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262877"
                 ],
                 "item_count": 1
             },
@@ -2099,7 +2133,8 @@
                     "@dragons_den, event_defeated_rival_mount_moon, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262878"
                 ],
                 "item_count": 1
             },
@@ -2111,7 +2146,8 @@
                     "@dragons_den, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262645"
                 ],
                 "item_count": 1
             },
@@ -2135,7 +2171,8 @@
                     "@dragons_den, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262646"
                 ],
                 "item_count": 1
             },
@@ -2296,7 +2333,8 @@
                     "@ecruteak_dance_theater"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262745"
                 ],
                 "item_count": 1
             },
@@ -2326,7 +2364,8 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262306"
                 ],
                 "item_count": 1
             },
@@ -2338,7 +2377,8 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262304"
                 ],
                 "item_count": 1
             },
@@ -2350,7 +2390,8 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262308"
                 ],
                 "item_count": 1
             },
@@ -2362,7 +2403,8 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262305"
                 ],
                 "item_count": 1
             },
@@ -2374,7 +2416,8 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262307"
                 ],
                 "item_count": 1
             },
@@ -2406,7 +2449,8 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262638"
                 ],
                 "item_count": 1
             },
@@ -2418,7 +2462,8 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262233"
                 ],
                 "item_count": 1
             },
@@ -2430,7 +2475,8 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262637"
                 ],
                 "item_count": 1
             },
@@ -2442,7 +2488,8 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262190"
                 ],
                 "item_count": 1
             },
@@ -2464,7 +2511,8 @@
                     "@ecruteak_gym, event_burned_tower_disperse_legendary_dogs"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262175"
                 ],
                 "item_count": 1
             },
@@ -2586,7 +2634,8 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262227"
                 ],
                 "item_count": 1
             },
@@ -2598,7 +2647,8 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262228"
                 ],
                 "item_count": 1
             },
@@ -2610,7 +2660,8 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262280"
                 ],
                 "item_count": 1
             },
@@ -2622,7 +2673,8 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262327"
                 ],
                 "item_count": 1
             },
@@ -2644,7 +2696,8 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262401"
                 ],
                 "item_count": 1
             },
@@ -2737,7 +2790,8 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262149"
                 ],
                 "item_count": 1
             },
@@ -2749,7 +2803,8 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262214"
                 ],
                 "item_count": 1
             },
@@ -2761,7 +2816,8 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262166"
                 ],
                 "item_count": 1
             },
@@ -2773,7 +2829,8 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262215"
                 ],
                 "item_count": 1
             },
@@ -2795,7 +2852,8 @@
                     "@goldenrod_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262174"
                 ],
                 "item_count": 1
             },
@@ -2987,7 +3045,8 @@
                     "@goldenrod_radio_tower_1f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262329"
                 ],
                 "item_count": 1
             },
@@ -2999,7 +3058,8 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262342"
                 ],
                 "item_count": 1
             },
@@ -3011,7 +3071,8 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262330"
                 ],
                 "item_count": 1
             },
@@ -3023,7 +3084,8 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262331"
                 ],
                 "item_count": 1
             },
@@ -3035,7 +3097,8 @@
                     "@goldenrod_radio_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262332"
                 ],
                 "item_count": 1
             },
@@ -3057,7 +3120,8 @@
                     "@goldenrod_radio_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262333"
                 ],
                 "item_count": 1
             },
@@ -3069,7 +3133,8 @@
                     "@goldenrod_radio_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262615"
                 ],
                 "item_count": 1
             },
@@ -3081,7 +3146,8 @@
                     "@goldenrod_radio_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262334"
                 ],
                 "item_count": 1
             },
@@ -3093,7 +3159,8 @@
                     "@goldenrod_radio_tower_3f_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262335"
                 ],
                 "item_count": 1
             },
@@ -3115,7 +3182,8 @@
                     "@goldenrod_radio_tower_4f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262336"
                 ],
                 "item_count": 1
             },
@@ -3127,7 +3195,8 @@
                     "@goldenrod_radio_tower_4f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262344"
                 ],
                 "item_count": 1
             },
@@ -3139,7 +3208,8 @@
                     "@goldenrod_radio_tower_4f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262616"
                 ],
                 "item_count": 1
             },
@@ -3151,7 +3221,8 @@
                     "@goldenrod_radio_tower_4f_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262850"
                 ],
                 "item_count": 1
             },
@@ -3183,7 +3254,8 @@
                     "@goldenrod_radio_tower_5f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262631"
                 ],
                 "item_count": 1
             },
@@ -3205,7 +3277,8 @@
                     "@goldenrod_radio_tower_5f_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262622"
                 ],
                 "item_count": 1
             },
@@ -3217,7 +3290,8 @@
                     "@goldenrod_radio_tower_observation_deck"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262629"
                 ],
                 "item_count": 1
             },
@@ -3296,7 +3370,8 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262537"
                 ],
                 "item_count": 1
             },
@@ -3308,7 +3383,8 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262536"
                 ],
                 "item_count": 1
             },
@@ -3320,7 +3396,8 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262377"
                 ],
                 "item_count": 1
             },
@@ -3332,7 +3409,8 @@
                     "@goldenrod_tunnel_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262535"
                 ],
                 "item_count": 1
             },
@@ -3344,7 +3422,8 @@
                     "@goldenrod_tunnel_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262433"
                 ],
                 "item_count": 1
             },
@@ -3356,7 +3435,8 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262343"
                 ],
                 "item_count": 1
             },
@@ -3378,7 +3458,8 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262158"
                 ],
                 "item_count": 1
             },
@@ -3400,7 +3481,8 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262427"
                 ],
                 "item_count": 1
             },
@@ -3412,7 +3494,8 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262337"
                 ],
                 "item_count": 1
             },
@@ -3424,7 +3507,8 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262339"
                 ],
                 "item_count": 1
             },
@@ -3436,7 +3520,8 @@
                     "@goldenrod_tunnel_b2f, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262372"
                 ],
                 "item_count": 1
             },
@@ -3470,7 +3555,8 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262340"
                 ],
                 "item_count": 1
             },
@@ -3504,7 +3590,8 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262341"
                 ],
                 "item_count": 1
             },
@@ -3516,7 +3603,8 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262371"
                 ],
                 "item_count": 1
             },
@@ -4084,7 +4172,8 @@
                     "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262270"
                 ],
                 "item_count": 1
             },
@@ -4096,7 +4185,8 @@
                     "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262271"
                 ],
                 "item_count": 1
             },
@@ -4108,7 +4198,8 @@
                     "@lake_of_rage, event_shiny_gyarados"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262260"
                 ],
                 "item_count": 1
             },
@@ -4150,7 +4241,8 @@
                     "@lake_of_rage_low_tide"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262253"
                 ],
                 "item_count": 1
             },
@@ -4278,7 +4370,8 @@
                     "@mahogany_gym_room_2"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262627"
                 ],
                 "item_count": 1
             },
@@ -4290,7 +4383,8 @@
                     "@mahogany_gym_room_2"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262624"
                 ],
                 "item_count": 1
             },
@@ -4302,7 +4396,8 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262626"
                 ],
                 "item_count": 1
             },
@@ -4314,7 +4409,8 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262628"
                 ],
                 "item_count": 1
             },
@@ -4326,7 +4422,8 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262625"
                 ],
                 "item_count": 1
             },
@@ -4348,7 +4445,8 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262176"
                 ],
                 "item_count": 1
             },
@@ -4419,7 +4517,8 @@
                     "@mount_moon"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262430"
                 ],
                 "item_count": 1
             },
@@ -4536,7 +4635,8 @@
                     "@mount_mortar_1f_back_south"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262681"
                 ],
                 "item_count": 1
             },
@@ -4580,7 +4680,8 @@
                     "@mount_mortar_1f_back_middle"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262683"
                 ],
                 "item_count": 1
             },
@@ -4710,7 +4811,8 @@
                     "@mount_mortar_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262682"
                 ],
                 "item_count": 1
             },
@@ -4904,7 +5006,8 @@
                     "@mount_mortar_b1f_north"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262302"
                 ],
                 "item_count": 1
             }
@@ -5185,7 +5288,8 @@
                     "@mount_silver_cave_summit"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262404"
                 ],
                 "item_count": 1
             }
@@ -5319,7 +5423,8 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262326"
                 ],
                 "item_count": 1
             },
@@ -5331,7 +5436,8 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262322"
                 ],
                 "item_count": 1
             },
@@ -5343,7 +5449,8 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262325"
                 ],
                 "item_count": 1
             },
@@ -5355,7 +5462,8 @@
                     "@national_park"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262328"
                 ],
                 "item_count": 1
             },
@@ -5557,7 +5665,8 @@
                     "@olivine_pokecenter_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262872"
                 ],
                 "item_count": 1
             },
@@ -5645,7 +5754,8 @@
                     "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262177"
                 ],
                 "item_count": 1
             },
@@ -5706,7 +5816,8 @@
                     "@olivine_lighthouse_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262545"
                 ],
                 "item_count": 1
             },
@@ -5718,7 +5829,8 @@
                     "@olivine_lighthouse_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262355"
                 ],
                 "item_count": 1
             },
@@ -5730,7 +5842,8 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262217"
                 ],
                 "item_count": 1
             },
@@ -5742,7 +5855,8 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262361"
                 ],
                 "item_count": 1
             },
@@ -5766,7 +5880,8 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262357"
                 ],
                 "item_count": 1
             },
@@ -5798,7 +5913,8 @@
                     "@olivine_lighthouse_4f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262181"
                 ],
                 "item_count": 1
             },
@@ -5810,7 +5926,8 @@
                     "@olivine_lighthouse_4f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262359"
                 ],
                 "item_count": 1
             },
@@ -5832,7 +5949,8 @@
                     "@olivine_lighthouse_5f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262358"
                 ],
                 "item_count": 1
             },
@@ -5854,7 +5972,8 @@
                     "@olivine_lighthouse_5f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262356"
                 ],
                 "item_count": 1
             },
@@ -6046,7 +6165,8 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262452"
                 ],
                 "item_count": 1
             },
@@ -6058,7 +6178,8 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262829"
                 ],
                 "item_count": 1
             },
@@ -6080,7 +6201,8 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262397"
                 ],
                 "item_count": 1
             },
@@ -6239,7 +6361,8 @@
                     "@pokemon_league_entrance, event_defeat_lance_clair_dragons_den"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262634"
                 ],
                 "item_count": 1
             },
@@ -6251,7 +6374,8 @@
                     "@pokemon_league_will_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262389"
                 ],
                 "item_count": 1
             },
@@ -6263,7 +6387,8 @@
                     "@pokemon_league_koga_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262391"
                 ],
                 "item_count": 1
             },
@@ -6275,7 +6400,8 @@
                     "@pokemon_league_bruno_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262562"
                 ],
                 "item_count": 1
             },
@@ -6287,7 +6413,8 @@
                     "@pokemon_league_karen_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262390"
                 ],
                 "item_count": 1
             },
@@ -6299,7 +6426,8 @@
                     "@pokemon_league_lance_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262388"
                 ],
                 "item_count": 1
             },
@@ -6321,7 +6449,8 @@
                     "@pokemon_league_will_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262846"
                 ],
                 "item_count": 1
             },
@@ -6333,7 +6462,8 @@
                     "@pokemon_league_koga_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262847"
                 ],
                 "item_count": 1
             },
@@ -6345,7 +6475,8 @@
                     "@pokemon_league_bruno_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262848"
                 ],
                 "item_count": 1
             },
@@ -6357,7 +6488,8 @@
                     "@pokemon_league_karen_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262849"
                 ],
                 "item_count": 1
             },
@@ -6369,7 +6501,8 @@
                     "@pokemon_league_lance_room, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262845"
                 ],
                 "item_count": 1
             }
@@ -6547,7 +6680,8 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262690"
                 ],
                 "item_count": 1
             },
@@ -6559,7 +6693,8 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262471"
                 ],
                 "item_count": 1
             },
@@ -6571,7 +6706,8 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262689"
                 ],
                 "item_count": 1
             },
@@ -6583,7 +6719,8 @@
                     "@route_1"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262506"
                 ],
                 "item_count": 1
             }
@@ -6701,7 +6838,8 @@
                     "@route_10_south"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262492"
                 ],
                 "item_count": 1
             },
@@ -6713,7 +6851,8 @@
                     "@route_10_south"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262503"
                 ],
                 "item_count": 1
             }
@@ -6762,7 +6901,8 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262460"
                 ],
                 "item_count": 1
             },
@@ -6774,7 +6914,8 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262525"
                 ],
                 "item_count": 1
             },
@@ -6798,7 +6939,8 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262524"
                 ],
                 "item_count": 1
             },
@@ -6810,7 +6952,8 @@
                     "@route_11"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262461"
                 ],
                 "item_count": 1
             }
@@ -6849,7 +6992,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262203"
                 ],
                 "item_count": 1
             },
@@ -6861,7 +7005,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262699"
                 ],
                 "item_count": 1
             },
@@ -6873,7 +7018,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262464"
                 ],
                 "item_count": 1
             },
@@ -6885,7 +7031,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262701"
                 ],
                 "item_count": 1
             },
@@ -6909,7 +7056,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262465"
                 ],
                 "item_count": 1
             },
@@ -6929,7 +7077,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262700"
                 ],
                 "item_count": 1
             },
@@ -6941,7 +7090,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262466"
                 ],
                 "item_count": 1
             },
@@ -6963,7 +7113,8 @@
                     "@route_12"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262702"
                 ],
                 "item_count": 1
             },
@@ -7012,7 +7163,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262565"
                 ],
                 "item_count": 1
             },
@@ -7024,7 +7176,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262706"
                 ],
                 "item_count": 1
             },
@@ -7036,7 +7189,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262564"
                 ],
                 "item_count": 1
             },
@@ -7048,7 +7202,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262703"
                 ],
                 "item_count": 1
             },
@@ -7060,7 +7215,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262493"
                 ],
                 "item_count": 1
             },
@@ -7084,7 +7240,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262636"
                 ],
                 "item_count": 1
             },
@@ -7096,7 +7253,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262705"
                 ],
                 "item_count": 1
             },
@@ -7108,7 +7266,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262707"
                 ],
                 "item_count": 1
             },
@@ -7120,7 +7279,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262704"
                 ],
                 "item_count": 1
             },
@@ -7132,7 +7292,8 @@
                     "@route_13"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262502"
                 ],
                 "item_count": 1
             }
@@ -7171,7 +7332,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262709"
                 ],
                 "item_count": 1
             },
@@ -7183,7 +7345,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262495"
                 ],
                 "item_count": 1
             },
@@ -7195,7 +7358,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262494"
                 ],
                 "item_count": 1
             },
@@ -7207,7 +7371,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262444"
                 ],
                 "item_count": 1
             },
@@ -7219,7 +7384,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262710"
                 ],
                 "item_count": 1
             },
@@ -7231,7 +7397,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262711"
                 ],
                 "item_count": 1
             },
@@ -7243,7 +7410,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262708"
                 ],
                 "item_count": 1
             },
@@ -7255,7 +7423,8 @@
                     "@route_14"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262712"
                 ],
                 "item_count": 1
             },
@@ -7304,7 +7473,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262475"
                 ],
                 "item_count": 1
             },
@@ -7316,7 +7486,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262182"
                 ],
                 "item_count": 1
             },
@@ -7328,7 +7499,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262713"
                 ],
                 "item_count": 1
             },
@@ -7340,7 +7512,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262715"
                 ],
                 "item_count": 1
             },
@@ -7362,7 +7535,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262323"
                 ],
                 "item_count": 1
             },
@@ -7374,7 +7548,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262472"
                 ],
                 "item_count": 1
             },
@@ -7386,7 +7561,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262526"
                 ],
                 "item_count": 1
             },
@@ -7408,7 +7584,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262714"
                 ],
                 "item_count": 1
             },
@@ -7420,7 +7597,8 @@
                     "@route_15"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262279"
                 ],
                 "item_count": 1
             }
@@ -7496,7 +7674,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262716"
                 ],
                 "item_count": 1
             },
@@ -7508,7 +7687,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262457"
                 ],
                 "item_count": 1
             },
@@ -7520,7 +7700,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262458"
                 ],
                 "item_count": 1
             },
@@ -7532,7 +7713,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262717"
                 ],
                 "item_count": 1
             },
@@ -7544,7 +7726,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262718"
                 ],
                 "item_count": 1
             },
@@ -7556,7 +7739,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262719"
                 ],
                 "item_count": 1
             },
@@ -7568,7 +7752,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262720"
                 ],
                 "item_count": 1
             },
@@ -7592,7 +7777,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262459"
                 ],
                 "item_count": 1
             },
@@ -7616,7 +7802,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262722"
                 ],
                 "item_count": 1
             },
@@ -7628,7 +7815,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262721"
                 ],
                 "item_count": 1
             },
@@ -7640,7 +7828,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262723"
                 ],
                 "item_count": 1
             }
@@ -7679,7 +7868,8 @@
                     "@route_17"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262456"
                 ],
                 "item_count": 1
             },
@@ -7691,7 +7881,8 @@
                     "@route_18"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262446"
                 ],
                 "item_count": 1
             },
@@ -7703,7 +7894,8 @@
                     "@route_18"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262445"
                 ],
                 "item_count": 1
             }
@@ -7742,7 +7934,8 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262515"
                 ],
                 "item_count": 1
             },
@@ -7754,7 +7947,8 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262435"
                 ],
                 "item_count": 1
             },
@@ -7788,7 +7982,8 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262396"
                 ],
                 "item_count": 1
             },
@@ -7800,7 +7995,8 @@
                     "@route_19"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262514"
                 ],
                 "item_count": 1
             },
@@ -7897,7 +8093,8 @@
                     "@route_2"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262392"
                 ],
                 "item_count": 1
             },
@@ -7939,7 +8136,8 @@
                     "@route_2"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262284"
                 ],
                 "item_count": 1
             },
@@ -7951,7 +8149,8 @@
                     "@route_2"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262192"
                 ],
                 "item_count": 1
             }
@@ -7990,7 +8189,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262517"
                 ],
                 "item_count": 1
             },
@@ -8002,7 +8202,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262732"
                 ],
                 "item_count": 1
             },
@@ -8014,7 +8215,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262727"
                 ],
                 "item_count": 1
             },
@@ -8026,7 +8228,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262726"
                 ],
                 "item_count": 1
             },
@@ -8050,7 +8253,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262728"
                 ],
                 "item_count": 1
             },
@@ -8062,7 +8266,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262731"
                 ],
                 "item_count": 1
             },
@@ -8074,7 +8279,8 @@
                     "@route_20_west"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262725"
                 ],
                 "item_count": 1
             },
@@ -8098,7 +8304,8 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262724"
                 ],
                 "item_count": 1
             },
@@ -8122,7 +8329,8 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262730"
                 ],
                 "item_count": 1
             },
@@ -8134,7 +8342,8 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262729"
                 ],
                 "item_count": 1
             },
@@ -8146,7 +8355,8 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262438"
                 ],
                 "item_count": 1
             },
@@ -8158,7 +8368,8 @@
                     "@route_20_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262437"
                 ],
                 "item_count": 1
             }
@@ -8197,7 +8408,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262440"
                 ],
                 "item_count": 1
             },
@@ -8221,7 +8433,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262202"
                 ],
                 "item_count": 1
             },
@@ -8233,7 +8446,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262740"
                 ],
                 "item_count": 1
             },
@@ -8245,7 +8459,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262733"
                 ],
                 "item_count": 1
             },
@@ -8257,7 +8472,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262736"
                 ],
                 "item_count": 1
             },
@@ -8293,7 +8509,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262518"
                 ],
                 "item_count": 1
             },
@@ -8305,7 +8522,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262734"
                 ],
                 "item_count": 1
             },
@@ -8317,7 +8535,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262735"
                 ],
                 "item_count": 1
             },
@@ -8329,7 +8548,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262738"
                 ],
                 "item_count": 1
             },
@@ -8341,7 +8561,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262739"
                 ],
                 "item_count": 1
             },
@@ -8353,7 +8574,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262737"
                 ],
                 "item_count": 1
             },
@@ -8365,7 +8587,8 @@
                     "@route_21"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262741"
                 ],
                 "item_count": 1
             }
@@ -8451,7 +8674,8 @@
                     "@route_24, event_cerulean_meet_kanto_grunt"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262497"
                 ],
                 "item_count": 1
             }
@@ -8502,7 +8726,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262473"
                 ],
                 "item_count": 1
             },
@@ -8514,7 +8739,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262563"
                 ],
                 "item_count": 1
             },
@@ -8526,7 +8752,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262474"
                 ],
                 "item_count": 1
             },
@@ -8538,7 +8765,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262292"
                 ],
                 "item_count": 1
             },
@@ -8550,7 +8778,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262498"
                 ],
                 "item_count": 1
             },
@@ -8562,7 +8791,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262499"
                 ],
                 "item_count": 1
             },
@@ -8584,7 +8814,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262510"
                 ],
                 "item_count": 1
             },
@@ -8606,7 +8837,8 @@
                     "@route_25"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262505"
                 ],
                 "item_count": 1
             },
@@ -8710,7 +8942,8 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262557"
                 ],
                 "item_count": 1
             },
@@ -8722,7 +8955,8 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262555"
                 ],
                 "item_count": 1
             },
@@ -8734,7 +8968,8 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262180"
                 ],
                 "item_count": 1
             },
@@ -8746,7 +8981,8 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262246"
                 ],
                 "item_count": 1
             },
@@ -8758,7 +8994,8 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262172"
                 ],
                 "item_count": 1
             },
@@ -8782,7 +9019,8 @@
                     "@route_26"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262257"
                 ],
                 "item_count": 1
             },
@@ -8847,7 +9085,8 @@
                     "@route_27_center"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262259"
                 ],
                 "item_count": 1
             },
@@ -8869,7 +9108,8 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262247"
                 ],
                 "item_count": 1
             },
@@ -8891,7 +9131,8 @@
                     "@route_27_east, $surf, $whirlpool"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262558"
                 ],
                 "item_count": 1
             },
@@ -8903,7 +9144,8 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262248"
                 ],
                 "item_count": 1
             },
@@ -8937,7 +9179,8 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262556"
                 ],
                 "item_count": 1
             },
@@ -8949,7 +9192,8 @@
                     "@route_27_east"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262258"
                 ],
                 "item_count": 1
             },
@@ -9140,7 +9384,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262696"
                 ],
                 "item_count": 1
             },
@@ -9152,7 +9397,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262693"
                 ],
                 "item_count": 1
             },
@@ -9188,7 +9434,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262522"
                 ],
                 "item_count": 1
             },
@@ -9200,7 +9447,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262523"
                 ],
                 "item_count": 1
             },
@@ -9212,7 +9460,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262159"
                 ],
                 "item_count": 1
             },
@@ -9234,7 +9483,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262691"
                 ],
                 "item_count": 1
             },
@@ -9246,7 +9496,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262692"
                 ],
                 "item_count": 1
             },
@@ -9258,7 +9509,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262694"
                 ],
                 "item_count": 1
             },
@@ -9270,7 +9522,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262695"
                 ],
                 "item_count": 1
             },
@@ -9282,7 +9535,8 @@
                     "@route_3"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262462"
                 ],
                 "item_count": 1
             },
@@ -9403,7 +9657,8 @@
                     "@route_30, event_get_mystery_egg"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262152"
                 ],
                 "item_count": 1
             },
@@ -9415,7 +9670,8 @@
                     "@route_30_northwest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262191"
                 ],
                 "item_count": 1
             },
@@ -9439,7 +9695,8 @@
                     "@route_30_northwest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262393"
                 ],
                 "item_count": 1
             }
@@ -9518,7 +9775,8 @@
                     "@route_31"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262148"
                 ],
                 "item_count": 1
             },
@@ -9577,7 +9835,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262193"
                 ],
                 "item_count": 1
             },
@@ -9601,7 +9860,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262171"
                 ],
                 "item_count": 1
             },
@@ -9623,7 +9883,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262170"
                 ],
                 "item_count": 1
             },
@@ -9655,7 +9916,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262200"
                 ],
                 "item_count": 1
             },
@@ -9667,7 +9929,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262201"
                 ],
                 "item_count": 1
             },
@@ -9691,7 +9954,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262162"
                 ],
                 "item_count": 1
             },
@@ -9703,7 +9967,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262204"
                 ],
                 "item_count": 1
             },
@@ -9743,7 +10008,8 @@
                     "@route_32"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262527"
                 ],
                 "item_count": 1
             },
@@ -9804,7 +10070,8 @@
                     "@route_33"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262205"
                 ],
                 "item_count": 1
             }
@@ -9853,7 +10120,8 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262206"
                 ],
                 "item_count": 1
             },
@@ -9865,7 +10133,8 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262553"
                 ],
                 "item_count": 1
             },
@@ -9877,7 +10146,8 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262209"
                 ],
                 "item_count": 1
             },
@@ -9889,7 +10159,8 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262208"
                 ],
                 "item_count": 1
             },
@@ -9935,7 +10206,8 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262264"
                 ],
                 "item_count": 1
             },
@@ -9947,7 +10219,8 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262561"
                 ],
                 "item_count": 1
             },
@@ -9959,7 +10232,8 @@
                     "@route_34, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262262"
                 ],
                 "item_count": 1
             },
@@ -9981,7 +10255,8 @@
                     "@route_34, nighttime"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262150"
                 ],
                 "item_count": 1
             },
@@ -9993,7 +10268,8 @@
                     "@route_34"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262210"
                 ],
                 "item_count": 1
             },
@@ -10062,7 +10338,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262221"
                 ],
                 "item_count": 1
             },
@@ -10086,7 +10363,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262219"
                 ],
                 "item_count": 1
             },
@@ -10098,7 +10376,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262220"
                 ],
                 "item_count": 1
             },
@@ -10110,7 +10389,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262218"
                 ],
                 "item_count": 1
             },
@@ -10122,7 +10402,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262151"
                 ],
                 "item_count": 1
             },
@@ -10134,7 +10415,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262532"
                 ],
                 "item_count": 1
             },
@@ -10146,7 +10428,8 @@
                     "@route_35, nighttime"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262224"
                 ],
                 "item_count": 1
             },
@@ -10158,7 +10441,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262222"
                 ],
                 "item_count": 1
             },
@@ -10180,7 +10464,8 @@
                     "@route_35"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262216"
                 ],
                 "item_count": 1
             },
@@ -10247,7 +10532,8 @@
                     "@route_36_southwest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262539"
                 ],
                 "item_count": 1
             },
@@ -10271,7 +10557,8 @@
                     "@route_36_southwest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262168"
                 ],
                 "item_count": 1
             },
@@ -10350,7 +10637,8 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262530"
                 ],
                 "item_count": 1
             },
@@ -10372,7 +10660,8 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262225"
                 ],
                 "item_count": 1
             },
@@ -10384,7 +10673,8 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262823"
                 ],
                 "item_count": 1
             },
@@ -10396,7 +10686,8 @@
                     "@route_37"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262824"
                 ],
                 "item_count": 1
             }
@@ -10435,7 +10726,8 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262554"
                 ],
                 "item_count": 1
             },
@@ -10447,7 +10739,8 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262226"
                 ],
                 "item_count": 1
             },
@@ -10469,7 +10762,8 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262542"
                 ],
                 "item_count": 1
             },
@@ -10481,7 +10775,8 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262544"
                 ],
                 "item_count": 1
             },
@@ -10493,7 +10788,8 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262541"
                 ],
                 "item_count": 1
             },
@@ -10630,7 +10926,8 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262533"
                 ],
                 "item_count": 1
             },
@@ -10642,7 +10939,8 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262183"
                 ],
                 "item_count": 1
             },
@@ -10654,7 +10952,8 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262188"
                 ],
                 "item_count": 1
             },
@@ -10666,7 +10965,8 @@
                     "@route_39"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262189"
                 ],
                 "item_count": 1
             }
@@ -10705,7 +11005,8 @@
                     "@route_4"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262296"
                 ],
                 "item_count": 1
             },
@@ -10729,7 +11030,8 @@
                     "@route_4"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262443"
                 ],
                 "item_count": 1
             },
@@ -10753,7 +11055,8 @@
                     "@route_4"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262297"
                 ],
                 "item_count": 1
             },
@@ -10812,7 +11115,8 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262160"
                 ],
                 "item_count": 1
             },
@@ -10824,7 +11128,8 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262153"
                 ],
                 "item_count": 1
             },
@@ -10858,7 +11163,8 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262230"
                 ],
                 "item_count": 1
             },
@@ -10870,7 +11176,8 @@
                     "@route_40, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262229"
                 ],
                 "item_count": 1
             }
@@ -10909,7 +11216,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262235"
                 ],
                 "item_count": 1
             },
@@ -10921,7 +11229,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262240"
                 ],
                 "item_count": 1
             },
@@ -10945,7 +11254,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262238"
                 ],
                 "item_count": 1
             },
@@ -10957,7 +11267,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262241"
                 ],
                 "item_count": 1
             },
@@ -10969,7 +11280,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262237"
                 ],
                 "item_count": 1
             },
@@ -10993,7 +11305,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262236"
                 ],
                 "item_count": 1
             },
@@ -11005,7 +11318,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262242"
                 ],
                 "item_count": 1
             },
@@ -11029,7 +11343,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262234"
                 ],
                 "item_count": 1
             },
@@ -11041,7 +11356,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262243"
                 ],
                 "item_count": 1
             },
@@ -11053,7 +11369,8 @@
                     "@route_41, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262239"
                 ],
                 "item_count": 1
             },
@@ -11156,7 +11473,8 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262267"
                 ],
                 "item_count": 1
             },
@@ -11168,7 +11486,8 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262273"
                 ],
                 "item_count": 1
             },
@@ -11180,7 +11499,8 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262278"
                 ],
                 "item_count": 1
             },
@@ -11229,7 +11549,8 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262547"
                 ],
                 "item_count": 1
             },
@@ -11261,7 +11582,8 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262275"
                 ],
                 "item_count": 1
             },
@@ -11273,7 +11595,8 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262546"
                 ],
                 "item_count": 1
             },
@@ -11285,7 +11608,8 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262274"
                 ],
                 "item_count": 1
             },
@@ -11297,7 +11621,8 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262276"
                 ],
                 "item_count": 1
             },
@@ -11309,7 +11634,8 @@
                     "@route_43"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262266"
                 ],
                 "item_count": 1
             }
@@ -11388,7 +11714,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262549"
                 ],
                 "item_count": 1
             },
@@ -11410,7 +11737,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262268"
                 ],
                 "item_count": 1
             },
@@ -11422,7 +11750,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262550"
                 ],
                 "item_count": 1
             },
@@ -11466,7 +11795,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262269"
                 ],
                 "item_count": 1
             },
@@ -11478,7 +11808,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262552"
                 ],
                 "item_count": 1
             },
@@ -11490,7 +11821,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262551"
                 ],
                 "item_count": 1
             },
@@ -11502,7 +11834,8 @@
                     "@route_44"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262281"
                 ],
                 "item_count": 1
             }
@@ -11551,7 +11884,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262287"
                 ],
                 "item_count": 1
             },
@@ -11563,7 +11897,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262252"
                 ],
                 "item_count": 1
             },
@@ -11575,7 +11910,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262289"
                 ],
                 "item_count": 1
             },
@@ -11597,7 +11933,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262265"
                 ],
                 "item_count": 1
             },
@@ -11609,7 +11946,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262161"
                 ],
                 "item_count": 1
             },
@@ -11663,7 +12001,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262290"
                 ],
                 "item_count": 1
             },
@@ -11675,7 +12014,8 @@
                     "@route_45"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262288"
                 ],
                 "item_count": 1
             },
@@ -11726,7 +12066,8 @@
                     "@route_46"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262291"
                 ],
                 "item_count": 1
             },
@@ -11738,7 +12079,8 @@
                     "@route_46"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262295"
                 ],
                 "item_count": 1
             },
@@ -11760,7 +12102,8 @@
                     "@route_46"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262298"
                 ],
                 "item_count": 1
             }
@@ -11811,7 +12154,8 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262875"
                 ],
                 "item_count": 1
             },
@@ -11823,7 +12167,8 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262876"
                 ],
                 "item_count": 1
             },
@@ -11901,7 +12246,8 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262874"
                 ],
                 "item_count": 1
             },
@@ -11923,7 +12269,8 @@
                     "@route_47"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262873"
                 ],
                 "item_count": 1
             }
@@ -12036,7 +12383,8 @@
                     "@route_6"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262744"
                 ],
                 "item_count": 1
             },
@@ -12058,7 +12406,8 @@
                     "@route_6"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262742"
                 ],
                 "item_count": 1
             },
@@ -12070,7 +12419,8 @@
                     "@route_6"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262743"
                 ],
                 "item_count": 1
             }
@@ -12156,7 +12506,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262453"
                 ],
                 "item_count": 1
             },
@@ -12168,7 +12519,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262454"
                 ],
                 "item_count": 1
             },
@@ -12180,7 +12532,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262455"
                 ],
                 "item_count": 1
             },
@@ -12192,7 +12545,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262508"
                 ],
                 "item_count": 1
             },
@@ -12204,7 +12558,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262697"
                 ],
                 "item_count": 1
             },
@@ -12216,7 +12571,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262509"
                 ],
                 "item_count": 1
             },
@@ -12228,7 +12584,8 @@
                     "@route_8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262698"
                 ],
                 "item_count": 1
             }
@@ -12279,7 +12636,8 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262476"
                 ],
                 "item_count": 1
             },
@@ -12301,7 +12659,8 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262501"
                 ],
                 "item_count": 1
             },
@@ -12313,7 +12672,8 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262293"
                 ],
                 "item_count": 1
             },
@@ -12325,7 +12685,8 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262378"
                 ],
                 "item_count": 1
             },
@@ -12357,7 +12718,8 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262477"
                 ],
                 "item_count": 1
             },
@@ -12379,7 +12741,8 @@
                     "@route_9"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262294"
                 ],
                 "item_count": 1
             }
@@ -12629,7 +12992,8 @@
                     "@ruins_of_alph_northwest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262186"
                 ],
                 "item_count": 1
             },
@@ -12708,7 +13072,8 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262496"
                 ],
                 "item_count": 1
             },
@@ -12720,7 +13085,8 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262511"
                 ],
                 "item_count": 1
             },
@@ -12732,7 +13098,8 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262566"
                 ],
                 "item_count": 1
             },
@@ -12744,7 +13111,8 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262567"
                 ],
                 "item_count": 1
             },
@@ -12756,7 +13124,8 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262568"
                 ],
                 "item_count": 1
             },
@@ -12768,7 +13137,8 @@
                     "@ss_aqua_1f_northwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262569"
                 ],
                 "item_count": 1
             },
@@ -12780,7 +13150,8 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262543"
                 ],
                 "item_count": 1
             },
@@ -12792,7 +13163,8 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262185"
                 ],
                 "item_count": 1
             },
@@ -12804,7 +13176,8 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262223"
                 ],
                 "item_count": 1
             },
@@ -12816,7 +13189,8 @@
                     "@ss_aqua_1f_northeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262353"
                 ],
                 "item_count": 1
             },
@@ -12828,7 +13202,8 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262277"
                 ],
                 "item_count": 1
             },
@@ -12840,7 +13215,8 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262379"
                 ],
                 "item_count": 1
             },
@@ -12852,7 +13228,8 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262380"
                 ],
                 "item_count": 1
             },
@@ -12864,7 +13241,8 @@
                     "@ss_aqua_1f_southwest_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262381"
                 ],
                 "item_count": 1
             },
@@ -12876,7 +13254,8 @@
                     "@ss_aqua_1f_southeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262428"
                 ],
                 "item_count": 1
             },
@@ -12888,7 +13267,8 @@
                     "@ss_aqua_1f_southeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262375"
                 ],
                 "item_count": 1
             },
@@ -12900,7 +13280,8 @@
                     "@ss_aqua_1f_southeast_rooms"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262382"
                 ],
                 "item_count": 1
             },
@@ -12912,7 +13293,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262283"
                 ],
                 "item_count": 1
             },
@@ -12924,7 +13306,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262272"
                 ],
                 "item_count": 1
             },
@@ -12936,7 +13319,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262383"
                 ],
                 "item_count": 1
             },
@@ -12948,7 +13332,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262384"
                 ],
                 "item_count": 1
             },
@@ -12960,7 +13345,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262385"
                 ],
                 "item_count": 1
             },
@@ -12972,7 +13358,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262386"
                 ],
                 "item_count": 1
             },
@@ -12984,7 +13371,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262483"
                 ],
                 "item_count": 1
             },
@@ -12996,7 +13384,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262571"
                 ],
                 "item_count": 1
             },
@@ -13008,7 +13397,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262572"
                 ],
                 "item_count": 1
             },
@@ -13020,7 +13410,8 @@
                     "@ss_aqua_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262573"
                 ],
                 "item_count": 1
             },
@@ -13406,7 +13797,8 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262512"
                 ],
                 "item_count": 1
             },
@@ -13418,7 +13810,8 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262513"
                 ],
                 "item_count": 1
             },
@@ -13430,7 +13823,8 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262559"
                 ],
                 "item_count": 1
             },
@@ -13442,7 +13836,8 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262374"
                 ],
                 "item_count": 1
             },
@@ -13464,7 +13859,8 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262402"
                 ],
                 "item_count": 1
             },
@@ -13591,7 +13987,8 @@
                     "@seafoam_islands_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262832"
                 ],
                 "item_count": 1
             },
@@ -13603,7 +14000,8 @@
                     "@seafoam_islands_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262831"
                 ],
                 "item_count": 1
             },
@@ -13615,7 +14013,8 @@
                     "@seafoam_islands_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262830"
                 ],
                 "item_count": 1
             },
@@ -13715,7 +14114,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262836"
                 ],
                 "item_count": 1
             },
@@ -13727,7 +14127,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262833"
                 ],
                 "item_count": 1
             },
@@ -13739,7 +14140,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262838"
                 ],
                 "item_count": 1
             },
@@ -13751,7 +14153,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262835"
                 ],
                 "item_count": 1
             },
@@ -13763,7 +14166,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262834"
                 ],
                 "item_count": 1
             },
@@ -13775,7 +14179,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262837"
                 ],
                 "item_count": 1
             },
@@ -13797,7 +14202,8 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262403"
                 ],
                 "item_count": 1
             },
@@ -13870,7 +14276,8 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262156"
                 ],
                 "item_count": 1
             },
@@ -13892,7 +14299,8 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262157"
                 ],
                 "item_count": 1
             },
@@ -13916,7 +14324,8 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262245"
                 ],
                 "item_count": 1
             },
@@ -13928,7 +14337,8 @@
                     "@slowpoke_well_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262630"
                 ],
                 "item_count": 1
             },
@@ -14019,7 +14429,8 @@
                     "@sprout_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262187"
                 ],
                 "item_count": 1
             },
@@ -14031,7 +14442,8 @@
                     "@sprout_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262195"
                 ],
                 "item_count": 1
             },
@@ -14053,7 +14465,8 @@
                     "@sprout_tower_2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262196"
                 ],
                 "item_count": 1
             },
@@ -14075,7 +14488,8 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262197"
                 ],
                 "item_count": 1
             },
@@ -14087,7 +14501,8 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262199"
                 ],
                 "item_count": 1
             },
@@ -14099,7 +14514,8 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262198"
                 ],
                 "item_count": 1
             },
@@ -14121,7 +14537,8 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262434"
                 ],
                 "item_count": 1
             },
@@ -14178,7 +14595,8 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262367"
                 ],
                 "item_count": 1
             },
@@ -14190,7 +14608,8 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262368"
                 ],
                 "item_count": 1
             },
@@ -14202,7 +14621,8 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262360"
                 ],
                 "item_count": 1
             },
@@ -14214,7 +14634,8 @@
                     "@team_rocket_headquarters_b1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262614"
                 ],
                 "item_count": 1
             },
@@ -14280,7 +14701,8 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262362"
                 ],
                 "item_count": 1
             },
@@ -14292,7 +14714,8 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262363"
                 ],
                 "item_count": 1
             },
@@ -14316,7 +14739,8 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262364"
                 ],
                 "item_count": 1
             },
@@ -14338,7 +14762,8 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262643"
                 ],
                 "item_count": 1
             },
@@ -14350,7 +14775,8 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262623"
                 ],
                 "item_count": 1
             },
@@ -14390,7 +14816,8 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262612"
                 ],
                 "item_count": 1
             },
@@ -14402,7 +14829,8 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262548"
                 ],
                 "item_count": 1
             },
@@ -14414,7 +14842,8 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262613"
                 ],
                 "item_count": 1
             },
@@ -14426,7 +14855,8 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262366"
                 ],
                 "item_count": 1
             },
@@ -14478,7 +14908,8 @@
                     "@team_rocket_headquarters_b3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262632"
                 ],
                 "item_count": 1
             }
@@ -14625,7 +15056,8 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262534"
                 ],
                 "item_count": 1
             },
@@ -14637,7 +15069,8 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262528"
                 ],
                 "item_count": 1
             },
@@ -14649,7 +15082,8 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262169"
                 ],
                 "item_count": 1
             },
@@ -14683,7 +15117,8 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262463"
                 ],
                 "item_count": 1
             },
@@ -14729,7 +15164,8 @@
                     "@union_cave_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262167"
                 ],
                 "item_count": 1
             },
@@ -14783,7 +15219,8 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262348"
                 ],
                 "item_count": 1
             },
@@ -14807,7 +15244,8 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262347"
                 ],
                 "item_count": 1
             },
@@ -14819,7 +15257,8 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262345"
                 ],
                 "item_count": 1
             },
@@ -14831,7 +15270,8 @@
                     "@union_cave_b1f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262346"
                 ],
                 "item_count": 1
             },
@@ -14853,7 +15293,8 @@
                     "@union_cave_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262349"
                 ],
                 "item_count": 1
             },
@@ -14875,7 +15316,8 @@
                     "@union_cave_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262350"
                 ],
                 "item_count": 1
             },
@@ -14911,7 +15353,8 @@
                     "@union_cave_b2f, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262507"
                 ],
                 "item_count": 1
             }
@@ -15084,7 +15527,8 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262540"
                 ],
                 "item_count": 1
             },
@@ -15096,7 +15540,8 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262376"
                 ],
                 "item_count": 1
             },
@@ -15108,7 +15553,8 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262481"
                 ],
                 "item_count": 1
             },
@@ -15130,7 +15576,8 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262399"
                 ],
                 "item_count": 1
             },
@@ -15377,7 +15824,8 @@
                     "@victory_road_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262412"
                 ],
                 "item_count": 1
             }
@@ -15478,7 +15926,8 @@
                     "@violet_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262194"
                 ],
                 "item_count": 1
             },
@@ -15490,7 +15939,8 @@
                     "@violet_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262173"
                 ],
                 "item_count": 1
             },
@@ -15512,7 +15962,8 @@
                     "@violet_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262164"
                 ],
                 "item_count": 1
             },
@@ -15618,7 +16069,8 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262825"
                 ],
                 "item_count": 1
             },
@@ -15630,7 +16082,8 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262827"
                 ],
                 "item_count": 1
             },
@@ -15642,7 +16095,8 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262826"
                 ],
                 "item_count": 1
             },
@@ -15654,7 +16108,8 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262828"
                 ],
                 "item_count": 1
             },
@@ -15676,7 +16131,8 @@
                     "@viridian_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262405"
                 ],
                 "item_count": 1
             },
@@ -15783,7 +16239,8 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262839"
                 ],
                 "item_count": 1
             },
@@ -15817,7 +16274,8 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262840"
                 ],
                 "item_count": 1
             },
@@ -15841,7 +16299,8 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262841"
                 ],
                 "item_count": 1
             },
@@ -15875,7 +16334,8 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262842"
                 ],
                 "item_count": 1
             },
@@ -15909,7 +16369,8 @@
                     "@viridian_forest"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_trainer_full"
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262843"
                 ],
                 "item_count": 1
             }
