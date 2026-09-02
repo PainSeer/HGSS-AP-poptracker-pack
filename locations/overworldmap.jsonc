@@ -5776,7 +5776,7 @@
                     "@olivine_lighthouse_3f"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
             },
@@ -10457,7 +10457,7 @@
                     "@route_38"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
             },
@@ -12139,6 +12139,16 @@
         "chest_opened_img": "/images/locations/ballopen.png",
         "sections": [
             {
+                "name": "Item By Biker Trio",
+                "access_rules": [
+                    "@route_8"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_on"
+                ],
+                "item_count": 1
+            },
+            {
                 "name": "Biker Dwayne",
                 "chest_unopened_img": "/images/trainers/biker.png",
                 "chest_opened_img": "/images/trainers/biker_bw.png",
@@ -12171,16 +12181,6 @@
                 ],
                 "visibility_rules": [
                     "show_items, opt_trainer_full"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Item By Biker Trio",
-                "access_rules": [
-                    "@route_8"
-                ],
-                "visibility_rules": [
-                    "show_items"
                 ],
                 "item_count": 1
             },
