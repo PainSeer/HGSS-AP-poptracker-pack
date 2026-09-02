@@ -43,7 +43,7 @@
     },
     {
         "name": "Kanto Badges Required to Fight Blue",
-        "img": "/images/settings/opt_blue.png",
+        "img": "/images/settings/opt_blue_badges.png",
         "codes": "opt_blue_badges",
         "type": "consumable",
         "min_quantity": 0,
@@ -321,14 +321,13 @@
         "stages": [
             {
                 "name": "Hidden Items are expected to be picked up without help",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_dowsing_off.png",
                 "codes": "opt_dowsing, opt_dowsing_off",
                 "inherit_codes": false
             },
             {
                 "name": "Hidden Items logically require the Dowsing Machine",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_dowsing_on.png",
                 "codes": "opt_dowsing, opt_dowsing_on",
                 "inherit_codes": false
             }

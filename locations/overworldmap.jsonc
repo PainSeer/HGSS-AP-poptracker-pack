@@ -1548,8 +1548,8 @@
             },
             {
                 "name": "Gym - Black Belt Lao",
-                "chest_unopened_img": "/images/trainers/blackbelt.png",
-                "chest_opened_img": "/images/trainers/blackbelt_bw.png",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
@@ -1560,8 +1560,8 @@
             },
             {
                 "name": "Gym - Black Belt Lung",
-                "chest_unopened_img": "/images/trainers/blackbelt.png",
-                "chest_opened_img": "/images/trainers/blackbelt_bw.png",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
@@ -1572,8 +1572,8 @@
             },
             {
                 "name": "Gym - Black Belt Yoshi",
-                "chest_unopened_img": "/images/trainers/blackbelt.png",
-                "chest_opened_img": "/images/trainers/blackbelt_bw.png",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
@@ -1584,8 +1584,8 @@
             },
             {
                 "name": "Gym - Black Belt Nob",
-                "chest_unopened_img": "/images/trainers/blackbelt.png",
-                "chest_opened_img": "/images/trainers/blackbelt_bw.png",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
@@ -6970,6 +6970,8 @@
             },
             {
                 "name": "Camper Tanner",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -6992,6 +6994,8 @@
             },
             {
                 "name": "Camper Clark",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -7332,6 +7336,8 @@
         "sections": [
             {
                 "name": "Biker Dale",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7342,6 +7348,8 @@
             },
             {
                 "name": "Biker Reese",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7352,6 +7360,8 @@
             },
             {
                 "name": "Biker Joel",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7362,6 +7372,8 @@
             },
             {
                 "name": "Biker Jacob",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7372,6 +7384,8 @@
             },
             {
                 "name": "Biker Aiden",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7382,6 +7396,8 @@
             },
             {
                 "name": "Biker Dan",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7392,6 +7408,8 @@
             },
             {
                 "name": "Biker Theron",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7414,6 +7432,8 @@
             },
             {
                 "name": "Biker Glenn",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7436,6 +7456,8 @@
             },
             {
                 "name": "Biker Teddy",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7446,6 +7468,8 @@
             },
             {
                 "name": "Biker Markey",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7456,6 +7480,8 @@
             },
             {
                 "name": "Biker Ernest",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7493,6 +7519,8 @@
         "sections": [
             {
                 "name": "Biker Charles",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_17"
                 ],
@@ -7888,6 +7916,8 @@
             },
             {
                 "name": "Camper Pedro",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_20_east"
                 ],
@@ -8294,6 +8324,8 @@
             },
             {
                 "name": "Camper Lloyd",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -9351,6 +9383,8 @@
             },
             {
                 "name": "Camper Roland",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -9711,6 +9745,8 @@
             },
             {
                 "name": "Camper Todd",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_34"
                 ],
@@ -9802,6 +9838,8 @@
             },
             {
                 "name": "Camper Elliot",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -9824,6 +9862,8 @@
             },
             {
                 "name": "Camper Ivan",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -10873,6 +10913,8 @@
         "sections": [
             {
                 "name": "Camper Spencer",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_43"
                 ],
@@ -11354,6 +11396,8 @@
         "sections": [
             {
                 "name": "Camper Ted",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_46"
                 ],
@@ -11447,6 +11491,8 @@
             },
             {
                 "name": "Camper Grant",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_47"
                 ],
@@ -11688,6 +11734,8 @@
             },
             {
                 "name": "Camper Virgil",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_6"
                 ],
@@ -11762,6 +11810,8 @@
         "sections": [
             {
                 "name": "Biker Dwayne",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -11772,6 +11822,8 @@
             },
             {
                 "name": "Biker Harris",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -11782,6 +11834,8 @@
             },
             {
                 "name": "Biker Zeke",
+                "chest_unopened_img": "/images/trainers/biker.png",
+                "chest_opened_img": "/images/trainers/biker_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -11915,6 +11969,8 @@
             },
             {
                 "name": "Camper Dean",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_9"
                 ],
@@ -11979,6 +12035,8 @@
             },
             {
                 "name": "Camper Sid",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@route_9"
                 ],
@@ -13223,6 +13281,8 @@
             },
             {
                 "name": "Gym - Scientist Lowell",
+                "chest_unopened_img": "/images/trainers/scientist.png",
+                "chest_opened_img": "/images/trainers/scientist_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13243,6 +13303,8 @@
             },
             {
                 "name": "Gym - Scientist Daniel",
+                "chest_unopened_img": "/images/trainers/scientist.png",
+                "chest_opened_img": "/images/trainers/scientist_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13273,6 +13335,8 @@
             },
             {
                 "name": "Gym - Scientist Linden",
+                "chest_unopened_img": "/images/trainers/scientist.png",
+                "chest_opened_img": "/images/trainers/scientist_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13505,6 +13569,8 @@
             },
             {
                 "name": "1F - Sage Chow",
+                "chest_unopened_img": "/images/trainers/sage.png",
+                "chest_opened_img": "/images/trainers/sage_bw.png",
                 "access_rules": [
                     "@sprout_tower_1f"
                 ],
@@ -13515,6 +13581,8 @@
             },
             {
                 "name": "2F - Sage Nico",
+                "chest_unopened_img": "/images/trainers/sage.png",
+                "chest_opened_img": "/images/trainers/sage_bw.png",
                 "access_rules": [
                     "@sprout_tower_2f"
                 ],
@@ -13535,6 +13603,8 @@
             },
             {
                 "name": "2F - Sage Edmond",
+                "chest_unopened_img": "/images/trainers/sage.png",
+                "chest_opened_img": "/images/trainers/sage_bw.png",
                 "access_rules": [
                     "@sprout_tower_2f"
                 ],
@@ -13555,6 +13625,8 @@
             },
             {
                 "name": "3F - Sage Jin",
+                "chest_unopened_img": "/images/trainers/sage.png",
+                "chest_opened_img": "/images/trainers/sage_bw.png",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -13565,6 +13637,8 @@
             },
             {
                 "name": "3F - Sage Neal",
+                "chest_unopened_img": "/images/trainers/sage.png",
+                "chest_opened_img": "/images/trainers/sage_bw.png",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -13575,6 +13649,8 @@
             },
             {
                 "name": "3F - Sage Troy",
+                "chest_unopened_img": "/images/trainers/sage.png",
+                "chest_opened_img": "/images/trainers/sage_bw.png",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -13660,6 +13736,8 @@
             },
             {
                 "name": "B1F - Trap Team Rocket Grunt 2",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b1f"
                 ],
@@ -13670,6 +13748,8 @@
             },
             {
                 "name": "B1F - Team Rocket Grunt 15",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b1f"
                 ],
@@ -13680,6 +13760,8 @@
             },
             {
                 "name": "B1F - Scientist Gregg",
+                "chest_unopened_img": "/images/trainers/scientist.png",
+                "chest_opened_img": "/images/trainers/scientist_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b1f"
                 ],
@@ -13744,6 +13826,8 @@
             },
             {
                 "name": "B2F - Team Rocket Grunt 16",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -13754,6 +13838,8 @@
             },
             {
                 "name": "B2F - Team Rocket Grunt 17",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -13776,6 +13862,8 @@
             },
             {
                 "name": "B2F - Team Rocket Grunt 18",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -13796,6 +13884,8 @@
             },
             {
                 "name": "B2F - Grunt in Double Battle with Lance",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -13844,6 +13934,8 @@
             },
             {
                 "name": "B3F - Scientist Ross",
+                "chest_unopened_img": "/images/trainers/scientist.png",
+                "chest_opened_img": "/images/trainers/scientist_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -13854,6 +13946,8 @@
             },
             {
                 "name": "B3F - Team Rocket Grunt 5",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -13864,6 +13958,8 @@
             },
             {
                 "name": "B3F - Scientist Mitch",
+                "chest_unopened_img": "/images/trainers/scientist.png",
+                "chest_opened_img": "/images/trainers/scientist_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -13874,6 +13970,8 @@
             },
             {
                 "name": "B3F - Team Rocket Grunt 19",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
