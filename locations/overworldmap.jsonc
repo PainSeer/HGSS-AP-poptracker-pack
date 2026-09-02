@@ -3145,6 +3145,8 @@
             },
             {
                 "name": "4F - Executive Proton 2",
+                "chest_unopened_img": "/images/trainers/proton.png",
+                "chest_opened_img": "/images/trainers/proton_bw.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_4f_east"
                 ],
@@ -3175,6 +3177,8 @@
             },
             {
                 "name": "5F - Executive Petrel",
+                "chest_unopened_img": "/images/trainers/petrel.png",
+                "chest_opened_img": "/images/trainers/petrel_bw.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_5f"
                 ],
@@ -3195,6 +3199,8 @@
             },
             {
                 "name": "5F - Executive Ariana",
+                "chest_unopened_img": "/images/trainers/ariana.png",
+                "chest_opened_img": "/images/trainers/ariana_bw.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_5f_east"
                 ],
@@ -4260,6 +4266,8 @@
             },
             {
                 "name": "Gym - Boarder Patton",
+                "chest_unopened_img": "/images/trainers/boarder.png",
+                "chest_opened_img": "/images/trainers/boarder_bw.png",
                 "access_rules": [
                     "@mahogany_gym_room_2"
                 ],
@@ -4270,6 +4278,8 @@
             },
             {
                 "name": "Gym - Skier Diana",
+                "chest_unopened_img": "/images/trainers/skier.png",
+                "chest_opened_img": "/images/trainers/skier_bw.png",
                 "access_rules": [
                     "@mahogany_gym_room_2"
                 ],
@@ -4280,6 +4290,8 @@
             },
             {
                 "name": "Gym - Boarder Deandre",
+                "chest_unopened_img": "/images/trainers/boarder.png",
+                "chest_opened_img": "/images/trainers/boarder_bw.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
@@ -4290,6 +4302,8 @@
             },
             {
                 "name": "Gym - Boarder Gerardo",
+                "chest_unopened_img": "/images/trainers/boarder.png",
+                "chest_opened_img": "/images/trainers/boarder_bw.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
@@ -4300,6 +4314,8 @@
             },
             {
                 "name": "Gym - Skier Jill",
+                "chest_unopened_img": "/images/trainers/skier.png",
+                "chest_opened_img": "/images/trainers/skier_bw.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
@@ -5281,6 +5297,8 @@
             },
             {
                 "name": "Pokefan Beverly",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@national_park"
                 ],
@@ -5291,6 +5309,8 @@
             },
             {
                 "name": "School Kid Jack",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@national_park"
                 ],
@@ -5301,6 +5321,8 @@
             },
             {
                 "name": "Pokefan William",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_bw.png",
                 "access_rules": [
                     "@national_park"
                 ],
@@ -5311,6 +5333,8 @@
             },
             {
                 "name": "Lass Krise",
+                "chest_unopened_img": "/images/trainers/lass.png",
+                "chest_opened_img": "/images/trainers/lass_bw.png",
                 "access_rules": [
                     "@national_park"
                 ],
@@ -5511,6 +5535,8 @@
             },
             {
                 "name": "Pokemon Center - Beauty Charlotte",
+                "chest_unopened_img": "/images/trainers/beauty.png",
+                "chest_opened_img": "/images/trainers/beauty_bw.png",
                 "access_rules": [
                     "@olivine_pokecenter_1f"
                 ],
@@ -5597,6 +5623,8 @@
             },
             {
                 "name": "Gym - Leader Jasmine",
+                "chest_unopened_img": "/images/trainers/jasmine.png",
+                "chest_opened_img": "/images/trainers/jasmine_bw.png",
                 "access_rules": [
                     "@olivine_gym, event_cure_amphy"
                 ],
@@ -5656,6 +5684,8 @@
         "sections": [
             {
                 "name": "2F - Gentleman Alfred",
+                "chest_unopened_img": "/images/trainers/gentleman.png",
+                "chest_opened_img": "/images/trainers/gentleman_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_2f"
                 ],
@@ -5666,6 +5696,8 @@
             },
             {
                 "name": "2F - Sailor Huey",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_2f"
                 ],
@@ -5676,6 +5708,8 @@
             },
             {
                 "name": "3F - Bird Keeper Theo",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_3f"
                 ],
@@ -5686,6 +5720,8 @@
             },
             {
                 "name": "3F - Bird Keeper Denis",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_3f"
                 ],
@@ -5708,6 +5744,8 @@
             },
             {
                 "name": "3F - Sailor Kent",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_3f"
                 ],
@@ -5738,6 +5776,8 @@
             },
             {
                 "name": "4F - Gentleman Preston",
+                "chest_unopened_img": "/images/trainers/gentleman.png",
+                "chest_opened_img": "/images/trainers/gentleman_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_4f"
                 ],
@@ -5748,6 +5788,8 @@
             },
             {
                 "name": "4F - Lass Connie",
+                "chest_unopened_img": "/images/trainers/lass.png",
+                "chest_opened_img": "/images/trainers/lass_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_4f"
                 ],
@@ -5768,6 +5810,8 @@
             },
             {
                 "name": "5F - Sailor Roberto",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_5f"
                 ],
@@ -5788,6 +5832,8 @@
             },
             {
                 "name": "5F - Sailor Terrell",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@olivine_lighthouse_5f"
                 ],
@@ -6012,6 +6058,8 @@
             },
             {
                 "name": "Gym - Leader Brock",
+                "chest_unopened_img": "/images/trainers/brock.png",
+                "chest_opened_img": "/images/trainers/brock_bw.png",
                 "access_rules": [
                     "@pewter_gym"
                 ],
@@ -6477,6 +6525,8 @@
         "sections": [
             {
                 "name": "School Kid Sherman",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_1"
                 ],
@@ -6487,6 +6537,8 @@
             },
             {
                 "name": "School Kid Danny",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_1"
                 ],
@@ -6627,6 +6679,8 @@
             },
             {
                 "name": "Pokefan Robert",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_10_south"
                 ],
@@ -6686,6 +6740,8 @@
             },
             {
                 "name": "Psychic Herman",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_11"
                 ],
@@ -6732,6 +6788,8 @@
             },
             {
                 "name": "Psychic Fidel",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_11"
                 ],
@@ -6781,6 +6839,8 @@
             },
             {
                 "name": "Bird Keeper Justin",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6845,6 +6905,8 @@
             },
             {
                 "name": "Bird Keeper Gail",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_12"
                 ],
@@ -6926,6 +6988,8 @@
         "sections": [
             {
                 "name": "Bird Keeper Bret",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -6948,6 +7012,8 @@
             },
             {
                 "name": "Bird Keeper Perry",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -6968,6 +7034,8 @@
             },
             {
                 "name": "Pokefan Joshua",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -6990,6 +7058,8 @@
             },
             {
                 "name": "Pokefan Alex",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -7075,6 +7145,8 @@
         "sections": [
             {
                 "name": "Bird Keeper Josh",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7085,6 +7157,8 @@
             },
             {
                 "name": "Pokefan Trevor",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7095,6 +7169,8 @@
             },
             {
                 "name": "Pokefan Carter",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7105,6 +7181,8 @@
             },
             {
                 "name": "Bird Keeper Roy",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7115,6 +7193,8 @@
             },
             {
                 "name": "School Kid Connor",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7125,6 +7205,8 @@
             },
             {
                 "name": "School Kid Torin",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7145,6 +7227,8 @@
             },
             {
                 "name": "School Kid Travis",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_14"
                 ],
@@ -7192,6 +7276,8 @@
         "sections": [
             {
                 "name": "School Kid Billy",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7224,6 +7310,8 @@
             },
             {
                 "name": "Pokefan Eleanor",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7244,6 +7332,8 @@
             },
             {
                 "name": "School Kid Kipp",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7284,6 +7374,8 @@
             },
             {
                 "name": "Pokefan Boone",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7294,6 +7386,8 @@
             },
             {
                 "name": "School Kid Johnny",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -7563,6 +7657,8 @@
             },
             {
                 "name": "Bird Keeper Bob",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_18"
                 ],
@@ -7573,6 +7669,8 @@
             },
             {
                 "name": "Bird Keeper Boris",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_18"
                 ],
@@ -7610,6 +7708,8 @@
         "sections": [
             {
                 "name": "Swimmer Tucker",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_19"
                 ],
@@ -7620,6 +7720,8 @@
             },
             {
                 "name": "Swimmer Debbie",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_19"
                 ],
@@ -7652,6 +7754,8 @@
             },
             {
                 "name": "Swimmer Harold",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_19"
                 ],
@@ -7662,6 +7766,8 @@
             },
             {
                 "name": "Swimmer Jerome",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_19"
                 ],
@@ -7850,6 +7956,8 @@
         "sections": [
             {
                 "name": "Swimmer Frankie",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7860,6 +7968,8 @@
             },
             {
                 "name": "Swimmer Mina",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7870,6 +7980,8 @@
             },
             {
                 "name": "Bird Keeper Bert",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7904,6 +8016,8 @@
             },
             {
                 "name": "Bird Keeper Ernie",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7914,6 +8028,8 @@
             },
             {
                 "name": "Swimmer Leona",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_20_west"
                 ],
@@ -7972,6 +8088,8 @@
             },
             {
                 "name": "Swimmer Luis",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_20_east"
                 ],
@@ -7982,6 +8100,8 @@
             },
             {
                 "name": "Swimmer Elmo",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_20_east"
                 ],
@@ -7992,6 +8112,8 @@
             },
             {
                 "name": "Swimmer Lori",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_20_east"
                 ],
@@ -8002,6 +8124,8 @@
             },
             {
                 "name": "Swimmer Nicole",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_20_east"
                 ],
@@ -8039,6 +8163,8 @@
         "sections": [
             {
                 "name": "Swimmer Nikki",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8073,6 +8199,8 @@
             },
             {
                 "name": "Bird Keeper Kinsley",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8095,6 +8223,8 @@
             },
             {
                 "name": "Swimmer Chelan",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8129,6 +8259,8 @@
             },
             {
                 "name": "Swimmer Tyson",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8163,6 +8295,8 @@
             },
             {
                 "name": "Swimmer Esteban",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8173,6 +8307,8 @@
             },
             {
                 "name": "Swimmer Duane",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8183,6 +8319,8 @@
             },
             {
                 "name": "Swimmer Kendra",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8193,6 +8331,8 @@
             },
             {
                 "name": "Bird Keeper Easton",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
@@ -8277,6 +8417,8 @@
             },
             {
                 "name": "Team Rocket Grunt",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@route_24, event_cerulean_meet_kanto_grunt"
                 ],
@@ -8326,6 +8468,8 @@
             },
             {
                 "name": "School Kid Dudley",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8336,6 +8480,8 @@
             },
             {
                 "name": "Lass Ellen",
+                "chest_unopened_img": "/images/trainers/lass.png",
+                "chest_opened_img": "/images/trainers/lass_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8346,6 +8492,8 @@
             },
             {
                 "name": "School Kid Joe",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8368,6 +8516,8 @@
             },
             {
                 "name": "Lass Laura",
+                "chest_unopened_img": "/images/trainers/lass.png",
+                "chest_opened_img": "/images/trainers/lass_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8378,6 +8528,8 @@
             },
             {
                 "name": "Lass Shannon",
+                "chest_unopened_img": "/images/trainers/lass.png",
+                "chest_opened_img": "/images/trainers/lass_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8398,6 +8550,8 @@
             },
             {
                 "name": "Super Nerd Pat",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -8534,6 +8688,8 @@
             },
             {
                 "name": "Psychic Vernon",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_26"
                 ],
@@ -8745,6 +8901,8 @@
             },
             {
                 "name": "Psychic Eli",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_27_east"
                 ],
@@ -9050,6 +9208,8 @@
             },
             {
                 "name": "Black Belt Manford",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -9060,6 +9220,8 @@
             },
             {
                 "name": "Black Belt Ander",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -9543,6 +9705,8 @@
             },
             {
                 "name": "Bird Keeper Peter",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -9663,6 +9827,8 @@
             },
             {
                 "name": "Pokefan Brandon",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_34"
                 ],
@@ -9777,6 +9943,8 @@
             },
             {
                 "name": "Policeman Keith",
+                "chest_unopened_img": "/images/trainers/policeman.png",
+                "chest_opened_img": "/images/trainers/policeman_bw.png",
                 "access_rules": [
                     "@route_34, nighttime"
                 ],
@@ -9916,6 +10084,8 @@
             },
             {
                 "name": "Juggler Irwin",
+                "chest_unopened_img": "/images/trainers/juggler.png",
+                "chest_opened_img": "/images/trainers/juggler_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -9938,6 +10108,8 @@
             },
             {
                 "name": "Policeman Dirk",
+                "chest_unopened_img": "/images/trainers/policeman.png",
+                "chest_opened_img": "/images/trainers/policeman_bw.png",
                 "access_rules": [
                     "@route_35, nighttime"
                 ],
@@ -9970,6 +10142,8 @@
             },
             {
                 "name": "Bird Keeper Bryan",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -10035,6 +10209,8 @@
             },
             {
                 "name": "Psychic Mark",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_36_southwest"
                 ],
@@ -10057,6 +10233,8 @@
             },
             {
                 "name": "School Kid Alan",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_36_southwest"
                 ],
@@ -10134,6 +10312,8 @@
         "sections": [
             {
                 "name": "Psychic Greg",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_37"
                 ],
@@ -10166,6 +10346,8 @@
             },
             {
                 "name": "Beauty Callie",
+                "chest_unopened_img": "/images/trainers/beauty.png",
+                "chest_opened_img": "/images/trainers/beauty_bw.png",
                 "access_rules": [
                     "@route_37"
                 ],
@@ -10176,6 +10358,8 @@
             },
             {
                 "name": "Beauty Kassandra",
+                "chest_unopened_img": "/images/trainers/beauty.png",
+                "chest_opened_img": "/images/trainers/beauty_bw.png",
                 "access_rules": [
                     "@route_37"
                 ],
@@ -10213,6 +10397,8 @@
         "sections": [
             {
                 "name": "Sailor Harry",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@route_38"
                 ],
@@ -10223,6 +10409,8 @@
             },
             {
                 "name": "Bird Keeper Toby",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_38"
                 ],
@@ -10243,6 +10431,8 @@
             },
             {
                 "name": "Beauty Valerie",
+                "chest_unopened_img": "/images/trainers/beauty.png",
+                "chest_opened_img": "/images/trainers/beauty_bw.png",
                 "access_rules": [
                     "@route_38"
                 ],
@@ -10253,6 +10443,8 @@
             },
             {
                 "name": "Lass Dana",
+                "chest_unopened_img": "/images/trainers/lass.png",
+                "chest_opened_img": "/images/trainers/lass_bw.png",
                 "access_rules": [
                     "@route_38"
                 ],
@@ -10263,6 +10455,8 @@
             },
             {
                 "name": "School Kid Chad",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@route_38"
                 ],
@@ -10398,6 +10592,8 @@
             },
             {
                 "name": "Psychic Nelson",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_39"
                 ],
@@ -10408,6 +10604,8 @@
             },
             {
                 "name": "Sailor Eugene",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@route_39"
                 ],
@@ -10418,6 +10616,8 @@
             },
             {
                 "name": "Pokefan Derek",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@route_39"
                 ],
@@ -10428,6 +10628,8 @@
             },
             {
                 "name": "Pokefan Ruth",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@route_39"
                 ],
@@ -10489,6 +10691,8 @@
             },
             {
                 "name": "Bird Keeper Hank",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_4"
                 ],
@@ -10570,6 +10774,8 @@
             },
             {
                 "name": "Swimmer Simon",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_40, $surf"
                 ],
@@ -10580,6 +10786,8 @@
             },
             {
                 "name": "Swimmer Elaine",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_40, $surf"
                 ],
@@ -10612,6 +10820,8 @@
             },
             {
                 "name": "Swimmer Randall",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_40, $surf"
                 ],
@@ -10622,6 +10832,8 @@
             },
             {
                 "name": "Swimmer Paula",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_40, $surf"
                 ],
@@ -10659,6 +10871,8 @@
         "sections": [
             {
                 "name": "Swimmer Susie",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10669,6 +10883,8 @@
             },
             {
                 "name": "Swimmer George",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10691,6 +10907,8 @@
             },
             {
                 "name": "Swimmer Wendy",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10701,6 +10919,8 @@
             },
             {
                 "name": "Swimmer Berke",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10711,6 +10931,8 @@
             },
             {
                 "name": "Swimmer Kara",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10733,6 +10955,8 @@
             },
             {
                 "name": "Swimmer Denise",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10743,6 +10967,8 @@
             },
             {
                 "name": "Swimmer Ronald",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10765,6 +10991,8 @@
             },
             {
                 "name": "Swimmer Kaylee",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10775,6 +11003,8 @@
             },
             {
                 "name": "Swimmer Matthew",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -10785,6 +11015,8 @@
             },
             {
                 "name": "Swimmer Charlie",
+                "chest_unopened_img": "/images/trainers/swimmer_m.png",
+                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
                 "access_rules": [
                     "@route_41, $surf"
                 ],
@@ -11118,6 +11350,8 @@
         "sections": [
             {
                 "name": "Psychic Phil",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -11230,6 +11464,8 @@
             },
             {
                 "name": "Bird Keeper Vance",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@route_44"
                 ],
@@ -11335,6 +11571,8 @@
             },
             {
                 "name": "Black Belt Kenji",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11912,6 +12150,8 @@
             },
             {
                 "name": "Super Nerd Sam",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -11932,6 +12172,8 @@
             },
             {
                 "name": "Super Nerd Tyrone",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -11942,6 +12184,8 @@
             },
             {
                 "name": "Gentleman Milton",
+                "chest_unopened_img": "/images/trainers/gentleman.png",
+                "chest_opened_img": "/images/trainers/gentleman_bw.png",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -12341,6 +12585,8 @@
             },
             {
                 "name": "Psychic Nathan",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@ruins_of_alph_northwest"
                 ],
@@ -12418,6 +12664,8 @@
         "sections": [
             {
                 "name": "1F Northwest Rooms - Pokefan Georgia",
+                "chest_unopened_img": "/images/trainers/pokefan_f.png",
+                "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -12428,6 +12676,8 @@
             },
             {
                 "name": "1F Northwest Rooms - Super Nerd Shawn",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -12438,6 +12688,8 @@
             },
             {
                 "name": "1F Northwest Rooms - Psychic Rodney",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -12448,6 +12700,8 @@
             },
             {
                 "name": "1F Northwest Rooms - Pokefan Jeremy",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -12458,6 +12712,8 @@
             },
             {
                 "name": "1F Northwest Rooms - Pokefan Colin",
+                "chest_unopened_img": "/images/trainers/pokefan_m.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -12492,6 +12748,8 @@
             },
             {
                 "name": "1F Northeast Rooms - Guitarist Clyde",
+                "chest_unopened_img": "/images/trainers/guitarist.png",
+                "chest_opened_img": "/images/trainers/guitarist_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northeast_rooms"
                 ],
@@ -12514,6 +12772,8 @@
             },
             {
                 "name": "1F Northeast Rooms - Beauty Cassie",
+                "chest_unopened_img": "/images/trainers/beauty.png",
+                "chest_opened_img": "/images/trainers/beauty_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northeast_rooms"
                 ],
@@ -12572,6 +12832,8 @@
             },
             {
                 "name": "1F Southeast Rooms - Burglar Corey",
+                "chest_unopened_img": "/images/trainers/burglar.png",
+                "chest_opened_img": "/images/trainers/burglar_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southeast_rooms"
                 ],
@@ -12582,6 +12844,8 @@
             },
             {
                 "name": "1F Southeast Rooms - Gentleman Edward",
+                "chest_unopened_img": "/images/trainers/gentleman.png",
+                "chest_opened_img": "/images/trainers/gentleman_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southeast_rooms"
                 ],
@@ -12592,6 +12856,8 @@
             },
             {
                 "name": "1F Southeast Rooms - Sailor Stanly",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_southeast_rooms"
                 ],
@@ -12626,6 +12892,8 @@
             },
             {
                 "name": "B1F - Sailor Jeff",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12636,6 +12904,8 @@
             },
             {
                 "name": "B1F - Sailor Garrett",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12646,6 +12916,8 @@
             },
             {
                 "name": "B1F - Sailor Kenneth",
+                "chest_unopened_img": "/images/trainers/sailor.png",
+                "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12656,6 +12928,8 @@
             },
             {
                 "name": "B1F - Juggler Fritz",
+                "chest_unopened_img": "/images/trainers/juggler.png",
+                "chest_opened_img": "/images/trainers/juggler_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12666,6 +12940,8 @@
             },
             {
                 "name": "B1F - Black Belt Wai",
+                "chest_unopened_img": "/images/trainers/black_belt.png",
+                "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12686,6 +12962,8 @@
             },
             {
                 "name": "B1F - School Kid Nate",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -12696,6 +12974,8 @@
             },
             {
                 "name": "B1F - School Kid Ricky",
+                "chest_unopened_img": "/images/trainers/school_kid.png",
+                "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
                     "@ss_aqua_b1f"
                 ],
@@ -13046,6 +13326,8 @@
             },
             {
                 "name": "Gym - Medium Rebecca",
+                "chest_unopened_img": "/images/trainers/medium.png",
+                "chest_opened_img": "/images/trainers/medium_bw.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -13056,6 +13338,8 @@
             },
             {
                 "name": "Gym - Medium Darcy",
+                "chest_unopened_img": "/images/trainers/medium.png",
+                "chest_opened_img": "/images/trainers/medium_bw.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -13066,6 +13350,8 @@
             },
             {
                 "name": "Gym - Psychic Jared",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -13076,6 +13362,8 @@
             },
             {
                 "name": "Gym - Psychic Franklin",
+                "chest_unopened_img": "/images/trainers/psychic.png",
+                "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -13096,6 +13384,8 @@
             },
             {
                 "name": "Gym - Leader Sabrina",
+                "chest_unopened_img": "/images/trainers/sabrina.png",
+                "chest_opened_img": "/images/trainers/sabrina_bw.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -13221,6 +13511,8 @@
             },
             {
                 "name": "B2F - Skier Cady",
+                "chest_unopened_img": "/images/trainers/skier.png",
+                "chest_opened_img": "/images/trainers/skier_bw.png",
                 "access_rules": [
                     "@seafoam_islands_b2f"
                 ],
@@ -13231,6 +13523,8 @@
             },
             {
                 "name": "B2F - Boarder Shaun",
+                "chest_unopened_img": "/images/trainers/boarder.png",
+                "chest_opened_img": "/images/trainers/boarder_bw.png",
                 "access_rules": [
                     "@seafoam_islands_b2f"
                 ],
@@ -13241,6 +13535,8 @@
             },
             {
                 "name": "B2F - Boarder Bryce",
+                "chest_unopened_img": "/images/trainers/boarder.png",
+                "chest_opened_img": "/images/trainers/boarder_bw.png",
                 "access_rules": [
                     "@seafoam_islands_b2f"
                 ],
@@ -13351,6 +13647,8 @@
             },
             {
                 "name": "Gym - Super Nerd Cary",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13373,6 +13671,8 @@
             },
             {
                 "name": "Gym - Super Nerd Merle",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13383,6 +13683,8 @@
             },
             {
                 "name": "Gym - Super Nerd Waldo",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13415,6 +13717,8 @@
             },
             {
                 "name": "Gym - Leader Blaine",
+                "chest_unopened_img": "/images/trainers/blaine.png",
+                "chest_opened_img": "/images/trainers/blaine_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -13486,6 +13790,8 @@
             },
             {
                 "name": "B1F - Team Rocket Grunt",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@slowpoke_well_b1f"
                 ],
@@ -13506,6 +13812,8 @@
             },
             {
                 "name": "B1F - Team Rocket Grunt F",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_f.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_f_bw.png",
                 "access_rules": [
                     "@slowpoke_well_b1f"
                 ],
@@ -13528,6 +13836,8 @@
             },
             {
                 "name": "B1F - Team Rocket Grunt 2",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@slowpoke_well_b1f"
                 ],
@@ -13538,6 +13848,8 @@
             },
             {
                 "name": "B1F - Executive Proton",
+                "chest_unopened_img": "/images/trainers/proton.png",
+                "chest_opened_img": "/images/trainers/proton_bw.png",
                 "access_rules": [
                     "@slowpoke_well_b1f"
                 ],
@@ -13729,6 +14041,8 @@
             },
             {
                 "name": "3F - Elder Li",
+                "chest_unopened_img": "/images/trainers/elder.png",
+                "chest_opened_img": "/images/trainers/elder_bw.png",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -13784,6 +14098,8 @@
         "sections": [
             {
                 "name": "B1F - Trap Team Rocket Grunt 1",
+                "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
+                "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b1f"
                 ],
@@ -13954,6 +14270,8 @@
             },
             {
                 "name": "B2F - Executive Ariana 2",
+                "chest_unopened_img": "/images/trainers/ariana.png",
+                "chest_opened_img": "/images/trainers/ariana_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -14080,6 +14398,8 @@
             },
             {
                 "name": "B3F - Executive Petrel 2",
+                "chest_unopened_img": "/images/trainers/petrel.png",
+                "chest_opened_img": "/images/trainers/petrel_bw.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -14684,6 +15004,8 @@
             },
             {
                 "name": "Gym - Juggler Horton",
+                "chest_unopened_img": "/images/trainers/juggler.png",
+                "chest_opened_img": "/images/trainers/juggler_bw.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
@@ -14694,6 +15016,8 @@
             },
             {
                 "name": "Gym - Guitarist Vincent",
+                "chest_unopened_img": "/images/trainers/guitarist.png",
+                "chest_opened_img": "/images/trainers/guitarist_bw.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
@@ -14704,6 +15028,8 @@
             },
             {
                 "name": "Gym - Gentleman Gregory",
+                "chest_unopened_img": "/images/trainers/gentleman.png",
+                "chest_opened_img": "/images/trainers/gentleman_bw.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
@@ -14724,6 +15050,8 @@
             },
             {
                 "name": "Gym - Leader Lt. Surge",
+                "chest_unopened_img": "/images/trainers/lt_surge.png",
+                "chest_opened_img": "/images/trainers/lt_surge_bw.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
@@ -14969,6 +15297,8 @@
             },
             {
                 "name": "3F - Rival",
+                "chest_unopened_img": "/images/trainers/rival.png",
+                "chest_opened_img": "/images/trainers/rival_bw.png",
                 "access_rules": [
                     "@victory_road_3f"
                 ],
@@ -15068,6 +15398,8 @@
             },
             {
                 "name": "Gym - Bird Keeper Abe",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@violet_gym"
                 ],
@@ -15078,6 +15410,8 @@
             },
             {
                 "name": "Gym - Bird Keeper Rod",
+                "chest_unopened_img": "/images/trainers/bird_keeper_guitarist.png",
+                "chest_opened_img": "/images/trainers/bird_keeper_guitarist_bw.png",
                 "access_rules": [
                     "@violet_gym"
                 ],
@@ -15098,6 +15432,8 @@
             },
             {
                 "name": "Gym - Leader Falkner",
+                "chest_unopened_img": "/images/trainers/falkner.png",
+                "chest_opened_img": "/images/trainers/falkner_bw.png",
                 "access_rules": [
                     "@violet_gym"
                 ],
@@ -15258,6 +15594,8 @@
             },
             {
                 "name": "Gym - Leader Blue",
+                "chest_unopened_img": "/images/trainers/blue.png",
+                "chest_opened_img": "/images/trainers/blue_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],
