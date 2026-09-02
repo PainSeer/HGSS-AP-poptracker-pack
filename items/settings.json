@@ -191,14 +191,13 @@
         "stages": [
             {
                 "name": "Randomize Fishing Rods - OFF",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_rods_off.png",
                 "codes": "opt_rods, opt_rods_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Fishing Rods - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_rods_on.png",
                 "codes": "opt_rods, opt_rods_on",
                 "inherit_codes": false
             }
@@ -255,14 +254,13 @@
         "stages": [
             {
                 "name": "Randomize Pokedex - OFF",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_pokedex_off.png",
                 "codes": "opt_pokedex, opt_pokedex_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Pokedex - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_pokedex_on.png",
                 "codes": "opt_pokedex, opt_pokedex_on",
                 "inherit_codes": false
             }
@@ -277,14 +275,13 @@
         "stages": [
             {
                 "name": "Randomize Pokegear Cards - OFF",
-                "img": "images/temp.png",
-                "img_mods": "@disabled",
+                "img": "images/settings/opt_pokegear_off.png",
                 "codes": "opt_pokegearcards, opt_pokegearcards_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Pokegear Cards - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_pokegear_on.png",
                 "codes": "opt_pokegearcards, opt_pokegearcards_on",
                 "inherit_codes": false
             }

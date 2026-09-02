@@ -4389,6 +4389,8 @@
             },
             {
                 "name": "Rival",
+                "chest_unopened_img": "/images/trainers/rival.png",
+                "chest_opened_img": "/images/trainers/rival_bw.png",
                 "access_rules": [
                     "@mount_moon"
                 ],
@@ -5976,6 +5978,8 @@
             },
             {
                 "name": "Gym - Camper Jerry",
+                "chest_unopened_img": "/images/trainers/camper.png",
+                "chest_opened_img": "/images/trainers/camper_bw.png",
                 "access_rules": [
                     "@pewter_gym"
                 ],
@@ -5986,6 +5990,8 @@
             },
             {
                 "name": "Gym - Hiker Edwin",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@pewter_gym"
                 ],
@@ -6163,6 +6169,8 @@
         "sections": [
             {
                 "name": "Entrance - Rival",
+                "chest_unopened_img": "/images/trainers/rival.png",
+                "chest_opened_img": "/images/trainers/rival_bw.png",
                 "access_rules": [
                     "@pokemon_league_entrance, event_defeat_lance_clair_dragons_den"
                 ],
@@ -6173,6 +6181,8 @@
             },
             {
                 "name": "Elite Four Will",
+                "chest_unopened_img": "/images/trainers/will.png",
+                "chest_opened_img": "/images/trainers/will_bw.png",
                 "access_rules": [
                     "@pokemon_league_will_room"
                 ],
@@ -6183,6 +6193,8 @@
             },
             {
                 "name": "Elite Four Koga",
+                "chest_unopened_img": "/images/trainers/koga.png",
+                "chest_opened_img": "/images/trainers/koga_bw.png",
                 "access_rules": [
                     "@pokemon_league_koga_room"
                 ],
@@ -6193,6 +6205,8 @@
             },
             {
                 "name": "Elite Four Bruno",
+                "chest_unopened_img": "/images/trainers/bruno.png",
+                "chest_opened_img": "/images/trainers/bruno_bw.png",
                 "access_rules": [
                     "@pokemon_league_bruno_room"
                 ],
@@ -6203,6 +6217,8 @@
             },
             {
                 "name": "Elite Four Karen",
+                "chest_unopened_img": "/images/trainers/karen.png",
+                "chest_opened_img": "/images/trainers/karen_bw.png",
                 "access_rules": [
                     "@pokemon_league_karen_room"
                 ],
@@ -6213,6 +6229,8 @@
             },
             {
                 "name": "Champion Lance",
+                "chest_unopened_img": "/images/trainers/lance.png",
+                "chest_opened_img": "/images/trainers/lance_bw.png",
                 "access_rules": [
                     "@pokemon_league_lance_room"
                 ],
@@ -6233,6 +6251,8 @@
             },
             {
                 "name": "Elite Four Will 2",
+                "chest_unopened_img": "/images/trainers/will.png",
+                "chest_opened_img": "/images/trainers/will_bw.png",
                 "access_rules": [
                     "@pokemon_league_will_room, $kanto_badges_req|8"
                 ],
@@ -6243,6 +6263,8 @@
             },
             {
                 "name": "Elite Four Koga 2",
+                "chest_unopened_img": "/images/trainers/koga.png",
+                "chest_opened_img": "/images/trainers/koga_bw.png",
                 "access_rules": [
                     "@pokemon_league_koga_room, $kanto_badges_req|8"
                 ],
@@ -6253,6 +6275,8 @@
             },
             {
                 "name": "Elite Four Bruno 2",
+                "chest_unopened_img": "/images/trainers/bruno.png",
+                "chest_opened_img": "/images/trainers/bruno_bw.png",
                 "access_rules": [
                     "@pokemon_league_bruno_room, $kanto_badges_req|8"
                 ],
@@ -6263,6 +6287,8 @@
             },
             {
                 "name": "Elite Four Karen 2",
+                "chest_unopened_img": "/images/trainers/karen.png",
+                "chest_opened_img": "/images/trainers/karen_bw.png",
                 "access_rules": [
                     "@pokemon_league_karen_room, $kanto_badges_req|8"
                 ],
@@ -6273,6 +6299,8 @@
             },
             {
                 "name": "Champion Lance 2",
+                "chest_unopened_img": "/images/trainers/lance.png",
+                "chest_opened_img": "/images/trainers/lance_bw.png",
                 "access_rules": [
                     "@pokemon_league_lance_room, $kanto_badges_req|8"
                 ],
@@ -6609,6 +6637,8 @@
             },
             {
                 "name": "Hiker Jim",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_10_south"
                 ],
@@ -7006,6 +7036,8 @@
             },
             {
                 "name": "Hiker Kenny",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_13"
                 ],
@@ -8984,6 +9016,8 @@
             },
             {
                 "name": "Firebreather Otis",
+                "chest_unopened_img": "/images/trainers/firebreather.png",
+                "chest_opened_img": "/images/trainers/firebreather_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -9004,6 +9038,8 @@
             },
             {
                 "name": "Hiker Bruce",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -9034,6 +9070,8 @@
             },
             {
                 "name": "Hiker Dwight",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -9044,6 +9082,8 @@
             },
             {
                 "name": "Firebreather Burt",
+                "chest_unopened_img": "/images/trainers/firebreather.png",
+                "chest_opened_img": "/images/trainers/firebreather_bw.png",
                 "access_rules": [
                     "@route_3"
                 ],
@@ -9562,6 +9602,8 @@
         "sections": [
             {
                 "name": "Hiker Anthony",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_33"
                 ],
@@ -9884,6 +9926,8 @@
             },
             {
                 "name": "Firebreather Walt",
+                "chest_unopened_img": "/images/trainers/firebreather.png",
+                "chest_opened_img": "/images/trainers/firebreather_bw.png",
                 "access_rules": [
                     "@route_35"
                 ],
@@ -10866,6 +10910,8 @@
             },
             {
                 "name": "Hiker Benjamin",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_42"
                 ],
@@ -11231,6 +11277,8 @@
             },
             {
                 "name": "Hiker Erik",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11253,6 +11301,8 @@
             },
             {
                 "name": "Hiker Parry",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11337,6 +11387,8 @@
             },
             {
                 "name": "Hiker Timothy",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11347,6 +11399,8 @@
             },
             {
                 "name": "Hiker Michael",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_45"
                 ],
@@ -11430,6 +11484,8 @@
             },
             {
                 "name": "Hiker Bailey",
+                "chest_unopened_img": "/images/trainers/hiker.png",
+                "chest_opened_img": "/images/trainers/hiker_bw.png",
                 "access_rules": [
                     "@route_46"
                 ],
@@ -12424,6 +12480,8 @@
             },
             {
                 "name": "1F Northeast Rooms - Firebreather Lyle",
+                "chest_unopened_img": "/images/trainers/firebreather.png",
+                "chest_opened_img": "/images/trainers/firebreather_bw.png",
                 "access_rules": [
                     "@ss_aqua_1f_northeast_rooms"
                 ],
@@ -14167,6 +14225,8 @@
             },
             {
                 "name": "1F - Firebreather Ray",
+                "chest_unopened_img": "/images/trainers/firebreather.png",
+                "chest_opened_img": "/images/trainers/firebreather_bw.png",
                 "access_rules": [
                     "@union_cave_1f"
                 ],
@@ -14223,6 +14283,8 @@
             },
             {
                 "name": "1F - Firebreather Bill",
+                "chest_unopened_img": "/images/trainers/firebreather.png",
+                "chest_opened_img": "/images/trainers/firebreather_bw.png",
                 "access_rules": [
                     "@union_cave_1f"
                 ],
