@@ -147,14 +147,14 @@
         "stages": [
             {
                 "name": "Randomize NPC Gifts - OFF",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_npcs.png",
                 "img_mods": "@disabled",
                 "codes": "opt_npcgifts, opt_npcgifts_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize NPC Gifts - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_npcs.png",
                 "codes": "opt_npcgifts, opt_npcgifts_on",
                 "inherit_codes": false
             }
