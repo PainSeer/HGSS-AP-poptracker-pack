@@ -81,14 +81,14 @@
         "stages": [
             {
                 "name": "Randomize Badges - OFF",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_badges.png",
                 "img_mods": "@disabled",
                 "codes": "opt_badges, opt_badges_off",
                 "inherit_codes": false
             },
             {
                 "name": "Randomize Badges - ON",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_badges.png",
                 "codes": "opt_badges, opt_badges_on",
                 "inherit_codes": false
             }
