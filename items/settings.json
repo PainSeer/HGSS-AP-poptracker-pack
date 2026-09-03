@@ -333,20 +333,20 @@
     {
         "name": "Goal",
         "type": "progressive",
-        "initial_stage_idx": 1,
+        "initial_stage_idx": 0,
         "loop": true,
         "allow_disabled": false,
         "stages": [ 
             {
-                "name": "Goal: Defeat Red",
-                "img": "images/settings/opt_goal_red.png",
-                "codes": "opt_goal, opt_goal_red",
-                "inherit_codes": false
-            },
-            {
                 "name": "Goal: Defeat Lance",
                 "img": "images/settings/opt_goal_lance.png",
                 "codes": "opt_goal, opt_goal_lance",
+                "inherit_codes": false
+            },
+            {
+                "name": "Goal: Defeat Red",
+                "img": "images/settings/opt_goal_red.png",
+                "codes": "opt_goal, opt_goal_red",
                 "inherit_codes": false
             }
         ]
@@ -359,16 +359,16 @@
         "allow_disabled": false,
         "stages": [
             {
-                "name": "Time Items are randomized",
-                "img": "images/settings/opt_time.png",
-                "codes": "opt_timeitems, opt_timeitems_on",
-                "inherit_codes": false
-            },
-            {
                 "name": "Time Items are pre-collected",
                 "img": "images/settings/opt_time.png",
                 "img_mods": "@disabled",
                 "codes": "opt_timeitems, opt_timeitems_precollect",
+                "inherit_codes": false
+            },
+            {
+                "name": "Time Items are randomized",
+                "img": "images/settings/opt_time.png",
+                "codes": "opt_timeitems, opt_timeitems_on",
                 "inherit_codes": false
             }
         ]
@@ -381,17 +381,17 @@
         "allow_disabled": false,
         "stages": [
             {
-                "name": "Sound Items are randomized",
-                "img": "images/settings/opt_sound.png",
-				"img_mods": "overlay|images/settings/overlays/sound.png",
-                "codes": "opt_sounditems, opt_sounditems_on",
-                "inherit_codes": false
-            },
-            {
                 "name": "Sound Items are pre-collected",
                 "img": "images/settings/opt_sound.png",
 				"img_mods": "@disabled",
                 "codes": "opt_sounditems, opt_sounditems_precollect",
+                "inherit_codes": false
+            },
+            {
+                "name": "Sound Items are randomized",
+                "img": "images/settings/opt_sound.png",
+				"img_mods": "overlay|images/settings/overlays/sound.png",
+                "codes": "opt_sounditems, opt_sounditems_on",
                 "inherit_codes": false
             }
         ]
@@ -453,17 +453,17 @@
         "allow_disabled": false,
         "stages": [
             {
-                "name": "Mossy Rock is in Ilex Forest",
-                "img": "images/settings/moss_rock.png",
- 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
-                "codes": "opt_mossy_rock, opt_mossy_rock_johto",
-                "inherit_codes": false
-            },
-            {
                 "name": "Mossy Rock is in Viridian Forest",
                 "img": "images/settings/moss_rock.png",
  	        "img_mods": "overlay|images/settings/overlays/area_kanto.png",
                 "codes": "opt_mossy_rock, opt_mossy_rock_kanto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Mossy Rock is in Ilex Forest",
+                "img": "images/settings/moss_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
+                "codes": "opt_mossy_rock, opt_mossy_rock_johto",
                 "inherit_codes": false
             },
             {
@@ -483,17 +483,17 @@
         "allow_disabled": false,
         "stages": [
             {
-                "name": "Icy Rock is in Ice Path",
-                "img": "images/settings/ice_rock.png",
- 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
-                "codes": "opt_icy_rock, opt_icy_rock_johto",
-                "inherit_codes": false
-            },
-            {
                 "name": "Icy Rock is in Seafoam Islands",
                 "img": "images/settings/ice_rock.png",
  	        "img_mods": "overlay|images/settings/overlays/area_kanto.png",
                 "codes": "opt_icy_rock, opt_icy_rock_kanto",
+                "inherit_codes": false
+            },
+            {
+                "name": "Icy Rock is in Ice Path",
+                "img": "images/settings/ice_rock.png",
+ 	        "img_mods": "overlay|images/settings/overlays/area_johto.png",
+                "codes": "opt_icy_rock, opt_icy_rock_johto",
                 "inherit_codes": false
             },
             {
