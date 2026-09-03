@@ -28,6 +28,28 @@
         ]
     },
     {
+        "name": "Vanilla Evolution Items Visibility",
+        "type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Don't show vanilla evolution items",
+                "img": "/images/tools/tools_encounters_on.png",
+                "img_mods": "@disabled",
+                "codes": "encevo_visibility, show_vanencevo",
+                "inherit_codes": false
+            },
+            {
+                "name": "Show vanilla evolution items",
+                "img": "/images/tools/tools_encounters_on.png",
+                "codes": "encevo_visibility, hide_vanencevo",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
         "name": "Auto-Tab",
         "type": "progressive",
         "loop": true,
