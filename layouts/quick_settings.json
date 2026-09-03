@@ -15,14 +15,14 @@
                         "item_size": "32,32",
                         "h_alignment": "center",
                         "rows": [
-                            [
-                                "automap",
-            			        "splitmap"
-                            ],
-                            [
-                                "location_visibility",
-                				"encounter_tracking"
-                            ],
+                            //[
+                            //    "automap",
+            			    //    "splitmap"
+                            //],
+                            //[
+                            //    "location_visibility",
+                			//	"encounter_tracking"
+                            //],
                             [
                                 "encevo_visibility",
                                 "hint_tracking"
@@ -50,10 +50,10 @@
                         "h_alignment": "center",
                         "rows": [
                             [
-                                "automap",
-                				"splitmap",
-                                "location_visibility",
-                				"encounter_tracking",
+                                //"automap",
+                				//"splitmap",
+                                //"location_visibility",
+                				//"encounter_tracking",
                                 "encevo_visibility",
                                 "hint_tracking"
                             ]
