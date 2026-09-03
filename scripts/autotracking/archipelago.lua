@@ -53,15 +53,14 @@ function onClear(slot_data)
         Tracker:AddLayouts("layouts/errors/error_singe.json")
         return
     elseif GAME == "Pokemon HeartGold and SoulSilver" then
-        -- we don't care about version yet
-        Tracker:AddLayouts("layouts/tracker.json")
-        --local version = tostring(slot_data["version"])
-        --local major_version = version:match("^([^.]+%.[^.]+)%.")
-        --if major_version == "0.2" then
-        --    -- yey. pass.
-        --else
-        --    Tracker:AddLayouts("layouts/errors/error_version.json")
-        --end
+        local version = tostring(slot_data["version"])
+        local major_version = version:match("^([^.]+%.[^.]+)%.")
+        local patch_version = tonumber(version:match("^[^.]+%.[^.]+%.(%d+)"))
+        if major_version == "0.0" and patch_version >= 6 then
+            toggle_trackerlayout()
+        else
+            Tracker:AddLayouts("layouts/errors/error_version.json")
+        end
     else
         Tracker:AddLayouts("layouts/errors/error_game.json")
         return
