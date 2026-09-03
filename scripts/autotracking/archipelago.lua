@@ -263,7 +263,7 @@ function onClear(slot_data)
     local key = kanto .. johto .. pokemon_league .. mount_silver
 
     -- Set CurrentStage for "flyunlocks"
-    Tracker:FindObjectForCode("opt_randomize_fly_items").CurrentStage = stages[key] or 0
+    toggle_trackerlayout()
 
     -- resetting datastorage events that aren't reset at other places
     updateEvents(0)
