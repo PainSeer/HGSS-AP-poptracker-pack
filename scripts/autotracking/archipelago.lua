@@ -261,12 +261,10 @@ function onClear(slot_data)
     -- Concatenate values to form the key
     local key = kanto .. johto .. pokemon_league .. mount_silver
 
-    -- Set CurrentStage for "flyunlocks"
-    toggle_trackerlayout()
-
     -- resetting datastorage events that aren't reset at other places
     updateEvents(0)
 
+    -- resets all vanilla key items
     for register = 1, 3 do
         local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
         for _, obj in ipairs(list) do
@@ -280,7 +278,6 @@ function onClear(slot_data)
         end
     end
     -- note: hints, seen, caught, are reset in other places
-    --
 
     if Archipelago.PlayerNumber > -1 then
         local suffix = TEAM_NUMBER .. "_" .. PLAYER_ID
