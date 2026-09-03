@@ -1,4 +1,4 @@
-FLAG_EVENT_CODES = {
+FLAG_EVENT1_CODES = {
     "event_beat_sprout_tower",
     "event_burned_tower_disperse_legendary_dogs",
     "event_cerulean_meet_kanto_grunt",
@@ -30,7 +30,10 @@ FLAG_EVENT_CODES = {
     "event_ecruteak_dance_theater_defeat_team_rocket",
     "event_elms_lab_get_master_ball",
     "event_farfetchd_rescue",
-    "event_get_kenya",
+    "event_get_kenya"
+}
+
+FLAG_EVENT2_CODES = {
     "event_get_mystery_egg",
     "event_get_togepi_egg",
     "event_give_kenya",

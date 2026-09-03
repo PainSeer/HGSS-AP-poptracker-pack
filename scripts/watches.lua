@@ -37,7 +37,11 @@ for _, code in ipairs({"upgradableradiopokegearcard_1", "upgradableradiopokegear
 end
 
 -- Event Location Syncs
-for _, code in ipairs(FLAG_EVENT_CODES) do
+for _, code in ipairs(FLAG_EVENT1_CODES) do
+    ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
+    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
+end
+for _, code in ipairs(FLAG_EVENT2_CODES) do
     ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
     ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
 end

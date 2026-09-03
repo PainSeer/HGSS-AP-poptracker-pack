@@ -262,7 +262,8 @@ function onClear(slot_data)
     local key = kanto .. johto .. pokemon_league .. mount_silver
 
     -- resetting datastorage events that aren't reset at other places
-    updateEvents(0)
+    updateEvents(1, 0)
+    updateEvents(2, 0)
 
     -- resets all vanilla key items
     for register = 1, 3 do
@@ -280,18 +281,21 @@ function onClear(slot_data)
     -- note: hints, seen, caught, are reset in other places
 
     if Archipelago.PlayerNumber > -1 then
-        local suffix = TEAM_NUMBER .. "_" .. PLAYER_ID
-        local function makeID(s) return "pokemon_hgss_" .. s .. suffix end
+        local slot = TEAM_NUMBER .. "_" .. PLAYER_ID
+        local function makeID(key, suffix)
+            return "pokemon_hgss_" .. key .. slot .. (suffix or "")
+        end
         IDs = {
-            EVENT      = makeID("tracked_events_"),
+            EVENT1     = makeID("tracked_events_", "_0"),
+            EVENT2     = makeID("tracked_events_", "_1"),
 --            SEEN       = makeID("seen_pokemon_"),
 --            CAUGHT     = makeID("caught_pokemon_"),
 --            ROADBLOCK  = makeID("saw_locations_"),
-            KEY1       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_0",
-            KEY2       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_1",
-            KEY3       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_2",
-            KEY4       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_3",
-            HINT       = "_read_hints_" .. suffix,
+            KEY1       = makeID("tracked_unrandomized_required_locations_", "_0"),
+            KEY2       = makeID("tracked_unrandomized_required_locations_", "_1"),
+            KEY3       = makeID("tracked_unrandomized_required_locations_", "_2"),
+            KEY4       = makeID("tracked_unrandomized_required_locations_", "_3"),
+            HINT       = makeID("_read_hints_", ""),
         }
         
         for _, id in pairs(IDs) do
@@ -455,8 +459,10 @@ end
 
 function onNotify(key, value, old_value)
     if value ~= nil and value ~= 0 and old_value ~= value then
-        if key == IDs.EVENT then
-            updateEvents(value)
+        if key == IDs.EVENT1 then
+            updateEvents(1, value)
+        elseif key == IDs.EVENT2 then
+            updateEvents(2, value)
 --        elseif key == IDs.ROADBLOCK then
 --            updateRoadblock(value)
         elseif key == IDs.KEY1 then
@@ -478,12 +484,14 @@ function onNotify(key, value, old_value)
     end
 end
 
-function updateEvents(value)
-    if value ~= nil then
-        for i, code in ipairs(FLAG_EVENT_CODES) do
-            local bit = (value >> (i - 1)) & 1
-            Tracker:FindObjectForCode(code).Active = (bit == 1)
-        end
+function updateEvents(register, value)
+    if value == nil then return end
+    
+    local list = _G["FLAG_EVENT" .. tostring(register) .. "_CODES"]
+    
+    for i, code in ipairs(list) do
+        local bit = (value >> (i - 1)) & 1
+        Tracker:FindObjectForCode(code).Active = (bit == 1)
     end
 end
 
