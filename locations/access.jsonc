@@ -691,7 +691,7 @@
     {
         "name": "diglett_cave",
         "access_rules": [
-            "@route_11, expn_card",
+            "@route_11, upgradableradiopokegearcard_2",
             "@route_2_east"
         ]
     },
@@ -2927,7 +2927,7 @@
     {
         "name": "ruins_of_alph_southeast_entrance_second_room",
         "access_rules": [
-            "@ruins_of_alph_southeast_entrance_first_room, $flash"
+            "@ruins_of_alph_southeast_entrance_first_room, tm70flash"
         ]
     },
     {

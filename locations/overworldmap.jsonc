@@ -3811,7 +3811,7 @@
             {
                 "name": "Rescue Farfetch'd (Event)",
                 "access_rules": [
-                    "@ilex_forest_south"
+                    "@ilex_forest_south, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
                     "show_items"
@@ -3871,12 +3871,12 @@
                 "item_count": 1
             },
             {
-                "name": "Item West of Pond",
+                "name": "Hidden Item West of Pond",
                 "access_rules": [
                     "@ilex_forest_north, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_overworld_on"
+                    "show_items, opt_hidden_on"
                 ],
                 "item_count": 1
             },
@@ -11662,7 +11662,7 @@
         ]
     },
     {
-        "name": "Low Tide",
+        "name": "Route 43 Gatehouse",
         "chest_unopened_img": "/images/locations/ball.png",
         "chest_opened_img": "/images/locations/ballopen.png",
         "sections": [
@@ -11680,23 +11680,23 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 274,
+                "x": 276,
                 "y": 96,
-                "size": 6,
+                "size": 8,
 		"shape": "diamond"
             },
             {
                 "map": "johtokanto_v",
-                "x": 274,
+                "x": 276,
                 "y": 96,
-                "size": 6,
+                "size": 8,
 		"shape": "diamond"
             },
             {
                 "map": "johto",
-                "x": 274,
+                "x": 276,
                 "y": 96,
-                "size": 6,
+                "size": 8,
 		"shape": "diamond"
             }
         ]
