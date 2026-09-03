@@ -6636,12 +6636,12 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item Behind Southeast Breakable Rocks",
+                "name": "B1F - Hidden Item Behind Southeast Breakable Rocks",
                 "access_rules": [
                     "@rock_tunnel_b1f, $rock_smash"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_overworld_on"
+                    "show_items, opt_hidden_on"
                 ],
                 "item_count": 1
             }
@@ -10103,7 +10103,7 @@
         "chest_opened_img": "/images/locations/ballopen.png",
         "sections": [
             {
-                "name": "Gift From Woman With Butterfree",
+                "name": "Gatehouse - Gift From Woman With Butterfree",
                 "access_rules": [
                     "@route_34_ilex_forest_gatehouse"
                 ],
@@ -10311,7 +10311,7 @@
         "chest_opened_img": "/images/locations/ballopen.png",
         "sections": [
             {
-                "name": "Get Kenya (Event)",
+                "name": "Gatehouse - Get Kenya (Event)",
                 "access_rules": [
                     "@route_35_goldenrod_gatehouse"
                 ],
@@ -10321,7 +10321,7 @@
                 "hosted_item": "event_get_kenya_hosted"
             },
             {
-                "name": "Gift From Guard After Delivering Kenya",
+                "name": "Gatehouse - Gift From Guard After Delivering Kenya",
                 "access_rules": [
                     "@route_35_goldenrod_gatehouse, event_give_kenya"
                 ],
