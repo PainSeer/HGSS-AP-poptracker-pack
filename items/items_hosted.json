@@ -1,10 +1,620 @@
 [
     {
-        "name": "",
+        "name": "Boulder Badge",
         "type": "toggle",
-        "img": "",
+        "img": "images/items/boulderbadge.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": ""
+        "codes": "boulderbadge_hosted"
+    },
+    {
+        "name": "Cascade Badge",
+        "type": "toggle",
+        "img": "images/items/cascadebadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "cascadebadge_hosted"
+    },
+    {
+        "name": "Thunder Badge",
+        "type": "toggle",
+        "img": "images/items/thunderbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "thunderbadge_hosted"
+    },
+    {
+        "name": "Rainbow Badge",
+        "type": "toggle",
+        "img": "images/items/rainbowbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "rainbowbadge_hosted"
+    },
+    {
+        "name": "Soul Badge",
+        "type": "toggle",
+        "img": "images/items/soulbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "soulbadge_hosted"
+    },
+    {
+        "name": "Marsh Badge",
+        "type": "toggle",
+        "img": "images/items/marshbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "marshbadge_hosted"
+    },
+    {
+        "name": "Volcano Badge",
+        "type": "toggle",
+        "img": "images/items/volcanobadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "volcanobadge_hosted"
+    },
+    {
+        "name": "Earth Badge",
+        "type": "toggle",
+        "img": "images/items/earthbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "earthbadge_hosted"
+    },
+    {
+        "name": "Zephyr Badge",
+        "type": "toggle",
+        "img": "images/items/zephyrbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "zephyrbadge_hosted"
+    },
+    {
+        "name": "Hive Badge",
+        "type": "toggle",
+        "img": "images/items/hivebadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "hivebadge_hosted"
+    },
+    {
+        "name": "Plain Badge",
+        "type": "toggle",
+        "img": "images/items/plainbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "plainbadge_hosted"
+    },
+    {
+        "name": "Fog Badge",
+        "type": "toggle",
+        "img": "images/items/fogbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "fogbadge_hosted"
+    },
+    {
+        "name": "Storm Badge",
+        "type": "toggle",
+        "img": "images/items/stormbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "stormbadge_hosted"
+    },
+    {
+        "name": "Mineral Badge",
+        "type": "toggle",
+        "img": "images/items/mineralbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "mineralbadge_hosted"
+    },
+    {
+        "name": "Glacier Badge",
+        "type": "toggle",
+        "img": "images/items/glacierbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "glacierbadge_hosted"
+    },
+    {
+        "name": "Rising Badge",
+        "type": "toggle",
+        "img": "images/items/risingbadge.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "risingbadge_hosted"
+    },
+    {
+        "name": "HM01 Cut",
+        "type": "toggle",
+        "img": "images/items/hm01_cut.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/hivebadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/hivebadge.png",
+        "codes": "hm01cut_hosted"
+    },
+    {
+        "name": "HM02 Fly",
+        "type": "toggle",
+        "img": "images/items/hm02_fly.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/stormbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/stormbadge.png",
+        "codes": "hm02fly_hosted"
+    },
+    {
+        "name": "HM03 Surf",
+        "type": "toggle",
+        "img": "images/items/hm03_surf.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/fogbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/fogbadge.png",
+        "codes": "hm03surf_hosted"
+    },
+    {
+        "name": "HM04 Strength",
+        "type": "toggle",
+        "img": "images/items/hm04_strength.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/plainbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/plainbadge.png",
+        "codes": "hm04strength_hosted"
+    },
+    {
+        "name": "HM05 Whirlpool",
+        "type": "toggle",
+        "img": "images/items/hm05_whirlpool.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/glacierbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/glacierbadge.png",
+        "codes": "hm05whirlpool_hosted"
+    },
+    {
+        "name": "HM06 Rock Smash",
+        "type": "toggle",
+        "img": "images/items/hm06_rocksmash.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/zephyrbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/zephyrbadge.png",
+        "codes": "hm06rocksmash_hosted"
+    },
+    {
+        "name": "HM07 Waterfall",
+        "type": "toggle",
+        "img": "images/items/hm07_waterfall.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/risingbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/risingbadge.png",
+        "codes": "hm07waterfall_hosted"
+    },
+    {
+        "name": "HM08 Rock Climb",
+        "type": "toggle",
+        "img": "images/items/hm08_rockclimb.png",
+        "img_mods": "@disabled,overlay|images/items/badge_overlays/earthbadge.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/badge_overlays/earthbadge.png",
+        "codes": "hm08rockclimb_hosted"
+    },
+    {
+        "name": "TM70 Flash",
+        "type": "toggle",
+        "img": "images/items/tm70_flash.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tm70flash_hosted"
+    },
+    {
+        "name": "Dowsing Machine",
+        "type": "toggle",
+        "img": "images/items/dowsing_machine.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dowsingmachine_hosted"
+    },
+    {
+        "name": "Bicycle",
+        "type": "toggle",
+        "img": "images/items/bicycle.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "bicycle_hosted"
+    },
+    {
+        "name": "squirtbottle",
+        "type": "toggle",
+        "img": "images/items/squirtbottle.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "squirtbottle_hosted"
+    },
+    {
+        "name": "Escape Rope",
+        "type": "toggle",
+        "img": "images/items/escaperope.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "escaperope_hosted"
+    },
+    {
+        "name": "Clear Bell",
+        "type": "toggle",
+        "img": "images/items/clearbell.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "clearbell_hosted"
+    },
+    {
+        "name": "Basement Key",
+        "type": "toggle",
+        "img": "images/items/basement_key.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "basementkey_hosted"
+    },
+    {
+        "name": "Card Key",
+        "type": "toggle",
+        "img": "images/items/cardkey.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "cardkey_hosted"
+    },
+    {
+        "name": "Pass",
+        "type": "toggle",
+        "img": "images/items/pass.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "pass_hosted"
+    },
+    {
+        "name": "Oran berry",
+        "type": "toggle",
+        "img": "images/items/oranberry.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "oranberry_hosted"
+    },
+    {
+        "name": "Red Scale",
+        "type": "toggle",
+        "img": "images/items/redscale.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "redscale_hosted"
+    },
+    {
+        "name": "Lost Item",
+        "type": "toggle",
+        "img": "images/items/lostitem.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "lostitem_hosted"
+    },
+    {
+        "name": "Machine Part",
+        "type": "toggle",
+        "img": "images/items/machine_part.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "machinepart_hosted"
+    },
+    {
+        "name": "Silver Wing",
+        "type": "toggle",
+        "img": "images/items/silver_wing.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "silverwing_hosted"
+    },
+    {
+        "name": "Rainbow Wing",
+        "type": "toggle",
+        "img": "images/items/rainbow_wing.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "rainbowwing_hosted"
+    },
+    {
+        "name": "Tidal Bell",
+        "type": "toggle",
+        "img": "images/items/tidalbell.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "tidalbell_hosted"
+    },
+    {
+        "name": "Rage Candy Bar",
+        "type": "toggle",
+        "img": "images/items/rage_candy_bar.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "ragecandybar_hosted"
+    },
+    {
+        "name": "Hoenn Sound",
+        "type": "toggle",
+        "img": "images/items/hoenn.png",
+        "img_mods": "overlay|images/items/overlays/sound.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "hoennsound_hosted"
+    },
+    {
+        "name": "Sinnoh Sound",
+        "type": "toggle",
+        "img": "images/items/sinnoh.png",
+        "img_mods": "overlay|images/items/overlays/sound.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "sinnohsound_hosted"
+    },
+    {
+        "name": "Morning",
+        "type": "toggle",
+        "img": "images/items/morning.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "morningtime_hosted"
+    },
+    {
+        "name": "Day",
+        "type": "toggle",
+        "img": "images/items/daytime.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "daytime_hosted"
+    },
+    {
+        "name": "Night",
+        "type": "toggle",
+        "img": "images/items/nighttime.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "nighttime_hosted"
+    },
+    {
+        "name": "Old Rod",
+        "type": "toggle",
+        "img": "images/items/old_rod.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "oldrod_hosted"
+    },
+    {
+        "name": "Good Rod",
+        "type": "toggle",
+        "img": "images/items/good_rod.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "goodrod_hosted"
+    },
+    {
+        "name": "Super Rod",
+        "type": "toggle",
+        "img": "images/items/super_rod.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "superrod_hosted"
+    },
+    {
+        "name": "Secret Potion",
+        "type": "toggle",
+        "img": "images/items/secretpotion.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "secretpotion_hosted"
+    },
+    {
+        "name": "S.S. Ticket",
+        "type": "toggle",
+        "img": "images/items/ss_ticket.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "ssticket_hosted"
+    },
+    {
+        "name": "Update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "update_hosted"
+    },
+    {
+        "name": "HM Reader",
+        "type": "toggle",
+        "img": "images/items/hmreader.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "hmreader_hosted"
+    },
+    {
+        "name": "Linking Cord",
+        "type": "toggle",
+        "img": "images/items/linkingcord.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "linkingcord_hosted"
+    },
+    {
+        "name": "Dawn Stone",
+        "type": "toggle",
+        "img": "images/items/dawnstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dawnstone_hosted"
+    },
+    {
+        "name": "Dusk Stone",
+        "type": "toggle",
+        "img": "images/items/duskstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "duskstone_hosted"
+    },
+    {
+        "name": "Fire Stone",
+        "type": "toggle",
+        "img": "images/items/firestone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "firestone_hosted"
+    },
+    {
+        "name": "Leaf Stone",
+        "type": "toggle",
+        "img": "images/items/leafstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "leafstone_hosted"
+    },
+    {
+        "name": "Moon Stone",
+        "type": "toggle",
+        "img": "images/items/moonstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "moonstone_hosted"
+    },
+    {
+        "name": "Shiny Stone",
+        "type": "toggle",
+        "img": "images/items/shinystone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "shinystone_hosted"
+    },
+    {
+        "name": "Thunderstone",
+        "type": "toggle",
+        "img": "images/items/thunderstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "thunderstone_hosted"
+    },
+    {
+        "name": "Sun Stone",
+        "type": "toggle",
+        "img": "images/items/sunstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "sunstone_hosted"
+    },
+    {
+        "name": "Water Stone",
+        "type": "toggle",
+        "img": "images/items/waterstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "waterstone_hosted"
+    },
+    {
+        "name": "Oval Stone",
+        "type": "toggle",
+        "img": "images/items/ovalstone.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "ovalstone_hosted"
+    },
+    {
+        "name": "King's Rock",
+        "type": "toggle",
+        "img": "images/items/kingsrock.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "kingsrock_hosted"
+    },
+    {
+        "name": "Deep Sea Tooth",
+        "type": "toggle",
+        "img": "images/items/deepseatooth.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "deepseatooth_hosted"
+    },
+    {
+        "name": "Deep Sea Scale",
+        "type": "toggle",
+        "img": "images/items/deepseascale.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "deepseascale_hosted"
+    },
+    {
+        "name": "Metal Coat",
+        "type": "toggle",
+        "img": "images/items/metalcoat.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "metalcoat_hosted"
+    },
+    {
+        "name": "Dragon Scale",
+        "type": "toggle",
+        "img": "images/items/dragonscale.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dragonscale_hosted"
+    },
+    {
+        "name": "Up-Grade",
+        "type": "toggle",
+        "img": "images/items/upgrade.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "upgrade_hosted"
+    },
+    {
+        "name": "Protector",
+        "type": "toggle",
+        "img": "images/items/protector.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "protector_hosted"
+    },
+    {
+        "name": "Electirizer",
+        "type": "toggle",
+        "img": "images/items/electirizer.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "electirizer_hosted"
+    },
+    {
+        "name": "Magmarizer",
+        "type": "toggle",
+        "img": "images/items/magmarizer.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "magmarizer_hosted"
+    },
+    {
+        "name": "Dubious Disc",
+        "type": "toggle",
+        "img": "images/items/dubiousdisc.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "dubiousdisc_hosted"
+    },
+    {
+        "name": "Reaper Cloth",
+        "type": "toggle",
+        "img": "images/items/reapercloth.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "reapercloth_hosted"
+    },
+    {
+        "name": "Razor Claw",
+        "type": "toggle",
+        "img": "images/items/razorclaw.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "razorclaw_hosted"
+    },
+    {
+        "name": "Razor Fang",
+        "type": "toggle",
+        "img": "images/items/razorfang.png",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "codes": "razorfang_hosted"
     }
 ]

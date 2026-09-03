@@ -53,12 +53,11 @@ function onClear(slot_data)
         Tracker:AddLayouts("layouts/errors/error_singe.json")
         return
     elseif GAME == "Pokemon HeartGold and SoulSilver" then
-        -- we don't care about version yet
-        Tracker:AddLayouts("layouts/tracker.json")
         --local version = tostring(slot_data["version"])
         --local major_version = version:match("^([^.]+%.[^.]+)%.")
-        --if major_version == "0.2" then
-        --    -- yey. pass.
+        --local patch_version = tonumber(version:match("^[^.]+%.[^.]+%.(%d+)"))
+        --if major_version == "0.0" and patch_version >= 6 then
+            toggle_trackerlayout() -- the version in slot-data is currently fucked. It's always 1 lol.
         --else
         --    Tracker:AddLayouts("layouts/errors/error_version.json")
         --end
@@ -262,12 +261,10 @@ function onClear(slot_data)
     -- Concatenate values to form the key
     local key = kanto .. johto .. pokemon_league .. mount_silver
 
-    -- Set CurrentStage for "flyunlocks"
-    toggle_trackerlayout()
-
     -- resetting datastorage events that aren't reset at other places
     updateEvents(0)
 
+    -- resets all vanilla key items
     for register = 1, 3 do
         local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
         for _, obj in ipairs(list) do
@@ -281,7 +278,6 @@ function onClear(slot_data)
         end
     end
     -- note: hints, seen, caught, are reset in other places
-    --
 
     if Archipelago.PlayerNumber > -1 then
         local suffix = TEAM_NUMBER .. "_" .. PLAYER_ID
@@ -294,6 +290,7 @@ function onClear(slot_data)
             KEY1       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_0",
             KEY2       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_1",
             KEY3       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_2",
+            KEY4       = "pokemon_hgss_tracked_unrandomized_required_locations_"..suffix.."_3",
             HINT       = "_read_hints_" .. suffix,
         }
         
@@ -470,8 +467,6 @@ function onNotify(key, value, old_value)
             updateVanillaKeyItems(3, value)
         elseif key == IDs.KEY4 then
             updateVanillaKeyItems(4, value)
---        elseif key == IDs.KEY5 then
---            updateVanillaKeyItems(5, value)
         elseif key == IDs.HINT then
             SAVED_HINTS = value
             updateHints()

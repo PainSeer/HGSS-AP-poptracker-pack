@@ -245,30 +245,30 @@
         "img": "images/items/tm70_flash.png",
         "codes": "tm70flash"
     },
-    {
-        "name": "TM93 Rollout",
-        "type": "toggle",
-        "img": "images/items/tm93rollout.png",
-        "codes": "tm93rollout"
-    },
-    {
-        "name": "TM94 Ancient Power",
-        "type": "toggle",
-        "img": "images/items/tm94ancientpower.png",
-        "codes": "tm94ancientpower"
-    },
-    {
-        "name": "TM95 Double Hit",
-        "type": "toggle",
-        "img": "images/items/tm95doublehit.png",
-        "codes": "tm95doublehit"
-    },
-    {
-        "name": "TM96 Mimic",
-        "type": "toggle",
-        "img": "images/items/tm96mimic.png",
-        "codes": "tm96mimic"
-    },
+    //{
+    //    "name": "TM93 Rollout",
+    //    "type": "toggle",
+    //    "img": "images/items/tm93rollout.png",
+    //    "codes": "tm93rollout"
+    //},
+    //{
+    //    "name": "TM94 Ancient Power",
+    //    "type": "toggle",
+    //    "img": "images/items/tm94ancientpower.png",
+    //    "codes": "tm94ancientpower"
+    //},
+    //{
+    //    "name": "TM95 Double Hit",
+    //    "type": "toggle",
+    //    "img": "images/items/tm95doublehit.png",
+    //    "codes": "tm95doublehit"
+    //},
+    //{
+    //    "name": "TM96 Mimic",
+    //    "type": "toggle",
+    //    "img": "images/items/tm96mimic.png",
+    //    "codes": "tm96mimic"
+    //},
     {
         "name": "Upgradable Pokedex",
         "type": "progressive",
@@ -384,12 +384,12 @@
         "img": "images/items/rainbow_wing.png",
         "codes": "rainbowwing"
     },
-//    {
-//        "name": "Mystery Egg",
-//        "type": "toggle",
-//        "img": "images/items/mysteryegg.png",
-//        "codes": "mysteryegg"
-//    },
+    //{
+    //    "name": "Mystery Egg",
+    //    "type": "toggle",
+    //    "img": "images/items/mysteryegg.png",
+    //    "codes": "mysteryegg"
+    //},
     {
         "name": "Tidal Bell",
         "type": "toggle",

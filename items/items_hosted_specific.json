@@ -1,10 +1,34 @@
 [
     {
-        "name": "",
+        "name": "Pokedex 1",
         "type": "toggle",
-        "img": "",
+        "img": "/images/items/pokedex.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/base.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/base.png",
+        "codes": "pokedex_1_hosted"
+    },
+    {
+        "name": "Pokedex 2",
+        "type": "toggle",
+        "img": "/images/items/pokedex.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/base.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/base.png",
+        "codes": "pokedex_2_hosted"
+    },
+    {
+        "name": "Pokegear Radio Card 1",
+        "type": "toggle",
+        "img": "/images/items/pokegear_radio.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "c"
+        "codes": "upgradableradiopokegearcard_1"
+    },
+    {
+        "name": "Pokegear Radio Card 2",
+        "type": "toggle",
+        "img": "/images/items/pokegear_radio.png",
+        "img_mods": "@disabled,overlay|images/items/overlays/radio_overlay.png|@disabled",
+        "disabled_img_mods": "overlay|images/items/overlays/radio_overlay.png",
+        "codes": "upgradableradiopokegearcard_2"
     }
 ]
