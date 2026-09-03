@@ -9364,8 +9364,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Oddish",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9375,8 +9375,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Oddish\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_off, show_vanencevo"
@@ -9386,8 +9386,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|183, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9397,8 +9397,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|183, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_off, show_vanencevo"
@@ -9408,8 +9408,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|58, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9419,8 +9419,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|58, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_off, show_vanencevo"
@@ -9430,8 +9430,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Pichu",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_randomize_enc_on, opt_npcgifts_on"
@@ -9441,8 +9441,8 @@
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Pichu\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_randomize_enc_on, opt_npcgifts_off, show_vanencevo"
