@@ -11,7 +11,7 @@
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "9,0",
+                        "margin": "21,0",
                         "content": [
                             {
                                 "type": "item",
@@ -22,7 +22,7 @@
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "9,0",
+                        "margin": "21,0",
                         "content": [
                             {
                                 "type": "item",
@@ -41,7 +41,7 @@
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "9,0",
+                        "margin": "21,0",
                         "content": [
                             {
                                 "type": "item",
@@ -52,7 +52,7 @@
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "2,0",
+                        "margin": "14,0",
                         "content": [
                             {
                                 "type": "item",
