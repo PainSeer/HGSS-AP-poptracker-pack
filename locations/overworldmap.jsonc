@@ -1810,7 +1810,7 @@
             {
                 "name": "Make Blue return to Viridian Gym (Event)",
                 "access_rules": [
-                    "@cinnabar_island"
+                    "@cinnabar_island, $blue_returns"
                 ],
                 "visibility_rules": [
                     "show_items"

@@ -54,6 +54,10 @@ function kanto_badges_req(count)
     return (kantobadges() >= tonumber(count))
 end
 
+function blue_returns()
+    local count = Tracker:ProviderCountForCode("opt_blue_badges")
+    return kanto_badges_req(count)
+end
 
 function badges()
     return
