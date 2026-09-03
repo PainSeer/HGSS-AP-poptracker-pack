@@ -44,6 +44,7 @@
         "name": "Kanto Badges Required to Fight Blue",
         "img": "/images/settings/opt_blue_badges.png",
         "codes": "opt_blue_badges",
+        "allow_disabled": false,
         "type": "consumable",
         "min_quantity": 0,
         "max_quantity": 7,
