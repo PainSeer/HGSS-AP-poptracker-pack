@@ -136,6 +136,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Bugsy\u200b",
+                "access_rules": [
+                    "@azalea_gym, event_clear_slowpoke_well"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "hivebadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Bugsy",
                 "access_rules": [
                     "@azalea_gym, event_clear_slowpoke_well"
@@ -918,6 +928,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Erika\u200b",
+                "access_rules": [
+                    "@celadon_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "rainbowbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Erika",
                 "access_rules": [
                     "@celadon_gym"
@@ -1186,6 +1206,16 @@
                 "item_count": 1
             },
             {
+                "name": "B1F - Item Far East of Rock Climb Slopes\u200b",
+                "access_rules": [
+                    "@cerulean_cave_b1f, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "duskstone_hosted"
+            },
+            {
                 "name": "B1F - Hidden Item Behind Central Breakable Rocks",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -1218,6 +1248,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "B1F - Item in Northeast\u200b",
+                "access_rules": [
+                    "@cerulean_cave_b1f, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "electirizer_hosted"
             },
             {
                 "name": "B1F - Item in Southeast Past Water",
@@ -1299,6 +1339,16 @@
                     "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Item after Rocket Grunt\u200b",
+                "access_rules": [
+                    "@cerulean_gym, event_route_24_defeat_kanto_grunt"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "machinepart_hosted"
             },
             {
                 "name": "Gym - Sailor Parker",
@@ -1399,6 +1449,16 @@
                     "show_items, opt_badges_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Badge from Misty\u200b",
+                "access_rules": [
+                    "@cerulean_gym, event_ruin_mistys_date"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "cascadebadge_hosted"
             },
             {
                 "name": "Gym - Gift from Misty",
@@ -1549,6 +1609,16 @@
                 "item_count": 1
             },
             {
+                "name": "Pharmacy - Secretpotion from Clerk\u200b",
+                "access_rules": [
+                    "@cianwood_pharmacy"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "secretpotion_hosted"
+            },
+            {
                 "name": "Mystery Man Eusine",
                 "chest_unopened_img": "/images/trainers/eusine.png",
                 "chest_opened_img": "/images/trainers/eusine_bw.png",
@@ -1661,6 +1731,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Chuck\u200b",
+                "access_rules": [
+                    "@cianwood_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "stormbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Chuck",
                 "access_rules": [
                     "@cianwood_gym"
@@ -1677,6 +1757,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Item from Chuck's Wife\u200b",
+                "access_rules": [
+                    "@cianwood, event_defeat_chuck"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm02_hosted"
             }
         ],
         "map_locations": [
@@ -1748,6 +1838,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Item on Ledge Above Pokemon Center\u200b",
+                "access_rules": [
+                    "@cinnabar_island, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "magmarizer_hosted"
             },
             {
                 "name": "Hidden Item on Southeast Rock",
@@ -2199,6 +2299,16 @@
                 "item_count": 1
             },
             {
+                "name": "Shrine - Badge from Clair\u200b",
+                "access_rules": [
+                    "@dragons_den_shrine"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "risingbadge_hosted"
+            },
+            {
                 "name": "Gift from Clair",
                 "access_rules": [
                     "@dragons_den"
@@ -2276,6 +2386,16 @@
                     "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Dowsing Machine House Gift\u200b",
+                "access_rules": [
+                    "@ecruteak_dowsing_machine_house"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "dowsingmachine_hosted"
             },
             {
                 "name": "Hidden Item on Dirt in Middle of City",
@@ -2357,6 +2477,16 @@
                 "item_count": 1
             },
             {
+                "name": "Dance Theater - Gift from Theater's Owner\u200b",
+                "access_rules": [
+                    "@ecruteak_dance_theater"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm03_hosted"
+            },
+            {
                 "name": "Dance Theater - Kimono Girl Zuki",
                 "chest_unopened_img": "/images/trainers/kimono_girl.png",
                 "chest_opened_img": "/images/trainers/kimono_girl_bw.png",
@@ -2432,6 +2562,16 @@
                 "item_count": 1
             },
             {
+                "name": "Dance Theater - Reward after Defeating the Kimono Girls (HeartGold)\u200b",
+                "access_rules": [
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
+                ],
+                "visibility_rules": [
+                    "show_items, pokemon_heartgold, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "clearbell_hosted"
+            },
+            {
                 "name": "Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)",
                 "access_rules": [
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_on"
@@ -2440,6 +2580,16 @@
                     "show_items, pokemon_soulsilver, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)\u200b",
+                "access_rules": [
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_off, show_vankeyitems"
+                ],
+                "visibility_rules": [
+                    "show_items, pokemon_soulsilver, opt_keyitems_on"
+                ],
+                "hosted_item": "tidalbell_hosted"
             },
             {
                 "name": "Gym - Medium Georgina",
@@ -2515,6 +2665,16 @@
                     "show_items, $partial_trainersanity, opt_trainer_262175"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Badge from Morty\u200b",
+                "access_rules": [
+                    "@ecruteak_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "fogbadge_hosted"
             },
             {
                 "name": "Gym - Badge from Morty",
@@ -2714,6 +2874,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Janine\u200b",
+                "access_rules": [
+                    "@fuchsia_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "soulbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Janine",
                 "access_rules": [
                     "@fuchsia_gym"
@@ -2781,6 +2951,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_bicycle_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Bike Shop - Gift from Man\u200b",
+                "access_rules": [
+                    "@goldenrod_bike_shop"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_bicycle_off, show_vanbicycle"
+                ],
+                "hosted_item": "bicycle_hosted"
             },
             {
                 "name": "Gym - Beauty Victoria",
@@ -2870,6 +3050,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Whitney\u200b",
+                "access_rules": [
+                    "@goldenrod_gym, event_radio_quiz"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "plainbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Whitney",
                 "access_rules": [
                     "@goldenrod_gym, event_radio_quiz"
@@ -2888,6 +3078,16 @@
                     "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Flower Shop - Item from Lady after Whitney\u200b",
+                "access_rules": [
+                    "@goldenrod_flower_shop, event_defeat_whitney"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "squirtbottle_hosted"
             }
         ],
         "map_locations": [
@@ -3024,8 +3224,20 @@
                 "access_rules": [
                     "@goldenrod_radio_tower_1f"
                 ],
-                "visibility_rules": ["show_items, opt_pokegearcards_on"],
+                "visibility_rules": [
+                    "show_items, opt_pokegearcards_on"
+                ],
                 "item_count": 1
+            },
+            {
+                "name": "1F - Radio Card\u200b",
+                "access_rules": [
+                    "@goldenrod_radio_tower_1f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_pokegearcards_off, show_vanpokegearcards"
+                ],
+                "hosted_item": "pokegearcard_hosted"
             },
             {
                 "name": "1F - Beat the Radio Quiz (Event)",
@@ -3270,6 +3482,16 @@
                 "item_count": 1
             },
             {
+                "name": "5F - Basement Key from Petrel\u200b",
+                "access_rules": [
+                    "@goldenrod_radio_tower_5f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "basementkey_hosted"
+            },
+            {
                 "name": "5F - Executive Ariana",
                 "chest_unopened_img": "/images/trainers/ariana.png",
                 "chest_opened_img": "/images/trainers/ariana_bw.png",
@@ -3306,6 +3528,16 @@
                 "item_count": 1
             },
             {
+                "name": "Observatory Deck - Item from Director (HeartGold)\u200b",
+                "access_rules": [
+                    "@goldenrod_radio_tower_observation_deck"
+                ],
+                "visibility_rules": [
+                    "show_items, pokemon_heartgold, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "rainbowwing_hosted"
+            },
+            {
                 "name": "Observatory Deck - Item from Director (SoulSilver)",
                 "access_rules": [
                     "@goldenrod_radio_tower_observation_deck"
@@ -3314,6 +3546,16 @@
                     "show_items, pokemon_soulsilver, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Observatory Deck - Item from Director (SoulSilver)\u200b",
+                "access_rules": [
+                    "@goldenrod_radio_tower_observation_deck"
+                ],
+                "visibility_rules": [
+                    "show_items, pokemon_soulsilver, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "silverwing_hosted"
             },
             {
                 "name": "Observatory Deck - Clear Radio Tower (Event)",
@@ -3627,6 +3869,16 @@
                     "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Card Key From Director\u200b",
+                "access_rules": [
+                    "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "cardkey_hosted"
             }
         ],
         "map_locations": [
@@ -3672,8 +3924,20 @@
                 "access_rules": [
                     "@ice_path_1f"
                 ],
-                "visibility_rules": ["show_items, opt_hms_on"],
+                "visibility_rules": [
+                    "show_items, opt_hms_on"
+                ],
                 "item_count": 1
+            },
+            {
+                "name": "1F - Item in Ice Puzzle Watched By Old Man\u200b",
+                "access_rules": [
+                    "@ice_path_1f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm07_hosted"
             },
             {
                 "name": "1F - Hidden Item on Northeast Rock",
@@ -3847,6 +4111,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Item from Charcoal Maker\u200b",
+                "access_rules": [
+                    "@ilex_forest_south, event_farfetchd_rescue"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm01_hosted"
             },
             {
                 "name": "Hidden Item South of Pond",
@@ -4165,6 +4439,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gyarados Red Scale\u200b",
+                "access_rules": [
+                    "@lake_of_rage, $surf"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "redscale_hosted"
+            },
+            {
                 "name": "Fisherman Andre",
                 "chest_unopened_img": "/images/trainers/fisherman.png",
                 "chest_opened_img": "/images/trainers/fisherman_bw.png",
@@ -4310,8 +4594,20 @@
                 "access_rules": [
                     "@lavender_radio_station, event_restore_power"
                 ],
-                "visibility_rules": ["show_items, opt_pokegearcards_on"],
+                "visibility_rules": [
+                    "show_items, opt_pokegearcards_on"
+                ],
                 "item_count": 1
+            },
+            {
+                "name": "Radio Station - Expansion Card From Director\u200b",
+                "access_rules": [
+                    "@lavender_radio_station, event_restore_power"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_pokegearcards_off, show_vanpokegearcards"
+                ],
+                "hosted_item": "pokegearcard_hosted"
             }
         ],
         "map_locations": [
@@ -4361,6 +4657,16 @@
                     "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "RageCandyBar\u200b",
+                "access_rules": [
+                    "@mahogany"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "ragecandybar_hosted"
             },
             {
                 "name": "Gym - Boarder Patton",
@@ -4463,6 +4769,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Pryce\u200b",
+                "access_rules": [
+                    "@mahogany_gym_leader_room"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "glacierbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Pryce",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
@@ -4555,6 +4871,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Square - Item after Clefairy Event\u200b",
+                "access_rules": [
+                    "@mount_moon_square_clefairy_event"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "moonstone_hosted"
             }
         ],
         "map_locations": [
@@ -4714,6 +5040,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "1F Back - Item Down Southwest Rock Climb Slope\u200b",
+                "access_rules": [
+                    "@mount_mortar_1f_back_middle, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "protector_hosted"
             },
             {
                 "name": "1F Back - Hidden Item Down Southwest Rock Climb Slope",
@@ -4901,6 +5237,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "2F - Item on Northwest Hill with Stairs\u200b",
+                "access_rules": [
+                    "@mount_mortar_2f, $surf"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "dragonscale_hosted"
             },
             {
                 "name": "2F - Item By Northwest Pond",
@@ -5259,6 +5605,16 @@
                 "item_count": 1
             },
             {
+                "name": "2F (Outside) - Item Up Southwest Rock Climb Slope\u200b",
+                "access_rules": [
+                    "@mount_silver_cave_upper_mountainside_southwest, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "dawnstone_hosted"
+            },
+            {
                 "name": "3F - Hidden Item East of Upper Exit",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -5347,6 +5703,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Item Past Southwest Pond\u200b",
+                "access_rules": [
+                    "@mount_silver, $surf"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "reapercloth_hosted"
             },
             {
                 "name": "Hidden Item Next to Pokemon Center",
@@ -5488,6 +5854,16 @@
                 "item_count": 1
             },
             {
+                "name": "Item Up Northeast Rock Climb Slope\u200b",
+                "access_rules": [
+                    "@national_park, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "shinystone_hosted"
+            },
+            {
                 "name": "Item Behind Fence West Side",
                 "access_rules": [
                     "@national_park"
@@ -5609,6 +5985,16 @@
                     "show_items, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Elm's Lab - Gift from Prof. Elm after Clearing the Pokemon League\u200b",
+                "access_rules": [
+                    "@new_bark_elms_lab_1f, event_clear_pokemon_league"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "ssticket_hosted"
             }
         ],
         "map_locations": [
@@ -5656,6 +6042,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_rods_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Item from Fishing Guru in Northwest House\u200b",
+                "access_rules": [
+                    "@olivine_northwest_house"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_rods_off, show_vanrods"
+                ],
+                "hosted_item": "goodrod_hosted"
             },
             {
                 "name": "Pokemon Center - Beauty Charlotte",
@@ -5711,6 +6107,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_pokedex_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Port - National Dex from Prof. Oak\u200b",
+                "access_rules": [
+                    "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_pokedex_off, show_vanpokedex"
+                ],
+                "hosted_item": "pokedex_hosted"
             },
             {
                 "name": "Port - Hidden Item West of Porthouse",
@@ -5770,6 +6176,16 @@
                     "show_items, opt_badges_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Badge from Jasmine\u200b",
+                "access_rules": [
+                    "@olivine_gym, event_cure_amphy"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "mineralbadge_hosted"
             },
             {
                 "name": "Gym - Gift from Jasmine",
@@ -6049,8 +6465,20 @@
                 "access_rules": [
                     "@pallet_town_oaks_lab, $kanto_badges_req|8"
                 ],
-                "visibility_rules": ["show_items, opt_hms_on"],
+                "visibility_rules": [
+                    "show_items, opt_hms_on"
+                ],
                 "item_count": 1
+            },
+            {
+                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b",
+                "access_rules": [
+                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm08_hosted"
             }
         ],
         "map_locations": [
@@ -6126,6 +6554,16 @@
                 "item_count": 1
             },
             {
+                "name": "Item from Old Man (HeartGold)\u200b",
+                "access_rules": [
+                    "@pewter"
+                ],
+                "visibility_rules": [
+                    "show_items, pokemon_heartgold, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "silverwing_hosted"
+            },
+            {
                 "name": "Item from Old Man (SoulSilver)",
                 "access_rules": [
                     "@pewter"
@@ -6134,6 +6572,16 @@
                     "show_items, pokemon_soulsilver, opt_keyitems_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Item from Old Man (SoulSilver)\u200b",
+                "access_rules": [
+                    "@pewter"
+                ],
+                "visibility_rules": [
+                    "show_items, pokemon_soulsilver, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "rainbowwing_hosted"
             },
             {
                 "name": "Item in Northwest Trees",
@@ -6217,6 +6665,16 @@
                     "show_items, opt_badges_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Badge from Brock\u200b",
+                "access_rules": [
+                    "@pewter_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "boulderbadge_hosted"
             },
             {
                 "name": "Gym - Gift from Brock",
@@ -6592,6 +7050,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "B1F - Item Down Southwest Rock Climb Slope\u200b",
+                "access_rules": [
+                    "@rock_tunnel_b1f, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "ovalstone_hosted"
             },
             {
                 "name": "B1F - Hidden Item Down Second Rock Climb Slope",
@@ -7068,6 +7536,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_rods_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Item from Fishing Gurus Brother\u200b",
+                "access_rules": [
+                    "@route_12_fishing_brother_house"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_rods_off, show_vanrods"
+                ],
+                "hosted_item": "superrod_hosted"
             },
             {
                 "name": "Bird Keeper Gail",
@@ -8297,6 +8775,16 @@
                 "item_count": 1
             },
             {
+                "name": "Hidden Item Southeast of Seafoam\u200b",
+                "access_rules": [
+                    "@route_20_west, $surf, ^$hidden"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hidden_off, show_vanencevo"
+                ],
+                "hosted_item": "deepseatooth_hosted"
+            },
+            {
                 "name": "Camper Pedro",
                 "chest_unopened_img": "/images/trainers/camper.png",
                 "chest_opened_img": "/images/trainers/camper_bw.png",
@@ -8320,6 +8808,16 @@
                     "show_items, opt_hidden_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Hidden Item Northwest of Seafoam\u200b",
+                "access_rules": [
+                    "@route_20_east, $surf, ^$hidden"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hidden_off, show_vanencevo"
+                ],
+                "hosted_item": "deepseascale_hosted"
             },
             {
                 "name": "Swimmer Luis",
@@ -8875,6 +9373,17 @@
                 "item_count": 1
             },
             {
+                "name": "Cottage - Item from Bills Grandfather for Showing Oddish\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "leafstone_hosted"
+            },
+            {
                 "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
                 "access_rules": [
                     "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
@@ -8884,6 +9393,17 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "waterstone_hosted"
             },
             {
                 "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
@@ -8897,15 +9417,37 @@
                 "item_count": 1
             },
             {
+                "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "firestone_hosted"
+            },
+            {
                 "name": "Cottage - Item from Bills Grandfather for Showing Pichu",
                 "access_rules": [
                     "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
                     "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_on, opt_randomize_enc_on"
+                    "show_items, opt_randomize_enc_on, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bills Grandfather for Showing Pichu\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_randomize_enc_on, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "thunderstone_hosted"
             }
         ],
         "map_locations": [
@@ -9640,6 +10182,16 @@
                 "item_count": 1
             },
             {
+                "name": "Mr. Pokemon's House - Pokedex from Prof. Oak\u200b",
+                "access_rules": [
+                    "@route_30_mr_pokemon_house"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_pokedex_off, show_vanpokedex"
+                ],
+                "hosted_item": "pokedex_hosted"
+            },
+            {
                 "name": "Mr. Pokemon's House - Exp. Share from Mr. Pokemon",
                 "access_rules": [
                     "@route_30_mr_pokemon_house, redscale"
@@ -9989,6 +10541,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_rods_on"],
                 "item_count": 1
+            },
+            {
+                "name": "Item from Fishing Guru in Pokemon Center\u200b",
+                "access_rules": [
+                    "@route_32_pokecenter_1f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_rods_off, show_vanrods"
+                ],
+                "hosted_item": "oldrod_hosted"
             },
             {
                 "name": "Item Behind Southeast Breakable Rock",
@@ -10525,6 +11087,16 @@
                 "item_count": 1
             },
             {
+                "name": "Item from Man East of Sudowoodo\u200b",
+                "access_rules": [
+                    "@route_36_southeast"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm06_hosted"
+            },
+            {
                 "name": "Psychic Mark",
                 "chest_unopened_img": "/images/trainers/psychic.png",
                 "chest_opened_img": "/images/trainers/psychic_bw.png",
@@ -10581,6 +11153,16 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Oran Berries from Lass\u200b",
+                "access_rules": [
+                    "@route_36_southwest, squirtbottle"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vannpcgifts"
+                ],
+                "hosted_item": "oranberry_hosted"
             },
             {
                 "name": "Pecha Berries from Lass",
@@ -11444,6 +12026,16 @@
                 "item_count": 1
             },
             {
+                "name": "Item from Hiker\u200b",
+                "access_rules": [
+                    "@route_42"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm04_hosted"
+            },
+            {
                 "name": "Item Outside Mt. Mortar Central Entrance",
                 "access_rules": [
                     "@route_42, $surf"
@@ -11513,6 +12105,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Item Down Rock Climb Slope From Mt. Mortar\u200b",
+                "access_rules": [
+                    "@route_42, $rock_climb"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "dubiousdisc_hosted"
             }
         ],
         "map_locations": [
@@ -12871,6 +13473,16 @@
                 "item_count": 1
             },
             {
+                "name": "Kabuto Chamber - Bottom Left Item\u200b",
+                "access_rules": [
+                    "@ruins_of_alph_northeast_entrance_second_room"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "oranberry_hosted"
+            },
+            {
                 "name": "Kabuto Chamber - Bottom Right Item",
                 "access_rules": [
                     "@ruins_of_alph_northeast_entrance_second_room"
@@ -12983,6 +13595,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Aerodactyl Chamber - Bottom Right Item\u200b",
+                "access_rules": [
+                    "@ruins_of_alph_southeast_entrance_second_room"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "moonstone_hosted"
             },
             {
                 "name": "Psychic Nathan",
@@ -13426,6 +14048,16 @@
                 "item_count": 1
             },
             {
+                "name": "Metal Coat from Grandpa\u200b",
+                "access_rules": [
+                    "@ss_aqua_1f_northwest_rooms"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "metalcoat_hosted"
+            },
+            {
                 "name": "Flame Plate from Captain",
                 "chest_unopened_img": "/images/locations/captain_closed.png",
                 "chest_opened_img": "/images/locations/captain_open.png",
@@ -13770,6 +14402,16 @@
                 "item_count": 1
             },
             {
+                "name": "Item from Copycat after Returning Lost Item\u200b",
+                "access_rules": [
+                    "@saffron_copycat_house_2f, event_hear_about_missing_doll, lostitem"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "pass_hosted"
+            },
+            {
                 "name": "Silph Co. - Item from Security Guard",
                 "access_rules": [
                     "@saffron_silph_co_hq"
@@ -13778,6 +14420,16 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Silph Co. - Item from Security Guard\u200b",
+                "access_rules": [
+                    "@saffron_silph_co_hq"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "upgrade_hosted"
             },
             {
                 "name": "Mr. Psychic's House - Item from Mr. Psychic",
@@ -13877,6 +14529,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Sabrina\u200b",
+                "access_rules": [
+                    "@saffron_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "marshbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Sabrina",
                 "access_rules": [
                     "@saffron_gym"
@@ -13966,6 +14628,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "B2F - Item on Southern Ledge\u200b",
+                "access_rules": [
+                    "@seafoam_islands_b2f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "waterstone_hosted"
             },
             {
                 "name": "B2F - Hidden Item by Northeast Ice Patch",
@@ -14220,6 +14892,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Blaine\u200b",
+                "access_rules": [
+                    "@seafoam_islands_cinnabar_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "volcanobadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Blaine",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
@@ -14383,6 +15065,16 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "B2F - Gift from Super Nerd",
+                "access_rules": [
+                    "@slowpoke_well_b2f, $surf"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "kingsrock_hosted"
             }
         ],
         "map_locations": [
@@ -14549,6 +15241,16 @@
                 ],
                 "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
+            },
+            {
+                "name": "3F - Gift from Elder Li\u200b",
+                "access_rules": [
+                    "@sprout_tower_3f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "tm70_hosted"
             },
             {
                 "name": "3F - Beat Sprout Tower (Event)",
@@ -14789,6 +15491,16 @@
                 "item_count": 1
             },
             {
+                "name": "B2F - Gift from Lance\u200b",
+                "access_rules": [
+                    "@team_rocket_headquarters_b2f"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off, show_vanhms"
+                ],
+                "hosted_item": "hm05_hosted"
+            },
+            {
                 "name": "B2F - Clear Mahogany Hideout (Event)",
                 "access_rules": [
                     "@lake_of_rage, @mahogany_souvenir_shop, @team_rocket_headquarters_b2f, @team_rocket_headquarters_b3f"
@@ -14949,6 +15661,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Item West of 2 Waterfalls\u200b",
+                "access_rules": [
+                    "@tohjo_falls_east, $surf"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "moonstone_hosted"
             }
         ],
         "map_locations": [
@@ -15430,6 +16152,16 @@
                 "item_count": 1
             },
             {
+                "name": "Item from Fan Club Member\u200b",
+                "access_rules": [
+                    "@vermilion_pokemon_fan_club, event_hear_about_missing_doll"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_keyitems_off, show_vankeyitems"
+                ],
+                "hosted_item": "lostitem_hosted"
+            },
+            {
                 "name": "Hidden Item Behind Rock Smash Rock in Construction Site",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -15592,6 +16324,16 @@
                     "show_items, opt_badges_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Badge from Lt. Surge\u200b",
+                "access_rules": [
+                    "@vermilion_gym"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "thunderbadge_hosted"
             },
             {
                 "name": "Gym - Gift from Lt. Surge",
@@ -15980,6 +16722,16 @@
                 "item_count": 1
             },
             {
+                "name": "Gym - Badge from Falkner\u200b",
+                "access_rules": [
+                    "@violet_gym, event_beat_sprout_tower"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "zephyrbadge_hosted"
+            },
+            {
                 "name": "Gym - Gift from Falkner",
                 "access_rules": [
                     "@violet_gym, event_beat_sprout_tower"
@@ -16138,8 +16890,6 @@
             },
             {
                 "name": "Gym - Earth Badge",
-                "chest_unopened_img": "/images/locations/badges/earthbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
                 "access_rules": [
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
@@ -16147,6 +16897,16 @@
                     "show_items, opt_badges_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Gym - Earth Badge\u200b",
+                "access_rules": [
+                    "@viridian_gym, event_cinnabar_island_blue_return_viridian"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_badges_off, show_vanbadges"
+                ],
+                "hosted_item": "earthbadge_hosted"
             },
             {
                 "name": "Gym - Gift from Blue",
@@ -16218,6 +16978,16 @@
                     "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Southwest Item\u200b",
+                "access_rules": [
+                    "@viridian_forest"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_off, show_vanencevo"
+                ],
+                "hosted_item": "leafstone_hosted"
             },
             {
                 "name": "Hidden Item on Wall North of Southern Entrance",
