@@ -115,9 +115,19 @@ FLAG_ITEM2_CODES = {
   {option="opt_badges_off",                         codes={"hivebadge"}}, -- "azalea_badge_hive",
   {option="opt_badges_off",                         codes={"earthbadge"}}, -- "viridian_badge_earth",
   {option="opt_badges_off",                         codes={"glacierbadge"}}, -- "mahogany_badge_glacier",
+  {option="opt_badges_off",                         codes={"thunderbadge"}}, -- "vermilion_badge_thunder",
+  {option="opt_badges_off",                         codes={"rainbowbadge"}}, -- "celadon_badge_rainbow",
+  {option="opt_badges_off",                         codes={"marshbadge"}}, -- "saffron_badge_marsh",
+  {option="opt_badges_off",                         codes={"cascadebadge"}}, -- "cerulean_badge_cascade",
+  {option="opt_badges_off",                         codes={"volcanobadge"}}, -- "cinnabar_badge_volcano",
+  {option="opt_badges_off",                         codes={"boulderbadge"}}, -- "pewter_badge_boulder",
+  {option="opt_badges_off",                         codes={"soulbadge"}}, -- "fuchsia_badge_soul",
   {option="opt_hms_off",                            codes={"hm01cut"}}, -- "ilex_forest_hm01",
   {option="opt_hms_off",                            codes={"hm02fly"}}, -- "cianwood_hm02",
   {option="opt_hms_off",                            codes={"hm03surf"}}, -- "ecruteak_dance_theater_hm03",
+}
+
+FLAG_ITEM3_CODES = {
   {option="opt_hms_off",                            codes={"hm04strength"}}, -- "route_42_hm04",
   {option="opt_hms_off",                            codes={"hm05whirlpool"}}, -- "team_rocket_headquarters_b2f_hm05",
   {option="opt_hms_off",                            codes={"hm06rocksmash"}}, -- "route_36_hm06",
@@ -125,9 +135,6 @@ FLAG_ITEM2_CODES = {
   {option="opt_rods_off",                           codes={"oldrod"}}, -- "olivine_northwest_house_good_rod",
   {option="opt_rods_off",                           codes={"goodrod"}}, -- "route_32_pokemon_center_1f_old_rod",
   {option="opt_rods_off",                           codes={"superrod"}}, -- "route_12_fishing_brother_house_super_rod",
-}
-
-FLAG_ITEM3_CODES = {
   {option="opt_pokedex_off",                        codes={"pokedex_1"}}, -- "route_30_mr_pokemon_house_pokedex",
   {option="opt_pokedex_off",                        codes={"pokedex_2"}}, -- "ss_aqua_olivine_port_interior_pokedex",
   {option="opt_pokegearcards_off",                  codes={"upgradableradiopokegearcard_2"}}, -- "lavender_town_radio_station_radio",
@@ -153,6 +160,9 @@ FLAG_ITEM3_CODES = {
   {option="opt_overworld_off",                      codes={"moonstone"}}, -- "mount_moon_square_clefairy_event_moon_stone",
   {option="opt_npcgifts_off",                       codes={"metalcoat"}}, -- "ss_aqua_metal_coat",
   {option="opt_npcgifts_off",                       codes={"leafstone"}}, -- "route_25_sea_cottage_leaf_stone",
+}
+
+FLAG_ITEM_4_CODES = {
   {option="opt_npcgifts_off",                       codes={"waterstone"}}, -- "route_25_sea_cottage_water_stone",
   {option="opt_npcgifts_off",                       codes={"firestone"}}, -- "route_25_sea_cottage_fire_stone",
   {option="opt_npcgifts_off",                       codes={"thunderstone"}}, -- "route_25_sea_cottage_thunderstone",
