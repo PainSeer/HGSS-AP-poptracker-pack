@@ -1810,7 +1810,7 @@
             {
                 "name": "Make Blue return to Viridian Gym (Event)",
                 "access_rules": [
-                    "@cinnabar_island"
+                    "@cinnabar_island, $blue_returns"
                 ],
                 "visibility_rules": [
                     "show_items"
@@ -3908,7 +3908,7 @@
         "chest_opened_img": "/images/locations/ballopen.png",
         "sections": [
             {
-                "name": "1F - Hidden Item on Big Ice Puzzles Southwest Rock",
+                "name": "1F - Hidden Item on Big Ice Puzzle's Southwest Rock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -4429,7 +4429,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gyarados Red Scale",
+                "name": "Gyarados' Red Scale",
                 "access_rules": [
                     "@lake_of_rage, $surf"
                 ],
@@ -4439,7 +4439,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gyarados Red Scale\u200b",
+                "name": "Gyarados' Red Scale\u200b",
                 "access_rules": [
                     "@lake_of_rage, $surf"
                 ],
@@ -7505,7 +7505,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item Behind Route 11s Fencing",
+                "name": "Hidden Item Behind Route 11's Fencing",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -7530,7 +7530,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Fishing Gurus Brother",
+                "name": "Item from Fishing Guru's Brother",
                 "access_rules": [
                     "@route_12_fishing_brother_house"
                 ],
@@ -7538,7 +7538,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Fishing Gurus Brother\u200b",
+                "name": "Item from Fishing Guru's Brother\u200b",
                 "access_rules": [
                     "@route_12_fishing_brother_house"
                 ],
@@ -9351,7 +9351,7 @@
                 "hosted_item": "event_ruin_mistys_date_hosted"
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
                 "access_rules": [
                     "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
                     "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
@@ -9362,10 +9362,10 @@
                 "item_count": 1
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Oddish",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Oddish",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9373,10 +9373,10 @@
                 "item_count": 1
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Oddish\u200b",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Oddish\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_off, show_vanencevo"
@@ -9384,10 +9384,10 @@
                 "hosted_item": "leafstone_hosted"
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|183, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9395,10 +9395,10 @@
                 "item_count": 1
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|183, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_off, show_vanencevo"
@@ -9406,10 +9406,10 @@
                 "hosted_item": "waterstone_hosted"
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|58, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -9417,10 +9417,10 @@
                 "item_count": 1
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|58, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_off, show_vanencevo"
@@ -9428,10 +9428,10 @@
                 "hosted_item": "firestone_hosted"
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Pichu",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Pichu",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_randomize_enc_on, opt_npcgifts_on"
@@ -9439,10 +9439,10 @@
                 "item_count": 1
             },
             {
-                "name": "Cottage - Item from Bills Grandfather for Showing Pichu\u200b",
+                "name": "Cottage - Item from Bill's Grandfather for Showing Pichu\u200b",
                 "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, ^$has_mon|172, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, opt_randomize_enc_on, opt_npcgifts_off, show_vanencevo"
@@ -15067,7 +15067,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Gift from Super Nerd",
+                "name": "B2F - Gift from Super Nerd\u200b",
                 "access_rules": [
                     "@slowpoke_well_b2f, $surf"
                 ],
