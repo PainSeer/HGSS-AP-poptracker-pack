@@ -27,30 +27,32 @@ ScriptHost:AddWatchForCode("search_amity_active", "search_amity_active", searchA
 -- Other
 ScriptHost:AddWatchForCode("hint_tracking", "hint_tracking", toggleHints)
 
--- Vanilla Item Syncs
---for _, code in ipairs({"pokedex_1", "pokedex_2", "pokedex_3"}) do
---    ScriptHost:AddWatchForCode(code, code, syncPokedex)
---end
---
----- Event Location Syncs
+-- Vanilla Item Sync for toggle item <-> consumable/progressive item
+for _, code in ipairs({"pokedex_1", "pokedex_2"}) do
+    ScriptHost:AddWatchForCode(code, code, syncPokedex)
+end
+
+for _, code in ipairs({"upgradableradiopokegearcard_1", "upgradableradiopokegearcard_2"}) do
+    ScriptHost:AddWatchForCode(code, code, syncPokegear)
+end
+
+-- Event Location Syncs
 for _, code in ipairs(FLAG_EVENT_CODES) do
     ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
     ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
 end
---
----- Vanilla Item Location Syncs
---for _, code in ipairs(HOSTED_VANILLA_CODES) do
---    ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
---    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
---end
---
----- The edge cases. Those fuckers.
---local hosted_specific = {"coupon_1", "coupon_2", "coupon_3", "pokedex_1", "pokedex_2", "pokedex_3"}
---for _, code in ipairs(UNOWN_ITEMS) do table.insert(hosted_specific, code) end
---for _, code in ipairs(hosted_specific) do
---    ScriptHost:AddWatchForCode(code.."_hostsync", code, syncHostedFromBase)
---    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
---end
+
+-- Vanilla Location Syncs
+for _, code in ipairs(HOSTED_VANILLA_CODES) do
+    ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
+    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
+end
+
+-- Vanilla Location Syncs (consumable + progressive items)
+local hosted_specific = {"pokedex_1", "pokedex_2", "upgradableradiopokegearcard_1", "upgradableradiopokegearcard_2"}
+for _, code in ipairs(hosted_specific) do
+    ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
+end
 
 -- Debug
 --ScriptHost:AddWatchForCode("debug", "*", debug)
