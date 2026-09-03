@@ -8903,7 +8903,7 @@
                     "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, ^$has_mon|172, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
+                    "show_items, opt_npcgifts_on, opt_randomize_enc_on"
                 ],
                 "item_count": 1
             }

@@ -536,6 +536,25 @@
         ]
     },
     {
+        "name": "Randomize Encounters",
+        "type": "progressive",
+        "initial_stage_idx": 1,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Wild encounters are NOT randomized",
+                "codes": "opt_randomize_enc, opt_randomize_enc_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Wild encounters ARE randomized",
+                "codes": "opt_randomize_enc, opt_randomize_enc_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
         "name": "Dexsanity",
         "img": "/images/settings/opt_dexsanity.png",
         "codes": "opt_dexsanity",

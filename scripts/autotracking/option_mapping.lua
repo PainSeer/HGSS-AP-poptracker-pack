@@ -21,7 +21,8 @@ SLOT_CODES = {
     mossy_rock_locations = {code = "opt_mossy_rock"},
     icy_rock_locations = {code = "opt_icy_rock"},
     ap_items_shop_in_ap_helper = {code = "opt_items_shop_in_ap_helper"},
-    require_fly_items_for_flight = {code = "opt_require_fly_items_for_flight"}
+    require_fly_items_for_flight = {code = "opt_require_fly_items_for_flight"},
+    randomize_encounters = {code = "opt_randomize_enc"}
 }
 
 HM_CODES = {
