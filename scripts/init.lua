@@ -57,7 +57,7 @@ Tracker:AddLocations("locations/overworldmap.jsonc")
 --Tracker:AddLocations("locations/submaps_singles.json")
 --Tracker:AddLocations("locations/submaps_groups.json")
 --Tracker:AddLocations("locations/submaps_encounters.json")
-Tracker:AddLocations("locations/pokedex.json")
+--Tracker:AddLocations("locations/pokedex.json") commented out until encounter tracking. Dexsanity diamonds still show.
 Tracker:AddLocations("locations/dexsanity.json")
 
 -- AutoTracking for Poptracker
