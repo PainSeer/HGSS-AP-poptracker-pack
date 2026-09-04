@@ -1,3 +1,9 @@
+MAP_SHIFTED = {
+    [1] = 0,
+    [2] = 1,
+    [3] = 2
+}
+
 SLOT_CODES = {
     version = {code = "game_version"},
     pokegear_card = {code = "opt_pokegearcards"},
@@ -18,9 +24,9 @@ SLOT_CODES = {
     hm_reader = {code = "opt_hmreader"},
     sound_items = {code = "opt_sounditems"},
     time_items = {code = "opt_timeitems"},
-    mossy_rock_locations = {code = "opt_mossy_rock"},
-    icy_rock_locations = {code = "opt_icy_rock"},
-    magnetic_field_locations = {code = "opt_magnetic_field"},
+    mossy_rock_locations = {code = "opt_mossy_rock", mapping = MAP_SHIFTED},
+    icy_rock_locations = {code = "opt_icy_rock", mapping = MAP_SHIFTED},
+    magnetic_field_locations = {code = "opt_magnetic_field", mapping = MAP_SHIFTED},
     ap_items_shop_in_ap_helper = {code = "opt_items_shop_in_ap_helper"},
     require_fly_items_for_flight = {code = "opt_require_fly_items_for_flight"},
     randomize_encounters = {code = "opt_randomize_enc"}
