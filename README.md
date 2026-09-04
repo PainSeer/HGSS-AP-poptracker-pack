@@ -20,3 +20,8 @@ PopTracker v0.33.3 or higher is neccessary.
 apworld | pack version
 :-------------------------:|:-------------------------:
 0.0.6  | 0.0.X
+
+
+##Credits
+- [SirMalo](https://www.deviantart.com/sirmaio) for map assets 
+- [JorMxDos](https://www.deviantart.com/jormxdos) for Johto badge assets
