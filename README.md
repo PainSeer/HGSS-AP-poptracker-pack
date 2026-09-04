@@ -15,6 +15,7 @@ PopTracker v0.33.3 or higher is neccessary.
 
 * Submaps
 * Encounter and Evolution Logic
+* Encounter Tracking
 * Continuous support of the [TrueBlue's Archipelago HeartGold and SoulSilver integration](https://github.com/ljtpetersen/hgss_archipelago)
 
 
@@ -23,7 +24,7 @@ PopTracker v0.33.3 or higher is neccessary.
 
 |apworld|pack version|
 |:-:|:-:|
-|0.0.6|0.0.X|
+|0.0.X|0.0.X|
 
 
 
