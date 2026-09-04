@@ -126,7 +126,7 @@
             {
                 "name": "Gym - Badge from Bugsy",
                 "chest_unopened_img": "/images/locations/badges/hivebadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/hivebadge_bw.png",
                 "access_rules": [
                     "@azalea_gym, event_clear_slowpoke_well"
                 ],
@@ -918,7 +918,7 @@
             {
                 "name": "Gym - Badge from Erika",
                 "chest_unopened_img": "/images/locations/badges/rainbowbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/rainbowbadge_bw.png",
                 "access_rules": [
                     "@celadon_gym"
                 ],
@@ -1441,7 +1441,7 @@
             {
                 "name": "Gym - Badge from Misty",
                 "chest_unopened_img": "/images/locations/badges/cascadebadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/cascadebadge_bw.png",
                 "access_rules": [
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
@@ -1721,7 +1721,7 @@
             {
                 "name": "Gym - Badge from Chuck",
                 "chest_unopened_img": "/images/locations/badges/stormbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/stormbadge_bw.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
@@ -2289,7 +2289,7 @@
             {
                 "name": "Shrine - Badge from Clair",
                 "chest_unopened_img": "/images/locations/badges/risingbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/risingbadge_bw.png",
                 "access_rules": [
                     "@dragons_den_shrine"
                 ],
@@ -2679,7 +2679,7 @@
             {
                 "name": "Gym - Badge from Morty",
                 "chest_unopened_img": "/images/locations/badges/fogbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/fogbadge_bw.png",
                 "access_rules": [
                     "@ecruteak_gym"
                 ],
@@ -2864,7 +2864,7 @@
             {
                 "name": "Gym - Badge from Janine",
                 "chest_unopened_img": "/images/locations/badges/soulbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/soulbadge_bw.png",
                 "access_rules": [
                     "@fuchsia_gym"
                 ],
@@ -3040,7 +3040,7 @@
             {
                 "name": "Gym - Badge from Whitney",
                 "chest_unopened_img": "/images/locations/badges/plainbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/plainbadge_bw.png",
                 "access_rules": [
                     "@goldenrod_gym, event_radio_quiz"
                 ],
@@ -4761,7 +4761,7 @@
             {
                 "name": "Gym - Badge from Pryce",
                 "chest_unopened_img": "/images/locations/badges/glacierbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/glacierbadge_bw.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
@@ -6170,7 +6170,7 @@
             {
                 "name": "Gym - Badge from Jasmine",
                 "chest_unopened_img": "/images/locations/badges/mineralbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/mineralbadge_bw.png",
                 "access_rules": [
                     "@olivine_gym, event_cure_amphy"
                 ],
@@ -6659,7 +6659,7 @@
             {
                 "name": "Gym - Badge from Brock",
                 "chest_unopened_img": "/images/locations/badges/boulderbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/boulderbadge_bw.png",
                 "access_rules": [
                     "@pewter_gym"
                 ],
@@ -14521,7 +14521,7 @@
             {
                 "name": "Gym - Badge from Sabrina",
                 "chest_unopened_img": "/images/locations/badges/marshbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/marshbadge_bw.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -14884,7 +14884,7 @@
             {
                 "name": "Gym - Badge from Blaine",
                 "chest_unopened_img": "/images/locations/badges/volcanobadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/volcanobadge_bw.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -16318,7 +16318,7 @@
             {
                 "name": "Gym - Badge from Lt. Surge",
                 "chest_unopened_img": "/images/locations/badges/thunderbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/thunderbadge_bw.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
@@ -16714,7 +16714,7 @@
             {
                 "name": "Gym - Badge from Falkner",
                 "chest_unopened_img": "/images/locations/badges/zephyrbadge.png",
-                "chest_opened_img": "/images/locations/badges/badge_collected.png",
+                "chest_opened_img": "/images/locations/badges/zephyrbadge_bw.png",
                 "access_rules": [
                     "@violet_gym, event_beat_sprout_tower"
                 ],
@@ -16892,6 +16892,8 @@
             },
             {
                 "name": "Gym - Earth Badge",
+				"chest_unopened_img": "/images/locations/badges/earthbadge.png",
+                "chest_opened_img": "/images/locations/badges/earthbadge_bw.png",
                 "access_rules": [
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
