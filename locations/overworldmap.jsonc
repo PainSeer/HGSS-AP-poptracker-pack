@@ -5812,7 +5812,7 @@
             {
                 "name": "Pokefan William",
                 "chest_unopened_img": "/images/trainers/pokefan_m.png",
-                "chest_opened_img": "/images/trainers/pokefan_bw.png",
+                "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
                     "@national_park"
                 ],
