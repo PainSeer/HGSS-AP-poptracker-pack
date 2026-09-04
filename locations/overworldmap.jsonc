@@ -141,7 +141,7 @@
                     "@azalea_gym, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "hivebadge_hosted"
             },
@@ -933,7 +933,7 @@
                     "@celadon_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "rainbowbadge_hosted"
             },
@@ -1346,7 +1346,7 @@
                     "@cerulean_gym, event_route_24_defeat_kanto_grunt"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "machinepart_hosted"
             },
@@ -1456,7 +1456,7 @@
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "cascadebadge_hosted"
             },
@@ -1614,7 +1614,7 @@
                     "@cianwood_pharmacy"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "secretpotion_hosted"
             },
@@ -1736,7 +1736,7 @@
                     "@cianwood_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "stormbadge_hosted"
             },
@@ -1764,7 +1764,7 @@
                     "@cianwood, event_defeat_chuck"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm02_hosted"
             }
@@ -2304,7 +2304,7 @@
                     "@dragons_den_shrine"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "risingbadge_hosted"
             },
@@ -2393,7 +2393,7 @@
                     "@ecruteak_dowsing_machine_house"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "dowsingmachine_hosted"
             },
@@ -2482,7 +2482,7 @@
                     "@ecruteak_dance_theater"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm03_hosted"
             },
@@ -2567,7 +2567,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_heartgold, opt_keyitems_off, show_vankeyitems"
+                    "show_items, pokemon_heartgold, opt_keyitems_off"
                 ],
                 "hosted_item": "clearbell_hosted"
             },
@@ -2584,7 +2584,7 @@
             {
                 "name": "Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)\u200b",
                 "access_rules": [
-                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_off, show_vankeyitems"
+                    "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_off"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_soulsilver, opt_keyitems_on"
@@ -2672,7 +2672,7 @@
                     "@ecruteak_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "fogbadge_hosted"
             },
@@ -2879,7 +2879,7 @@
                     "@fuchsia_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "soulbadge_hosted"
             },
@@ -2958,7 +2958,7 @@
                     "@goldenrod_bike_shop"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_bicycle_off, show_vanbicycle"
+                    "show_items, opt_bicycle_off"
                 ],
                 "hosted_item": "bicycle_hosted"
             },
@@ -3055,7 +3055,7 @@
                     "@goldenrod_gym, event_radio_quiz"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "plainbadge_hosted"
             },
@@ -3085,7 +3085,7 @@
                     "@goldenrod_flower_shop, event_defeat_whitney"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "squirtbottle_hosted"
             }
@@ -3235,7 +3235,7 @@
                     "@goldenrod_radio_tower_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_pokegearcards_off, show_vanpokegearcards"
+                    "show_items, opt_pokegearcards_off"
                 ],
                 "hosted_item": "pokegearcard_hosted"
             },
@@ -3487,7 +3487,7 @@
                     "@goldenrod_radio_tower_5f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "basementkey_hosted"
             },
@@ -3533,7 +3533,7 @@
                     "@goldenrod_radio_tower_observation_deck"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_heartgold, opt_keyitems_off, show_vankeyitems"
+                    "show_items, pokemon_heartgold, opt_keyitems_off"
                 ],
                 "hosted_item": "rainbowwing_hosted"
             },
@@ -3553,7 +3553,7 @@
                     "@goldenrod_radio_tower_observation_deck"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_soulsilver, opt_keyitems_off, show_vankeyitems"
+                    "show_items, pokemon_soulsilver, opt_keyitems_off"
                 ],
                 "hosted_item": "silverwing_hosted"
             },
@@ -3876,7 +3876,7 @@
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "cardkey_hosted"
             }
@@ -3935,7 +3935,7 @@
                     "@ice_path_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm07_hosted"
             },
@@ -4118,7 +4118,7 @@
                     "@ilex_forest_south, event_farfetchd_rescue"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm01_hosted"
             },
@@ -4446,7 +4446,7 @@
                     "@lake_of_rage, $surf"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "redscale_hosted"
             },
@@ -4607,7 +4607,7 @@
                     "@lavender_radio_station, event_restore_power"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_pokegearcards_off, show_vanpokegearcards"
+                    "show_items, opt_pokegearcards_off"
                 ],
                 "hosted_item": "pokegearcard_hosted"
             }
@@ -4666,7 +4666,7 @@
                     "@mahogany"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "ragecandybar_hosted"
             },
@@ -4776,7 +4776,7 @@
                     "@mahogany_gym_leader_room"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "glacierbadge_hosted"
             },
@@ -5994,7 +5994,7 @@
                     "@new_bark_elms_lab_1f, event_clear_pokemon_league"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "ssticket_hosted"
             }
@@ -6051,7 +6051,7 @@
                     "@olivine_northwest_house"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_rods_off, show_vanrods"
+                    "show_items, opt_rods_off"
                 ],
                 "hosted_item": "goodrod_hosted"
             },
@@ -6116,7 +6116,7 @@
                     "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_pokedex_off, show_vanpokedex"
+                    "show_items, opt_pokedex_off"
                 ],
                 "hosted_item": "pokedex_hosted"
             },
@@ -6185,7 +6185,7 @@
                     "@olivine_gym, event_cure_amphy"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "mineralbadge_hosted"
             },
@@ -6478,7 +6478,7 @@
                     "@pallet_town_oaks_lab, $kanto_badges_req|8"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm08_hosted"
             }
@@ -6561,7 +6561,7 @@
                     "@pewter"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_heartgold, opt_keyitems_off, show_vankeyitems"
+                    "show_items, pokemon_heartgold, opt_keyitems_off"
                 ],
                 "hosted_item": "silverwing_hosted"
             },
@@ -6581,7 +6581,7 @@
                     "@pewter"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_soulsilver, opt_keyitems_off, show_vankeyitems"
+                    "show_items, pokemon_soulsilver, opt_keyitems_off"
                 ],
                 "hosted_item": "rainbowwing_hosted"
             },
@@ -6674,7 +6674,7 @@
                     "@pewter_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "boulderbadge_hosted"
             },
@@ -7545,7 +7545,7 @@
                     "@route_12_fishing_brother_house"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_rods_off, show_vanrods"
+                    "show_items, opt_rods_off"
                 ],
                 "hosted_item": "superrod_hosted"
             },
@@ -10189,7 +10189,7 @@
                     "@route_30_mr_pokemon_house"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_pokedex_off, show_vanpokedex"
+                    "show_items, opt_pokedex_off"
                 ],
                 "hosted_item": "pokedex_hosted"
             },
@@ -10550,7 +10550,7 @@
                     "@route_32_pokecenter_1f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_rods_off, show_vanrods"
+                    "show_items, opt_rods_off"
                 ],
                 "hosted_item": "oldrod_hosted"
             },
@@ -11094,7 +11094,7 @@
                     "@route_36_southeast"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm06_hosted"
             },
@@ -11162,7 +11162,7 @@
                     "@route_36_southwest, squirtbottle"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_off, show_vannpcgifts"
+                    "show_items, opt_npcgifts_off"
                 ],
                 "hosted_item": "oranberry_hosted"
             },
@@ -12033,7 +12033,7 @@
                     "@route_42"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm04_hosted"
             },
@@ -14409,7 +14409,7 @@
                     "@saffron_copycat_house_2f, event_hear_about_missing_doll, lostitem"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "pass_hosted"
             },
@@ -14536,7 +14536,7 @@
                     "@saffron_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "marshbadge_hosted"
             },
@@ -14899,7 +14899,7 @@
                     "@seafoam_islands_cinnabar_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "volcanobadge_hosted"
             },
@@ -15250,7 +15250,7 @@
                     "@sprout_tower_3f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "tm70_hosted"
             },
@@ -15498,7 +15498,7 @@
                     "@team_rocket_headquarters_b2f"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_hms_off, show_vanhms"
+                    "show_items, opt_hms_off"
                 ],
                 "hosted_item": "hm05_hosted"
             },
@@ -16159,7 +16159,7 @@
                     "@vermilion_pokemon_fan_club, event_hear_about_missing_doll"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_keyitems_off, show_vankeyitems"
+                    "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "lostitem_hosted"
             },
@@ -16333,7 +16333,7 @@
                     "@vermilion_gym"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "thunderbadge_hosted"
             },
@@ -16729,7 +16729,7 @@
                     "@violet_gym, event_beat_sprout_tower"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "zephyrbadge_hosted"
             },
@@ -16908,7 +16908,7 @@
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_badges_off, show_vanbadges"
+                    "show_items, opt_badges_off"
                 ],
                 "hosted_item": "earthbadge_hosted"
             },
