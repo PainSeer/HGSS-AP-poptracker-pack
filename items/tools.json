@@ -38,13 +38,13 @@
                 "name": "Don't show vanilla evolution items",
                 "img": "/images/tools/tools_vanencevo.png",
                 "img_mods": "@disabled",
-                "codes": "encevo_visibility, show_vanencevo",
+                "codes": "encevo_visibility, hide_vanencevo",
                 "inherit_codes": false
             },
             {
                 "name": "Show vanilla evolution items",
                 "img": "/images/tools/tools_vanencevo.png",
-                "codes": "encevo_visibility, hide_vanencevo",
+                "codes": "encevo_visibility, show_vanencevo",
                 "inherit_codes": false
             }
         ]
