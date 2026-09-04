@@ -228,7 +228,7 @@ FLAG_ITEM3_CODES = {
   {option="opt_npcgifts_off",                       codes={"leafstone"}}, -- "route_25_sea_cottage_leaf_stone",
 }
 
-FLAG_ITEM_4_CODES = {
+FLAG_ITEM4_CODES = {
   {option="opt_npcgifts_off",                       codes={"waterstone"}}, -- "route_25_sea_cottage_water_stone",
   {option="opt_npcgifts_off",                       codes={"firestone"}}, -- "route_25_sea_cottage_fire_stone",
   {option="opt_npcgifts_off",                       codes={"thunderstone"}}, -- "route_25_sea_cottage_thunderstone",
