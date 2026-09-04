@@ -261,6 +261,9 @@ function onClear(slot_data)
     -- Concatenate values to form the key
     local key = kanto .. johto .. pokemon_league .. mount_silver
 
+    -- Set the CurrentStage of opt_randomize_fly_items based on the key
+    Tracker:FindObjectForCode("opt_randomize_fly_items").CurrentStage = stages[key] or 0
+
     -- resetting datastorage events that aren't reset at other places
     updateEvents(1, 0)
     updateEvents(2, 0)

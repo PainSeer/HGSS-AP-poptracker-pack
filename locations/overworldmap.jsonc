@@ -4146,6 +4146,8 @@
             },
             {
                 "name": "Hidden Item West of Pond",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
                     "@ilex_forest_north, $surf"
                 ],
