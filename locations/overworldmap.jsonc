@@ -2311,7 +2311,7 @@
             {
                 "name": "Gift from Clair",
                 "access_rules": [
-                    "@dragons_den"
+                    "@dragons_den_shrine, @dragons_den_shrine" // the second is the quiz event which we omit
                 ],
                 "visibility_rules": [
                     "show_items, opt_npcgifts_on"
@@ -2331,7 +2331,7 @@
             {
                 "name": "Shrine - Defeat Lance and Clair at Dragon's Den (Event)",
                 "access_rules": [
-                    "@dragons_den_shrine, event_defeated_rival_mount_moon"
+                    "@dragons_den, event_defeated_rival_mount_moon"
                 ],
                 "visibility_rules": [
                     "show_items"
@@ -2656,7 +2656,7 @@
             {
                 "name": "Gym - Leader Morty",
                 "chest_unopened_img": "/images/trainers/morty.png",
-                "chest_opened_img": "/images/trainers/morty.png",
+                "chest_opened_img": "/images/trainers/morty_bw.png",
                 "access_rules": [
                     "@ecruteak_gym, event_burned_tower_disperse_legendary_dogs"
                 ],
@@ -3520,7 +3520,7 @@
             {
                 "name": "Observatory Deck - Item from Director (HeartGold)",
                 "access_rules": [
-                    "@goldenrod_radio_tower_observation_deck"
+                    "@goldenrod_radio_tower_observation_deck, pokemon_heartgold"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_heartgold, opt_keyitems_on"
@@ -3540,7 +3540,7 @@
             {
                 "name": "Observatory Deck - Item from Director (SoulSilver)",
                 "access_rules": [
-                    "@goldenrod_radio_tower_observation_deck"
+                    "@goldenrod_radio_tower_observation_deck, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_soulsilver, opt_keyitems_on"
@@ -6548,7 +6548,7 @@
             {
                 "name": "Item from Old Man (HeartGold)",
                 "access_rules": [
-                    "@pewter"
+                    "@pewter, pokemon_heartgold"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_heartgold, opt_keyitems_on"
@@ -6568,7 +6568,7 @@
             {
                 "name": "Item from Old Man (SoulSilver)",
                 "access_rules": [
-                    "@pewter"
+                    "@pewter, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_soulsilver, opt_keyitems_on"

@@ -421,14 +421,14 @@
                 "name": "Radio Card",
                 "inherit_codes": true,
                 "img": "/images/items/pokegear_radio.png",
-                "codes": "upgradableradiopokegearcard"
+                "codes": "upgradableradiopokegearcard, regional_radio_card"
             },
             {
                 "name": "Radio Card Expansion",
                 "inherit_codes": true,
                 "img": "/images/items/pokegear_radio.png",
                 "img_mods": "overlay|images/items/overlays/radio_overlay.png",
-                "codes": "upgradableradiopokegearcard"
+                "codes": "upgradableradiopokegearcard, international_radio_card"
             }
         ]
     },

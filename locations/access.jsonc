@@ -691,7 +691,7 @@
     {
         "name": "diglett_cave",
         "access_rules": [
-            "@route_11, upgradableradiopokegearcard_2",
+            "@route_11, international_radio_card",
             "@route_2_east"
         ]
     },
