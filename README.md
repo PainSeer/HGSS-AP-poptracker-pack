@@ -13,7 +13,7 @@ PopTracker v0.33.3 or higher is neccessary.
 ## Planned Features
 - Submaps
 - Encounter and Evolution Logic
-- Continuous support of the TrueBlue's Archipelago HeartGold and SoulSilver integration
+- Continuous support of the [TrueBlue's Archipelago HeartGold and SoulSilver integration](https://github.com/ljtpetersen/hgss_archipelago)
 
 
 ## Compatibility Chart
