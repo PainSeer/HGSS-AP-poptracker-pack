@@ -6317,7 +6317,7 @@
                     "@olivine_lighthouse_exterior"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, opt_overworld_on"
                 ],
                 "item_count": 1
             },
