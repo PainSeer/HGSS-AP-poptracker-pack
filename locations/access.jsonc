@@ -2878,6 +2878,7 @@
     {
         "name": "ruins_of_alph_northeast_entrance_second_room",
         "access_rules": [
+            "@ruins_of_alph_northeast_entrance_first_room, escaperope, []",
             "@ruins_of_alph_northeast_entrance_first_room, $badges_req|1",
             "@ruins_of_alph_northeast_entrance_first_room, @goldenrod_department_store_1f",
             "@ruins_of_alph_northeast_entrance_first_room, @celadon_department_store_1f"
