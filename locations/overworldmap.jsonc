@@ -40,6 +40,8 @@
             },
             {
                 "name": "Kurt's House - Fast Ball from Kurt",
+                "chest_unopened_img": "/images/gifts/kurt_closed.png",
+                "chest_opened_img": "/images/gifts/kurt_open.png",
                 "access_rules": [
                     "@azalea_kurt_house, event_clear_slowpoke_well"
                 ],
@@ -147,6 +149,8 @@
             },
             {
                 "name": "Gym - Gift from Bugsy",
+                "chest_unopened_img": "/images/gifts/bugsy_closed.png",
+                "chest_opened_img": "/images/gifts/bugsy_open.png",
                 "access_rules": [
                     "@azalea_gym, event_clear_slowpoke_well"
                 ],
@@ -939,6 +943,8 @@
             },
             {
                 "name": "Gym - Gift from Erika",
+                "chest_unopened_img": "/images/gifts/erika_closed.png",
+                "chest_opened_img": "/images/gifts/erika_open.png",
                 "access_rules": [
                     "@celadon_gym"
                 ],
@@ -1462,6 +1468,8 @@
             },
             {
                 "name": "Gym - Gift from Misty",
+                "chest_unopened_img": "/images/gifts/misty_closed.png",
+                "chest_opened_img": "/images/gifts/misty_open.png",
                 "access_rules": [
                     "@cerulean_gym, event_ruin_mistys_date"
                 ],
@@ -1742,6 +1750,8 @@
             },
             {
                 "name": "Gym - Gift from Chuck",
+                "chest_unopened_img": "/images/gifts/chuck_closed.png",
+                "chest_opened_img": "/images/gifts/chuck_open.png",
                 "access_rules": [
                     "@cianwood_gym"
                 ],
@@ -2310,6 +2320,8 @@
             },
             {
                 "name": "Gift from Clair",
+                "chest_unopened_img": "/images/gifts/clair_closed.png",
+                "chest_opened_img": "/images/gifts/clair_open.png",
                 "access_rules": [
                     "@dragons_den_shrine, @dragons_den_shrine" // the second is the quiz event which we omit
                 ],
@@ -2690,6 +2702,8 @@
             },
             {
                 "name": "Gym - Gift from Morty",
+                "chest_unopened_img": "/images/gifts/morty_closed.png",
+                "chest_opened_img": "/images/gifts/morty_open.png",
                 "access_rules": [
                     "@ecruteak_gym"
                 ],
@@ -2885,6 +2899,8 @@
             },
             {
                 "name": "Gym - Gift from Janine",
+                "chest_unopened_img": "/images/gifts/janine_closed.png",
+                "chest_opened_img": "/images/gifts/janine_open.png",
                 "access_rules": [
                     "@fuchsia_gym"
                 ],
@@ -3061,6 +3077,8 @@
             },
             {
                 "name": "Gym - Gift from Whitney",
+                "chest_unopened_img": "/images/gifts/whitney_closed.png",
+                "chest_opened_img": "/images/gifts/whitney_open.png",
                 "access_rules": [
                     "@goldenrod_gym, event_radio_quiz"
                 ],
@@ -4491,6 +4509,8 @@
             },
             {
                 "name": "Low Tide Gift from Wesley",
+                "chest_unopened_img": "/images/gifts/wesley_closed.png",
+                "chest_opened_img": "/images/gifts/wesley_open.png",
                 "access_rules": [
                     "@lake_of_rage_low_tide"
                 ],
@@ -4501,6 +4521,8 @@
             },
             {
                 "name": "Item from Fishing Guru",
+                "chest_unopened_img": "/images/gifts/fisherman_closed.png",
+                "chest_opened_img": "/images/gifts/fisherman_open.png",
                 "access_rules": [
                     "@lake_of_rage_fishing_guru_house, ^$has_mon|129, event_clear_mahogany_hideout"
                 ],
@@ -4782,6 +4804,8 @@
             },
             {
                 "name": "Gym - Gift from Pryce",
+                "chest_unopened_img": "/images/gifts/pryce_closed.png",
+                "chest_opened_img": "/images/gifts/pryce_open.png",
                 "access_rules": [
                     "@mahogany_gym_leader_room"
                 ],
@@ -5940,6 +5964,8 @@
             },
             {
                 "name": "Elm's Lab - Gift from Assistant after Obtaining Starter",
+                "chest_unopened_img": "/images/gifts/elmsaide_closed.png",
+                "chest_opened_img": "/images/gifts/elmsaide_open.png",
                 "access_rules": [
                     "@new_bark_elms_lab_1f"
                 ],
@@ -5950,6 +5976,8 @@
             },
             {
                 "name": "Elm's Lab - Gift from Elm after Togepi Egg Hatches",
+                "chest_unopened_img": "/images/gifts/elm_closed.png",
+                "chest_opened_img": "/images/gifts/elm_open.png",
                 "access_rules": [
                     "@new_bark_elms_lab_1f, event_get_togepi_egg"
                 ],
@@ -5960,6 +5988,8 @@
             },
             {
                 "name": "Elm's Lab - Gift from Prof. Elm after Eight Johto Badges",
+                "chest_unopened_img": "/images/gifts/elm_closed.png",
+                "chest_opened_img": "/images/gifts/elm_open.png",
                 "access_rules": [
                     "@new_bark_elms_lab_1f, $johto_badges_req|8, event_ecruteak_dance_theater_defeat_team_rocket, event_burned_tower_disperse_legendary_dogs"
                 ],
@@ -5980,6 +6010,8 @@
             },
             {
                 "name": "Elm's Lab - Gift from Prof. Elm after Clearing the Pokemon League",
+                "chest_unopened_img": "/images/gifts/elm_closed.png",
+                "chest_opened_img": "/images/gifts/elm_open.png",
                 "access_rules": [
                     "@new_bark_elms_lab_1f, event_clear_pokemon_league"
                 ],
@@ -6191,6 +6223,8 @@
             },
             {
                 "name": "Gym - Gift from Jasmine",
+                "chest_unopened_img": "/images/gifts/jasmine_closed.png",
+                "chest_opened_img": "/images/gifts/jasmine_open.png",
                 "access_rules": [
                     "@olivine_gym, event_cure_amphy"
                 ],
@@ -6680,6 +6714,8 @@
             },
             {
                 "name": "Gym - Gift from Brock",
+                "chest_unopened_img": "/images/gifts/brock_closed.png",
+                "chest_opened_img": "/images/gifts/brock_open.png",
                 "access_rules": [
                     "@pewter_gym"
                 ],
@@ -11683,6 +11719,8 @@
         "sections": [
             {
                 "name": "Gift From Monica",
+                "chest_unopened_img": "/images/gifts/monica_closed.png",
+                "chest_opened_img": "/images/gifts/monica_open.png",
                 "access_rules": [
                     "@route_40"
                 ],
@@ -14542,6 +14580,8 @@
             },
             {
                 "name": "Gym - Gift from Sabrina",
+                "chest_unopened_img": "/images/gifts/sabrina_closed.png",
+                "chest_opened_img": "/images/gifts/sabrina_open.png",
                 "access_rules": [
                     "@saffron_gym"
                 ],
@@ -14905,6 +14945,8 @@
             },
             {
                 "name": "Gym - Gift from Blaine",
+                "chest_unopened_img": "/images/gifts/blaine_closed.png",
+                "chest_opened_img": "/images/gifts/blaine_open.png",
                 "access_rules": [
                     "@seafoam_islands_cinnabar_gym"
                 ],
@@ -15238,6 +15280,8 @@
             },
             {
                 "name": "3F - Gift from Elder Li",
+                "chest_unopened_img": "/images/gifts/elder_closed.png",
+                "chest_opened_img": "/images/gifts/elder_open.png",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -16339,6 +16383,8 @@
             },
             {
                 "name": "Gym - Gift from Lt. Surge",
+                "chest_unopened_img": "/images/gifts/lt_surge_closed.png",
+                "chest_opened_img": "/images/gifts/lt_surge_open.png",
                 "access_rules": [
                     "@vermilion_gym"
                 ],
@@ -16735,6 +16781,8 @@
             },
             {
                 "name": "Gym - Gift from Falkner",
+                "chest_unopened_img": "/images/gifts/falkner_closed.png",
+                "chest_opened_img": "/images/gifts/falkner_open.png",
                 "access_rules": [
                     "@violet_gym, event_beat_sprout_tower"
                 ],
@@ -16914,6 +16962,8 @@
             },
             {
                 "name": "Gym - Gift from Blue",
+                "chest_unopened_img": "/images/gifts/blue_closed.png",
+                "chest_opened_img": "/images/gifts/blue_open.png",
                 "access_rules": [
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
