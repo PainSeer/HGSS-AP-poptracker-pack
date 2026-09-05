@@ -1,0 +1,126 @@
+name: Watch apworld data files
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+  actions: read
+
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  WORKFLOW_FILE: apworld-watch.yml
+  UPSTREAM: ljtpetersen/hgss_archipelago
+  UPSTREAM_BRANCH: master
+  ISSUE_LABEL: apworld-update
+  COLD_START: 7 days ago
+  DIFF_BUDGET: 40000
+  WATCH_JSON: '["data_gen/encounters.toml","data_gen/items.toml","data_gen/locations.toml","data_gen/regions.toml","data_gen/rules.toml","data_gen/trainers.toml"]'
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resolve watermark
+        id: since
+        run: |
+          set -euo pipefail
+          since=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/$WORKFLOW_FILE/runs?status=success&per_page=1" --jq '.workflow_runs[0].created_at // empty' 2>/dev/null || true)
+          if [ -z "$since" ]; then
+            since=$(date -u -d "$COLD_START" +%Y-%m-%dT%H:%M:%SZ)
+            echo "No previous successful run found. Cold start from $since"
+          else
+            echo "Previous successful run started at $since"
+          fi
+          echo "since=$since" >> "$GITHUB_OUTPUT"
+
+      - name: Collect upstream commits
+        id: collect
+        env:
+          SINCE: ${{ steps.since.outputs.since }}
+        run: |
+          set -euo pipefail
+          : > commits.jsonl
+          for f in $(jq -r '.[]' <<< "$WATCH_JSON"); do
+            gh api --paginate "repos/$UPSTREAM/commits?path=$f&sha=$UPSTREAM_BRANCH&since=$SINCE&per_page=100" \
+              | jq -c --arg f "$f" '.[] | {sha, date: .commit.committer.date, msg: (.commit.message | split("\n")[0]), url: .html_url, file: $f}' >> commits.jsonl
+          done
+          jq -s 'group_by(.sha)
+                 | map({sha: .[0].sha, date: .[0].date, msg: .[0].msg, url: .[0].url, files: (map(.file) | unique)})
+                 | sort_by(.date) | reverse' commits.jsonl > commits.json
+          count=$(jq 'length' commits.json)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "$count commit(s) touching watched files since $SINCE"
+          if [ "$count" -eq 0 ]; then exit 0; fi
+          head=$(jq -r '.[0].sha' commits.json)
+          oldest=$(jq -r '.[-1].sha' commits.json)
+          base=$(gh api "repos/$UPSTREAM/commits/$oldest" --jq '.parents[0].sha // empty')
+          echo "head=$head" >> "$GITHUB_OUTPUT"
+          echo "base=$base" >> "$GITHUB_OUTPUT"
+          if [ -n "$base" ]; then
+            gh api "repos/$UPSTREAM/compare/$base...$head" > compare.json
+          else
+            echo '{"files":[]}' > compare.json
+          fi
+
+      - name: Build issue body
+        if: steps.collect.outputs.count != '0'
+        env:
+          SINCE: ${{ steps.since.outputs.since }}
+          BASE: ${{ steps.collect.outputs.base }}
+          HEAD: ${{ steps.collect.outputs.head }}
+        run: |
+          set -euo pipefail
+          cmp_url="https://github.com/$UPSTREAM/compare/$BASE...$HEAD"
+          diffs=$(jq -r --argjson budget "$DIFF_BUDGET" --argjson watch "$WATCH_JSON" --arg upstream "$UPSTREAM" --arg branch "$UPSTREAM_BRANCH" '
+            [ .files[]? | select(.filename as $f | $watch | index($f) != null) ]
+            | reduce .[] as $f ({used: 0, out: []};
+                ($f.patch // "") as $p
+                | ((($p | length) > 0) and (.used + ($p | length) <= $budget)) as $fits
+                | {
+                    used: (if $fits then .used + ($p | length) else .used end),
+                    out: (.out + [
+                      if $fits then
+                        "<details><summary><code>\($f.filename)</code> (+\($f.additions) / -\($f.deletions))</summary>\n\n```diff\n\($p)\n```\n\n</details>"
+                      else
+                        "- <code>\($f.filename)</code> (+\($f.additions) / -\($f.deletions)) — too large to inline, see the [file history](https://github.com/\($upstream)/commits/\($branch)/\($f.filename))"
+                      end
+                    ])
+                  })
+            | .out | join("\n\n")' compare.json)
+          {
+            printf 'Watched files under [`data_gen/`](https://github.com/%s/tree/%s/data_gen) in [`%s`](https://github.com/%s) changed since the last check (`%s`).\n\n' \
+              "$UPSTREAM" "$UPSTREAM_BRANCH" "$UPSTREAM" "$UPSTREAM" "$SINCE"
+            printf '## Commits\n\n'
+            jq -r '.[] | "- [`\(.sha[0:7])`](\(.url)) `\(.date[0:10])` \(.msg)\n  \(.files | map("`" + (. | sub("^data_gen/"; "")) + "`") | join(", "))"' commits.json
+            if [ -n "$BASE" ]; then
+              printf '\nFull compare: [`%s...%s`](%s)\n' "${BASE:0:7}" "${HEAD:0:7}" "$cmp_url"
+            fi
+            if [ -n "$diffs" ]; then
+              printf '\n## Diffs\n\n'
+              printf '%s\n' "$diffs"
+            fi
+            printf '\n<!-- apworld-watch head=%s -->\n' "$HEAD"
+          } > body.md
+          wc -c body.md
+
+      - name: Create issue
+        if: steps.collect.outputs.count != '0'
+        env:
+          HEAD: ${{ steps.collect.outputs.head }}
+        run: |
+          set -euo pipefail
+          gh label create "$ISSUE_LABEL" --color 1D76DB --description "Upstream apworld data files changed" >/dev/null 2>&1 || true
+          if gh issue list --state all --label "$ISSUE_LABEL" --limit 100 --json body --jq '.[].body' | grep -qF "apworld-watch head=$HEAD"; then
+            echo "An issue for $HEAD already exists; nothing to do"
+            exit 0
+          fi
+          n=$(gh issue list --state all --label "$ISSUE_LABEL" --limit 200 --json title \
+                --jq '[.[].title | match("#([0-9]+)$") | .captures[0].string | tonumber] | (max // 0) + 1')
+          gh issue create \
+            --title "New changes available in the apworld #$n" \
+            --label "$ISSUE_LABEL" \
+            --body-file body.md
