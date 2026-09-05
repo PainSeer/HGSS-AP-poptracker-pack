@@ -52,6 +52,15 @@ function toggle_trackerlayout()
     Tracker:AddLayouts("layouts/tracker"..suffix..".json")
 end
 
+FLY_UNLOCK_SETS = {"kanto", "johto", "pokemon_league", "mount_silver"}
+
+function initiateVanillaFlyTracking()
+    local no_item_req = has("opt_require_fly_items_for_flight_off")
+    for _, set in ipairs(FLY_UNLOCK_SETS) do
+        Tracker:FindObjectForCode("flyvanilla_"..set).Active = (not has("opt_randomize_fly_items_"..set)) or no_item_req
+    end
+end
+
 function syncPokedex()
     if not has("opt_pokedex_off") then return end
     local count = 0

@@ -73,7 +73,7 @@
             "@battle_frontier_battle_hall",
             "@battle_frontier_frontier_access_gatehouse",
             "@battle_tower",
-            "$can_freefly|battle_frontier"
+            "$can_freefly|battle_frontier, [fly_map_battle_frontier_itemunlock]"
         ]
     },
     {

@@ -748,5 +748,30 @@
                 "inherit_codes": false
             }
         ]
+    },
+    {
+        "name": "Vanilla Fly Unlocks Tracked - Kanto",
+        "type": "toggle",
+        "codes": "flyvanilla_kanto"
+    },
+    {
+        "name": "Vanilla Fly Unlocks Tracked - Johto",
+        "type": "toggle",
+        "codes": "flyvanilla_johto"
+    },
+    {
+        "name": "Vanilla Fly Unlocks Tracked - Pokémon League",
+        "type": "toggle",
+        "codes": "flyvanilla_pokemon_league"
+    },
+    {
+        "name": "Vanilla Fly Unlocks Tracked - Mt. Silver",
+        "type": "toggle",
+        "codes": "flyvanilla_mount_silver"
+    },
+    {
+        "name": "You have obtained Battle Frontier as an item",
+        "type": "toggle",
+        "codes": "fly_map_battle_frontier_itemunlock"
     }
 ]

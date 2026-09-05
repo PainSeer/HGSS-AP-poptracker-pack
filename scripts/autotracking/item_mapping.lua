@@ -114,7 +114,7 @@ ITEM_MAPPING = {
     [57393]    = {{"fly_map_lake_of_rage", "toggle"}},
     [57394]    = {{"fly_map_mount_silver", "toggle"}},
     [57395]    = {{"fly_map_safari_zone_gate", "toggle"}},
-    [57396]    = {{"fly_map_battle_frontier", "toggle"}},
+    [57396]    = {{"fly_map_battle_frontier", "toggle"}, {"fly_map_battle_frontier_itemunlock", "toggle"}},
 	[57397]    = {{"fly_map_national_park", "toggle"}},
     [57398]    = {{"fly_map_victory_road_1f", "toggle"}}
 }
