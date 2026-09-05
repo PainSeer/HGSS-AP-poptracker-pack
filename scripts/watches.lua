@@ -45,6 +45,7 @@ for _, code in ipairs(FLAG_EVENT2_CODES) do
     ScriptHost:AddWatchForCode(code, code, syncHostedFromBase)
     ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
 end
+ScriptHost:AddWatchForCode("slowpoke_well_kurt", "event_clear_slowpoke_well", syncKurtFromSlowpokeWell)
 
 -- Vanilla Location Syncs
 for _, code in ipairs(HOSTED_VANILLA_CODES) do

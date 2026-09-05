@@ -92,6 +92,12 @@ function syncBaseFromHosted(code)
     Tracker:FindObjectForCode(base).Active = Tracker:FindObjectForCode(code).Active
 end
 
+function syncKurtFromSlowpokeWell()
+    if Tracker:FindObjectForCode("event_clear_slowpoke_well").Active then
+        Tracker:FindObjectForCode("event_talk_to_kurt").Active = true
+    end
+end
+
 function toggle_mossyrock()
     if has("opt_mossy_rock_johto") then
         Tracker:AddMaps("maps/ilexforest_mossy.json")
