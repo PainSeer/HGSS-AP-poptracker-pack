@@ -271,7 +271,7 @@ function onClear(slot_data)
     updateEvents(2, 0)
 
     -- resets all vanilla key items
-    for register = 1, 3 do
+    for register = 1, 4 do
         local list = _G["FLAG_ITEM" .. tostring(register) .. "_CODES"]
         for _, obj in ipairs(list) do
             if obj.codes then
