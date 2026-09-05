@@ -15280,6 +15280,8 @@
             },
             {
                 "name": "3F - Gift from Elder Li",
+                "chest_unopened_img": "/images/gifts/elder_closed.png",
+                "chest_opened_img": "/images/gifts/elder_open.png",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
