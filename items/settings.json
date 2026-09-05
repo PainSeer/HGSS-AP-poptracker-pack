@@ -573,14 +573,15 @@
         "stages": [
             {
                 "name": "Fly Items Not Required for Flight",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_require_fly_items_for_flight.png",
                 "img_mods": "@disabled",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Items Required for Flight",
-                "img": "images/temp.png",
+                "img": "images/settings/opt_require_fly_items_for_flight.png",
+                "img_mods": "overlay|images/settings/overlays/require_fly_item.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
                 "inherit_codes": false
             }

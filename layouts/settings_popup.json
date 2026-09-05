@@ -135,7 +135,8 @@
             [
                 "opt_mossy_rock",
                 "opt_icy_rock",
-		"opt_magnetic_field"
+		"opt_magnetic_field",
+		"opt_require_fly_items_for_flight"
             ]
         ]
     },
