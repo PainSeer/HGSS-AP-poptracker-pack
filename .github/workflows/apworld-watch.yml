@@ -12,6 +12,7 @@ permissions:
 
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GH_REPO: ${{ github.repository }}
   WORKFLOW_FILE: apworld-watch.yml
   UPSTREAM: ljtpetersen/hgss_archipelago
   UPSTREAM_BRANCH: master
