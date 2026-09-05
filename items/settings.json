@@ -448,7 +448,7 @@
     {
         "name": "Mossy Rock",
         "type": "progressive",
-        "initial_stage_idx": 3,
+        "initial_stage_idx": 2,
         "loop": true,
         "allow_disabled": false,
         "stages": [
@@ -478,7 +478,7 @@
     {
         "name": "Icy Rock",
         "type": "progressive",
-        "initial_stage_idx": 3,
+        "initial_stage_idx": 2,
         "loop": true,
         "allow_disabled": false,
         "stages": [
@@ -508,7 +508,7 @@
     {
         "name": "Magnetic Field",
         "type": "progressive",
-        "initial_stage_idx": 3,
+        "initial_stage_idx": 2,
         "loop": true,
         "allow_disabled": false,
         "stages": [
