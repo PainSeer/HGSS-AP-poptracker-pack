@@ -212,7 +212,8 @@
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
-                    "@battle_frontier"
+                    "@battle_frontier",
+					"@viridian_pokecenter_1f"
                 ],
                 "visibility_rules": [
                     "show_items, opt_randomize_fly_items_johto"
@@ -16839,6 +16840,10 @@
                     "show_items, opt_randomize_fly_items_kanto"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Battle Frontier Fly Unlock",
+				"ref": "Battle Frontier/Fly Unlock"
             },
             {
                 "name": "Hidden Item in East Flower Patch",
