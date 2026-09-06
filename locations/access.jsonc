@@ -2626,7 +2626,7 @@
     {
         "name": "route_40",
         "access_rules": [
-            "@olivine, $surf",
+            "@olivine, hm03surf",
             "@route_40_battle_frontier_gatehouse",
             "@route_41, $surf"
         ]

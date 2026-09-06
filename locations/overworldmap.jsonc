@@ -2599,7 +2599,7 @@
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_off"
                 ],
                 "visibility_rules": [
-                    "show_items, pokemon_soulsilver, opt_keyitems_on"
+                    "show_items, pokemon_soulsilver, opt_keyitems_off"
                 ],
                 "hosted_item": "tidalbell_hosted"
             },
