@@ -49,7 +49,7 @@ function onClear(slot_data)
     GAME = Archipelago:GetPlayerGame(PLAYER_ID)
     
     -- we check for correct game, version, and non manual
-    if GAME == "Pokemon HGSS" then
+    if GAME == "Pokemon HGSS" or "Pokemon HeartGold" then
         Tracker:AddLayouts("layouts/errors/error_singe.json")
         return
     elseif GAME == "Pokemon HeartGold and SoulSilver" then
