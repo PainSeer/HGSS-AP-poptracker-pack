@@ -4168,7 +4168,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
-                    "@ilex_forest_north, $surf"
+                    "@ilex_forest_north, $surf, ^$hid"
                 ],
                 "visibility_rules": [
                     "show_items, opt_hidden_on"
