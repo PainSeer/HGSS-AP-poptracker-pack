@@ -10,6 +10,7 @@ SLOT_DATA = nil
 
 SLOT_DATA = {}
 ENCOUNTERS_GROUPED = {}
+POKEMON_TO_LOCATIONS = {}
 ROOM_SEED = "default"
 SAVED_HINTS = {}
 TRAINER_START_ID = 262148
@@ -78,98 +79,25 @@ function onClear(slot_data)
         end
     end
     -------------------------------------------------
---
---    local generated = slot_data.generated_encounters
---    ENCOUNTERS_GROUPED = {}
---
---    local used_keys = {}
---
---    for area_slot_key, slot_counts in pairs(AREA_SLOTS) do
---
---        local base_area = area_slot_key:gsub("_land$", "")
---        local is_special_case = (base_area == "old_chateau_back_middle_east_room")
---        local special_types = { "land", "any_cartridge" }
---
---        local cursor = 0
---
---        for type_index, count in ipairs(slot_counts) do
---            if count > 0 then
---
---                local area_type
---
---                -- There is specifically one room in old Chateau which has a slot
---                -- whose access rules is ANY cartridge.
---                if is_special_case then
---                    area_type = special_types[type_index]
---                else
---                    area_type = AREA_TYPES[type_index]
---                end
---                
---                local grouped_key
---                if area_type == "land" then
---                    grouped_key = area_slot_key
---                else
---                    grouped_key = base_area .. "_" .. area_type
---                end
---
---                ENCOUNTERS_GROUPED[grouped_key] = ENCOUNTERS_GROUPED[grouped_key] or {}
---
---                for i = 0, count - 1 do
---                    local old_index = cursor + i
---                    local old_key = area_slot_key .. "_" .. old_index
---
---                    local value = generated[old_key]
---                    if value ~= nil then
---                        table.insert(ENCOUNTERS_GROUPED[grouped_key], value)
---                        used_keys[old_key] = true
---                    end
---                end
---
---                cursor = cursor + count
---            end
---        end
---    end
---
---    for key, value in pairs(generated) do
---        if not used_keys[key] then
---            local base = key:match("^(.*)_%d+$")
---
---            ENCOUNTERS_GROUPED[base] = ENCOUNTERS_GROUPED[base] or {}
---            table.insert(ENCOUNTERS_GROUPED[base], value)
---
---        end
---    end
---
---    -- at this point we have the entire list as region = {number, number, etc.}.
---    -- now we gotta append the special encounters because why does no pokemon dev
---    -- want to ever give me these in the original table? :(
---    
---    local special = slot_data.generated_special_encounters
---    for key, value in pairs(special) do
---        local base = key:match("^(.*)_%d+$")
---
---        ENCOUNTERS_GROUPED[base] = ENCOUNTERS_GROUPED[base] or {}
---        table.insert(ENCOUNTERS_GROUPED[base], value)
---    end
---
---    ENCOUNTERS_GROUPED["roamer_0"] = {slot_data.generated_roamers[1]}
---    ENCOUNTERS_GROUPED["roamer_1"] = {slot_data.generated_roamers[2]}
---    ENCOUNTERS_GROUPED["roamer_345"] = {slot_data.generated_roamers[3], slot_data.generated_roamers[4], slot_data.generated_roamers[5]}
---
---    -- and now we flip this on the head by instead matching pokemon -> region instead of region -> pokemon
---    
---    POKEMON_TO_LOCATIONS = {}
---    for location, dex_list in pairs(ENCOUNTERS_GROUPED) do
---        for _, dex_number in pairs(dex_list) do
---            if POKEMON_TO_LOCATIONS[dex_number] == nil then
---                POKEMON_TO_LOCATIONS[dex_number] = {}
---            end
---            table.insert(POKEMON_TO_LOCATIONS[dex_number], location)
---        end
---    end
---    
---    --print(dump_table(POKEMON_TO_LOCATIONS))
---    --print(dump_table(ENCOUNTERS_GROUPED))
+
+    ENCOUNTERS_GROUPED = {}
+    POKEMON_TO_LOCATIONS = {}
+
+    for slot_key, dex_number in pairs(slot_data.generated_encounters or {}) do
+        local section = ENCOUNTER_MAPPING[slot_key]
+        if section ~= nil then
+            if ENCOUNTERS_GROUPED[section] == nil then
+                ENCOUNTERS_GROUPED[section] = {}
+            end
+            table.insert(ENCOUNTERS_GROUPED[section], dex_number)
+
+            if POKEMON_TO_LOCATIONS[dex_number] == nil then
+                POKEMON_TO_LOCATIONS[dex_number] = {}
+            end
+            table.insert(POKEMON_TO_LOCATIONS[dex_number], section)
+        end
+    end
+
     -------------------------------------------------
 
 
@@ -301,8 +229,8 @@ function onClear(slot_data)
         IDs = {
             EVENT1     = makeID("tracked_events_", "_0"),
             EVENT2     = makeID("tracked_events_", "_1"),
---            SEEN       = makeID("seen_pokemon_"),
---            CAUGHT     = makeID("caught_pokemon_"),
+            SEEN       = makeID("seen_pokemon_"),
+            CAUGHT     = makeID("caught_pokemon_"),
 --            ROADBLOCK  = makeID("saw_locations_"),
             KEY1       = makeID("tracked_unrandomized_required_locations_", "_0"),
             KEY2       = makeID("tracked_unrandomized_required_locations_", "_1"),
@@ -489,10 +417,10 @@ function onNotify(key, value, old_value)
         elseif key == IDs.HINT then
             SAVED_HINTS = value
             updateHints()
---        elseif key == IDs.CAUGHT then
---            updateCaught(value)
---        elseif key == IDs.SEEN then
---            updateSeen(value)
+        elseif key == IDs.CAUGHT then
+            updateCaught(value)
+        elseif key == IDs.SEEN then
+            updateSeen(value)
         end
     end
 end
@@ -570,9 +498,9 @@ function resetHints()
         end
     end
     
-    for _, location in pairs(ENCOUNTER_MAPPING) do
-        if location and location:sub(1, 1) == "@" then
-            local obj = Tracker:FindObjectForCode(location)
+    for _, section in ipairs(ENCOUNTER_SECTIONS) do
+        local obj = Tracker:FindObjectForCode(section)
+        if obj then
             obj.Highlight = 0
         end
     end
@@ -593,13 +521,13 @@ function updateHints()
             end
         end
     end
---    for _, location in pairs(ENCOUNTER_MAPPING) do
---        if location:sub(1, 1) == "@" then
---            local obj = Tracker:FindObjectForCode(location)
---            obj.Highlight = 0
---        end
---    end
-    
+    for _, section in ipairs(ENCOUNTER_SECTIONS) do
+        local obj = Tracker:FindObjectForCode(section)
+        if obj then
+            obj.Highlight = 0
+        end
+    end
+
     local tracking_plus = has("hint_tracking_on_plus")
     for _, hint in ipairs(SAVED_HINTS) do
         if hint.finding_player == PLAYER_ID then
@@ -612,35 +540,31 @@ function updateHints()
                 incoming_val = HIGHLIGHT_LEVEL[hint.status]
             end
 
-            -- Special handling for Pokémon locations (262145–262637)
---            if hint.location >= 262145 and hint.location <= 262637 then
---                local poke_id = hint.location - 262144
---                local poke_locations = POKEMON_TO_LOCATIONS[poke_id]
---
---                if poke_locations then
---                    for _, encounter_key in pairs(poke_locations) do
---                        local mapped_location = ENCOUNTER_MAPPING[encounter_key]
---                        if mapped_location and mapped_location:sub(1, 1) == "@" then
---                            local obj = Tracker:FindObjectForCode(mapped_location)
---    
---                            if tracking_plus then
---                                if hint.found == false then
---                                    if incoming_val == Highlight.Priority then
---                                        obj.Highlight = incoming_val
---                                    end
---                                end
---                            else
---                                local current_val = obj.Highlight
---                                if current_val == nil or HIGHLIGHT_PRIORITY[incoming_val] < HIGHLIGHT_PRIORITY[current_val] then
---                                    obj.Highlight = incoming_val
---                                end
---                            end
---                        end
---                    end
---                end
+            -- Special handling for Pokémon locations (196609–197101)
+            if hint.location >= 196609 and hint.location <= 197101 then
+                local poke_id = hint.location - 196608
+                local poke_locations = POKEMON_TO_LOCATIONS[poke_id]
 
---                goto continue_hint
---            end
+                if poke_locations then
+                    for _, section in ipairs(poke_locations) do
+                        local obj = Tracker:FindObjectForCode(section)
+                        if obj then
+                            if tracking_plus then
+                                if hint.found == false and incoming_val == Highlight.Priority then
+                                    obj.Highlight = incoming_val
+                                end
+                            else
+                                local current_val = obj.Highlight
+                                if current_val == nil or HIGHLIGHT_PRIORITY[incoming_val] < HIGHLIGHT_PRIORITY[current_val] then
+                                    obj.Highlight = incoming_val
+                                end
+                            end
+                        end
+                    end
+                end
+
+                goto continue_hint
+            end
 
             local locations = (type(mapped) == "table") and mapped or { mapped }
 

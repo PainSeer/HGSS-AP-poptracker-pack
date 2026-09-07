@@ -22,8 +22,14 @@ end
 
 function surf_encounters()
     if not surf() then return AccessibilityLevel.None end
-    
-    if has("encmethod_surf_on") then
+
+    return AccessibilityLevel.Normal
+end
+
+function rocksmash_encounters()
+    if not rock_smash() then return AccessibilityLevel.None end
+
+    if has("encmethod_rocksmash_on") then
         return AccessibilityLevel.Normal
     else
         return AccessibilityLevel.SequenceBreak
@@ -90,6 +96,72 @@ function superrod_encounters()
     else
         return AccessibilityLevel.SequenceBreak
     end
+end
+
+function fishingnight_encounters()
+    if not (has("goodrod") or has("superrod")) then return AccessibilityLevel.None end
+    if not has("nighttime") then return AccessibilityLevel.None end
+
+    if has("encmethod_fishing_on") and has("encmethod_time_on") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
+function goodrodnotnight_encounters()
+    if not has("goodrod") then return AccessibilityLevel.None end
+    if not (has("morningtime") or has("daytime")) then return AccessibilityLevel.None end
+
+    if has("encmethod_fishing_on") and has("encmethod_time_on") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
+function superrodnotnight_encounters()
+    if not has("superrod") then return AccessibilityLevel.None end
+    if not (has("morningtime") or has("daytime")) then return AccessibilityLevel.None end
+
+    if has("encmethod_fishing_on") and has("encmethod_time_on") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
+ENC_METHODS = {
+    land = land_encounters,
+    morning = morning_encounters,
+    day = day_encounters,
+    night = night_encounters,
+    surf = surf_encounters,
+    oldrod = oldrod_encounters,
+    goodrod = goodrod_encounters,
+    superrod = superrod_encounters,
+    fishingnight = fishingnight_encounters,
+    goodrodnotnight = goodrodnotnight_encounters,
+    superrodnotnight = superrodnotnight_encounters,
+    rocksmash = rocksmash_encounters,
+    hoenn = hoennsound_encounters,
+    sinnoh = sinnohsound_encounters,
+}
+
+function enc(...)
+    local best = AccessibilityLevel.None
+    for _, name in ipairs({...}) do
+        local method = ENC_METHODS[name]
+        if method == nil then
+            print("Unknown encounter method: "..tostring(name))
+        else
+            local level = method()
+            if level > best then
+                best = level
+            end
+        end
+    end
+    return best
 end
 
 function evo_item_shop()

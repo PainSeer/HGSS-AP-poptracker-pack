@@ -254,21 +254,18 @@ function updatePokemon()
         return
     end
     
-    local regionObjects = {}
     local baseCounts = {}
     local pendingDecrements = {}
-    
-    for region_key, location in pairs(ENCOUNTER_MAPPING) do
-        regionObjects[region_key] = Tracker:FindObjectForCode(location)
-        if ENCOUNTERS_GROUPED[region_key] ~= nil then
-            -- Remember to remove this once it is fixed in the apworld
-            baseCounts[region_key] = #ENCOUNTERS_GROUPED[region_key]
-        else
-            print(region_key.." is nil!")
-        end
-        pendingDecrements[region_key] = 0
+
+    for _, section in ipairs(ENCOUNTER_SECTIONS) do
+        baseCounts[section] = 0
+        pendingDecrements[section] = 0
     end
-    
+
+    for section, dex_list in pairs(ENCOUNTERS_GROUPED) do
+        baseCounts[section] = #dex_list
+    end
+
     for dex_number, locations in pairs(POKEMON_TO_LOCATIONS) do
         local dexVisibilityCode = Tracker:FindObjectForCode("dexsanity_visibility_" .. dex_number).Active
         local dexSentCode = Tracker:FindObjectForCode("dexsanity_sent_" .. dex_number).Active
@@ -287,7 +284,7 @@ function updatePokemon()
         
         if should_decrement == false then
             if has("hint_tracking_on_plus") and SAVED_HINTS ~= nil then
-                local padded_dex_number = 262144 + dex_number
+                local padded_dex_number = 196608 + dex_number
                 for _, hint in pairs(SAVED_HINTS) do
                     if hint.finding_player == PLAYER_ID and hint.found == false then
                         if padded_dex_number == hint.location then
@@ -309,31 +306,18 @@ function updatePokemon()
         end
         
         if should_decrement then
-            for _, location in pairs(locations) do
-                local object_name = ENCOUNTER_MAPPING[location]
-                if object_name ~= nil then
-                    local object = Tracker:FindObjectForCode(object_name)
-                    if object then
-                        pendingDecrements[location] = pendingDecrements[location] + 1
-                    end
-                end
+            for _, section in ipairs(locations) do
+                pendingDecrements[section] = pendingDecrements[section] + 1
             end
         end
     end
-    for region_key, object in pairs(regionObjects) do
-        if baseCounts[region_key] ~= nil then
-            -- Remember to remove this once it is fixed in the apworld
-            object.AvailableChestCount = baseCounts[region_key] - pendingDecrements[region_key]
-        else
-            print(region_key.." is nil!")
-        end
-    end
 
-    for _, location in pairs(ENCOUNTER_MAPPING) do
-        if location and location:sub(1, 1) == "@" then
-            local obj = Tracker:FindObjectForCode(location)
-            if obj and obj.AvailableChestCount == 0 then
-                obj.Highlight = 0
+    for _, section in ipairs(ENCOUNTER_SECTIONS) do
+        local object = Tracker:FindObjectForCode(section)
+        if object then
+            object.AvailableChestCount = baseCounts[section] - pendingDecrements[section]
+            if object.AvailableChestCount == 0 then
+                object.Highlight = 0
             end
         end
     end
@@ -346,21 +330,17 @@ function searchMon()
         --Tracker:FindObjectForCode("static_visibility").CurrentStage = 0
         Tracker:FindObjectForCode("no_wild_encounters_found").Active = false
         
-        for region_key, location in pairs(ENCOUNTER_MAPPING) do
-            local object = Tracker:FindObjectForCode(location)
-            object.AvailableChestCount = 0
+        for _, section in ipairs(ENCOUNTER_SECTIONS) do
+            local object = Tracker:FindObjectForCode(section)
+            if object then
+                object.AvailableChestCount = 0
+            end
         end
-        
+
         local dex1 = Tracker:FindObjectForCode("dexsearch_digit1").CurrentStage
         local dex2 = Tracker:FindObjectForCode("dexsearch_digit2").CurrentStage
         local dex3 = Tracker:FindObjectForCode("dexsearch_digit3").CurrentStage
         local dexID = dex1 * 100 + dex2 * 10 + dex3
-
-        if dexID == 494 then
-            searchAmity()
-            Tracker:FindObjectForCode("go").CurrentStage = 0
-            return
-        end
 
         Tracker:FindObjectForCode("search_ID_result").CurrentStage = dexID
         
@@ -379,14 +359,10 @@ function searchMon()
             end
         end
     
-        for _, location in ipairs(locations) do
-            local object_name = ENCOUNTER_MAPPING[location]
-            print(object_name)
-            if object_name then
-                local object = Tracker:FindObjectForCode(object_name)
-                if object then
-                    object.AvailableChestCount = object.AvailableChestCount + 1
-                end
+        for _, section in ipairs(locations) do
+            local object = Tracker:FindObjectForCode(section)
+            if object then
+                object.AvailableChestCount = object.AvailableChestCount + 1
             end
         end
     end
