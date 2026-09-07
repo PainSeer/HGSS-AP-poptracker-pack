@@ -1522,6 +1522,8 @@
             },
             {
                 "name": "Running Shoes from Guide Gent",
+                "chest_unopened_img": "/images/gifts/oldman_closed.png",
+                "chest_opened_img": "/images/gifts/oldman_opened.png",
                 "access_rules": [
                     "@cherrygrove"
                 ],
@@ -1530,6 +1532,8 @@
             },
             {
                 "name": "Map Card from Guide Gent",
+                "chest_unopened_img": "/images/gifts/oldman_closed.png",
+                "chest_opened_img": "/images/gifts/oldman_opened.png",
                 "access_rules": [
                     "@cherrygrove"
                 ],
@@ -1538,6 +1542,8 @@
             },
             {
                 "name": "Mystic Water from Man on Island",
+                "chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@cherrygrove, $surf"
                 ],
@@ -4622,6 +4628,8 @@
             },
             {
                 "name": "Radio Station - Expansion Card From Director",
+                "chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@lavender_radio_station, event_restore_power"
                 ],
@@ -4632,6 +4640,8 @@
             },
             {
                 "name": "Radio Station - Expansion Card From Director\u200b",
+                "chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@lavender_radio_station, event_restore_power"
                 ],
@@ -9920,6 +9930,8 @@
             },
             {
                 "name": "Gift From Tuscany",
+                "chest_unopened_img": "/images/gifts/beauty_closed.png",
+                "chest_opened_img": "/images/gifts/beauty_opened.png",
                 "access_rules": [
                     "@route_29, zephyrbadge"
                 ],
@@ -10222,6 +10234,8 @@
             },
             {
                 "name": "Mr. Pokemon's House - Pokedex from Prof. Oak",
+                "chest_unopened_img": "/images/gifts/oak_closed.png",
+                "chest_opened_img": "/images/gifts/oak_opened.png",
                 "access_rules": [
                     "@route_30_mr_pokemon_house"
                 ],
@@ -10230,6 +10244,8 @@
             },
             {
                 "name": "Mr. Pokemon's House - Pokedex from Prof. Oak\u200b",
+                "chest_unopened_img": "/images/gifts/oak_closed.png",
+                "chest_opened_img": "/images/gifts/oak_opened.png",
                 "access_rules": [
                     "@route_30_mr_pokemon_house"
                 ],
@@ -10240,6 +10256,8 @@
             },
             {
                 "name": "Mr. Pokemon's House - Exp. Share from Mr. Pokemon",
+                "chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@route_30_mr_pokemon_house, redscale"
                 ],
@@ -10348,6 +10366,8 @@
             },
             {
                 "name": "Gift From Sleepy Man",
+                "chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@route_31, event_get_kenya"
                 ],
