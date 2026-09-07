@@ -189,18 +189,26 @@ function onClear(slot_data)
                     Tracker:FindObjectForCode(code).CurrentStage = 1
                 end
             end
-        elseif k == "hm_badge_requirement" then
-            if v == 0 then
-                for _, code in pairs(HM_CODES) do
-                    Tracker:FindObjectForCode(code).CurrentStage = 1
-                end
-            end
         elseif k == "blue_return_viridian_badge_requirement" then
             Tracker:FindObjectForCode("opt_blue_badges").AcquiredCount = v
         elseif k == "remove_badge_requirements" then
+            -- this can be simplified / reverted if TrueBlue resolves "all" to the individual codes
+            local remove_all = false
             for _, hm in pairs(v) do
-                if HM_CODES[hm] then
-                    Tracker:FindObjectForCode(HM_CODES[hm]).CurrentStage = 1
+                if hm == "all" then
+                    remove_all = true
+                    break
+                end
+            end
+            if remove_all then
+                for _, code in pairs(HM_CODES) do
+                    Tracker:FindObjectForCode(code).CurrentStage = 1
+                end
+            else
+                for _, hm in pairs(v) do
+                    if HM_CODES[hm] then
+                        Tracker:FindObjectForCode(HM_CODES[hm]).CurrentStage = 1
+                    end
                 end
             end
         elseif k == "trainersanity_trainers" then
