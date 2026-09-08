@@ -822,7 +822,7 @@
         {
             "name": "Dark Cave (North Side) Encounters",
             "map_locations": [
-            { "map": "darkcaveroute31", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "darkcaveroute45", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Dark Cave (North Side)/Encounters (Land)" },
@@ -830,14 +830,13 @@
             { "name": "Sinnoh", "ref": "Dark Cave (North Side)/Encounters (Sinnoh)" },
             { "name": "Surf, Any Rod", "ref": "Dark Cave (North Side)/Encounter (Surf, Any Rod)" },
             { "name": "Any Rod", "ref": "Dark Cave (North Side)/Encounter (Any Rod)" },
-            { "name": "Super Rod", "ref": "Dark Cave (North Side)/Encounter (Super Rod)" },
-            { "name": "Rock Smash", "ref": "Dark Cave (North Side)/Encounters (Rock Smash)" }
+            { "name": "Super Rod", "ref": "Dark Cave (North Side)/Encounter (Super Rod)" }
             ]
         },
         {
             "name": "Dark Cave (South Side) Encounters",
             "map_locations": [
-            { "map": "darkcaveroute45", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "darkcaveroute31", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Dark Cave (South Side)/Encounters (Land)" },
@@ -845,7 +844,8 @@
             { "name": "Sinnoh", "ref": "Dark Cave (South Side)/Encounters (Sinnoh)" },
             { "name": "Surf, Any Rod", "ref": "Dark Cave (South Side)/Encounter (Surf, Any Rod)" },
             { "name": "Any Rod", "ref": "Dark Cave (South Side)/Encounter (Any Rod)" },
-            { "name": "Super Rod", "ref": "Dark Cave (South Side)/Encounter (Super Rod)" }
+            { "name": "Super Rod", "ref": "Dark Cave (South Side)/Encounter (Super Rod)" },
+            { "name": "Rock Smash", "ref": "Dark Cave (South Side)/Encounters (Rock Smash)" }
             ]
         },
         {

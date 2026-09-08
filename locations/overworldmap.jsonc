@@ -3129,14 +3129,12 @@
             },
             {
                 "name": "Encounters (Land)",
-                "item_count": 3,
+                "item_count": 5,
                 "chest_unopened_img": "/images/locations/encounters/land.png",
                 "chest_opened_img": "/images/locations/encounters/land_c.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_east",
-                    "@dark_cave_route_31_side_north",
-                    "@dark_cave_route_31_side_south",
-                    "@dark_cave_route_31_side_west"
+                    "@dark_cave_route_45_side_bottom",
+                    "@dark_cave_route_45_side"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3148,10 +3146,8 @@
                 "chest_unopened_img": "/images/locations/encounters/hoenn.png",
                 "chest_opened_img": "/images/locations/encounters/hoenn_c.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_east, ^$enc|hoenn",
-                    "@dark_cave_route_31_side_north, ^$enc|hoenn",
-                    "@dark_cave_route_31_side_south, ^$enc|hoenn",
-                    "@dark_cave_route_31_side_west, ^$enc|hoenn"
+                    "@dark_cave_route_45_side_bottom, ^$enc|hoenn",
+                    "@dark_cave_route_45_side, ^$enc|hoenn"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3163,10 +3159,8 @@
                 "chest_unopened_img": "/images/locations/encounters/sinnoh.png",
                 "chest_opened_img": "/images/locations/encounters/sinnoh_c.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_east, ^$enc|sinnoh",
-                    "@dark_cave_route_31_side_north, ^$enc|sinnoh",
-                    "@dark_cave_route_31_side_south, ^$enc|sinnoh",
-                    "@dark_cave_route_31_side_west, ^$enc|sinnoh"
+                    "@dark_cave_route_45_side_bottom, ^$enc|sinnoh",
+                    "@dark_cave_route_45_side, ^$enc|sinnoh"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3178,8 +3172,7 @@
                 "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
                 "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_north, ^$enc|surf|oldrod|goodrod|superrod",
-                    "@dark_cave_route_31_side_west, ^$enc|surf|oldrod|goodrod|superrod"
+                    "@dark_cave_route_45_side, ^$enc|surf|oldrod|goodrod|superrod"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3191,8 +3184,7 @@
                 "chest_unopened_img": "/images/locations/encounters/anyrod.png",
                 "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_north, ^$enc|oldrod|goodrod|superrod",
-                    "@dark_cave_route_31_side_west, ^$enc|oldrod|goodrod|superrod"
+                    "@dark_cave_route_45_side, ^$enc|oldrod|goodrod|superrod"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3204,21 +3196,7 @@
                 "chest_unopened_img": "/images/locations/encounters/superrod.png",
                 "chest_opened_img": "/images/locations/encounters/superrod_c.png",
                 "access_rules": [
-                    "@dark_cave_route_31_side_north, ^$enc|superrod",
-                    "@dark_cave_route_31_side_west, ^$enc|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounters (Rock Smash)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/rocksmash.png",
-                "chest_opened_img": "/images/locations/encounters/rocksmash_c.png",
-                "access_rules": [
-                    "@dark_cave_route_31_side_east, ^$enc|rocksmash",
-                    "@dark_cave_route_31_side_west, ^$enc|rocksmash"
+                    "@dark_cave_route_45_side, ^$enc|superrod"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3327,12 +3305,14 @@
             },
             {
                 "name": "Encounters (Land)",
-                "item_count": 5,
+                "item_count": 3,
                 "chest_unopened_img": "/images/locations/encounters/land.png",
                 "chest_opened_img": "/images/locations/encounters/land_c.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side_bottom",
-                    "@dark_cave_route_45_side"
+                    "@dark_cave_route_31_side_east",
+                    "@dark_cave_route_31_side_north",
+                    "@dark_cave_route_31_side_south",
+                    "@dark_cave_route_31_side_west"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3344,8 +3324,10 @@
                 "chest_unopened_img": "/images/locations/encounters/hoenn.png",
                 "chest_opened_img": "/images/locations/encounters/hoenn_c.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side_bottom, ^$enc|hoenn",
-                    "@dark_cave_route_45_side, ^$enc|hoenn"
+                    "@dark_cave_route_31_side_east, ^$enc|hoenn",
+                    "@dark_cave_route_31_side_north, ^$enc|hoenn",
+                    "@dark_cave_route_31_side_south, ^$enc|hoenn",
+                    "@dark_cave_route_31_side_west, ^$enc|hoenn"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3357,8 +3339,10 @@
                 "chest_unopened_img": "/images/locations/encounters/sinnoh.png",
                 "chest_opened_img": "/images/locations/encounters/sinnoh_c.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side_bottom, ^$enc|sinnoh",
-                    "@dark_cave_route_45_side, ^$enc|sinnoh"
+                    "@dark_cave_route_31_side_east, ^$enc|sinnoh",
+                    "@dark_cave_route_31_side_north, ^$enc|sinnoh",
+                    "@dark_cave_route_31_side_south, ^$enc|sinnoh",
+                    "@dark_cave_route_31_side_west, ^$enc|sinnoh"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3370,7 +3354,8 @@
                 "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
                 "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side, ^$enc|surf|oldrod|goodrod|superrod"
+                    "@dark_cave_route_31_side_north, ^$enc|surf|oldrod|goodrod|superrod",
+                    "@dark_cave_route_31_side_west, ^$enc|surf|oldrod|goodrod|superrod"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3382,7 +3367,8 @@
                 "chest_unopened_img": "/images/locations/encounters/anyrod.png",
                 "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side, ^$enc|oldrod|goodrod|superrod"
+                    "@dark_cave_route_31_side_north, ^$enc|oldrod|goodrod|superrod",
+                    "@dark_cave_route_31_side_west, ^$enc|oldrod|goodrod|superrod"
                 ],
                 "visibility_rules": [
                     "show_mons"
@@ -3394,7 +3380,21 @@
                 "chest_unopened_img": "/images/locations/encounters/superrod.png",
                 "chest_opened_img": "/images/locations/encounters/superrod_c.png",
                 "access_rules": [
-                    "@dark_cave_route_45_side, ^$enc|superrod"
+                    "@dark_cave_route_31_side_north, ^$enc|superrod",
+                    "@dark_cave_route_31_side_west, ^$enc|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounters (Rock Smash)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/rocksmash.png",
+                "chest_opened_img": "/images/locations/encounters/rocksmash_c.png",
+                "access_rules": [
+                    "@dark_cave_route_31_side_east, ^$enc|rocksmash",
+                    "@dark_cave_route_31_side_west, ^$enc|rocksmash"
                 ],
                 "visibility_rules": [
                     "show_mons"
