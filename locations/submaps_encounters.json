@@ -5,7 +5,7 @@
         {
             "name": "New Bark Town Encounters",
             "map_locations": [
-            { "map": "newbarktown", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "newbarktown", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Old Rod, Good Rod", "ref": "New Bark Town/Encounter (Surf, Old Rod, Good Rod)" },
@@ -18,8 +18,8 @@
         {
             "name": "Route 29 Encounters",
             "map_locations": [
-            { "map": "route29_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route29_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route29_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route29_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 29/Encounters (Morning, Day)" },
@@ -32,7 +32,7 @@
         {
             "name": "Cherrygrove City Encounters",
             "map_locations": [
-            { "map": "cherrygrovecity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "cherrygrovecity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Cherrygrove City/Encounters (Surf)" },
@@ -46,8 +46,8 @@
         {
             "name": "Route 30 Encounters",
             "map_locations": [
-            { "map": "route30_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route30_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route30_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route30_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning", "ref": "Route 30/Encounter (Morning)" },
@@ -63,7 +63,7 @@
         {
             "name": "Route 31 Encounters",
             "map_locations": [
-            { "map": "route31", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route31", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning", "ref": "Route 31/Encounter (Morning)" },
@@ -80,7 +80,7 @@
         {
             "name": "Violet City Encounters",
             "map_locations": [
-            { "map": "violetcity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "violetcity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Violet City/Encounter (Surf, Any Rod)" },
@@ -91,7 +91,7 @@
         {
             "name": "Sprout Tower 2F Encounters",
             "map_locations": [
-            { "map": "sprouttower2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "sprouttower2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Sprout Tower/2F - Encounter (Land)" },
@@ -103,7 +103,7 @@
         {
             "name": "Sprout Tower 3F Encounters",
             "map_locations": [
-            { "map": "sprouttower3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "sprouttower3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Sprout Tower/3F - Encounter (Land)" },
@@ -115,9 +115,9 @@
         {
             "name": "Route 32 Encounters",
             "map_locations": [
-            { "map": "route32_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route32_c", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route32_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route32_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route32_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route32_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 32/Encounters (Land)" },
@@ -135,7 +135,7 @@
         {
             "name": "Ruins of Alph Encounters",
             "map_locations": [
-            { "map": "ruinsofalph", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ruinsofalph", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Ruins of Alph/Encounters (Land)" },
@@ -149,7 +149,7 @@
         {
             "name": "Ruins of Alph Underground Hall Encounters",
             "map_locations": [
-            { "map": "ruinsofalphinterior", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ruinsofalphinterior", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Ruins of Alph/Underground Hall - Encounter (Land)" }
@@ -158,7 +158,7 @@
         {
             "name": "Union Cave 1F Encounters",
             "map_locations": [
-            { "map": "unioncave1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "unioncave1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Union Cave/1F - Encounters (Land)" },
@@ -172,7 +172,7 @@
         {
             "name": "Union Cave B1F Encounters",
             "map_locations": [
-            { "map": "unioncaveb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "unioncaveb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Union Cave/B1F - Encounters (Land)" },
@@ -186,7 +186,7 @@
         {
             "name": "Union Cave B2F Encounters",
             "map_locations": [
-            { "map": "unioncaveb2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "unioncaveb2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Union Cave/B2F - Encounters (Land)" },
@@ -203,7 +203,7 @@
         {
             "name": "Route 33 Encounters",
             "map_locations": [
-            { "map": "route33", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route33", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 33/Encounters (Morning, Day)" },
@@ -216,7 +216,7 @@
         {
             "name": "Slowpoke Well B1F Encounters",
             "map_locations": [
-            { "map": "slowpokewellb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "slowpokewellb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Slowpoke Well/B1F - Encounters (Land)" },
@@ -230,7 +230,7 @@
         {
             "name": "Slowpoke Well B2F Encounters",
             "map_locations": [
-            { "map": "slowpokewellb2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "slowpokewellb2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Slowpoke Well/B2F - Encounters (Land)" },
@@ -244,7 +244,7 @@
         {
             "name": "Ilex Forest Encounters",
             "map_locations": [
-            { "map": "ilexforest", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ilexforest", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Ilex Forest/Encounters (Morning, Day)" },
@@ -259,8 +259,8 @@
         {
             "name": "Route 34 Encounters",
             "map_locations": [
-            { "map": "route34_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route34_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route34_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route34_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 34/Encounters (Land)" },
@@ -277,7 +277,7 @@
         {
             "name": "Route 35 Encounters",
             "map_locations": [
-            { "map": "route35", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route35", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 35/Encounters (Land)" },
@@ -292,7 +292,7 @@
         {
             "name": "National Park Encounters",
             "map_locations": [
-            { "map": "nationalpark", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "nationalpark", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "National Park/Encounters (Morning, Day)" },
@@ -305,7 +305,7 @@
         {
             "name": "Route 36 Encounters",
             "map_locations": [
-            { "map": "route36", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route36", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 36/Encounters (Land)" },
@@ -318,7 +318,7 @@
         {
             "name": "Route 37 Encounters",
             "map_locations": [
-            { "map": "route37", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route37", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning", "ref": "Route 37/Encounter (Morning)" },
@@ -333,7 +333,7 @@
         {
             "name": "Ecruteak City Encounters",
             "map_locations": [
-            { "map": "ecruteakcity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ecruteakcity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Ecruteak City/Encounter (Surf, Any Rod)" },
@@ -344,7 +344,7 @@
         {
             "name": "Burned Tower 1F Encounters",
             "map_locations": [
-            { "map": "burnedtower1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "burnedtower1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Burned Tower/1F - Encounters (Land)" },
@@ -355,7 +355,7 @@
         {
             "name": "Burned Tower B1F Encounters",
             "map_locations": [
-            { "map": "burnedtowerb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "burnedtowerb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Burned Tower/B1F - Encounters (Land)" },
@@ -366,7 +366,7 @@
         {
             "name": "Bell Tower 2F Encounters",
             "map_locations": [
-            { "map": "belltower2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/2F - Encounter (Land)" },
@@ -378,7 +378,7 @@
         {
             "name": "Bell Tower 3F Encounters",
             "map_locations": [
-            { "map": "belltower3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/3F - Encounter (Land)" },
@@ -390,7 +390,7 @@
         {
             "name": "Bell Tower 4F Encounters",
             "map_locations": [
-            { "map": "belltower4f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower4f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/4F - Encounter (Land)" },
@@ -402,7 +402,7 @@
         {
             "name": "Bell Tower 5F Encounters",
             "map_locations": [
-            { "map": "belltower5f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower5f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/5F - Encounter (Land)" },
@@ -414,7 +414,7 @@
         {
             "name": "Bell Tower 6F Encounters",
             "map_locations": [
-            { "map": "belltower6f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower6f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/6F - Encounter (Land)" },
@@ -426,7 +426,7 @@
         {
             "name": "Bell Tower 7F Encounters",
             "map_locations": [
-            { "map": "belltower7f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower7f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/7F - Encounter (Land)" },
@@ -438,7 +438,7 @@
         {
             "name": "Bell Tower 8F Encounters",
             "map_locations": [
-            { "map": "belltower8f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower8f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/8F - Encounter (Land)" },
@@ -450,7 +450,7 @@
         {
             "name": "Bell Tower 9F Encounters",
             "map_locations": [
-            { "map": "belltower9f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower9f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/9F - Encounter (Land)" },
@@ -462,7 +462,7 @@
         {
             "name": "Bell Tower 10F Encounters",
             "map_locations": [
-            { "map": "belltower10f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "belltower10f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Bell Tower/10F - Encounter (Land)" },
@@ -474,7 +474,7 @@
         {
             "name": "Route 38 Encounters",
             "map_locations": [
-            { "map": "route38", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route38", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 38/Encounters (Land)" },
@@ -486,7 +486,7 @@
         {
             "name": "Route 39 Encounters",
             "map_locations": [
-            { "map": "route39", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route39", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 39/Encounters (Land)" },
@@ -498,7 +498,7 @@
         {
             "name": "Olivine City Encounters",
             "map_locations": [
-            { "map": "olivinecity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "olivinecity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Olivine City/Encounters (Surf)" },
@@ -512,7 +512,7 @@
         {
             "name": "Route 40 Encounters",
             "map_locations": [
-            { "map": "route40", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route40", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Route 40/Encounters (Surf)" },
@@ -526,7 +526,7 @@
         {
             "name": "Route 41 Encounters",
             "map_locations": [
-            { "map": "route41", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route41", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Old Rod, Good Rod", "ref": "Route 41/Encounter (Surf, Old Rod, Good Rod)" },
@@ -540,10 +540,10 @@
         {
             "name": "Whirl Islands 1F Encounters",
             "map_locations": [
-            { "map": "whirlislands1f_nw", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "whirlislands1f_ne", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "whirlislands1f_sw", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "whirlislands1f_se", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "whirlislands1f_nw", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "whirlislands1f_ne", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "whirlislands1f_sw", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "whirlislands1f_se", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Whirl Islands/1F - Encounters (Land)" },
@@ -559,7 +559,7 @@
         {
             "name": "Whirl Islands B1F Encounters",
             "map_locations": [
-            { "map": "whirlislandsb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "whirlislandsb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Whirl Islands/B1F - Encounters (Land)" },
@@ -570,7 +570,7 @@
         {
             "name": "Whirl Islands B2F Encounters",
             "map_locations": [
-            { "map": "whirlislandsb2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "whirlislandsb2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Whirl Islands/B2F - Encounters (Land)" },
@@ -587,7 +587,7 @@
         {
             "name": "Whirl Islands B3F Encounters",
             "map_locations": [
-            { "map": "whirlislandsb3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "whirlislandsb3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Whirl Islands/B3F - Encounters (Land)" },
@@ -598,7 +598,7 @@
         {
             "name": "Cianwood City Encounters",
             "map_locations": [
-            { "map": "cianwoodcity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "cianwoodcity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Cianwood City/Encounters (Surf)" },
@@ -613,8 +613,8 @@
         {
             "name": "Route 42 Encounters",
             "map_locations": [
-            { "map": "route42_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route42_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route42_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route42_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 42/Encounters (Land)" },
@@ -630,7 +630,7 @@
         {
             "name": "Mt. Mortar 1F Entrance Encounters",
             "map_locations": [
-            { "map": "mtmortar1fentrance", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmortar1fentrance", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Mortar/1F - Encounters (Land)" },
@@ -644,7 +644,7 @@
         {
             "name": "Mt. Mortar 1F Back Encounters",
             "map_locations": [
-            { "map": "mtmortar1fback", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmortar1fback", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Mortar/1F Back - Encounters (Land)" },
@@ -655,7 +655,7 @@
         {
             "name": "Mt. Mortar 2F Encounters",
             "map_locations": [
-            { "map": "mtmortar2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmortar2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Mortar/2F - Encounters (Land)" },
@@ -669,7 +669,7 @@
         {
             "name": "Mt. Mortar B1F Encounters",
             "map_locations": [
-            { "map": "mtmortarb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmortarb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Mortar/B1F - Encounters (Land)" },
@@ -683,7 +683,7 @@
         {
             "name": "Route 43 Encounters",
             "map_locations": [
-            { "map": "route43", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route43", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 43/Encounters (Land)" },
@@ -699,8 +699,8 @@
         {
             "name": "Lake of Rage Encounters",
             "map_locations": [
-            { "map": "lakeofragedry", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "lakeofrageflooded", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "lakeofragedry", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "lakeofrageflooded", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Lake of Rage/Encounter (Surf, Any Rod)" },
@@ -710,8 +710,8 @@
         {
             "name": "Route 44 Encounters",
             "map_locations": [
-            { "map": "route44_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route44_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route44_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route44_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 44/Encounters (Land)" },
@@ -726,7 +726,7 @@
         {
             "name": "Ice Path 1F Encounters",
             "map_locations": [
-            { "map": "icepath1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "icepath1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Ice Path/1F - Encounters (Land)" },
@@ -738,7 +738,7 @@
         {
             "name": "Ice Path B1F Encounters",
             "map_locations": [
-            { "map": "icepathb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "icepathb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Ice Path/B1F - Encounters (Land)" },
@@ -750,7 +750,7 @@
         {
             "name": "Ice Path B2F Encounters",
             "map_locations": [
-            { "map": "icepathb2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "icepathb2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Ice Path/B2F - Encounters (Land)" },
@@ -762,7 +762,7 @@
         {
             "name": "Ice Path B3F Encounters",
             "map_locations": [
-            { "map": "icepathb3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "icepathb3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Ice Path/B3F - Encounters (Land)" },
@@ -774,7 +774,7 @@
         {
             "name": "Blackthorn City Encounters",
             "map_locations": [
-            { "map": "blackthorncity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "blackthorncity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Blackthorn City/Encounter (Surf, Any Rod)" },
@@ -784,7 +784,7 @@
         {
             "name": "Dragon's Den Encounters",
             "map_locations": [
-            { "map": "dragonsdenb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "dragonsdenb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Dragon's Den/Encounter (Surf, Any Rod)" },
@@ -795,9 +795,9 @@
         {
             "name": "Route 45 Encounters",
             "map_locations": [
-            { "map": "route45_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route45_c", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route45_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route45_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route45_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route45_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 45/Encounters (Land)" },
@@ -810,7 +810,7 @@
         {
             "name": "Route 46 Encounters",
             "map_locations": [
-            { "map": "route46", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route46", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 46/Encounters (Land)" },
@@ -822,7 +822,7 @@
         {
             "name": "Dark Cave (North Side) Encounters",
             "map_locations": [
-            { "map": "darkcaveroute31", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "darkcaveroute31", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Dark Cave (North Side)/Encounters (Land)" },
@@ -837,7 +837,7 @@
         {
             "name": "Dark Cave (South Side) Encounters",
             "map_locations": [
-            { "map": "darkcaveroute45", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "darkcaveroute45", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Dark Cave (South Side)/Encounters (Land)" },
@@ -851,7 +851,7 @@
         {
             "name": "Route 47 Encounters",
             "map_locations": [
-            { "map": "route47", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route47", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 47/Encounter (Morning, Day)" },
@@ -869,7 +869,7 @@
         {
             "name": "Cliff Edge Gate Encounters",
             "map_locations": [
-            { "map": "cliffedgegate", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "cliffedgegate", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Route 47/Cliff Edge Gate - Encounters (Surf)" },
@@ -880,9 +880,9 @@
         {
             "name": "Cliff Cave Encounters",
             "map_locations": [
-            { "map": "cliffcave1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "cliffcave2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "cliffcave3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "cliffcave1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "cliffcave2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "cliffcave3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 47/Cliff Cave - Encounters (Land)" },
@@ -896,7 +896,7 @@
         {
             "name": "Route 48 Encounters",
             "map_locations": [
-            { "map": "route48", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route48", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 48/Encounter (Morning, Day)" },
@@ -908,7 +908,7 @@
         {
             "name": "Mt. Silver Encounters",
             "map_locations": [
-            { "map": "mountsilver", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mountsilver", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver/Encounters (Land)" },
@@ -924,7 +924,7 @@
         {
             "name": "Mt. Silver Cave 1F Encounters",
             "map_locations": [
-            { "map": "mtsilver1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilver1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/1F - Encounters (Land)" },
@@ -939,7 +939,7 @@
         {
             "name": "Mt. Silver Cave Expert Belt Chamber Encounters",
             "map_locations": [
-            { "map": "mtsilverexpertbeltroom", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilverexpertbeltroom", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/Expert Belt Chamber - Encounters (Land)" },
@@ -951,7 +951,7 @@
         {
             "name": "Mt. Silver Cave Moltres Chamber Encounters",
             "map_locations": [
-            { "map": "mtsilvermoltresroom", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilvermoltresroom", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/Moltres Chamber - Encounters (Land)" },
@@ -963,7 +963,7 @@
         {
             "name": "Mt. Silver Cave 1F (Outside) Encounters",
             "map_locations": [
-            { "map": "mtsilverlowermountainside", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilverlowermountainside", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/1F (Outside) - Encounters (Land)" },
@@ -974,7 +974,7 @@
         {
             "name": "Mt. Silver Cave 2F Encounters",
             "map_locations": [
-            { "map": "mtsilver2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilver2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/2F - Encounters (Land)" },
@@ -986,7 +986,7 @@
         {
             "name": "Mt. Silver Cave 2F (Outside) Encounters",
             "map_locations": [
-            { "map": "mtsilveruppermountainside", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilveruppermountainside", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/2F (Outside) - Encounters (Land)" },
@@ -998,7 +998,7 @@
         {
             "name": "Mt. Silver Cave 3F Encounters",
             "map_locations": [
-            { "map": "mtsilver3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtsilver3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Silver Cave/3F - Encounters (Land)" },
@@ -1010,7 +1010,7 @@
         {
             "name": "Tohjo Falls Encounters",
             "map_locations": [
-            { "map": "tohjofalls", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "tohjofalls", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Tohjo Falls/Encounters (Land)" },
@@ -1025,7 +1025,7 @@
         {
             "name": "Victory Road 1F Encounters",
             "map_locations": [
-            { "map": "victoryroad1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "victoryroad1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Victory Road/1F - Encounters (Land)" },
@@ -1036,7 +1036,7 @@
         {
             "name": "Victory Road 2F Encounters",
             "map_locations": [
-            { "map": "victoryroad2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "victoryroad2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Victory Road/2F - Encounters (Land)" },
@@ -1047,7 +1047,7 @@
         {
             "name": "Victory Road 3F Encounters",
             "map_locations": [
-            { "map": "victoryroad3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "victoryroad3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Victory Road/3F - Encounters (Land)" },
@@ -1059,8 +1059,8 @@
         {
             "name": "Route 26 Encounters",
             "map_locations": [
-            { "map": "route26_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route26_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route26_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route26_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 26/Encounters (Land)" },
@@ -1078,9 +1078,9 @@
         {
             "name": "Route 27 Encounters",
             "map_locations": [
-            { "map": "route27_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route27_c", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route27_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route27_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route27_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route27_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 27/Encounters (Morning, Day)" },
@@ -1098,7 +1098,7 @@
         {
             "name": "Route 28 Encounters",
             "map_locations": [
-            { "map": "route28", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route28", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 28/Encounters (Land)" },
@@ -1114,7 +1114,7 @@
         {
             "name": "Pallet Town Encounters",
             "map_locations": [
-            { "map": "pallettown", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "pallettown", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Old Rod, Good Rod", "ref": "Pallet Town/Encounter (Surf, Old Rod, Good Rod)" },
@@ -1127,7 +1127,7 @@
         {
             "name": "Viridian City Encounters",
             "map_locations": [
-            { "map": "viridiancity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "viridiancity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Viridian City/Encounter (Surf, Any Rod)" },
@@ -1138,7 +1138,7 @@
         {
             "name": "Cerulean City Encounters",
             "map_locations": [
-            { "map": "ceruleancity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ceruleancity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Cerulean City/Encounter (Surf, Any Rod)" },
@@ -1149,7 +1149,7 @@
         {
             "name": "Vermilion City Encounters",
             "map_locations": [
-            { "map": "vermilioncity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "vermilioncity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Old Rod, Good Rod", "ref": "Vermilion City/Encounter (Surf, Old Rod, Good Rod)" },
@@ -1163,7 +1163,7 @@
         {
             "name": "Celadon City Encounters",
             "map_locations": [
-            { "map": "celadoncity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "celadoncity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Celadon City/Encounters (Surf)" }
@@ -1172,7 +1172,7 @@
         {
             "name": "Fuchsia City Encounters",
             "map_locations": [
-            { "map": "fuschiacity", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "fuschiacity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Fuchsia City/Encounter (Surf, Any Rod)" },
@@ -1182,7 +1182,7 @@
         {
             "name": "Cinnabar Island Encounters",
             "map_locations": [
-            { "map": "cinnabarisland", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "cinnabarisland", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Old Rod, Good Rod", "ref": "Cinnabar Island/Encounter (Surf, Old Rod, Good Rod)" },
@@ -1195,7 +1195,7 @@
         {
             "name": "Mt. Moon Encounters",
             "map_locations": [
-            { "map": "mtmooncave", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmooncave", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Moon/Encounters (Land)" },
@@ -1206,7 +1206,7 @@
         {
             "name": "Mt. Moon Square Entrance Encounters",
             "map_locations": [
-            { "map": "mtmooncave", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmooncave", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Moon/Square Entrance - Encounters (Land)" },
@@ -1217,7 +1217,7 @@
         {
             "name": "Mt. Moon Square Encounters",
             "map_locations": [
-            { "map": "mtmoonsquare", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmoonsquare", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Good Rod, Super Rod", "ref": "Mt. Moon/Square - Encounter (Surf, Good Rod, Super Rod)" },
@@ -1227,7 +1227,7 @@
         {
             "name": "Mt. Moon Square Clefairy Event Encounters",
             "map_locations": [
-            { "map": "mtmoonsquare", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "mtmoonsquare", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod, Super Rod [Morn-Day]", "ref": "Mt. Moon/Square Clefairy Event - Encounter (Surf, Any Rod, Super Rod [Morn-Day])" },
@@ -1237,7 +1237,7 @@
         {
             "name": "Rock Tunnel 1F Encounters",
             "map_locations": [
-            { "map": "rocktunnel1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "rocktunnel1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Rock Tunnel/1F - Encounters (Land)" },
@@ -1248,7 +1248,7 @@
         {
             "name": "Rock Tunnel B1F Encounters",
             "map_locations": [
-            { "map": "rocktunnelb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "rocktunnelb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Rock Tunnel/B1F - Encounters (Land)" },
@@ -1260,7 +1260,7 @@
         {
             "name": "Diglett's Cave Encounters",
             "map_locations": [
-            { "map": "diglettscave", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "diglettscave", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Diglett's Cave/Encounters (Land)" },
@@ -1271,7 +1271,7 @@
         {
             "name": "Viridian Forest Encounters",
             "map_locations": [
-            { "map": "viridianforest", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "viridianforest", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Viridian Forest/Encounters (Morning, Day)" },
@@ -1285,7 +1285,7 @@
         {
             "name": "Cerulean Cave 1F Encounters",
             "map_locations": [
-            { "map": "ceruleancave1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ceruleancave1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Cerulean Cave/1F - Encounters (Land)" },
@@ -1303,7 +1303,7 @@
         {
             "name": "Cerulean Cave 2F Encounters",
             "map_locations": [
-            { "map": "ceruleancave2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ceruleancave2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Cerulean Cave/2F - Encounters (Land)" },
@@ -1320,7 +1320,7 @@
         {
             "name": "Cerulean Cave B1F Encounters",
             "map_locations": [
-            { "map": "ceruleancaveb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "ceruleancaveb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Cerulean Cave/B1F - Encounters (Land)" },
@@ -1338,7 +1338,7 @@
         {
             "name": "Seafoam Islands Entrance Encounters",
             "map_locations": [
-            { "map": "seafoamislands1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "seafoamislands1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Seafoam Islands/Entrance - Encounters (Land)" },
@@ -1349,7 +1349,7 @@
         {
             "name": "Seafoam Islands B1F Encounters",
             "map_locations": [
-            { "map": "seafoamislandsb1f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "seafoamislandsb1f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Seafoam Islands/B1F - Encounters (Land)" },
@@ -1360,7 +1360,7 @@
         {
             "name": "Seafoam Islands B2F Encounters",
             "map_locations": [
-            { "map": "seafoamislandsb2f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "seafoamislandsb2f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Seafoam Islands/B2F - Encounters (Land)" },
@@ -1371,7 +1371,7 @@
         {
             "name": "Seafoam Islands B3F Encounters",
             "map_locations": [
-            { "map": "seafoamislandsb3f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "seafoamislandsb3f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Seafoam Islands/B3F - Encounters (Land)" },
@@ -1382,7 +1382,7 @@
         {
             "name": "Seafoam Islands B4F Encounters",
             "map_locations": [
-            { "map": "seafoamislandsb4f", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "seafoamislandsb4f", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Seafoam Islands/B4F - Encounters (Land)" },
@@ -1398,7 +1398,7 @@
         {
             "name": "Route 1 Encounters",
             "map_locations": [
-            { "map": "route1", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route1", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 1/Encounters (Morning, Day)" },
@@ -1411,8 +1411,8 @@
         {
             "name": "Route 2 Encounters",
             "map_locations": [
-            { "map": "route2_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route2_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route2_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 2/Encounters (Morning, Day)" },
@@ -1428,8 +1428,8 @@
         {
             "name": "Route 3 Encounters",
             "map_locations": [
-            { "map": "route3_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route3_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route3_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route3_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 3/Encounter (Morning, Day)" },
@@ -1442,8 +1442,8 @@
         {
             "name": "Route 4 Encounters",
             "map_locations": [
-            { "map": "route4_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route4_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route4_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route4_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 4/Encounter (Morning, Day)" },
@@ -1459,7 +1459,7 @@
         {
             "name": "Route 5 Encounters",
             "map_locations": [
-            { "map": "route5", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route5", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 5/Encounter (Morning, Day)" },
@@ -1472,7 +1472,7 @@
         {
             "name": "Route 6 Encounters",
             "map_locations": [
-            { "map": "route6", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route6", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 6/Encounter (Morning, Day)" },
@@ -1487,7 +1487,7 @@
         {
             "name": "Route 7 Encounters",
             "map_locations": [
-            { "map": "route7", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route7", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 7/Encounters (Land)" },
@@ -1501,7 +1501,7 @@
         {
             "name": "Route 8 Encounters",
             "map_locations": [
-            { "map": "route8", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route8", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 8/Encounters (Land)" },
@@ -1514,8 +1514,8 @@
         {
             "name": "Route 9 Encounters",
             "map_locations": [
-            { "map": "route9_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route9_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route9_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route9_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 9/Encounters (Land)" },
@@ -1530,7 +1530,7 @@
         {
             "name": "Route 10 Encounters",
             "map_locations": [
-            { "map": "route10_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route10_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 10 North/Encounters (Morning, Day)" },
@@ -1546,7 +1546,7 @@
         {
             "name": "Route 11 Encounters",
             "map_locations": [
-            { "map": "route11", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route11", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 11/Encounters (Land)" },
@@ -1557,8 +1557,8 @@
         {
             "name": "Route 12 Encounters",
             "map_locations": [
-            { "map": "route12_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route12_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route12_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route12_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Route 12/Encounter (Surf, Any Rod)" },
@@ -1570,8 +1570,8 @@
         {
             "name": "Route 13 Encounters",
             "map_locations": [
-            { "map": "route13_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route13_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route13_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route13_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 13/Encounters (Land)" },
@@ -1588,7 +1588,7 @@
         {
             "name": "Route 14 Encounters",
             "map_locations": [
-            { "map": "route14", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route14", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 14/Encounters (Land)" },
@@ -1601,8 +1601,8 @@
         {
             "name": "Route 15 Encounters",
             "map_locations": [
-            { "map": "route15_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route15_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route15_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route15_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 15/Encounters (Land)" },
@@ -1615,7 +1615,7 @@
         {
             "name": "Route 16 Encounters",
             "map_locations": [
-            { "map": "route16", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route16", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 16/Encounters (Land)" },
@@ -1628,8 +1628,8 @@
         {
             "name": "Route 17 Encounters",
             "map_locations": [
-            { "map": "route17_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route17_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route17_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route17_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 17/Encounter (Morning, Day)" },
@@ -1641,7 +1641,7 @@
         {
             "name": "Route 18 Encounters",
             "map_locations": [
-            { "map": "route18", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route18", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 18/Encounters (Land)" },
@@ -1653,7 +1653,7 @@
         {
             "name": "Route 19 Encounters",
             "map_locations": [
-            { "map": "route19", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route19", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf", "ref": "Route 19/Encounters (Surf)" },
@@ -1668,8 +1668,8 @@
         {
             "name": "Route 20 Encounters",
             "map_locations": [
-            { "map": "route20_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route20_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route20_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route20_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Old Rod, Good Rod", "ref": "Route 20/Encounter (Surf, Old Rod, Good Rod)" },
@@ -1682,8 +1682,8 @@
         {
             "name": "Route 21 Encounters",
             "map_locations": [
-            { "map": "route21_n", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route21_s", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route21_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route21_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 21/Encounters (Land)" },
@@ -1699,7 +1699,7 @@
         {
             "name": "Route 22 Encounters",
             "map_locations": [
-            { "map": "route22", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route22", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 22/Encounters (Land)" },
@@ -1714,7 +1714,7 @@
         {
             "name": "Route 24 Encounters",
             "map_locations": [
-            { "map": "route24", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route24", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 24/Encounters (Land)" },
@@ -1731,8 +1731,8 @@
         {
             "name": "Route 25 Encounters",
             "map_locations": [
-            { "map": "route25_w", "size": 24, "x": 16, "y": 16, "shape": "diamond" },
-            { "map": "route25_e", "size": 24, "x": 16, "y": 16, "shape": "diamond" }
+            { "map": "route25_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route25_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 25/Encounters (Morning, Day)" },

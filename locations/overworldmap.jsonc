@@ -957,30 +957,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounter (Surf, Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
-                "access_rules": [
-                    "@blackthorn, ^$enc|surf|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
-                "access_rules": [
-                    "@blackthorn, ^$enc|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Gym - Ace Trainer Paulo",
                 "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
                 "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
@@ -1067,6 +1043,30 @@
                     "show_items, $partial_trainersanity, opt_trainer_262179"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounter (Surf, Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
+                "access_rules": [
+                    "@blackthorn, ^$enc|surf|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
+                "access_rules": [
+                    "@blackthorn, ^$enc|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -1376,18 +1376,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounters (Surf)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/surf.png",
-                "chest_opened_img": "/images/locations/encounters/surf_c.png",
-                "access_rules": [
-                    "@celadon, ^$enc|surf"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Gym - Lass Michelle",
                 "chest_unopened_img": "/images/trainers/lass.png",
                 "chest_opened_img": "/images/trainers/lass_bw.png",
@@ -1495,6 +1483,18 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounters (Surf)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/surf.png",
+                "chest_opened_img": "/images/locations/encounters/surf_c.png",
+                "access_rules": [
+                    "@celadon, ^$enc|surf"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -2218,42 +2218,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounter (Surf, Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
-                "access_rules": [
-                    "@cerulean, $surf, ^$enc|surf|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Surf, Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_superrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_superrod_c.png",
-                "access_rules": [
-                    "@cerulean, $surf, ^$enc|surf|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
-                "access_rules": [
-                    "@cerulean, $surf, ^$enc|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Gym - Surprise the Grunt in Cerulean Gym (Event)",
                 "access_rules": [
                     "@cerulean_gym, event_talk_plant_manager"
@@ -2404,6 +2368,42 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounter (Surf, Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
+                "access_rules": [
+                    "@cerulean, $surf, ^$enc|surf|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Surf, Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_superrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_superrod_c.png",
+                "access_rules": [
+                    "@cerulean, $surf, ^$enc|surf|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
+                "access_rules": [
+                    "@cerulean, $surf, ^$enc|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -3699,6 +3699,16 @@
                 ],
                 "item_count": 1
             },
+			            {
+                "name": "Shrine - Defeat Lance and Clair at Dragon's Den (Event)",
+                "access_rules": [
+                    "@dragons_den, event_defeated_rival_mount_moon"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_defeat_lance_clair_dragons_den_hosted"
+            },
             {
                 "name": "Encounter (Surf, Any Rod)",
                 "item_count": 1,
@@ -3734,16 +3744,6 @@
                 "visibility_rules": [
                     "show_mons"
                 ]
-            },
-            {
-                "name": "Shrine - Defeat Lance and Clair at Dragon's Den (Event)",
-                "access_rules": [
-                    "@dragons_den, event_defeated_rival_mount_moon"
-                ],
-                "visibility_rules": [
-                    "show_items"
-                ],
-                "hosted_item": "event_defeat_lance_clair_dragons_den_hosted"
             }
         ],
         "map_locations": [
@@ -3851,42 +3851,6 @@
                     "show_items, opt_hidden_on"
                 ],
                 "item_count": 1
-            },
-            {
-                "name": "Encounter (Surf, Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
-                "access_rules": [
-                    "@ecruteak, ^$enc|surf|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Surf)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf.png",
-                "chest_opened_img": "/images/locations/encounters/surf_c.png",
-                "access_rules": [
-                    "@ecruteak, ^$enc|surf"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
-                "access_rules": [
-                    "@ecruteak, ^$enc|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
             },
             {
                 "name": "Dance Theater - Team Rocket Grunt",
@@ -4142,6 +4106,42 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounter (Surf, Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
+                "access_rules": [
+                    "@ecruteak, ^$enc|surf|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Surf)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf.png",
+                "chest_opened_img": "/images/locations/encounters/surf_c.png",
+                "access_rules": [
+                    "@ecruteak, ^$enc|surf"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
+                "access_rules": [
+                    "@ecruteak, ^$enc|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -4230,30 +4230,6 @@
                     "show_items, opt_hidden_on"
                 ],
                 "item_count": 1
-            },
-            {
-                "name": "Encounter (Surf, Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
-                "access_rules": [
-                    "@fuchsia, ^$enc|surf|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Good Rod, Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/goodrod_superrod.png",
-                "chest_opened_img": "/images/locations/encounters/goodrod_superrod_c.png",
-                "access_rules": [
-                    "@fuchsia, ^$enc|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
             },
             {
                 "name": "Gym - Picnicker Cindy",
@@ -4363,6 +4339,30 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounter (Surf, Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
+                "access_rules": [
+                    "@fuchsia, ^$enc|surf|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Good Rod, Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/goodrod_superrod.png",
+                "chest_opened_img": "/images/locations/encounters/goodrod_superrod_c.png",
+                "access_rules": [
+                    "@fuchsia, ^$enc|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -8663,66 +8663,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounter (Surf, Old Rod, Good Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_oldrod_goodrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_oldrod_goodrod_c.png",
-                "access_rules": [
-                    "@new_bark_east, ^$enc|surf|oldrod|goodrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Surf, Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_superrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_superrod_c.png",
-                "access_rules": [
-                    "@new_bark_east, ^$enc|surf|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Old Rod, Good Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/oldrod_goodrod.png",
-                "chest_opened_img": "/images/locations/encounters/oldrod_goodrod_c.png",
-                "access_rules": [
-                    "@new_bark_east, ^$enc|oldrod|goodrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounters (Good Rod, Super Rod)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/goodrod_superrod.png",
-                "chest_opened_img": "/images/locations/encounters/goodrod_superrod_c.png",
-                "access_rules": [
-                    "@new_bark_east, ^$enc|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/superrod.png",
-                "chest_opened_img": "/images/locations/encounters/superrod_c.png",
-                "access_rules": [
-                    "@new_bark_east, ^$enc|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Elm's Lab - Gift from Assistant after Obtaining Starter",
                 "chest_unopened_img": "/images/gifts/elmsaide_closed.png",
                 "chest_opened_img": "/images/gifts/elmsaide_opened.png",
@@ -8789,6 +8729,66 @@
                     "show_items, opt_keyitems_off"
                 ],
                 "hosted_item": "ssticket_hosted"
+            },
+			            {
+                "name": "Encounter (Surf, Old Rod, Good Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_oldrod_goodrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_oldrod_goodrod_c.png",
+                "access_rules": [
+                    "@new_bark_east, ^$enc|surf|oldrod|goodrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Surf, Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_superrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_superrod_c.png",
+                "access_rules": [
+                    "@new_bark_east, ^$enc|surf|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Old Rod, Good Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/oldrod_goodrod.png",
+                "chest_opened_img": "/images/locations/encounters/oldrod_goodrod_c.png",
+                "access_rules": [
+                    "@new_bark_east, ^$enc|oldrod|goodrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounters (Good Rod, Super Rod)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/goodrod_superrod.png",
+                "chest_opened_img": "/images/locations/encounters/goodrod_superrod_c.png",
+                "access_rules": [
+                    "@new_bark_east, ^$enc|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/superrod.png",
+                "chest_opened_img": "/images/locations/encounters/superrod_c.png",
+                "access_rules": [
+                    "@new_bark_east, ^$enc|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -8895,78 +8895,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounters (Surf)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/surf.png",
-                "chest_opened_img": "/images/locations/encounters/surf_c.png",
-                "access_rules": [
-                    "@olivine, ^$enc|surf"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Old Rod, Good Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/oldrod_goodrod.png",
-                "chest_opened_img": "/images/locations/encounters/oldrod_goodrod_c.png",
-                "access_rules": [
-                    "@olivine, ^$enc|oldrod|goodrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Night Fishing)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/fishingnight.png",
-                "chest_opened_img": "/images/locations/encounters/fishingnight_c.png",
-                "access_rules": [
-                    "@olivine, ^$enc|fishingnight"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
-                "access_rules": [
-                    "@olivine, ^$enc|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Good Rod [Morn-Day], Super Rod [Morn-Day])",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/goodrodnotnight_superrodnotnight.png",
-                "chest_opened_img": "/images/locations/encounters/goodrodnotnight_superrodnotnight_c.png",
-                "access_rules": [
-                    "@olivine, ^$enc|goodrodnotnight|superrodnotnight"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/superrod.png",
-                "chest_opened_img": "/images/locations/encounters/superrod_c.png",
-                "access_rules": [
-                    "@olivine, ^$enc|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Port - National Dex from Prof. Oak",
                 "access_rules": [
                     "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
@@ -9064,6 +8992,78 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounters (Surf)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/surf.png",
+                "chest_opened_img": "/images/locations/encounters/surf_c.png",
+                "access_rules": [
+                    "@olivine, ^$enc|surf"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Old Rod, Good Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/oldrod_goodrod.png",
+                "chest_opened_img": "/images/locations/encounters/oldrod_goodrod_c.png",
+                "access_rules": [
+                    "@olivine, ^$enc|oldrod|goodrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Night Fishing)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/fishingnight.png",
+                "chest_opened_img": "/images/locations/encounters/fishingnight_c.png",
+                "access_rules": [
+                    "@olivine, ^$enc|fishingnight"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
+                "access_rules": [
+                    "@olivine, ^$enc|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Good Rod [Morn-Day], Super Rod [Morn-Day])",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/goodrodnotnight_superrodnotnight.png",
+                "chest_opened_img": "/images/locations/encounters/goodrodnotnight_superrodnotnight_c.png",
+                "access_rules": [
+                    "@olivine, ^$enc|goodrodnotnight|superrodnotnight"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/superrod.png",
+                "chest_opened_img": "/images/locations/encounters/superrod_c.png",
+                "access_rules": [
+                    "@olivine, ^$enc|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -9328,6 +9328,16 @@
                 "visibility_rules": ["show_items"],
                 "hosted_item": "event_get_hm08_hosted"
             },
+			            {
+                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b",
+                "access_rules": [
+                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_off"
+                ],
+                "hosted_item": "hm08_hosted"
+            },
             {
                 "name": "Encounter (Surf, Old Rod, Good Rod)",
                 "item_count": 1,
@@ -9399,16 +9409,6 @@
                     "show_items, opt_hms_on"
                 ],
                 "item_count": 1
-            },
-            {
-                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b",
-                "access_rules": [
-                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_hms_off"
-                ],
-                "hosted_item": "hm08_hosted"
             }
         ],
         "map_locations": [
@@ -10307,6 +10307,36 @@
                 ],
                 "item_count": 1
             },
+			            {
+                "name": "Power Plant - Learn about the Robbery from the Plant Manager (Event)",
+                "access_rules": [
+                    "@route_10_power_plant_broken"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_talk_plant_manager_hosted"
+            },
+            {
+                "name": "Power Plant - Restore Power to Kanto (Event)",
+                "access_rules": [
+                    "@route_10_power_plant_broken, machinepart"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "hosted_item": "event_restore_power_hosted"
+            },
+            {
+                "name": "Power Plant - Gift from Manager",
+                "access_rules": [
+                    "@route_10_power_plant_broken, machinepart"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
             {
                 "name": "Encounters (Morning, Day)",
                 "item_count": 2,
@@ -10402,36 +10432,6 @@
                 "visibility_rules": [
                     "show_mons"
                 ]
-            },
-            {
-                "name": "Power Plant - Learn about the Robbery from the Plant Manager (Event)",
-                "access_rules": [
-                    "@route_10_power_plant_broken"
-                ],
-                "visibility_rules": [
-                    "show_items"
-                ],
-                "hosted_item": "event_talk_plant_manager_hosted"
-            },
-            {
-                "name": "Power Plant - Restore Power to Kanto (Event)",
-                "access_rules": [
-                    "@route_10_power_plant_broken, machinepart"
-                ],
-                "visibility_rules": [
-                    "show_items"
-                ],
-                "hosted_item": "event_restore_power_hosted"
-            },
-            {
-                "name": "Power Plant - Gift from Manager",
-                "access_rules": [
-                    "@route_10_power_plant_broken, machinepart"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
-                ],
-                "item_count": 1
             }
         ],
         "map_locations": [
@@ -11591,16 +11591,6 @@
         "chest_unopened_img": "/images/locations/ball.png",
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
-            {
-                "name": "FAKE ITEM",
-                "access_rules": [
-                    "@route_16"
-                ],
-                "visibility_rules": [
-                    "show_items, placeholderforencounters"
-                ],
-                "item_count": 1
-            },
             {
                 "name": "Encounters (Land)",
                 "item_count": 3,
@@ -13105,16 +13095,6 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "FAKE ITEM",
-                "access_rules": [
-                    "@route_21"
-                ],
-                "visibility_rules": [
-                    "show_items, placeholderforencounters"
-                ],
-                "item_count": 1
-            },
-            {
                 "name": "Encounters (Land)",
                 "item_count": 2,
                 "chest_unopened_img": "/images/locations/encounters/land.png",
@@ -13529,6 +13509,105 @@
                 ],
                 "hosted_item": "event_ruin_mistys_date_hosted"
             },
+			            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Oddish",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Oddish\u200b",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "leafstone_hosted"
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|183, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|183, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "waterstone_hosted"
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|58, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|58, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "firestone_hosted"
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Pichu",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_randomize_enc_on, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Pichu\u200b",
+                "access_rules": [
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_heartgold",
+                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_randomize_enc_on, opt_npcgifts_off, show_vanencevo"
+                ],
+                "hosted_item": "thunderstone_hosted"
+            },
             {
                 "name": "Encounters (Morning, Day)",
                 "item_count": 2,
@@ -13636,105 +13715,6 @@
                 "visibility_rules": [
                     "show_mons"
                 ]
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
-                "access_rules": [
-                    "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
-                    "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Oddish",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Oddish\u200b",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_off, show_vanencevo"
-                ],
-                "hosted_item": "leafstone_hosted"
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|183, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|120, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|183, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish\u200b, ^$has_mon|120, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_off, show_vanencevo"
-                ],
-                "hosted_item": "waterstone_hosted"
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|58, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|37, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|58, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)\u200b, ^$has_mon|37, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_off, show_vanencevo"
-                ],
-                "hosted_item": "firestone_hosted"
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Pichu",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_randomize_enc_on, opt_npcgifts_on"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Cottage - Item from Bill's Grandfather for Showing Pichu\u200b",
-                "access_rules": [
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_heartgold",
-                    "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)\u200b, ^$has_mon|172, pokemon_soulsilver"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_randomize_enc_on, opt_npcgifts_off, show_vanencevo"
-                ],
-                "hosted_item": "thunderstone_hosted"
             }
         ],
         "map_locations": [
@@ -24028,78 +24008,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounter (Surf, Old Rod, Good Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_oldrod_goodrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_oldrod_goodrod_c.png",
-                "access_rules": [
-                    "@vermilion, ^$enc|surf|oldrod|goodrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Surf, Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_superrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_superrod_c.png",
-                "access_rules": [
-                    "@vermilion, ^$enc|surf|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Old Rod, Good Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/oldrod_goodrod.png",
-                "chest_opened_img": "/images/locations/encounters/oldrod_goodrod_c.png",
-                "access_rules": [
-                    "@vermilion, ^$enc|oldrod|goodrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounters (Good Rod, Super Rod)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/goodrod_superrod.png",
-                "chest_opened_img": "/images/locations/encounters/goodrod_superrod_c.png",
-                "access_rules": [
-                    "@vermilion, ^$enc|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Super Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/superrod.png",
-                "chest_opened_img": "/images/locations/encounters/superrod_c.png",
-                "access_rules": [
-                    "@vermilion, ^$enc|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounters (Rock Smash)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/rocksmash.png",
-                "chest_opened_img": "/images/locations/encounters/rocksmash_c.png",
-                "access_rules": [
-                    "@vermilion, ^$enc|rocksmash"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Gym - Juggler Horton",
                 "chest_unopened_img": "/images/trainers/juggler.png",
                 "chest_opened_img": "/images/trainers/juggler_bw.png",
@@ -24194,6 +24102,78 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounter (Surf, Old Rod, Good Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_oldrod_goodrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_oldrod_goodrod_c.png",
+                "access_rules": [
+                    "@vermilion, ^$enc|surf|oldrod|goodrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Surf, Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_superrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_superrod_c.png",
+                "access_rules": [
+                    "@vermilion, ^$enc|surf|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Old Rod, Good Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/oldrod_goodrod.png",
+                "chest_opened_img": "/images/locations/encounters/oldrod_goodrod_c.png",
+                "access_rules": [
+                    "@vermilion, ^$enc|oldrod|goodrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounters (Good Rod, Super Rod)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/goodrod_superrod.png",
+                "chest_opened_img": "/images/locations/encounters/goodrod_superrod_c.png",
+                "access_rules": [
+                    "@vermilion, ^$enc|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Super Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/superrod.png",
+                "chest_opened_img": "/images/locations/encounters/superrod_c.png",
+                "access_rules": [
+                    "@vermilion, ^$enc|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounters (Rock Smash)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/rocksmash.png",
+                "chest_opened_img": "/images/locations/encounters/rocksmash_c.png",
+                "access_rules": [
+                    "@vermilion, ^$enc|rocksmash"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
@@ -24838,42 +24818,6 @@
                 "item_count": 1
             },
             {
-                "name": "Encounter (Surf, Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
-                "access_rules": [
-                    "@viridian, ^$enc|surf|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Surf)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/surf.png",
-                "chest_opened_img": "/images/locations/encounters/surf_c.png",
-                "access_rules": [
-                    "@viridian, ^$enc|surf"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "Encounter (Any Rod)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
-                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
-                "access_rules": [
-                    "@viridian, ^$enc|oldrod|goodrod|superrod"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
                 "name": "Gym - Ace Trainer Arabella",
                 "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
                 "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
@@ -24981,6 +24925,42 @@
                     "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
+            },
+			            {
+                "name": "Encounter (Surf, Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf_anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/surf_anyrod_c.png",
+                "access_rules": [
+                    "@viridian, ^$enc|surf|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Surf)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/surf.png",
+                "chest_opened_img": "/images/locations/encounters/surf_c.png",
+                "access_rules": [
+                    "@viridian, ^$enc|surf"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "Encounter (Any Rod)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/anyrod.png",
+                "chest_opened_img": "/images/locations/encounters/anyrod_c.png",
+                "access_rules": [
+                    "@viridian, ^$enc|oldrod|goodrod|superrod"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
             }
         ],
         "map_locations": [
