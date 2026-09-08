@@ -477,6 +477,12 @@ function toggleHints()
     end
 end
 
+function toggle_encvisibility()
+    if Tracker:FindObjectForCode("dexsanity").AcquiredCount ~= 0 then
+        Tracker:FindObjectForCode("location_visibility").CurrentStage = 1
+    end
+end
+
 function resetHints()
     CLEARED_HINTS = {}
     for _, hint in ipairs(SAVED_HINTS) do

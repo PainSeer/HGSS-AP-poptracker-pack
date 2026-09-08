@@ -3,7 +3,7 @@
         "name": "Location Visibility",
         "type": "progressive",
         "loop": true,
-        "initial_stage_idx": 1,
+        "initial_stage_idx": 0,
         "allow_disabled": false,
         "stages": [
             {
