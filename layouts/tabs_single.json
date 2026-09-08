@@ -8,8 +8,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "overworld"
+                            "type": "layout",
+                            "key": "overworld"
                         }
                     ]
                 }
@@ -20,8 +20,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "pokedex_grid"
+                            "type": "layout",
+                            "key": "pokedex_grid"
                         }
                     ]
                 }
@@ -32,8 +32,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "johto_cities"
+                            "type": "layout",
+                            "key": "johto_cities"
                         }
                     ]
                 }
@@ -44,8 +44,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "johto_routes"
+                            "type": "layout",
+                            "key": "johto_routes"
                         }
                     ]
                 }
@@ -56,8 +56,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "johto_dungeons"
+                            "type": "layout",
+                            "key": "johto_dungeons"
                         }
                     ]
                 }
@@ -68,8 +68,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "kanto_cities"
+                            "type": "layout",
+                            "key": "kanto_cities"
                         }
                     ]
                 }
@@ -80,8 +80,8 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "kanto_routes"
+                            "type": "layout",
+                            "key": "kanto_routes"
                         }
                     ]
                 }
@@ -92,8 +92,20 @@
                     "type": "dock",
                     "content": [
                         {
-                        "type": "layout",
-                        "key": "kanto_dungeons"
+                            "type": "layout",
+                            "key": "kanto_dungeons"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "S.S. Aqua",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "ss_aqua"
                         }
                     ]
                 }
