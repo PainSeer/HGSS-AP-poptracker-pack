@@ -10133,6 +10133,8 @@
             },
             {
                 "name": "B1F - Hidden Item Behind Southeast Breakable Rocks",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
                     "@rock_tunnel_b1f, $rock_smash, ^$hidden"
                 ],
