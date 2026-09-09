@@ -5434,8 +5434,8 @@
             },
             {
                 "name": "1F - Item in Ice Puzzle Watched By Old Man",
-				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
-                "chest_opened_img": "/images/gifts/balding_man_opened.png",
+				"chest_unopened_img": "/images/locations/ball.png",
+        "chest_opened_img": "/images/locations/ballopened.png",
                 "access_rules": [
                     "@ice_path_1f"
                 ],
@@ -25654,18 +25654,6 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Hidden Item Between Rocks Near Main Ladder",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopened.png",
-                "access_rules": [
-                    "@whirl_islands_b2f, ^$hidden"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_hidden_on"
-                ],
-                "item_count": 1
-            },
-            {
                 "name": "B1F - Hidden Item on 3 Rocks South of Northeast Ladder",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
@@ -25712,6 +25700,18 @@
                 "visibility_rules": [
                     "show_mons"
                 ]
+            },
+            {
+                "name": "B2F - Hidden Item Between Rocks Near Main Ladder",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopened.png",
+                "access_rules": [
+                    "@whirl_islands_b2f, ^$hidden"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hidden_on"
+                ],
+                "item_count": 1
             },
             {
                 "name": "B2F - North Item",
@@ -25862,7 +25862,7 @@
                 "item_count": 1
             },
             {
-                "name": "Lugia's Chamer - Encounter Lugia (Event)",
+                "name": "Lugia's Chamber - Encounter Lugia (Event)",
                 "access_rules": [
                     "@whirl_islands_b3f, pokemon_soulsilver, silverwing, tidalbell, event_ecruteak_dance_theater_defeat_team_rocket, event_elms_lab_get_master_ball"
                 ],
