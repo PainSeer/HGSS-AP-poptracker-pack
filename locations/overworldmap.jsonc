@@ -948,6 +948,8 @@
             },
             {
                 "name": "Gift From Santos",
+				"chest_unopened_img": "/images/gifts/youngster_closed.png",
+                "chest_opened_img": "/images/gifts/youngster_opened.png",
                 "access_rules": [
                     "@blackthorn"
                 ],
@@ -1345,6 +1347,8 @@
             },
             {
                 "name": "Condominiums 3F - GB Sounds from Sound Designer",
+				"chest_unopened_img": "/images/gifts/school_kid_closed.png",
+                "chest_opened_img": "/images/gifts/school_kid_opened.png",
                 "access_rules": [
                     "@celadon, $kanto_badges_req|8"
                 ],
@@ -1355,6 +1359,8 @@
             },
             {
                 "name": "Condominiums 4F - Gift After Man's Scary Story",
+				"chest_unopened_img": "/images/gifts/gym_guide_closed.png",
+                "chest_opened_img": "/images/gifts/gym_guide_opened.png",
                 "access_rules": [
                     "@celadon, nighttime"
                 ],
@@ -2613,6 +2619,8 @@
             },
             {
                 "name": "Pharmacy - Secretpotion from Clerk",
+				"chest_unopened_img": "/images/gifts/gym_guide_closed.png",
+                "chest_opened_img": "/images/gifts/gym_guide_opened.png",
                 "access_rules": [
                     "@cianwood_pharmacy"
                 ],
@@ -3095,6 +3103,8 @@
             },
             {
                 "name": "Gift from Blackglasses Man",
+				"chest_unopened_img": "/images/gifts/gym_guide_closed.png",
+                "chest_opened_img": "/images/gifts/gym_guide_opened.png",
                 "access_rules": [
                     "@dark_cave_route_45_side, $surf"
                 ],
@@ -3786,6 +3796,8 @@
             },
             {
                 "name": "Dowsing Machine House Gift",
+				"chest_unopened_img": "/images/gifts/ace_trainer_m_closed.png",
+                "chest_opened_img": "/images/gifts/ace_trainer_m_opened.png",
                 "access_rules": [
                     "@ecruteak_dowsing_machine_house"
                 ],
@@ -3877,6 +3889,8 @@
             },
             {
                 "name": "Dance Theater - Gift from Theater's Owner",
+				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@ecruteak_dance_theater"
                 ],
@@ -3960,6 +3974,8 @@
             },
             {
                 "name": "Dance Theater - Reward after Defeating the Kimono Girls (HeartGold)",
+				"chest_unopened_img": "/images/gifts/kimono_girl_closed.png",
+                "chest_opened_img": "/images/gifts/kimono_girl_opened.png",
                 "access_rules": [
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball"
                 ],
@@ -3980,6 +3996,8 @@
             },
             {
                 "name": "Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)",
+				"chest_unopened_img": "/images/gifts/kimono_girl_closed.png",
+                "chest_opened_img": "/images/gifts/kimono_girl_opened.png",
                 "access_rules": [
                     "@ecruteak_dance_theater, event_elms_lab_get_master_ball, opt_keyitems_on"
                 ],
@@ -4417,6 +4435,8 @@
             },
             {
                 "name": "Bike Shop - Gift from Man",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@goldenrod_bike_shop"
                 ],
@@ -4544,6 +4564,8 @@
             },
             {
                 "name": "Flower Shop - Item from Lady after Whitney",
+				"chest_unopened_img": "/images/gifts/monica_closed.png",
+                "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
                     "@goldenrod_flower_shop, event_defeat_whitney"
                 ],
@@ -4694,6 +4716,8 @@
         "sections": [
             {
                 "name": "1F - Radio Card",
+				"chest_unopened_img": "/images/gifts/radio_recep_closed.png",
+                "chest_opened_img": "/images/gifts/radio_recep_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_1f"
                 ],
@@ -4789,6 +4813,8 @@
             },
             {
                 "name": "2F - Gift from Lady at Desk",
+				"chest_unopened_img": "/images/gifts/monica_closed.png",
+                "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_2f, event_clear_rocket_tower"
                 ],
@@ -4851,6 +4877,8 @@
             },
             {
                 "name": "3F - Gift from Lady",
+				"chest_unopened_img": "/images/gifts/beauty_closed.png",
+                "chest_opened_img": "/images/gifts/beauty_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_3f, event_clear_rocket_tower"
                 ],
@@ -4923,6 +4951,8 @@
             },
             {
                 "name": "4F - Gift from Mary",
+				"chest_unopened_img": "/images/gifts/dj_mary_closed.png",
+                "chest_opened_img": "/images/gifts/dj_mary_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_4f, event_clear_rocket_tower"
                 ],
@@ -4946,6 +4976,8 @@
             },
             {
                 "name": "5F - Basement Key from Petrel",
+				"chest_unopened_img": "/images/gifts/petrel_closed.png",
+                "chest_opened_img": "/images/gifts/petrel_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_5f"
                 ],
@@ -4992,6 +5024,8 @@
             },
             {
                 "name": "Observatory Deck - Item from Director (HeartGold)",
+				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_observation_deck, pokemon_heartgold"
                 ],
@@ -5012,6 +5046,8 @@
             },
             {
                 "name": "Observatory Deck - Item from Director (SoulSilver)",
+				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@goldenrod_radio_tower_observation_deck, pokemon_soulsilver"
                 ],
@@ -5337,6 +5373,8 @@
             },
             {
                 "name": "Card Key From Director",
+				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
@@ -5396,6 +5434,8 @@
             },
             {
                 "name": "1F - Item in Ice Puzzle Watched By Old Man",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@ice_path_1f"
                 ],
@@ -6182,6 +6222,8 @@
             },
             {
                 "name": "Item from Meditating Man",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@lake_of_rage_hidden_power_house"
                 ],
@@ -6202,6 +6244,8 @@
             },
             {
                 "name": "Gyarados' Red Scale",
+				"chest_unopened_img": "/images/gifts/shinygyarados_closed.png",
+                "chest_opened_img": "/images/gifts/shinygyarados_opened.png",
                 "access_rules": [
                     "@lake_of_rage, $surf"
                 ],
@@ -6454,6 +6498,8 @@
             },
             {
                 "name": "RageCandyBar",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@mahogany"
                 ],
@@ -8441,6 +8487,8 @@
             },
             {
                 "name": "Gift from Lady on Bench",
+				"chest_unopened_img": "/images/gifts/monica_closed.png",
+                "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
                     "@national_park"
                 ],
@@ -8833,6 +8881,8 @@
             },
             {
                 "name": "Item from Fishing Guru in Northwest House",
+				"chest_unopened_img": "/images/gifts/fisherman_closed.png",
+                "chest_opened_img": "/images/gifts/fisherman_opened.png",
                 "access_rules": [
                     "@olivine_northwest_house"
                 ],
@@ -9332,7 +9382,7 @@
                 "visibility_rules": ["show_items"],
                 "hosted_item": "event_get_hm08_hosted"
             },
-			            {
+			{
                 "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b",
                 "access_rules": [
                     "@pallet_town_oaks_lab, $kanto_badges_req|8"
@@ -9342,7 +9392,7 @@
                 ],
                 "hosted_item": "hm08_hosted"
             },
-			            {
+			{
                 "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges",
                 "chest_unopened_img": "/images/gifts/oak_closed.png",
                 "chest_opened_img": "/images/gifts/oak_opened.png",
@@ -9479,6 +9529,8 @@
             },
             {
                 "name": "Item from Old Man (HeartGold)",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@pewter, pokemon_heartgold"
                 ],
@@ -9499,6 +9551,8 @@
             },
             {
                 "name": "Item from Old Man (SoulSilver)",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@pewter, pokemon_soulsilver"
                 ],
@@ -9714,6 +9768,8 @@
         "sections": [
             {
                 "name": "Pal Pad from Teala",
+				"chest_unopened_img": "/images/gifts/teala_closed.png",
+                "chest_opened_img": "/images/gifts/teala_opened.png",
                 "access_rules": [
                     "@virt_pal_pad"
                 ],
@@ -10333,6 +10389,8 @@
             },
             {
                 "name": "Power Plant - Gift from Manager",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@route_10_power_plant_broken, machinepart"
                 ],
@@ -10743,6 +10801,8 @@
             },
             {
                 "name": "Item from Fishing Guru's Brother",
+				"chest_unopened_img": "/images/gifts/fisherman_closed.png",
+                "chest_opened_img": "/images/gifts/fisherman_opened.png",
                 "access_rules": [
                     "@route_12_fishing_brother_house"
                 ],
@@ -11276,6 +11336,8 @@
             },
             {
                 "name": "Item from Woman in Grass Patch after Showing Chansey",
+				"chest_unopened_img": "/images/gifts/monica_closed.png",
+                "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
                     "@route_14, $cut, ^$has_mon|113"
                 ],
@@ -12302,6 +12364,8 @@
             },
             {
                 "name": "Nugget from Man in House",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@route_2_house"
                 ],
@@ -12312,6 +12376,8 @@
             },
             {
                 "name": "Southeast Gatehouse - Gift from Lab Assistant",
+				"chest_unopened_img": "/images/gifts/elmsaide_closed.png",
+                "chest_opened_img": "/images/gifts/elmsaide_opened.png",
                 "access_rules": [
                     "@route_2_southeast_gatehouse"
                 ],
@@ -13482,6 +13548,8 @@
             },
             {
                 "name": "Item from Ace Trainer Kevin",
+				"chest_unopened_img": "/images/gifts/ace_trainer_m_closed.png",
+                "chest_opened_img": "/images/gifts/ace_trainer_m_opened.png",
                 "access_rules": [
                     "@route_25"
                 ],
@@ -13515,6 +13583,8 @@
             },
 			            {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
                     "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
@@ -13526,6 +13596,8 @@
             },
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Oddish",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|43, pokemon_heartgold",
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver), ^$has_mon|108, ^$has_mon|43, pokemon_soulsilver"
@@ -13548,6 +13620,8 @@
             },
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver)",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|183, pokemon_heartgold",
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Oddish, ^$has_mon|120, pokemon_soulsilver"
@@ -13570,6 +13644,8 @@
             },
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver)",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|58, pokemon_heartgold",
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Marill (HeartGold) or Staryu (SoulSilver), ^$has_mon|37, pokemon_soulsilver"
@@ -13592,6 +13668,8 @@
             },
             {
                 "name": "Cottage - Item from Bill's Grandfather for Showing Pichu",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
                 "access_rules": [
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_heartgold",
                     "@Route 25/Cottage - Item from Bill's Grandfather for Showing Growlithe (HeartGold) or Vulpix (SoulSilver), ^$has_mon|172, pokemon_soulsilver"
@@ -14025,6 +14103,8 @@
             },
             {
                 "name": "Item from Old Lady in the House",
+				"chest_unopened_img": "/images/gifts/old_lady_closed.png",
+                "chest_opened_img": "/images/gifts/old_lady_opened.png",
                 "access_rules": [
                     "@route_27_house"
                 ],
@@ -14319,6 +14399,8 @@
         "sections": [
             {
                 "name": "Bribe From Celebrity",
+				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
+                "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
                     "@route_28_house"
                 ],
@@ -14886,6 +14968,8 @@
             },
             {
                 "name": "Gift from Mr. Apricorn",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@route_30"
                 ],
@@ -15334,6 +15418,8 @@
         "sections": [
             {
                 "name": "Miracle Seed from Man",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@route_32_north, zephyrbadge, event_get_togepi_egg"
                 ],
@@ -15489,6 +15575,8 @@
             },
             {
                 "name": "Gift from Frieda",
+				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
+                "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
                     "@route_32"
                 ],
@@ -15499,6 +15587,8 @@
             },
             {
                 "name": "Item from Fishing Guru in Pokemon Center",
+				"chest_unopened_img": "/images/gifts/fisherman_closed.png",
+                "chest_opened_img": "/images/gifts/fisherman_opened.png",
                 "access_rules": [
                     "@route_32_pokecenter_1f"
                 ],
@@ -15540,6 +15630,8 @@
             },
             {
                 "name": "Item from Man at Northern Hill",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@route_32, $cut"
                 ],
@@ -15815,6 +15907,8 @@
         "sections": [
             {
                 "name": "Gatehouse - Gift From Woman With Butterfree",
+				"chest_unopened_img": "/images/gifts/butterfree_closed.png",
+                "chest_opened_img": "/images/gifts/butterfree_opened.png",
                 "access_rules": [
                     "@route_34_ilex_forest_gatehouse"
                 ],
@@ -15950,6 +16044,8 @@
             },
             {
                 "name": "Kate's Reward",
+				"chest_unopened_img": "/images/gifts/ace_trainer_f_closed.png",
+                "chest_opened_img": "/images/gifts/ace_trainer_f_opened.png",
                 "access_rules": [
                     "@route_34, $surf"
                 ],
@@ -16141,6 +16237,8 @@
             },
             {
                 "name": "Gatehouse - Gift From Guard After Delivering Kenya",
+				"chest_unopened_img": "/images/gifts/gatehouse_guard_closed.png",
+                "chest_opened_img": "/images/gifts/gatehouse_guard_opened.png",
                 "access_rules": [
                     "@route_35_goldenrod_gatehouse, event_give_kenya"
                 ],
@@ -16411,6 +16509,8 @@
         "sections": [
             {
                 "name": "Gift From Arthur",
+				"chest_unopened_img": "/images/gifts/school_kid_closed.png",
+                "chest_opened_img": "/images/gifts/school_kid_opened.png",
                 "access_rules": [
                     "@route_36_southeast"
                 ],
@@ -16421,6 +16521,8 @@
             },
             {
                 "name": "Item from Man East of Sudowoodo",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@route_36_southeast"
                 ],
@@ -16477,6 +16579,8 @@
             },
             {
                 "name": "Berry Pots from Lass",
+				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
+                "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
                     "@route_36_southwest, squirtbottle"
                 ],
@@ -16487,6 +16591,8 @@
             },
             {
                 "name": "Oran Berries from Lass",
+				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
+                "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
                     "@route_36_southwest, squirtbottle"
                 ],
@@ -16507,6 +16613,8 @@
             },
             {
                 "name": "Pecha Berries from Lass",
+				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
+                "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
                     "@route_36_southwest, squirtbottle"
                 ],
@@ -16627,6 +16735,8 @@
             },
             {
                 "name": "Gift From Sunny",
+				"chest_unopened_img": "/images/gifts/little_boy_closed.png",
+                "chest_opened_img": "/images/gifts/little_boy_opened.png",
                 "access_rules": [
                     "@route_37"
                 ],
@@ -16969,6 +17079,8 @@
             },
             {
                 "name": "Gift from Farm Girl in Stable",
+				"chest_unopened_img": "/images/gifts/little_girl_closed.png",
+                "chest_opened_img": "/images/gifts/little_girl_opened.png",
                 "access_rules": [
                     "@route_39_moomoo_farm_stable, event_cure_miltank"
                 ],
@@ -16979,6 +17091,8 @@
             },
             {
                 "name": "Gift from Woman in House",
+				"chest_unopened_img": "/images/gifts/monica_closed.png",
+                "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
                     "@route_39_moomoo_farm_house, event_cure_miltank"
                 ],
@@ -17842,6 +17956,8 @@
             },
             {
                 "name": "Item from Hiker",
+				"chest_unopened_img": "/images/gifts/hiker_closed.png",
+                "chest_opened_img": "/images/gifts/hiker_opened.png",
                 "access_rules": [
                     "@route_42"
                 ],
@@ -18077,6 +18193,8 @@
             },
             {
                 "name": "Gift from Mid-Route Guard",
+				"chest_unopened_img": "/images/gifts/gatehouse_guard_closed.png",
+                "chest_opened_img": "/images/gifts/gatehouse_guard_opened.png",
                 "access_rules": [
                     "@route_43_gatehouse, event_clear_mahogany_hideout"
                 ],
@@ -19428,6 +19546,8 @@
         "sections": [
             {
                 "name": "Gift From Superstitious Woman in House",
+				"chest_unopened_img": "/images/gifts/old_lady_closed.png",
+                "chest_opened_img": "/images/gifts/old_lady_opened.png",
                 "access_rules": [
                     "@route_5_house"
                 ],
@@ -20280,6 +20400,8 @@
             },
             {
                 "name": "Underground Hall - Unown Report from Super Nerd",
+				"chest_unopened_img": "/images/gifts/super_nerd_closed.png",
+                "chest_opened_img": "/images/gifts/super_nerd_opened.png",
                 "access_rules": [
                     "@ruins_of_alph_underground_hall"
                 ],
@@ -20971,6 +21093,8 @@
             },
             {
                 "name": "Metal Coat from Grandpa",
+				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -21325,6 +21449,8 @@
             },
             {
                 "name": "Item from Copycat after Returning Lost Item",
+				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
+                "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
                     "@saffron_copycat_house_2f, event_hear_about_missing_doll, lostitem"
                 ],
@@ -21345,6 +21471,8 @@
             },
             {
                 "name": "Silph Co. - Item from Security Guard",
+				"chest_unopened_img": "/images/gifts/policeman_closed.png",
+                "chest_opened_img": "/images/gifts/policeman_opened.png",
                 "access_rules": [
                     "@saffron_silph_co_hq"
                 ],
@@ -21365,6 +21493,8 @@
             },
             {
                 "name": "Mr. Psychic's House - Item from Mr. Psychic",
+				"chest_unopened_img": "/images/gifts/fisherman_closed.png",
+                "chest_opened_img": "/images/gifts/fisherman_opened.png",
                 "access_rules": [
                     "@saffron_mr_psychic_house"
                 ],
@@ -22309,6 +22439,8 @@
             },
             {
                 "name": "B2F - Gift from Super Nerd",
+				"chest_unopened_img": "/images/gifts/super_nerd_closed.png",
+                "chest_opened_img": "/images/gifts/super_nerd_opened.png",
                 "access_rules": [
                     "@slowpoke_well_b2f, $surf"
                 ],
@@ -22905,6 +23037,8 @@
             },
             {
                 "name": "B2F - Gift from Lance",
+				"chest_unopened_img": "/images/gifts/lance_closed.png",
+                "chest_opened_img": "/images/gifts/lance_opened.png",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -23225,6 +23359,8 @@
             },
             {
                 "name": "Gift From Man For RageCandyBar",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@route_5_underground_path, ragecandybar"
                 ],
@@ -23897,6 +24033,8 @@
             },
             {
                 "name": "Item from Fan Club Chairman",
+				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
+                "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
                     "@vermilion_pokemon_fan_club"
                 ],
@@ -23907,6 +24045,8 @@
             },
             {
                 "name": "Item from Fan Club Member",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@vermilion_pokemon_fan_club, event_hear_about_missing_doll"
                 ],
@@ -23939,6 +24079,8 @@
             },
             {
                 "name": "Item from Man East of Mart",
+				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
+                "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
                     "@vermilion, $kanto_badges_req|8"
                 ],
@@ -24816,6 +24958,8 @@
             },
             {
                 "name": "Item from Sleeping Man",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
                     "@viridian, $cut",
                     "@viridian, $surf"
