@@ -5069,6 +5069,8 @@
         "sections": [
             {
                 "name": "Entrance - Fashion Case from Lyra or Ethan",
+                "chest_unopened_img": "/images/gifts/rival_closed.png",
+                "chest_opened_img": "/images/gifts/rival_opened.png",
                 "access_rules": [
                     "@goldenrod_tunnel_1f"
                 ],
@@ -8896,6 +8898,8 @@
             },
             {
                 "name": "Port - National Dex from Prof. Oak",
+				"chest_unopened_img": "/images/gifts/oak_closed.png",
+                "chest_opened_img": "/images/gifts/oak_opened.png",
                 "access_rules": [
                     "@ss_aqua_olivine_port_interior, event_clear_pokemon_league"
                 ],
@@ -9338,6 +9342,18 @@
                 ],
                 "hosted_item": "hm08_hosted"
             },
+			            {
+                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges",
+                "chest_unopened_img": "/images/gifts/oak_closed.png",
+                "chest_opened_img": "/images/gifts/oak_opened.png",
+                "access_rules": [
+                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hms_on"
+                ],
+                "item_count": 1
+            },
             {
                 "name": "Encounter (Surf, Old Rod, Good Rod)",
                 "item_count": 1,
@@ -9397,18 +9413,6 @@
                 "visibility_rules": [
                     "show_mons"
                 ]
-            },
-            {
-                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges",
-                "chest_unopened_img": "/images/gifts/oak_closed.png",
-                "chest_opened_img": "/images/gifts/oak_opened.png",
-                "access_rules": [
-                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_hms_on"
-                ],
-                "item_count": 1
             }
         ],
         "map_locations": [
@@ -14476,6 +14480,8 @@
         "sections": [
             {
                 "name": "Poke Balls from Lyra or Ethan",
+				"chest_unopened_img": "/images/gifts/rival_closed.png",
+                "chest_opened_img": "/images/gifts/rival_opened.png",
                 "access_rules": [
                     "@route_29"
                 ],
@@ -15181,6 +15187,8 @@
             },
             {
                 "name": "Vs. Recorder from Lyra or Ethan at Violet Gate",
+				"chest_unopened_img": "/images/gifts/rival_closed.png",
+                "chest_opened_img": "/images/gifts/rival_opened.png",
                 "access_rules": [
                     "@route_31_violet_gatehouse"
                 ],
