@@ -14991,7 +14991,7 @@
                 "item_count": 1
             },
             {
-                "name": "Get Mystery Egg (Event)",
+                "name": "Mr. Pokemon's House - Get Mystery Egg (Event)",
                 "access_rules": [
                     "@route_30_mr_pokemon_house"
                 ],
