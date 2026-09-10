@@ -4734,7 +4734,7 @@
                 "visibility_rules": [
                     "show_items, opt_pokegearcards_off"
                 ],
-                "hosted_item": "pokegearcard_hosted"
+                "hosted_item": "upgradableradiopokegearcard_1_hosted"
             },
             {
                 "name": "1F - Beat the Radio Quiz (Event)",
@@ -6455,7 +6455,7 @@
                 "visibility_rules": [
                     "show_items, opt_pokegearcards_off"
                 ],
-                "hosted_item": "pokegearcard_hosted"
+                "hosted_item": "upgradableradiopokegearcard_2_hosted"
             }
         ],
         "map_locations": [
@@ -8964,7 +8964,7 @@
                 "visibility_rules": [
                     "show_items, opt_pokedex_off"
                 ],
-                "hosted_item": "pokedex_hosted"
+                "hosted_item": "pokedex_2_hosted"
             },
             {
                 "name": "Port - Hidden Item West of Porthouse",
@@ -15018,7 +15018,7 @@
                 "visibility_rules": [
                     "show_items, opt_pokedex_off"
                 ],
-                "hosted_item": "pokedex_hosted"
+                "hosted_item": "pokedex_1_hosted"
             },
             {
                 "name": "Mr. Pokemon's House - Exp. Share from Mr. Pokemon",
