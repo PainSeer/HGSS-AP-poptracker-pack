@@ -21,7 +21,7 @@
         "img": "/images/items/pokegear_radio.png",
         "img_mods": "@disabled",
         "disabled_img_mods": "none",
-        "codes": "upgradableradiopokegearcard_1"
+        "codes": "upgradableradiopokegearcard_1_hosted"
     },
     {
         "name": "Pokegear Radio Card 2",
@@ -29,6 +29,6 @@
         "img": "/images/items/pokegear_radio.png",
         "img_mods": "@disabled,overlay|images/items/overlays/radio_overlay.png|@disabled",
         "disabled_img_mods": "overlay|images/items/overlays/radio_overlay.png",
-        "codes": "upgradableradiopokegearcard_2"
+        "codes": "upgradableradiopokegearcard_2_hosted"
     }
 ]
