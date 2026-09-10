@@ -3,20 +3,80 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "1F",
+        "title": "First Voyage",
         "content": {
-          "type": "map",
-          "maps": [
-            "ssaqua1f"
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ssaqua1f_fv"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ssaquab1f_fv"
+                ]
+              }
+            }
           ]
         }
       },
       {
-        "title": "B1F",
+        "title": "Weastbound",
         "content": {
-          "type": "map",
-          "maps": [
-            "ssaquab1f"
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ssaqua1f_w"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ssaquab1f_w"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Eastbound",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ssaqua1f_e"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ssaquab1f_e"
+                ]
+              }
+            }
           ]
         }
       }

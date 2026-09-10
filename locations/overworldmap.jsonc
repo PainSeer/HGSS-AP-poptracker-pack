@@ -15012,8 +15012,6 @@
             },
             {
                 "name": "Mr. Pokemon's House - Pokedex from Prof. Oak\u200b",
-                "chest_unopened_img": "/images/gifts/oak_closed.png",
-                "chest_opened_img": "/images/gifts/oak_opened.png",
                 "access_rules": [
                     "@route_30_mr_pokemon_house"
                 ],

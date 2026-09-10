@@ -1368,16 +1368,40 @@
         "img": "images/maps/rockethqb3f.png"
     },
     {
-        "name": "ssaqua1f",
+        "name": "ssaqua1f_fv",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/ssaqua1f.png"
+        "img": "images/maps/ssaqua1f_fv.png"
     },
     {
-        "name": "ssaquab1f",
+        "name": "ssaquab1f_fv",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/ssaquab1f.png"
+        "img": "images/maps/ssaquab1f_fv.png"
+    },
+    {
+        "name": "ssaqua1f_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaqua1f_w.png"
+    },
+    {
+        "name": "ssaquab1f_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaquab1f_w.png"
+    },
+    {
+        "name": "ssaqua1f_e",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaqua1f_e.png"
+    },
+    {
+        "name": "ssaquab1f_e",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaquab1f_e.png"
     },
     {
         "name": "rocktunnel1f",
