@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Submap-SS-Aqua",
+        "children": [{"name": "S.S. Aqua", "sections": [{"ref": "S.S. Aqua/1F Northeast Rooms - Beauty Cassie", "name": "1F Northeast Rooms - Beauty Cassie"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b", "sections": [{"ref": "S.S. Aqua/1F Northeast Rooms - Bug Catcher Ken", "name": "1F Northeast Rooms - Bug Catcher Ken"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northeast Rooms - Firebreather Lyle", "name": "1F Northeast Rooms - Firebreather Lyle"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northeast Rooms - Guitarist Clyde", "name": "1F Northeast Rooms - Guitarist Clyde"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Colin", "name": "1F Northwest Rooms - Pokefan Colin"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Georgia", "name": "1F Northwest Rooms - Pokefan Georgia"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Jeremy", "name": "1F Northwest Rooms - Pokefan Jeremy"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northwest Rooms - Psychic Rodney", "name": "1F Northwest Rooms - Psychic Rodney"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northwest Rooms - Super Nerd Shawn", "name": "1F Northwest Rooms - Super Nerd Shawn"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Northwest Rooms - Twins Meg & Peg", "name": "1F Northwest Rooms - Twins Meg & Peg"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southeast Rooms - Burglar Corey", "name": "1F Southeast Rooms - Burglar Corey"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southeast Rooms - Gentleman Edward", "name": "1F Southeast Rooms - Gentleman Edward"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southeast Rooms - Sailor Stanly", "name": "1F Southeast Rooms - Sailor Stanly"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southwest Rooms - Ace Trainer Carol", "name": "1F Southwest Rooms - Ace Trainer Carol"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southwest Rooms - Ace Trainer Shaye", "name": "1F Southwest Rooms - Ace Trainer Shaye"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southwest Rooms - Hiker Noland", "name": "1F Southwest Rooms - Hiker Noland"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/1F Southwest Rooms - Poke Maniac Morgan", "name": "1F Southwest Rooms - Poke Maniac Morgan"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Black Belt Wai", "name": "B1F - Black Belt Wai"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Fisherman Jonah", "name": "B1F - Fisherman Jonah"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Juggler Fritz", "name": "B1F - Juggler Fritz"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Picnicker Debra", "name": "B1F - Picnicker Debra"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Sailor Garrett", "name": "B1F - Sailor Garrett"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Sailor Jeff", "name": "B1F - Sailor Jeff"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Sailor Kenneth", "name": "B1F - Sailor Kenneth"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - School Kid Nate", "name": "B1F - School Kid Nate"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - School Kid Ricky", "name": "B1F - School Kid Ricky"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/B1F - Teacher Shirley", "name": "B1F - Teacher Shirley"}], "map_locations": []},
+{"name": "S.S. Aqua\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "S.S. Aqua/Metal Coat from Grandpa", "name": "Metal Coat from Grandpa"}], "map_locations": []},]
+	}
+]
