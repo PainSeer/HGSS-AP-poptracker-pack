@@ -9375,7 +9375,7 @@
                 "item_count": 1
             },
             {
-                "name": "Talk to Oak to unlock Mt. Silver (Event)",
+                "name": "Oak's Lab - Talk to Oak to unlock Mt. Silver (Event)",
                 "access_rules": [
                     "@pallet_town_oaks_lab, $kanto_badges_req|8"
                 ],
