@@ -24856,7 +24856,7 @@
                 "item_count": 1
             },
             {
-                "name": "Get Togepi Egg (Event)",
+                "name": "Mart - Get Togepi Egg (Event)",
                 "access_rules": [
                     "@violet_pokemart, event_defeat_falkner"
                 ],
