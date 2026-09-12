@@ -9,6 +9,14 @@
       ]
     },
     {
+      "package_version": "0.0.7",
+      "download_url": "https://github.com/PainSeer/HGSS-AP-poptracker-pack/archive/refs/tags/0.0.7.zip",
+      "sha256": "ae2fc6d664cfcd7c1b4dc47798fee16f86373fc4989fffec29b4a153c4359165",
+      "changelog": [
+        "Check release notes"
+      ]
+    },
+    {
       "package_version": "0.0.6",
       "download_url": "https://github.com/PainSeer/HGSS-AP-poptracker-pack/archive/refs/tags/0.0.6.zip",
       "sha256": "2086c5c9468227545e8327a6e701c8f3a46c01634f05f26b0f0aaf4f1f911fcb",
