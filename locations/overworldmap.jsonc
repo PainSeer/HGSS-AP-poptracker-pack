@@ -14570,7 +14570,7 @@
                     "@route_29"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
+                    "show_items, event_get_mystery_egg, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
