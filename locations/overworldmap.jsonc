@@ -6492,7 +6492,7 @@
             {
                 "name": "Talk to Oak to unlock Mt. Silver (Event)",
                 "access_rules": [
-                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                    "@pallet_town_oaks_lab, $badges_req|16"
                 ],
                 "visibility_rules": ["show_items"],
                 "hosted_item": "event_get_hm08_hosted"
@@ -6500,7 +6500,7 @@
             {
                 "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges",
                 "access_rules": [
-                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                    "@pallet_town_oaks_lab, $badges_req|16"
                 ],
                 "visibility_rules": [
                     "show_items, opt_hms_on"
@@ -6510,7 +6510,7 @@
             {
                 "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b",
                 "access_rules": [
-                    "@pallet_town_oaks_lab, $kanto_badges_req|8"
+                    "@pallet_town_oaks_lab, $badges_req|16"
                 ],
                 "visibility_rules": [
                     "show_items, opt_hms_off"
