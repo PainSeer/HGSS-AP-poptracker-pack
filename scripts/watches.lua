@@ -62,6 +62,7 @@ end
 -- Vanilla Location Syncs (consumable + progressive items)
 local hosted_specific = {"pokedex_1", "pokedex_2", "upgradableradiopokegearcard_1", "upgradableradiopokegearcard_2"}
 for _, code in ipairs(hosted_specific) do
+    ScriptHost:AddWatchForCode(code.."_hostsync", code, syncHostedFromBase)
     ScriptHost:AddWatchForCode(code.."_hosted", code.."_hosted", syncBaseFromHosted)
 end
 
