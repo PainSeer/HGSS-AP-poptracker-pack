@@ -3,6 +3,7 @@
         "name": "Boulder Badge",
         "type": "toggle",
         "img": "images/items/boulderbadge.png",
+		"disabled_img": "images/items/boulderbadge_dark.png",
         "codes": "boulderbadge"
     },
     {
