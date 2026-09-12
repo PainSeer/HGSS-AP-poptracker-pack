@@ -17091,8 +17091,8 @@
             },
             {
                 "name": "Gift from Woman in House",
-				"chest_unopened_img": "/images/gifts/monica_closed.png",
-                "chest_opened_img": "/images/gifts/monica_opened.png",
+                "chest_unopened_img": "/images/gifts/pokefan_f_closed.png",
+                "chest_opened_img": "/images/gifts/pokefan_f_opened.png",
                 "access_rules": [
                     "@route_39_moomoo_farm_house, event_cure_miltank"
                 ],
