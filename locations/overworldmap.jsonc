@@ -10259,8 +10259,8 @@
             },
             {
                 "name": "Ace Trainer Quinn",
-                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
-                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
+                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
                     "@route_1"
                 ],
