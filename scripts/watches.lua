@@ -29,6 +29,7 @@ ScriptHost:AddWatchForCode("search_staryu_active", "search_staryu_active", searc
 ScriptHost:AddWatchForCode("search_growlithe_active", "search_growlithe_active", searchGrowlithe)
 ScriptHost:AddWatchForCode("search_vulpix_active", "search_vulpix_active", searchVulpix)
 ScriptHost:AddWatchForCode("search_pichu_active", "search_pichu_active", searchPichu)
+ScriptHost:AddWatchForCode("search_reset_complete", "search_reset_complete", searchReset)
 
 -- Other
 ScriptHost:AddWatchForCode("hint_tracking", "hint_tracking", toggleHints)

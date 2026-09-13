@@ -428,3 +428,9 @@ function searchPichu()
     searchSpecificMon(172)
     Tracker:FindObjectForCode("search_pichu").CurrentStage = 0
 end
+
+function searchReset()
+    searchSpecificMon(000)
+    Tracker:FindObjectForCode("search_reset").CurrentStage = 0
+    Tracker:FindObjectForCode("location_visibility").CurrentStage = 1
+end

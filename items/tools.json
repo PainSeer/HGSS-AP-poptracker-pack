@@ -2487,4 +2487,23 @@
             }
         ]
     },
+	    {
+        "name": "Search Reset",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search Reset",
+                "img": "/images/pokemon/0.png",
+                "codes": "search_reset"
+            },
+            {
+                "name": "Search Reset",
+                "img": "/images/pokemon/0.png",
+                "codes": "search_reset_complete",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    }
 ]

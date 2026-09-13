@@ -91,7 +91,8 @@
                             [
                                 "search_staryu",
                                 "search_vulpix",
-                                "search_pichu"
+                                "search_pichu",
+                                "search_reset"
                             ]
                         ]
                     }

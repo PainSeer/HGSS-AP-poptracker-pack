@@ -91,7 +91,8 @@
                             [
                                 "search_marill",
                                 "search_growlithe",
-                                "search_pichu"
+                                "search_pichu",
+                                "search_reset"
                             ]
                         ]
                     }
