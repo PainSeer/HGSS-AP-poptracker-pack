@@ -9003,8 +9003,8 @@
             },
             {
                 "name": "Swimmer Chelan",
-                "chest_unopened_img": "/images/trainers/swimmer_m.png",
-                "chest_opened_img": "/images/trainers/swimmer_m_bw.png",
+                "chest_unopened_img": "/images/trainers/swimmer_f.png",
+                "chest_opened_img": "/images/trainers/swimmer_f_bw.png",
                 "access_rules": [
                     "@route_21"
                 ],
