@@ -11,7 +11,7 @@
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "21,0",
+                        "margin": "9,0",
                         "content": [
                             {
                                 "type": "item",
@@ -22,7 +22,7 @@
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "21,0",
+                        "margin": "9,0",
                         "content": [
                             {
                                 "type": "item",
@@ -35,13 +35,17 @@
                             {
                                 "type": "item",
                                 "item": "dexentryright"
+                            },
+                            {
+                                "type": "item",
+                                "item": "search_reset"
                             }
                         ]
                     },
                     {
                         "type": "array",
                         "orientation": "horizontal",
-                        "margin": "21,0",
+                        "margin": "9,0",
                         "content": [
                             {
                                 "type": "item",
@@ -91,8 +95,7 @@
                             [
                                 "search_staryu",
                                 "search_vulpix",
-                                "search_pichu",
-                                "search_reset"
+                                "search_pichu"
                             ]
                         ]
                     }
