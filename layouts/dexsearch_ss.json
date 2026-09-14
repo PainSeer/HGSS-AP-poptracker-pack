@@ -35,10 +35,6 @@
                             {
                                 "type": "item",
                                 "item": "dexentryright"
-                            },
-                            {
-                                "type": "item",
-                                "item": "search_reset"
                             }
                         ]
                     },
