@@ -221,6 +221,18 @@
                     "show_items, opt_randomize_fly_items_johto"
                 ],
                 "item_count": 1
+            },
+            {
+                "name": "Hidden Item By Trees",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopened.png",
+                "access_rules": [
+                    "@battle_frontier_frontier_access, ^$hidden"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_hidden_on"
+                ],
+                "item_count": 1
             }
         ],
         "map_locations": [
@@ -4180,43 +4192,6 @@
                 "x": 192,
                 "y": 120,
                 "size": 14
-            }
-        ]
-    },
-    {
-        "name": "Frontier Access",
-        "sections": [
-            {
-                "name": "Hidden Item By Trees",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopened.png",
-                "access_rules": [
-                    "@battle_frontier_frontier_access, ^$hidden"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_hidden_on"
-                ],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "johtokanto",
-                "x": 112,
-                "y": 160,
-                "size": 8
-            },
-            {
-                "map": "johtokanto_v",
-                "x": 112,
-                "y": 160,
-                "size": 8
-            },
-            {
-                "map": "johto",
-                "x": 112,
-                "y": 160,
-                "size": 8
             }
         ]
     },
