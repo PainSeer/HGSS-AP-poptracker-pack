@@ -457,7 +457,7 @@
 {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/1F - Hidden Item on Rock in Southeast Island", "name": "1F - Hidden Item on Rock in Southeast Island"}], "map_locations": []},
 {"name": "Seafoam Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Seafoam Islands/B3F - Hidden Item Between Southeast Stalagmites", "name": "B3F - Hidden Item Between Southeast Stalagmites"}], "map_locations": []},
 {"name": "Seafoam Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Seafoam Islands/B3F - Hidden Item on Northwest Stalagmite", "name": "B3F - Hidden Item on Northwest Stalagmite"}], "map_locations": []},
-{"name": "Frontier Access", "sections": [{"ref": "Frontier Access/Hidden Item By Trees", "name": "Hidden Item By Trees"}], "map_locations": []},
+{"name": "Battle Frontier", "sections": [{"ref": "Battle Frontier/Hidden Item By Trees", "name": "Hidden Item By Trees"}], "map_locations": []},
 {"name": "Celadon City\u200b", "sections": [{"ref": "Celadon City/Hidden Item in Southwest Trees", "name": "Hidden Item in Southwest Trees"}], "map_locations": []},
 {"name": "Route 17", "sections": [{"ref": "Route 17/Hidden Item Below Biker Pair", "name": "Hidden Item Below Biker Pair"}], "map_locations": []},
 {"name": "Route 17\u200b", "sections": [{"ref": "Route 17/Hidden Item Below Second-most-southern Street Lights", "name": "Hidden Item Below Second-most-southern Street Lights"}], "map_locations": []},
