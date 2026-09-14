@@ -158,7 +158,8 @@ function radio_tower_trigger()
 end
 
 function meet_boxart()
-    return has("event_meet_ho_oh") or has("event_meet_lugia")    
+    return (has("event_meet_lugia") and has("pokemon_soulsilver")) 
+    or (has("event_meet_ho_oh") and has("pokemon_heartgold")) 
 end
 
 function ap_helper()
