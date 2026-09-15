@@ -14542,10 +14542,10 @@
 				"chest_unopened_img": "/images/gifts/rival_closed.png",
                 "chest_opened_img": "/images/gifts/rival_opened.png",
                 "access_rules": [
-                    "@route_29"
+                    "@route_29, event_get_mystery_egg"
                 ],
                 "visibility_rules": [
-                    "show_items, event_get_mystery_egg, opt_npcgifts_on"
+                    "show_items, opt_npcgifts_on"
                 ],
                 "item_count": 1
             },
