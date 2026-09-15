@@ -316,6 +316,8 @@ function onClear(slot_data)
             Archipelago:Get({id})
         end
     end
+    
+    syncKurtFromSlowpokeWell()
 end
 
 function resetLocations()
