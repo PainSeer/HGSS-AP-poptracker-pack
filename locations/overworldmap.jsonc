@@ -912,7 +912,7 @@
             {
                 "name": "Roof - Encounter Ho-Oh (Event)",
                 "access_rules": [
-                    "@bell_tower_roof, pokemon_heartgold, rainbowwing, clearbell, event_ecruteak_dance_theater_defeat_team_rocket, event_elms_lab_get_master_ball"
+                    "@bell_tower_roof, pokemon_heartgold, rainbowwing, clearbell"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_heartgold"
@@ -25839,7 +25839,7 @@
             {
                 "name": "Lugia's Chamber - Encounter Lugia (Event)",
                 "access_rules": [
-                    "@whirl_islands_b3f, pokemon_soulsilver, silverwing, tidalbell, event_ecruteak_dance_theater_defeat_team_rocket, event_elms_lab_get_master_ball"
+                    "@whirl_islands_b3f, pokemon_soulsilver, silverwing, tidalbell"
                 ],
                 "visibility_rules": [
                     "show_items, pokemon_soulsilver"
