@@ -614,69 +614,39 @@ function updateHints()
     end
 end
 
---function onMap(mapBounce)
---    if has("automap_on") and mapBounce.data ~= nil then
---        local mapID = mapBounce.data.mapNumber
+function onMap(mapBounce)
+    if has("automap_on") and mapBounce.data ~= nil then
+        local mapID = mapBounce.data.mapNumber
 
---        if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
---            local matrixX = mapBounce.data.matrixX
---            local matrixZ = mapBounce.data.matrixZ
---            local playerY = mapBounce.data.playerY
---            local tabs = MAP_XZYSPLIT_MAPPING[mapID] and MAP_XZYSPLIT_MAPPING[mapID][matrixX] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ][playerY]
---            if tabs then
---                for i, tab in ipairs(tabs) do
---                    Tracker:UiHint("ActivateTab", tab)
---                end
---            end
---        elseif MAP_SPLIT_MAPPING[mapID] ~= nil then
---            local matrixX = mapBounce.data.matrixX
---            local matrixZ = mapBounce.data.matrixZ
---            local tabs = MAP_SPLIT_MAPPING[mapID] and MAP_SPLIT_MAPPING[mapID][matrixX] and MAP_SPLIT_MAPPING[mapID][matrixX][matrixZ]
---            if tabs then
---                for i, tab in ipairs(tabs) do
---                    Tracker:UiHint("ActivateTab", tab)
---                end
---            end
---        elseif mapID == 336 or mapID == 373 then
---            Tracker:UiHint("ActivateTab", "Routes")
---            Tracker:UiHint("ActivateTab", "R213 & VLF")
-
-            -- Special handling for this as they're a mess of interconectedness
-            -- We are specifically panning to the areas the player is in,
-            -- loosely based on their matrix coordinate
-            -- each matrix should be 25x25 blocks. to get to the center of the next one,
-            -- that's 800 pixels. (16 pixels per block)
-
-            -- for this giant map, the boundaries are the following:
-            -- matrixZ: 23-26 (including)
-            -- matrixX: 20-22 (including)
-
---            local x_cor = 294 + ((mapBounce.data.matrixX - 20) * 500)
---            if x_cor >= 1094 then
---                x_cor = 1094
---            elseif x_cor <= 794 then
---                x_cor = 794
---            end
-
---            local y_cor = 200 + ((mapBounce.data.matrixZ - 23) * 500)
---            if y_cor >= 1648 then
---                y_cor = 1648
---            elseif y_cor <= 200 then
---                y_cor = 500
---            end
-
---            Tracker:UiHint("Zoom route213valorlakefront", 2)
---            Tracker:UiHint("Pan route213valorlakefront", x_cor..","..y_cor)
---        elseif MAP_MAPPING[mapID] ~= nil then    
---            local tabs = MAP_MAPPING[mapID]
---            if tabs then
---                for _, tab in ipairs(tabs) do
---                    Tracker:UiHint("ActivateTab", tab)
---                end
---            end
---        else
---            --print("No Mapping found for:")
---            --print(dump_table(mapBounce))
---        end
---    end
---end
+        if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
+            local matrixX = mapBounce.data.matrixX
+            local matrixZ = mapBounce.data.matrixZ
+            local playerY = mapBounce.data.playerY
+            local tabs = MAP_XZYSPLIT_MAPPING[mapID] and MAP_XZYSPLIT_MAPPING[mapID][matrixX] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ][playerY]
+            if tabs then
+                for i, tab in ipairs(tabs) do
+                    Tracker:UiHint("ActivateTab", tab)
+                end
+            end
+        elseif MAP_SPLIT_MAPPING[mapID] ~= nil then
+            local matrixX = mapBounce.data.matrixX
+            local matrixZ = mapBounce.data.matrixZ
+            local tabs = MAP_SPLIT_MAPPING[mapID] and MAP_SPLIT_MAPPING[mapID][matrixX] and MAP_SPLIT_MAPPING[mapID][matrixX][matrixZ]
+            if tabs then
+                for i, tab in ipairs(tabs) do
+                    Tracker:UiHint("ActivateTab", tab)
+                end
+            end
+        elseif MAP_MAPPING[mapID] ~= nil then    
+            local tabs = MAP_MAPPING[mapID]
+            if tabs then
+                for _, tab in ipairs(tabs) do
+                    Tracker:UiHint("ActivateTab", tab)
+                end
+            end
+        else
+            --print("No Mapping found for:")
+            --print(dump_table(mapBounce))
+        end
+    end
+end
