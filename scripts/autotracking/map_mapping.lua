@@ -9,7 +9,6 @@ MAP_MAPPING = {
 [16] = {"Kanto Routes","Route 8"}, -- MAP_ROUTE_8,
 [18] = {"Kanto Routes","Route 10","North"}, -- MAP_ROUTE_10,
 [19] = {"Kanto Routes","Route 11"}, -- MAP_ROUTE_11,
-[21] = {"Kanto Routes","Route 13"}, -- MAP_ROUTE_13,
 [22] = {"Kanto Routes","Route 14"}, -- MAP_ROUTE_14,
 [24] = {"Kanto Routes","Route 16"}, -- MAP_ROUTE_16,
 [26] = {"Kanto Routes","Route 18"}, -- MAP_ROUTE_18,
@@ -197,8 +196,98 @@ MAP_MAPPING = {
 
 MAP_SPLIT_MAPPING = {
 --  XZ Split Maps
+  [11] = {
+    [34] = {
+      [3] = {"Kanto Routes", "Route 3", "West"}, -- "MAP_ROUTE_3",
+		},
+    [35] = {
+      [3] = {"Kanto Routes", "Route 3", "West"}, -- "MAP_ROUTE_3",	
+		},
+    [36] = {
+      [3] = {"Kanto Routes", "Route 3", "East"}, -- "MAP_ROUTE_3",
+		}
+	},
+  [12] = {
+    [37] = {
+      [3] = {"Kanto Routes", "Route 4", "West"}, -- "MAP_ROUTE_4",
+		},
+    [38] = {
+      [3] = {"Kanto Routes", "Route 4", "East"}, -- "MAP_ROUTE_4",
+		},
+    [39] = {
+      [3] = {"Kanto Routes", "Route 4", "East"}, -- "MAP_ROUTE_4",	
+		}
+	},
+  [17] = {
+    [42] = {
+      [4] = {"Kanto Routes", "Route 9", "West"}, -- "MAP_ROUTE_9",
+		},
+    [43] = {
+      [4] = {"Kanto Routes", "Route 9", "West"}, -- "MAP_ROUTE_9",
+		},
+    [44] = {
+      [4] = {"Kanto Routes", "Route 9", "East"}, -- "MAP_ROUTE_9",	
+		}
+	},
+  [20] = {
+    [44] = {
+      [8] = {"Kanto Routes", "Route 12", "North"}, -- "MAP_ROUTE_12",
+      [9] = {"Kanto Routes", "Route 12", "South"}, -- "MAP_ROUTE_12",
+	  [10] = {"Kanto Routes", "Route 12", "South"}, -- "MAP_ROUTE_12",
+        }
+    },    [39] = {
+      [13] = {"Kanto Routes", "Route 15", "West"}, -- "MAP_ROUTE_15",
+		},
 
-
+  [23] = {
+    [40] = {
+      [13] = {"Kanto Routes", "Route 15", "East"}, -- "MAP_ROUTE_15",
+		},
+    [41] = {
+      [13] = {"Kanto Routes", "Route 15", "East"}, -- "MAP_ROUTE_15",	
+		}
+	},
+  [21] = {
+    [42] = {
+      [11] = {"Kanto Routes", "Route 13", "West"}, -- "MAP_ROUTE_13",
+		},
+    [43] = {
+      [11] = {"Kanto Routes", "Route 13", "West"}, -- "MAP_ROUTE_13",
+		},
+    [44] = {
+      [11] = {"Kanto Routes", "Route 13", "East"}, -- "MAP_ROUTE_13",	
+		}
+	},
+  [25] = {
+    [35] = {
+      [9] = {"Kanto Routes", "Route 17", "North"}, -- "MAP_ROUTE_17",
+      [10] = {"Kanto Routes", "Route 17", "Nouth"}, -- "MAP_ROUTE_17",
+	  [11] = {"Kanto Routes", "Route 17", "South"}, -- "MAP_ROUTE_17",
+	  [12] = {"Kanto Routes", "Route 17", "South"}, -- "MAP_ROUTE_17",
+        }
+    },
+  [29] = {
+    [41] = {
+      [1] = {"Kanto Routes", "Route 25", "West"}, -- "MAP_ROUTE_25",
+		},
+    [42] = {
+      [1] = {"Kanto Routes", "Route 25", "East"}, -- "MAP_ROUTE_25",
+		},
+    [43] = {
+      [1] = {"Kanto Routes", "Route 25", "East"}, -- "MAP_ROUTE_25",
+		},
+    [44] = {
+      [1] = {"Kanto Routes", "Route 25", "East"}, -- "MAP_ROUTE_25",	
+		}
+	},
+  [30] = {
+    [28] = {
+      [9] = {"Kanto Routes", "Route 26", "North"}, -- "MAP_ROUTE_26",
+      [10] = {"Kanto Routes", "Route 26", "Nouth"}, -- "MAP_ROUTE_26",
+	  [11] = {"Kanto Routes", "Route 26", "South"}, -- "MAP_ROUTE_26",
+	  [12] = {"Kanto Routes", "Route 26", "South"}, -- "MAP_ROUTE_26",
+        }
+    },
 }
 
 MAP_XZYSPLIT_MAPPING = {

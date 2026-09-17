@@ -360,16 +360,16 @@
         "img": "images/maps/celadongym.png"
     },
     {
-        "name": "fuschiacity",
+        "name": "fuchsiacity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/fuschiacity.png"
+        "img": "images/maps/fuchsiacity.png"
     },
     {
-        "name": "fuschiagym",
+        "name": "fuchsiagym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/fuschiagym.png"
+        "img": "images/maps/fuchsiagym.png"
     },
     {
         "name": "saffroncity",

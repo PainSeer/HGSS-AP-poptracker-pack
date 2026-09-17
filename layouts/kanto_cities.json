@@ -177,7 +177,7 @@
         }
       },
       {
-        "title": "Fuschia City",
+        "title": "Fuchsia City",
         "content": {
           "type": "tabbed",
           "tabs": [
@@ -186,7 +186,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "fuschiacity"
+                  "fuchsiacity"
                 ]
               }
             },
@@ -195,7 +195,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "fuschiagym"
+                  "fuchsiagym"
                 ]
               }
             }

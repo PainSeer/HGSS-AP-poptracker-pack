@@ -1172,7 +1172,7 @@
         {
             "name": "Fuchsia City Encounters",
             "map_locations": [
-            { "map": "fuschiacity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "fuchsiacity", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod", "ref": "Fuchsia City/Encounter (Surf, Any Rod)" },
