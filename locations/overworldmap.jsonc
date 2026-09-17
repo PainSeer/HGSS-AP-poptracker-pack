@@ -24946,8 +24946,8 @@
             },
             {
                 "name": "Gym - Ace Trainer Arabella",
-                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
-                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],
@@ -24972,8 +24972,8 @@
             },
             {
                 "name": "Gym - Ace Trainer Bonita",
-                "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
-                "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
+                "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
+                "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
                     "@viridian_gym"
                 ],
