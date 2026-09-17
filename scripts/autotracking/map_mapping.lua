@@ -324,7 +324,7 @@ MAP_SPLIT_MAPPING = {
     [17] = {
       [9] = {"Johto Routes", "Route 30", "North"}, -- "MAP_ROUTE_30",
       [10] = {"Johto Routes", "Route 30", "North"}, -- "MAP_ROUTE_30",
-	  [11] = {"Johto Routes", "Route 0", "South"}, -- "MAP_ROUTE_30",
+	  [11] = {"Johto Routes", "Route 30", "South"}, -- "MAP_ROUTE_30",
         }
     },
   [36] = {
@@ -336,6 +336,35 @@ MAP_SPLIT_MAPPING = {
 	  [13] = {"Johto Routes", "Route 32", "South"}, -- "MAP_ROUTE_32",
         }
     },
+  [38] = {
+    [11] = {
+      [12] = {"Johto Routes", "Route 34", "North"}, -- "MAP_ROUTE_34",
+      [13] = {"Johto Routes", "Route 34", "South"}, -- "MAP_ROUTE_34",
+	  [14] = {"Johto Routes", "Route 34", "South"}, -- "MAP_ROUTE_34",
+        }
+    },
+  [44] = {
+    [13] = {
+      [5] = {"Johto Routes", "Route 42", "West"}, -- "MAP_ROUTE_42",
+		},
+    [14] = {
+      [5] = {"Johto Routes", "Route 42", "East"}, -- "MAP_ROUTE_42",
+		},
+    [15] = {
+      [5] = {"Johto Routes", "Route 42", "East"}, -- "MAP_ROUTE_42",	
+		}
+	},
+  [46] = {
+    [17] = {
+      [5] = {"Johto Routes", "Route 44", "West"}, -- "MAP_ROUTE_44",
+		},
+    [18] = {
+      [5] = {"Johto Routes", "Route 44", "East"}, -- "MAP_ROUTE_44",
+		},
+    [19] = {
+      [5] = {"Johto Routes", "Route 44", "East"}, -- "MAP_ROUTE_44",	
+		}
+	},
 }
 
 MAP_XZYSPLIT_MAPPING = {
