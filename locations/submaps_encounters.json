@@ -1227,7 +1227,7 @@
         {
             "name": "Mt. Moon Square Clefairy Event Encounters",
             "map_locations": [
-            { "map": "mtmoonsquare", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "mtmoonsquare", "size": 32, "x": 24, "y": 60, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Surf, Any Rod, Super Rod [Morn-Day]", "ref": "Mt. Moon/Square Clefairy Event - Encounter (Surf, Any Rod, Super Rod [Morn-Day])" },
