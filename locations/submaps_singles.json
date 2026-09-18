@@ -475,7 +475,7 @@
 {"name": "Route 47\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 47/Cliff Edge Gate - Hidden Item Below Fence", "name": "Cliff Edge Gate - Hidden Item Below Fence"}], "map_locations": []},
 {"name": "Route 47\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 47/Hidden Item Between Southwest Rock Climb Slopes", "name": "Hidden Item Between Southwest Rock Climb Slopes"}], "map_locations": []},
 {"name": "Route 47\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 47/Hidden Item Southeast of West Waterfall", "name": "Hidden Item Southeast of West Waterfall"}], "map_locations": []},
-{"name": "Route 47\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 47/Cliff Cave 3F - Hidden Item By Exit", "name": "Cliff Cave 3F - Hidden Item By Exit"}], "map_locations": []},
+{"name": "Route 47\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 47/Cliff Cave - Hidden Item By Exit", "name": "Cliff Cave - Hidden Item By Exit"}], "map_locations": []},
 {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/B2F - Hidden Item Between Rocks Near Main Ladder", "name": "B2F - Hidden Item Between Rocks Near Main Ladder"}], "map_locations": []},
 {"name": "Bell Tower\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Bell Tower/5F - Hidden Item on East Side", "name": "5F - Hidden Item on East Side"}], "map_locations": []},
 {"name": "Safari Zone", "sections": [{"ref": "Safari Zone/Gate - West Side Hidden Item", "name": "Gate - West Side Hidden Item"}], "map_locations": []},
