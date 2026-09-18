@@ -379,16 +379,16 @@ MAP_SPLIT_MAPPING = {
     },
   [92] = {
     [33] = {
-      [15] = {"Kanto Routes", "Route 4", "West"}, -- "MAP_ROUTE_20",
+      [15] = {"Kanto Routes", "Route 20", "West"}, -- "MAP_ROUTE_20",
 		},
     [34] = {
-      [15] = {"Kanto Routes", "Route 4", "West"}, -- "MAP_ROUTE_20",
+      [15] = {"Kanto Routes", "Route 20", "West"}, -- "MAP_ROUTE_20",
 		},
     [35] = {
-      [15] = {"Kanto Routes", "Route 4", "East"}, -- "MAP_ROUTE_20",	
+      [15] = {"Kanto Routes", "Route 20", "East"}, -- "MAP_ROUTE_20",	
 		},
     [36] = {
-      [15] = {"Kanto Routes", "Route 4", "East"}, -- "MAP_ROUTE_20",	
+      [15] = {"Kanto Routes", "Route 20", "East"}, -- "MAP_ROUTE_20",	
 		},
 	},
   [93] = {
