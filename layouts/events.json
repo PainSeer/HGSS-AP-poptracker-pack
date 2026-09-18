@@ -58,14 +58,15 @@
                             [
                                 "event_elms_lab_get_master_ball",
                                 "event_meet_ho_oh",
+				"event_first_voyage_completed",
                                 "event_talk_plant_manager",
                                 "event_cerulean_meet_kanto_grunt",
                                 "event_route_24_defeat_kanto_grunt",
                                 "event_ruin_mistys_date",
                                 "event_restore_power",
-                                "event_hear_about_missing_doll"
                             ],
                             [
+                                "event_hear_about_missing_doll",
                                 "event_cinnabar_island_blue_return_viridian",
                                 "event_defeated_rival_mount_moon",
                                 "event_get_hm08",

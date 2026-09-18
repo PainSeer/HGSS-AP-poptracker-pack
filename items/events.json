@@ -287,5 +287,11 @@
         "type": "toggle",
         "img": "images/events/event_access_low_tide_dialogue.png",
         "codes": "event_access_low_tide_dialogue"
-    }
+    },
+    {
+        "name": "First Voyage on the S.S. Aqua",
+        "type": "toggle",
+        "img": "images/temp.png",
+        "codes": "event_first_voyage_completed"
+    },
 ]
