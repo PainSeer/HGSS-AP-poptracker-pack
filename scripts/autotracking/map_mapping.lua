@@ -130,6 +130,7 @@ MAP_MAPPING = {
 [253] = {"Johto Cities","Blackthorn City","Dragon's Den","B1F"}, -- MAP_DRAGONS_DEN,
 [279] = {"Johto Cities","Cianwood City","Cliff Edge Gate"}, -- MAP_CLIFF_EDGE_GATE,
 [280] = {"Johto Dungeons","National Park","Pokéathlon Dome"}, -- MAP_POKEATHLON_DOME,
+[306] = {""}, -- MAP_POKEMON_LEAGUE_HALL_OF_FAME,
 [312] = {"Johto Dungeons","Ruins of Alph","Kabuto Room","Puzzle Room"}, -- MAP_RUINS_OF_ALPH_NORTHEAST_ENTRANCE_FIRST_ROOM,
 [313] = {"Johto Dungeons","Ruins of Alph","Kabuto Room","Hidden Room"}, -- MAP_RUINS_OF_ALPH_NORTHEAST_HIDDEN_ROOM,
 [314] = {"Johto Dungeons","Ruins of Alph","Aerodactyl Room","Puzzle Room"}, -- MAP_RUINS_OF_ALPH_SOUTHEAST_ENTRANCE_FIRST_ROOM,
