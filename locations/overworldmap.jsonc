@@ -15038,7 +15038,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
-                    "@route_30, ^$hidden"
+                    "@route_30_northwest, ^$hidden"
                 ],
                 "visibility_rules": [
                     "show_items, opt_hidden_on"
