@@ -972,7 +972,7 @@
         "img": "images/maps/ruinsofalphchamber.png"
     },
     {
-        "name": "ruinsofalphamonyteroom",
+        "name": "ruinsofalphomanyteroom",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/ruinsofalphchamber.png"
@@ -1002,7 +1002,25 @@
         "img": "images/maps/ruinsofalphinterior.png"
     },
     {
-        "name": "ruinsofalphpuzzleroom",
+        "name": "ruinsofalphkabutopuzzleroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphpuzzleroom.png"
+    },
+    {
+        "name": "ruinsofalphomanytepuzzleroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphpuzzleroom.png"
+    },
+    {
+        "name": "ruinsofalphaerodactylpuzzleroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphpuzzleroom.png"
+    },
+    {
+        "name": "ruinsofalphhoohpuzzleroom",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/ruinsofalphpuzzleroom.png"
