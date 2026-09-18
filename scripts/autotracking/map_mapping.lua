@@ -195,12 +195,6 @@ MAP_MAPPING = {
 [513] = {"Kanto Dungeons","Mt. Moon","Square"}, -- MAP_MOUNT_MOON_SQUARE_CLEFAIRY_EVENT,
 [532] = {"Kanto Dungeons","Underground Path"}, -- MAP_ROUTE_5_UNDERGROUND_PATH,
 [88] = {"Johto Dungeons", "Lake of Rage", "High Tide"}, -- MAP_LAKE_OF_RAGE,    we are unable to detect the tide level without a bounce from the AP
-[900] = {"S.S. Aqua", "First Voyage", "1F"},
-[901] = {"S.S. Aqua", "Westbound", "1F"},
-[902] = {"S.S. Aqua", "Eastbound", "1F"},
-[910] = {"S.S. Aqua", "First Voyage", "B1F"},
-[911] = {"S.S. Aqua", "Westbound", "B1F"},
-[912] = {"S.S. Aqua", "Eastbound", "B1F"},
 }
 
 MAP_SPLIT_MAPPING = {

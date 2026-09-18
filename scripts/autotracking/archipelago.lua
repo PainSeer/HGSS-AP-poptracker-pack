@@ -636,53 +636,6 @@ function onMap(mapBounce)
                 for i, tab in ipairs(tabs) do
                     Tracker:UiHint("ActivateTab", tab)
                 end
-            end 
-	-- This is to detect the SS Aqua voyage and direction
-		-- First Floor
-        elseif mapID == 307 or mapID == 308 or mapID == 309 or mapID ==310 or mapID == 311 or mapID == 328 then
-			if not has(event_first_voyage_completed) then
-				mapID = 900
-				if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-			elseif last_mapID = 387 then
-				mapID = 901
-				if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-			elseif last_mapID = 330 then
-				mapID = 902
-				if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-		-- basement floor	
-        elseif mapID == 329
-			if not has(event_first_voyage_completed) then
-				mapID = 910
-				if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-			elseif last_mapID = 387 then
-				mapID = 911
-				if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-			elseif last_mapID = 330 then
-				mapID = 912
-				if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
             end
         elseif MAP_MAPPING[mapID] ~= nil then    
             local tabs = MAP_MAPPING[mapID]
