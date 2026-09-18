@@ -660,9 +660,9 @@ function onMap(mapBounce)
         elseif AQUA_MAPPING[mapID] ~= nil then
             if has("event_first_voyage_completed") then
                 if aqua_direction == "east" then
-                    mapID = mapID + 500
+                    mapID = mapID + 100
                 else
-                    mapID = mapID + 600
+                    mapID = mapID + 200
                 end
             end
 

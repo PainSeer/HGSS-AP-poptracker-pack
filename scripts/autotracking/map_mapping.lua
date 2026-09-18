@@ -421,20 +421,20 @@ AQUA_MAPPING = {
     [329] = {"S.S. Aqua", "First Voyage", "B1F"}, --MAP_SS_AQUA_B1F
 
     -- Eastbound
-    [807] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F
-    [808] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
-    [809] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
-    [810] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
-    [811] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
-    [828] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
-    [829] = {"S.S. Aqua", "Eastbound", "B1F"}, --MAP_SS_AQUA_B1F
+    [407] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F
+    [408] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
+    [409] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
+    [410] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
+    [411] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
+    [428] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
+    [429] = {"S.S. Aqua", "Eastbound", "B1F"}, --MAP_SS_AQUA_B1F
 
     -- Westbound
-    [907] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F
-    [908] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
-    [909] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
-    [910] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
-    [911] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
-    [928] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
-    [929] = {"S.S. Aqua", "Westbound", "B1F"}, --MAP_SS_AQUA_B1F
+    [507] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F
+    [508] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
+    [509] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
+    [510] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
+    [511] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
+    [528] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
+    [529] = {"S.S. Aqua", "Westbound", "B1F"}, --MAP_SS_AQUA_B1F
 }
