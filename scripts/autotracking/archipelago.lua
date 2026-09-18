@@ -614,21 +614,34 @@ function updateHints()
     end
 end
 
+-- Stores last map ID
+last_map = nil
+aqua_direction = nil
+
 function onMap(mapBounce)
     if has("automap_on") and mapBounce.data ~= nil then
         local mapID = mapBounce.data.mapNumber
 
-        if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
-            local matrixX = mapBounce.data.matrixX
-            local matrixZ = mapBounce.data.matrixZ
-            local playerY = mapBounce.data.playerY
-            local tabs = MAP_XZYSPLIT_MAPPING[mapID] and MAP_XZYSPLIT_MAPPING[mapID][matrixX] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ][playerY]
-            if tabs then
-                for i, tab in ipairs(tabs) do
-                    Tracker:UiHint("ActivateTab", tab)
-                end
-            end
-        elseif MAP_SPLIT_MAPPING[mapID] ~= nil then
+        -- HGSS does not have any Z-coordinate split maps. Once confirmed, remove this.
+        --if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
+        --    local matrixX = mapBounce.data.matrixX
+        --    local matrixZ = mapBounce.data.matrixZ
+        --    local playerY = mapBounce.data.playerY
+        --    local tabs = MAP_XZYSPLIT_MAPPING[mapID] and MAP_XZYSPLIT_MAPPING[mapID][matrixX] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ] and MAP_XZYSPLIT_MAPPING[mapID][matrixX][matrixZ][playerY]
+        --    if tabs then
+        --        for i, tab in ipairs(tabs) do
+        --            Tracker:UiHint("ActivateTab", tab)
+        --        end
+        --    end
+
+        -- S.S. Aqua stuff
+        if last_map == 330 then
+            aqua_direction = "east"
+        elseif last_map == 387 then
+            aqua_direction = "west"
+        end
+
+        if MAP_SPLIT_MAPPING[mapID] ~= nil then
             local matrixX = mapBounce.data.matrixX
             local matrixZ = mapBounce.data.matrixZ
             local tabs = MAP_SPLIT_MAPPING[mapID] and MAP_SPLIT_MAPPING[mapID][matrixX] and MAP_SPLIT_MAPPING[mapID][matrixX][matrixZ]
@@ -637,8 +650,23 @@ function onMap(mapBounce)
                     Tracker:UiHint("ActivateTab", tab)
                 end
             end
-        elseif MAP_MAPPING[mapID] ~= nil then    
+        elseif MAP_MAPPING[mapID] ~= nil then
             local tabs = MAP_MAPPING[mapID]
+            if tabs then
+                for _, tab in ipairs(tabs) do
+                    Tracker:UiHint("ActivateTab", tab)
+                end
+            end
+        elseif AQUA_MAPPING[mapID] ~= nil then
+            if has("event_first_voyage_completed") then
+                if aqua_direction == "east" then
+                    mapID = mapID + 100
+                else
+                    mapID = mapID + 200
+                end
+            end
+
+            local tabs = AQUA_MAPPING[mapID]
             if tabs then
                 for _, tab in ipairs(tabs) do
                     Tracker:UiHint("ActivateTab", tab)
@@ -648,5 +676,8 @@ function onMap(mapBounce)
             --print("No Mapping found for:")
             --print(dump_table(mapBounce))
         end
+
+    -- Saves last processed map
+    last_map = mapID
     end
 end

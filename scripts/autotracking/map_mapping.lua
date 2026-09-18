@@ -410,9 +410,31 @@ MAP_SPLIT_MAPPING = {
 	},	
 }
 
-MAP_XZYSPLIT_MAPPING = {
---  XZY Split Maps
+AQUA_MAPPING = {
+    -- First Voyage
+    [307] = {"S.S. Aqua", "First Voyage", "1F"},  --MAP_SS_AQUA_1F
+    [308] = {"S.S. Aqua", "First Voyage", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
+    [309] = {"S.S. Aqua", "First Voyage", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
+    [310] = {"S.S. Aqua", "First Voyage", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
+    [311] = {"S.S. Aqua", "First Voyage", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
+    [328] = {"S.S. Aqua", "First Voyage", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
+    [329] = {"S.S. Aqua", "First Voyage", "B1F"}, --MAP_SS_AQUA_B1F
 
+    -- Eastbound
+    [407] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F
+    [408] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
+    [409] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
+    [410] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
+    [411] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
+    [428] = {"S.S. Aqua", "Eastbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
+    [429] = {"S.S. Aqua", "Eastbound", "B1F"}, --MAP_SS_AQUA_B1F
+
+    -- Westbound
+    [507] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F
+    [508] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_CAPTAIN_ROOM
+    [509] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHEAST_ROOMS
+    [510] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_SOUTHWEST_ROOMS
+    [511] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
+    [528] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
+    [529] = {"S.S. Aqua", "Westbound", "B1F"}, --MAP_SS_AQUA_B1F
 }
-
--- TODO: Zoom Maps
