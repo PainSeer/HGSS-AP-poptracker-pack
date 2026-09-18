@@ -249,35 +249,9 @@
       {
         "title": "Cliff Cave",
         "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "1F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cliffcave1f"
-                ]
-              }
-            },
-            {
-              "title": "2F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cliffcave2f"
-                ]
-              }
-            },
-            {
-              "title": "3F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cliffcave3f"
-                ]
-              }
-            }
+          "type": "map",
+          "maps": [
+            "cliffcave"
           ]
         }
       },

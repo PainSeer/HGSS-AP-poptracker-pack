@@ -1134,22 +1134,10 @@
         "img": "images/maps/burnedtowerb1f.png"
     },
     {
-        "name": "cliffcave1f",
+        "name": "cliffcave",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/cliffcave1f.png"
-    },
-    {
-        "name": "cliffcave2f",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/cliffcave2f.png"
-    },
-    {
-        "name": "cliffcave3f",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/cliffcave3f.png"
+        "img": "images/maps/cliffcave.png"
     },
     {
         "name": "cliffedgegate",

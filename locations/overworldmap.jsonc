@@ -19168,7 +19168,7 @@
                 "item_count": 1
             },
             {
-                "name": "Cliff Cave 3F - Hidden Item By Exit",
+                "name": "Cliff Cave - Hidden Item By Exit",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [

@@ -155,6 +155,7 @@ MAP_MAPPING = {
 [339] = {"Johto Cities","Ecruteak City","Bell Tower","9F"}, -- MAP_BELL_TOWER_9F,
 [340] = {"Johto Cities","Ecruteak City","Bell Tower","Top"}, -- MAP_BELL_TOWER_ROOF,
 [341] = {"Johto Cities","Ecruteak City","Bell Tower","10F"}, -- MAP_BELL_TOWER_10F,
+[342] = {"Johto Dungeons","Cliff Cave"}, -- MAP_CLIFF_CAVE,
 [387] = {"Kanto Cities","Vermilion City","City"}, -- MAP_SS_AQUA_VERMILION_PORT_EXTERIOR,
 [388] = {"Kanto Routes","Route 10","South"}, -- MAP_ROUTE_10_SOUTH,
 [395] = {"Kanto Cities","Celadon City","Gym"}, -- MAP_CELADON_GYM,
@@ -192,6 +193,7 @@ MAP_MAPPING = {
 [496] = {"Kanto Cities","Viridian City","Gym"}, -- MAP_VIRIDIAN_GYM,
 [513] = {"Kanto Dungeons","Mt. Moon","Square"}, -- MAP_MOUNT_MOON_SQUARE_CLEFAIRY_EVENT,
 [532] = {"Kanto Dungeons","Underground Path"}, -- MAP_ROUTE_5_UNDERGROUND_PATH,
+[88] = {"Johto Dungeons", "Lake of Rage", "High Tide"}, -- MAP_LAKE_OF_RAGE,    we are unable to detect the tide level without a bounce from the AP
 }
 
 MAP_SPLIT_MAPPING = {
@@ -365,6 +367,46 @@ MAP_SPLIT_MAPPING = {
       [5] = {"Johto Routes", "Route 44", "East"}, -- "MAP_ROUTE_44",	
 		}
 	},
+  [47] = {
+    [20] = {
+      [6] = {"Johto Routes", "Route 45", "North"}, -- "MAP_ROUTE_45",
+      [7] = {"Johto Routes", "Route 45", "North"}, -- "MAP_ROUTE_45",
+	  [8] = {"Johto Routes", "Route 45", "Center"}, -- "MAP_ROUTE_45",
+	  [9] = {"Johto Routes", "Route 45", "Center"}, -- "MAP_ROUTE_45",
+	  [10] = {"Johto Routes", "Route 45", "South"}, -- "MAP_ROUTE_45",
+        }
+    },
+  [92] = {
+    [33] = {
+      [15] = {"Kanto Routes", "Route 4", "West"}, -- "MAP_ROUTE_20",
+		},
+    [34] = {
+      [15] = {"Kanto Routes", "Route 4", "West"}, -- "MAP_ROUTE_20",
+		},
+    [35] = {
+      [15] = {"Kanto Routes", "Route 4", "East"}, -- "MAP_ROUTE_20",	
+		},
+    [36] = {
+      [15] = {"Kanto Routes", "Route 4", "East"}, -- "MAP_ROUTE_20",	
+		},
+	},
+  [93] = {
+    [32] = {
+      [12] = {"Kanto Routes", "Route 21", "North"}, -- "MAP_ROUTE_21",
+      [13] = {"Kanto Routes", "Route 21", "South"}, -- "MAP_ROUTE_21",
+	  [14] = {"Kanto Routes", "Route 21", "South"}, -- "MAP_ROUTE_21",
+        }
+    },
+  [121] = {
+    [0] = {
+      [0] = {"Johto Dungeons", "Whirl Islands", "1F", "Northwest"}, -- "MAP_WHIRL_ISLANDS_1F",
+      [1] = {"Johto Dungeons", "Whirl Islands", "1F", "Southwest"}, -- "MAP_WHIRL_ISLANDS_1F",	
+		},
+    [1] = {
+      [0] = {"Johto Dungeons", "Whirl Islands", "1F", "Northeast"}, -- "MAP_WHIRL_ISLANDS_1F",
+      [1] = {"Johto Dungeons", "Whirl Islands", "1F", "Southeast"}, -- "MAP_WHIRL_ISLANDS_1F",	
+		},
+	},	
 }
 
 MAP_XZYSPLIT_MAPPING = {
