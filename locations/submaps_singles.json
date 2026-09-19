@@ -513,7 +513,7 @@
             {"name": "Route 26\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 26/Item on Ledges Before Victory Road Gate", "name": "Item on Ledges Before Victory Road Gate"}], "map_locations": [{"map": "route26_n", "x": 230 , "y": 454}]},
             {"name": "Route 26\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 26/Psychic Vernon", "name": "Psychic Vernon"}], "map_locations": [{"map": "route26_s", "x": 434 , "y": 354}]},
             {"name": "Route 27", "sections": [{"ref": "Route 27/Ace Trainer Blake", "name": "Ace Trainer Blake"}], "map_locations": [{"map": "route27_c", "x": 168 , "y": 344}]},
-            {"name": "Route 27\u200b", "sections": [{"ref": "Route 27/Ace Trainer Brian", "name": "Ace Trainer Brian"}], "map_locations": [{"map": "route27_c", "x": 660 , "y": 378}]},
+            {"name": "Route 27\u200b", "sections": [{"ref": "Route 27/Ace Trainer Brian", "name": "Ace Trainer Brian"}], "map_locations": [{"map": "route27_c", "x": 676 , "y": 378}]},
             {"name": "Route 27\u200b\u200b", "sections": [{"ref": "Route 27/Ace Trainer Megan", "name": "Ace Trainer Megan"}], "map_locations": [{"map": "route27_w", "x": 856 , "y": 326}]},
             {"name": "Route 27\u200b\u200b\u200b", "sections": [{"ref": "Route 27/Ace Trainer Reena", "name": "Ace Trainer Reena"}], "map_locations": [{"map": "route27_e", "x": 675 , "y": 440}]},
             {"name": "Route 27\u200b\u200b\u200b\u200b", "sections": [{"ref": "Route 27/Bird Keeper Jose", "name": "Bird Keeper Jose"}], "map_locations": [{"map": "route27_c", "x": 334 , "y": 512}]},
