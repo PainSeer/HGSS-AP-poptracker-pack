@@ -1624,7 +1624,24 @@
                 {"name": "Defeat Red (Event)", "ref": "Mt. Silver Cave/Summit - Defeat Red (Event)"},
                 {"name": "Pokemon Trainer Red", "ref": "Mt. Silver Cave/Summit - Pokemon Trainer Red"}
                 ]
-            }
+            },
+            {"name": "Ruins of Alph Northwest", "map_locations": [{"map": "unioncaveb1f", "x": 8 , "y": 71}, {"map": "unioncaveb2f", "x": 616 , "y": 71}, {"map": "unioncave1f", "x": 760 , "y": 405}], "sections": [
+                {"name": "Psychic Nathan", "ref": "Ruins of Alph/Psychic Nathan"},
+                {"name": "Top Left Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Top Left Item"},
+                {"name": "Top Right Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Top Right Item"},
+                {"name": "Bottom Left Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Bottom Left Item"},
+                {"name": "Bottom Right Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Bottom Right Item"},
+                ]
+            },
+            {"name": "Ruins of Alph Southwest", "map_locations": [{"map": "unioncaveb1f", "x": 8 , "y": 215}, {"map": "unioncaveb2f", "x": 616 , "y": 503}, {"map": "unioncave1f", "x": 760 , "y": 133}], "sections": [
+                {"name": "Hidden Item in Southwest Rocks", "ref": "Ruins of Alph/Hidden Item in Southwest Rocks"},
+                {"name": "Second Hidden Item in Southwest Rocks", "ref": "Ruins of Alph/Second Hidden Item in Southwest Rocks"},
+                {"name": "Top Left Item", "ref": "Ruins of Alph/Omanyte Chamber - Top Left Item"},
+                {"name": "Top Right Item", "ref": "Ruins of Alph/Omanyte Chamber - Top Right Item"},
+                {"name": "Bottom Left Item", "ref": "Ruins of Alph/Omanyte Chamber - Bottom Left Item"},
+                {"name": "Bottom Right Item", "ref": "Ruins of Alph/Omanyte Chamber - Bottom Right Item"},
+                ]
+            },
         ]
      }
 ]
