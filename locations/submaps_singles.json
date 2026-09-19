@@ -971,7 +971,7 @@
             {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/B2F - Northeast Item in Enclosed Section", "name": "B2F - Northeast Item in Enclosed Section"}], "map_locations": [{"map": "whirlislandsb2f", "x": 246 , "y": 310}]},
             {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/B2F - Southwest Item in Enclosed Section", "name": "B2F - Southwest Item in Enclosed Section"}], "map_locations": [{"map": "whirlislandsb2f", "x": 186 , "y": 392}]},
             {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/Lugia's Chamber - Item", "name": "Lugia's Chamber - Item"}], "map_locations": [{"map": "whirlislandsb3f", "x": 632 , "y": 604}]},
-            {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/Lugia's Chamber - Encounter Lugia (Event)", "name": "Lugia's Chamber - Encounter Lugia (Event)"}], "map_locations": [{"map": "whirlislandsb3f", "x": 272 , "y": 416}]},
+            {"name": "Whirl Islands\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b", "sections": [{"ref": "Whirl Islands/Lugia's Chamber - Encounter Lugia (Event)", "name": "Lugia's Chamber - Encounter Lugia (Event)"}], "map_locations": [{"map": "whirlislandsb3f", "x": 272 , "y": 416}]}
         ]
     }
 ]
