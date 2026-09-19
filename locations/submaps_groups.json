@@ -1267,7 +1267,7 @@
                 {"name": "Hidden Item Behind Southeast Breakable Rocks", "ref": "Rock Tunnel/B1F - Hidden Item Behind Southeast Breakable Rocks"}
                 ]
             },
-            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 128 , "y": 320}, {"map": "route20_w", "x": 920 , "y": 232}], "sections": [
+            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 121 , "y": 320}, {"map": "route20_w", "x": 920 , "y": 232}], "sections": [
                 {"name": "Hidden Item Against North Wall", "ref": "Seafoam Islands/Entrance - Hidden Item Against North Wall"},
                 {"name": "Item By North Wall", "ref": "Seafoam Islands/B1F - Item By North Wall"},
                 {"name": "Hidden Item in Central Snow Patch", "ref": "Seafoam Islands/B1F - Hidden Item in Central Snow Patch"},
