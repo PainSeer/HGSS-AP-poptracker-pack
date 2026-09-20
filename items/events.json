@@ -287,5 +287,10 @@
         "type": "toggle",
         "img": "images/events/event_access_low_tide_dialogue.png",
         "codes": "event_access_low_tide_dialogue"
+    },
+    {
+        "name": "First Voyage Complete (Hidden)",
+        "type": "toggle",
+        "codes": "event_first_voyage_completed"
     }
 ]

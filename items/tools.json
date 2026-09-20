@@ -3,7 +3,7 @@
         "name": "Location Visibility",
         "type": "progressive",
         "loop": true,
-        "initial_stage_idx": 1,
+        "initial_stage_idx": 0,
         "allow_disabled": false,
         "stages": [
             {
@@ -240,12 +240,12 @@
         "stages": [
             {
                 "name": "Click here to search",
-                "img": "/images/tools/go.png",
+                "img": "/images/tools/go2.png",
                 "codes": "go"
             },
             {
                 "name": "Click here to search",
-                "img": "/images/tools/go.png",
+                "img": "/images/tools/go2.png",
                 "codes": "search_active",
                 "inherit_codes": false,
                 "img_mods": "@disabled"
@@ -2305,6 +2305,7 @@
             {
                 "name": "Search for Magikarp",
                 "img": "/images/pokemon/129.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_magikarp"
             },
             {
@@ -2324,6 +2325,7 @@
             {
                 "name": "Search for Chansey",
                 "img": "/images/pokemon/113.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_chansey"
             },
             {
@@ -2343,6 +2345,7 @@
             {
                 "name": "Search for Jigglypuff",
                 "img": "/images/pokemon/39.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_jigglypuff"
             },
             {
@@ -2362,6 +2365,7 @@
             {
                 "name": "Search for Lickitung",
                 "img": "/images/pokemon/108.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_lickitung"
             },
             {
@@ -2381,6 +2385,7 @@
             {
                 "name": "Search for Oddish",
                 "img": "/images/pokemon/43.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_oddish"
             },
             {
@@ -2400,6 +2405,7 @@
             {
                 "name": "Search for Marill",
                 "img": "/images/pokemon/183.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_marill"
             },
             {
@@ -2419,6 +2425,7 @@
             {
                 "name": "Search for Staryu",
                 "img": "/images/pokemon/120.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_staryu"
             },
             {
@@ -2438,6 +2445,7 @@
             {
                 "name": "Search for Growlithe",
                 "img": "/images/pokemon/58.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_growlithe"
             },
             {
@@ -2457,6 +2465,7 @@
             {
                 "name": "Search for Vulpix",
                 "img": "/images/pokemon/37.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_vulpix"
             },
             {
@@ -2476,6 +2485,7 @@
             {
                 "name": "Search for Pichu",
                 "img": "/images/pokemon/172.png",
+                "img_mods": "overlay|/images/tools/mag_overlay.png",
                 "codes": "search_pichu"
             },
             {
@@ -2487,4 +2497,23 @@
             }
         ]
     },
+	    {
+        "name": "Search Reset",
+        "type": "progressive",
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Search Reset",
+                "img": "/images/tools/reset2.png",
+                "codes": "search_reset"
+            },
+            {
+                "name": "Search Reset",
+                "img": "/images/tools/reset2.png",
+                "codes": "search_reset_complete",
+                "inherit_codes": false,
+                "img_mods": "@disabled"
+            }
+        ]
+    }
 ]

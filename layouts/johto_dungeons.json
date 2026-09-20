@@ -79,7 +79,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "ruinsofalphpuzzleroom"
+                        "ruinsofalphkabutopuzzleroom"
                       ]
                     }
                   },
@@ -105,7 +105,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "ruinsofalphpuzzleroom"
+                        "ruinsofalphomanytepuzzleroom"
                       ]
                     }
                   },
@@ -114,7 +114,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "ruinsofalphamonyteroom"
+                        "ruinsofalphomanyteroom"
                       ]
                     }
                   }
@@ -131,7 +131,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "ruinsofalphpuzzleroom"
+                        "ruinsofalphaerodactylpuzzleroom"
                       ]
                     }
                   },
@@ -157,7 +157,7 @@
                     "content": {
                       "type": "map",
                       "maps": [
-                        "ruinsofalphpuzzleroom"
+                        "ruinsofalphhoohpuzzleroom"
                       ]
                     }
                   },
@@ -249,35 +249,9 @@
       {
         "title": "Cliff Cave",
         "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "1F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cliffcave1f"
-                ]
-              }
-            },
-            {
-              "title": "2F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cliffcave2f"
-                ]
-              }
-            },
-            {
-              "title": "3F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "cliffcave3f"
-                ]
-              }
-            }
+          "type": "map",
+          "maps": [
+            "cliffcave"
           ]
         }
       },

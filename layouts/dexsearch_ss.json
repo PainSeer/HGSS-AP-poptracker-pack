@@ -67,12 +67,12 @@
                                 "item": "dexsearch_digit3"
                             },
                             {
-                                "type": "item",
-                                "item": "go"
-                            },
-                            {
-                                "type": "item",
-                                "item": "dummy"
+                                "type": "itemgrid",
+                                "margin": "0,0,0,0",
+                                "item_margin":"0,-4",
+                                "rows": [
+                                    ["search_reset"],
+                                    ["go"]]
                             }
                         ]
                     },

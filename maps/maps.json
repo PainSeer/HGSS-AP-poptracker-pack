@@ -360,16 +360,16 @@
         "img": "images/maps/celadongym.png"
     },
     {
-        "name": "fuschiacity",
+        "name": "fuchsiacity",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/fuschiacity.png"
+        "img": "images/maps/fuchsiacity.png"
     },
     {
-        "name": "fuschiagym",
+        "name": "fuchsiagym",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/fuschiagym.png"
+        "img": "images/maps/fuchsiagym.png"
     },
     {
         "name": "saffroncity",
@@ -972,7 +972,7 @@
         "img": "images/maps/ruinsofalphchamber.png"
     },
     {
-        "name": "ruinsofalphamonyteroom",
+        "name": "ruinsofalphomanyteroom",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/ruinsofalphchamber.png"
@@ -1002,7 +1002,25 @@
         "img": "images/maps/ruinsofalphinterior.png"
     },
     {
-        "name": "ruinsofalphpuzzleroom",
+        "name": "ruinsofalphkabutopuzzleroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphpuzzleroom.png"
+    },
+    {
+        "name": "ruinsofalphomanytepuzzleroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphpuzzleroom.png"
+    },
+    {
+        "name": "ruinsofalphaerodactylpuzzleroom",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ruinsofalphpuzzleroom.png"
+    },
+    {
+        "name": "ruinsofalphhoohpuzzleroom",
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/ruinsofalphpuzzleroom.png"
@@ -1134,22 +1152,10 @@
         "img": "images/maps/burnedtowerb1f.png"
     },
     {
-        "name": "cliffcave1f",
+        "name": "cliffcave",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/cliffcave1f.png"
-    },
-    {
-        "name": "cliffcave2f",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/cliffcave2f.png"
-    },
-    {
-        "name": "cliffcave3f",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/cliffcave3f.png"
+        "img": "images/maps/cliffcave.png"
     },
     {
         "name": "cliffedgegate",
@@ -1368,16 +1374,40 @@
         "img": "images/maps/rockethqb3f.png"
     },
     {
-        "name": "ssaqua1f",
+        "name": "ssaqua1f_fv",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/ssaqua1f.png"
+        "img": "images/maps/ssaqua1f_fv.png"
     },
     {
-        "name": "ssaquab1f",
+        "name": "ssaquab1f_fv",
         "location_size": 14,
         "location_border_thickness": 2,
-        "img": "images/maps/ssaquab1f.png"
+        "img": "images/maps/ssaquab1f_fv.png"
+    },
+    {
+        "name": "ssaqua1f_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaqua1f_w.png"
+    },
+    {
+        "name": "ssaquab1f_w",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaquab1f_w.png"
+    },
+    {
+        "name": "ssaqua1f_e",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaqua1f_e.png"
+    },
+    {
+        "name": "ssaquab1f_e",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/ssaquab1f_e.png"
     },
     {
         "name": "rocktunnel1f",

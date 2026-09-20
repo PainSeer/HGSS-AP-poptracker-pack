@@ -43,6 +43,7 @@ Tracker:AddLayouts("layouts/johto_dungeons.json")
 Tracker:AddLayouts("layouts/kanto_cities.json")
 Tracker:AddLayouts("layouts/kanto_routes.json")
 Tracker:AddLayouts("layouts/kanto_dungeons.json")
+Tracker:AddLayouts("layouts/ssaqua.json")
 Tracker:AddLayouts("layouts/overworld.json")
 Tracker:AddLayouts("layouts/pokedex.json")
 Tracker:AddLayouts("layouts/tabs_single.json")
@@ -54,10 +55,10 @@ Tracker:AddLayouts("layouts/dexsearch.json")
 -- Locations
 Tracker:AddLocations("locations/access.jsonc")
 Tracker:AddLocations("locations/overworldmap.jsonc")
---Tracker:AddLocations("locations/submaps_singles.json")
---Tracker:AddLocations("locations/submaps_groups.json")
---Tracker:AddLocations("locations/submaps_encounters.json")
---Tracker:AddLocations("locations/pokedex.json") commented out until encounter tracking. Dexsanity diamonds still show.
+Tracker:AddLocations("locations/submaps_singles.json")
+Tracker:AddLocations("locations/submaps_groups.json")
+Tracker:AddLocations("locations/submaps_encounters.json")
+Tracker:AddLocations("locations/pokedex.json")
 Tracker:AddLocations("locations/dexsanity.json")
 
 -- AutoTracking for Poptracker
