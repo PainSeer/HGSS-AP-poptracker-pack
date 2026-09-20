@@ -351,7 +351,7 @@
                 {"name": "Trap Team Rocket Grunt 2", "ref": "Team Rocket HQ/B1F - Trap Team Rocket Grunt 2"}
                 ]
             },
-            {"name": "Route 19", "map_locations": [{"map": "route19", "x": 422 , "y": 922}], "sections": [
+            {"name": "Route 19", "map_locations": [{"map": "route19", "x": 424 , "y": 920}], "sections": [
                 {"name": "Item on Southeast Island", "ref": "Route 19/Item on Southeast Island"},
                 {"name": "Hidden Item on Southeast Island", "ref": "Route 19/Hidden Item on Southeast Island"}
                 ]
@@ -1210,7 +1210,7 @@
                 {"name": "Executive Petrel 2", "ref": "Team Rocket HQ/B3F - Executive Petrel 2"}
                 ]
             }, 
-            {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 920 , "y": 144}, {"map": "blackthorncity", "x": 920 , "y": 310}], "sections": [
+            {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 921 , "y": 132}, {"map": "blackthorncity", "x": 920 , "y": 310}], "sections": [
                 {"name": "Hidden Item on Big Ice Puzzle's Southwest Rock", "ref": "Ice Path/1F - Hidden Item on Big Ice Puzzle's Southwest Rock"},
                 {"name": "Item in Ice Puzzle Watched By Old Man", "ref": "Ice Path/1F - Item in Ice Puzzle Watched By Old Man"},
                 {"name": "Item in Ice Puzzle Watched By Old Man\u200b", "ref": "Ice Path/1F - Item in Ice Puzzle Watched By Old Man\u200b"},
@@ -1604,7 +1604,7 @@
                 {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/Iron Plate from Captain"}
                 ]
             }, 
-            {"name": "Mt. Silver Cave", "map_locations": [{"map": "mountsilver", "x": 185 , "y": 136}], "sections": [
+            {"name": "Mt. Silver Cave", "map_locations": [{"map": "mountsilver", "x": 185 , "y": 146}], "sections": [
                 {"name": "Hidden Item After First Rock Climb Slope", "ref": "Mt. Silver Cave/1F - Hidden Item After First Rock Climb Slope"},
                 {"name": "Item in Cave Behind First Waterfall", "ref": "Mt. Silver Cave/1F - Item in Cave Behind First Waterfall"},
                 {"name": "Hidden Item Up Rock Climb Slope After First Waterfall", "ref": "Mt. Silver Cave/1F - Hidden Item Up Rock Climb Slope After First Waterfall"},
