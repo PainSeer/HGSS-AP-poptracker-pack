@@ -778,7 +778,7 @@
                 {"name": "Hidden Item to Left of Northeast Trees", "ref": "Ilex Forest/Hidden Item to Left of Northeast Trees"}
                 ]
             },
-            {"name": "National Park", "map_locations": [{"map": "route35", "x": 176 , "y": 83}], "sections": [
+            {"name": "National Park", "map_locations": [{"map": "route35", "x": 176 , "y": 83}, {"map": "route36", "x": 8 , "y": 250}, {"map": "pokeathlondome", "x": 608 , "y": 710}], "sections": [
                 {"name": "Hidden Item Between Small Fountain and Flower Bed", "ref": "National Park/Hidden Item Between Small Fountain and Flower Bed"},
                 {"name": "Gift from Lady on Bench", "ref": "National Park/Gift from Lady on Bench"},
                 {"name": "Pokefan Beverly", "ref": "National Park/Pokefan Beverly"},
