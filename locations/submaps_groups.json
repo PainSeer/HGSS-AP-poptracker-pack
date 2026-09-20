@@ -530,7 +530,7 @@
                 {"name": "Gift from Blue", "ref": "Viridian City/Gym - Gift from Blue"}
                 ]
             }, 
-            {"name": "Dark Cave", "map_locations": [{"map": "route31", "x": 856 , "y": 200}, {"map": "route46", "x": 328 , "y": 168}], "sections": [
+            {"name": "Dark Cave", "map_locations": [{"map": "route31", "x": 856 , "y": 214}, {"map": "route46", "x": 328 , "y": 182}], "sections": [
                 {"name": "Hidden Item on Rock on West Ledges", "ref": "Dark Cave (South Side)/Hidden Item on Rock on West Ledges"},
                 {"name": "Item on West Ledges", "ref": "Dark Cave (South Side)/Item on West Ledges"},
                 {"name": "Item in Corner Past Pond", "ref": "Dark Cave (South Side)/Item in Corner Past Pond"},
@@ -545,7 +545,7 @@
                 {"name": "Hidden Item By Rock at South Exit", "ref": "Dark Cave (North Side)/Hidden Item By Rock at South Exit"}
                 ]
             }, 
-            {"name": "Dark Cave\u200b", "map_locations": [{"map": "route45_n", "x": 168 , "y": 72}], "sections": [
+            {"name": "Dark Cave\u200b", "map_locations": [{"map": "route45_n", "x": 168 , "y": 86}], "sections": [
                 {"name": "Hidden Item On Hill Above North of Water", "ref": "Dark Cave (North Side)/Hidden Item On Hill Above North of Water"},
                 {"name": "Item on Southeast Hill", "ref": "Dark Cave (North Side)/Item on Southeast Hill"},
                 {"name": "Item on Southwest Ledge", "ref": "Dark Cave (North Side)/Item on Southwest Ledge"},
@@ -643,7 +643,7 @@
                 {"name": "Bottom Right Item", "ref": "Ruins of Alph/Omanyte Chamber - Bottom Right Item"}
                 ]
             },
-            {"name": "Union Cave", "map_locations": [{"map": "route32_s", "x": 232 , "y": 216}, {"map": "route33", "x": 312 , "y": 200}], "sections": [
+            {"name": "Union Cave", "map_locations": [{"map": "route32_s", "x": 232 , "y": 230}, {"map": "route33", "x": 312 , "y": 214}], "sections": [
                 {"name": "Item in Northwest Corner", "ref": "Union Cave/1F - Item in Northwest Corner"},
                 {"name": "Hidden Item in Eastern Wall Between Rocks South of Hikers", "ref": "Union Cave/1F - Hidden Item in Eastern Wall Between Rocks South of Hikers"},
                 {"name": "Firebreather Ray", "ref": "Union Cave/1F - Firebreather Ray"},
@@ -1210,7 +1210,7 @@
                 {"name": "Executive Petrel 2", "ref": "Team Rocket HQ/B3F - Executive Petrel 2"}
                 ]
             }, 
-            {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 920 , "y": 120}, {"map": "blackthorncity", "x": 920 , "y": 296}], "sections": [
+            {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 920 , "y": 144}, {"map": "blackthorncity", "x": 920 , "y": 310}], "sections": [
                 {"name": "Hidden Item on Big Ice Puzzle's Southwest Rock", "ref": "Ice Path/1F - Hidden Item on Big Ice Puzzle's Southwest Rock"},
                 {"name": "Item in Ice Puzzle Watched By Old Man", "ref": "Ice Path/1F - Item in Ice Puzzle Watched By Old Man"},
                 {"name": "Item in Ice Puzzle Watched By Old Man\u200b", "ref": "Ice Path/1F - Item in Ice Puzzle Watched By Old Man\u200b"},
@@ -1226,7 +1226,7 @@
                 {"name": "Item in Center\u200b", "ref": "Ice Path/B3F - Item in Center"}
                 ]
             },
-            {"name": "Dragon's Den", "map_locations": [{"map": "blackthorncity", "x": 520 , "y": 104}], "sections": [
+            {"name": "Dragon's Den", "map_locations": [{"map": "blackthorncity", "x": 520 , "y": 118}], "sections": [
                 {"name": "Ace Trainer Kobe", "ref": "Dragon's Den/Ace Trainer Kobe"},
                 {"name": "Hidden Item on Rock in Northwest Corner", "ref": "Dragon's Den/Hidden Item on Rock in Northwest Corner"},
                 {"name": "Item in Northeast Corner", "ref": "Dragon's Den/Item in Northeast Corner"},
@@ -1305,7 +1305,7 @@
                 {"name": "Bug Catcher Abner", "ref": "Viridian Forest/Bug Catcher Abner"}
                 ]
             }, 
-            {"name": "Mt. Moon", "map_locations": [{"map": "route3_e", "x": 328 , "y": 152}], "sections": [
+            {"name": "Mt. Moon", "map_locations": [{"map": "route3_e", "x": 328 , "y": 166}], "sections": [
                 {"name": "Defeated Mt. Moon Rival (Event)", "ref": "Mt. Moon/Defeated Mt. Moon Rival (Event)"},
                 {"name": "Rival", "ref": "Mt. Moon/Rival"},
                 {"name": "Hidden Item in Northeast Rocks", "ref": "Mt. Moon/Hidden Item in Northeast Rocks"},
@@ -1326,14 +1326,14 @@
                 {"name": "Hidden Item on Central East Traffic Cone", "ref": "Underground Path/Hidden Item on Central East Traffic Cone"}
                 ]
             }, 
-            {"name": "Diglett's Cave", "map_locations": [{"map": "route11", "x": 168 , "y": 232}, {"map": "route2_n", "x": 392 , "y": 136}], "sections": [
+            {"name": "Diglett's Cave", "map_locations": [{"map": "route11", "x": 168 , "y": 246}, {"map": "route2_n", "x": 392 , "y": 150}], "sections": [
                 {"name": "Hidden Item on Rock in Corner", "ref": "Diglett's Cave/Hidden Item on Rock in Corner"},
                 {"name": "Item on Rock Climb Hill Below Bridges", "ref": "Diglett's Cave/Item on Rock Climb Hill Below Bridges"},
                 {"name": "Hidden Item on Rock Climb Hill Between Bridges", "ref": "Diglett's Cave/Hidden Item on Rock Climb Hill Between Bridges"},
                 {"name": "Item Across Bridge", "ref": "Diglett's Cave/Item Across Bridge"}
                 ]
             },
-            {"name": "Rock Tunnel", "map_locations": [{"map": "route10_n", "x": 184 , "y": 40}, {"map": "route10_s", "x": 88 , "y": 104}], "sections": [
+            {"name": "Rock Tunnel", "map_locations": [{"map": "route10_n", "x": 184 , "y": 54}, {"map": "route10_s", "x": 88 , "y": 118}], "sections": [
                 {"name": "Hidden Item in Southeast", "ref": "Rock Tunnel/1F - Hidden Item in Southeast"},
                 {"name": "Item on Central Hill With Stairs", "ref": "Rock Tunnel/1F - Item on Central Hill With Stairs"},
                 {"name": "Item in Southwest", "ref": "Rock Tunnel/1F - Item in Southwest"},
@@ -1347,7 +1347,7 @@
                 {"name": "Hidden Item Behind Southeast Breakable Rocks", "ref": "Rock Tunnel/B1F - Hidden Item Behind Southeast Breakable Rocks"}
                 ]
             },
-            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 120 , "y": 320}, {"map": "route20_w", "x": 920 , "y": 232}], "sections": [
+            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 120 , "y": 340}, {"map": "route20_w", "x": 920 , "y": 244}], "sections": [
                 {"name": "Hidden Item Against North Wall", "ref": "Seafoam Islands/Entrance - Hidden Item Against North Wall"},
                 {"name": "Item By North Wall", "ref": "Seafoam Islands/B1F - Item By North Wall"},
                 {"name": "Hidden Item in Central Snow Patch", "ref": "Seafoam Islands/B1F - Hidden Item in Central Snow Patch"},
