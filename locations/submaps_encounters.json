@@ -1206,7 +1206,7 @@
         {
             "name": "Mt. Moon Square Entrance Encounters",
             "map_locations": [
-            { "map": "mtmooncave", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "mtmooncave", "size": 32, "x": 554, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Mt. Moon/Square Entrance - Encounters (Land)" },
