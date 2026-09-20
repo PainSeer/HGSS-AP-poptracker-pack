@@ -843,11 +843,11 @@
                 {"name": "Item By Southwest Ladder", "ref": "Bell Tower/4F - Item By Southwest Ladder"},
                 {"name": "Item By Center Pillar", "ref": "Bell Tower/5F - Item By Center Pillar"},
                 {"name": "Hidden Item on East Side", "ref": "Bell Tower/5F - Hidden Item on East Side"},
-                {"name": "Item By Center Pillar", "ref": "Bell Tower/6F - Item By Center Pillar"},
+                {"name": "Item By Center Pillar\u200b", "ref": "Bell Tower/6F - Item By Center Pillar"},
                 {"name": "Item in Northwest", "ref": "Bell Tower/6F - Item in Northwest"},
                 {"name": "Item in Northeast", "ref": "Bell Tower/7F - Item in Northeast"},
                 {"name": "Item By Northwest Statue", "ref": "Bell Tower/8F - Item By Northwest Statue"},
-                {"name": "Item By Center Pillar", "ref": "Bell Tower/8F - Item By Center Pillar"},
+                {"name": "Item By Center Pillar\u200b\u200b", "ref": "Bell Tower/8F - Item By Center Pillar"},
                 {"name": "Hidden Item By Northeast Statue", "ref": "Bell Tower/8F - Hidden Item By Northeast Statue"},
                 {"name": "Item By Southeast Ramps", "ref": "Bell Tower/8F - Item By Southeast Ramps"},
                 {"name": "Item Between Statues", "ref": "Bell Tower/9F - Item Between Statues"},
@@ -887,7 +887,7 @@
                 {"name": "Southeast Item", "ref": "Whirl Islands/B1F - Southeast Item"},
                 {"name": "Hidden Item on 3 Rocks South of Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on 3 Rocks South of Northeast Ladder"},
                 {"name": "Hidden Item Between Rocks Near Main Ladder", "ref": "Whirl Islands/B2F - Hidden Item Between Rocks Near Main Ladder"},
-                {"name": "North Item", "ref": "Whirl Islands/B2F - North Item"},
+                {"name": "North Item\u200b", "ref": "Whirl Islands/B2F - North Item"},
                 {"name": "Southwest Item in Enclosed Section", "ref": "Whirl Islands/B2F - Southwest Item in Enclosed Section"},
                 {"name": "Northeast Item in Enclosed Section", "ref": "Whirl Islands/B2F - Northeast Item in Enclosed Section"},
                 {"name": "Item", "ref": "Whirl Islands/Lugia's Chamber - Item"},
@@ -1088,7 +1088,7 @@
                 {"name": "Hidden Item on Central Rock", "ref": "Mt. Mortar/2F - Hidden Item on Central Rock"},
                 {"name": "Item on Central Hill with Stairs", "ref": "Mt. Mortar/2F - Item on Central Hill with Stairs"},
                 {"name": "Item on Northeast Hill with Stairs", "ref": "Mt. Mortar/2F - Item on Northeast Hill with Stairs"},
-                {"name": "Item on Northwest Hill with Stairs", "ref": "Mt. Mortar/2F - Item on Northwest Hill with Stairs"},
+                {"name": "Item on Northwest Hill with Stairs\u200b", "ref": "Mt. Mortar/2F - Item on Northwest Hill with Stairs"},
                 {"name": "Item By Northwest Pond", "ref": "Mt. Mortar/2F - Item By Northwest Pond"},
                 {"name": "Hidden Item in Northwest", "ref": "Mt. Mortar/2F - Hidden Item in Northwest"},
                 {"name": "Item on Southeast Hill", "ref": "Mt. Mortar/B1F - Item on Southeast Hill"},
@@ -1148,7 +1148,7 @@
                 {"name": "Item on West Wall", "ref": "Ice Path/B2F (Boulder Room) - Item on West Wall"},
                 {"name": "Item in Center", "ref": "Ice Path/B2F (Boulder Room) - Item in Center"},
                 {"name": "Item on Ice in Southeast", "ref": "Ice Path/B2F - Item on Ice in Southeast"},
-                {"name": "Item in Center", "ref": "Ice Path/B3F - Item in Center"}
+                {"name": "Item in Center\u200b", "ref": "Ice Path/B3F - Item in Center"}
                 ]
             },
             {"name": "Dragon's Den", "map_locations": [{"map": "blackthorncity", "x": 520 , "y": 104}], "sections": [
@@ -1630,7 +1630,7 @@
                 {"name": "Top Left Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Top Left Item"},
                 {"name": "Top Right Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Top Right Item"},
                 {"name": "Bottom Left Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Bottom Left Item"},
-                {"name": "Bottom Right Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Bottom Right Item"},
+                {"name": "Bottom Right Item", "ref": "Ruins of Alph/Ho-Oh Chamber - Bottom Right Item"}
                 ]
             },
             {"name": "Ruins of Alph Southwest", "map_locations": [{"map": "unioncaveb1f", "x": 8 , "y": 215}, {"map": "unioncaveb2f", "x": 616 , "y": 503}, {"map": "unioncave1f", "x": 760 , "y": 133}], "sections": [
@@ -1639,9 +1639,9 @@
                 {"name": "Top Left Item", "ref": "Ruins of Alph/Omanyte Chamber - Top Left Item"},
                 {"name": "Top Right Item", "ref": "Ruins of Alph/Omanyte Chamber - Top Right Item"},
                 {"name": "Bottom Left Item", "ref": "Ruins of Alph/Omanyte Chamber - Bottom Left Item"},
-                {"name": "Bottom Right Item", "ref": "Ruins of Alph/Omanyte Chamber - Bottom Right Item"},
+                {"name": "Bottom Right Item", "ref": "Ruins of Alph/Omanyte Chamber - Bottom Right Item"}
                 ]
-            },
+            }
         ]
      }
 ]
