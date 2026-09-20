@@ -18382,7 +18382,7 @@
                     "@route_43_gatehouse, event_clear_mahogany_hideout, {}"
                 ],
                 "visibility_rules": [
-                    "show_items"
+                    "show_items, event_clear_mahogany_hideout"
                 ],
                 "hosted_item": "event_access_low_tide_dialogue_hosted"
             }
@@ -18393,21 +18393,21 @@
                 "x": 276,
                 "y": 96,
                 "size": 8,
-		"shape": "diamond"
+                "shape": "diamond"
             },
             {
                 "map": "johtokanto_v",
                 "x": 276,
                 "y": 96,
                 "size": 8,
-		"shape": "diamond"
+                "shape": "diamond"
             },
             {
                 "map": "johto",
                 "x": 276,
                 "y": 96,
                 "size": 8,
-		"shape": "diamond"
+                "shape": "diamond"
             }
         ]
     },
