@@ -10,12 +10,17 @@ PopTracker v0.33.3 or higher is neccessary.
 * Progression Item Tracking
 * Full Logic
 * Event Tracking
-
-## Planned Features
-
 * Submaps
 * Encounter and Evolution Logic
 * Encounter Tracking
+* Auto Tabbing
+
+## Known Issues
+
+* Auto tabbing for the Lake of Rage maps currently cannot detect the tide level
+
+## Planned Features
+
 * Continuous support of the [TrueBlue's Archipelago HeartGold and SoulSilver integration](https://github.com/ljtpetersen/hgss_archipelago)
 
 
@@ -24,7 +29,7 @@ PopTracker v0.33.3 or higher is neccessary.
 
 |apworld|pack version|
 |:-:|:-:|
-|0.0.X|0.0.X|
+|0.0.X|0.1.X|
 
 
 
