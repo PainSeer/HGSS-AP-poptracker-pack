@@ -41,7 +41,7 @@
                 {"name": "Gift from Whitney", "ref": "Goldenrod City/Gym - Gift from Whitney"}
                 ]
             }, 
-            {"name": "Jasmine", "map_locations": [{"map": "olivinegym", "x": 95 , "y": 62}], "sections": [
+            {"name": "Jasmine", "map_locations": [{"map": "olivinegym", "x": 96 , "y": 62}], "sections": [
                 {"name": "Defeat Jasmine (Event)", "ref": "Olivine City/Gym - Defeat Jasmine (Event)"},
                 {"name": "Leader Jasmine", "ref": "Olivine City/Gym - Leader Jasmine"},
                 {"name": "Badge from Jasmine", "ref": "Olivine City/Gym - Badge from Jasmine"},
@@ -57,7 +57,7 @@
                 {"name": "Gift from Chuck", "ref": "Cianwood City/Gym - Gift from Chuck"}
                 ]
             }, 
-            {"name": "Bugsy", "map_locations": [{"map": "azaleagym", "x": 190 , "y": 128}], "sections": [
+            {"name": "Bugsy", "map_locations": [{"map": "azaleagym", "x": 192 , "y": 128}], "sections": [
                 {"name": "Defeat Bugsy (Event)", "ref": "Azalea Town/Gym - Defeat Bugsy (Event)"},
                 {"name": "Leader Bugsy", "ref": "Azalea Town/Gym - Leader Bugsy"},
                 {"name": "Badge from Bugsy", "ref": "Azalea Town/Gym - Badge from Bugsy"},
@@ -90,7 +90,7 @@
                 {"name": "Gift from Erika", "ref": "Celadon City/Gym - Gift from Erika"}
                 ]
             }, 
-            {"name": "Sabrina", "map_locations": [{"map": "saffrongym", "x": 250 , "y": 156}], "sections": [
+            {"name": "Sabrina", "map_locations": [{"map": "saffrongym", "x": 251 , "y": 156}], "sections": [
                 {"name": "Defeat Sabrina (Event)", "ref": "Saffron City/Gym - Defeat Sabrina (Event)"},
                 {"name": "Leader Sabrina", "ref": "Saffron City/Gym - Leader Sabrina"},
                 {"name": "Badge from Sabrina", "ref": "Saffron City/Gym - Badge from Sabrina"},
@@ -193,7 +193,7 @@
                 {"name": "Pecha Berries from Lass", "ref": "Route 36/Pecha Berries from Lass"}
                 ]
             }, 
-            {"name": "Li", "map_locations": [{"map": "sprouttower3f", "x": 143 , "y": 80}], "sections": [
+            {"name": "Li", "map_locations": [{"map": "sprouttower3f", "x": 144 , "y": 80}], "sections": [
                 {"name": "Elder Li", "ref": "Sprout Tower/3F - Elder Li"},
                 {"name": "Gift from Elder Li", "ref": "Sprout Tower/3F - Gift from Elder Li"},
                 {"name": "Gift from Elder Li\u200b", "ref": "Sprout Tower/3F - Gift from Elder Li\u200b"},
@@ -259,7 +259,7 @@
                 {"name": "Hidden Item on Sandbar Against Rocks", "ref": "Route 40/Hidden Item on Sandbar Against Rocks"}
                 ]
             }, 
-            {"name": "Stage", "map_locations": [{"map": "ecruteakdancetheater", "x": 118 , "y": 130}], "sections": [
+            {"name": "Stage", "map_locations": [{"map": "ecruteakdancetheater", "x": 119 , "y": 130}], "sections": [
                 {"name": "Team Rocket Grunt", "ref": "Ecruteak City/Dance Theater - Team Rocket Grunt"},
                 {"name": "Defend the Dance Theater from Team Rocket (Event)", "ref": "Ecruteak City/Dance Theater - Defend the Dance Theater from Team Rocket (Event)"},
                 {"name": "Kimono Girl Zuki", "ref": "Ecruteak City/Dance Theater - Kimono Girl Zuki"},
@@ -310,7 +310,7 @@
                 {"name": "Item from Copycat after Returning Lost Item\u200b", "ref": "Saffron City/Item from Copycat after Returning Lost Item\u200b"}
                 ]
             }, 
-            {"name": "Proton", "map_locations": [{"map": "slowpokewellb1f", "x": 200 , "y": 114}], "sections": [
+            {"name": "Proton", "map_locations": [{"map": "slowpokewellb1f", "x": 201 , "y": 114}], "sections": [
                 {"name": "Executive Proton", "ref": "Slowpoke Well/B1F - Executive Proton"},
                 {"name": "Clear Slowpoke Well (Event)", "ref": "Slowpoke Well/B1F - Clear Slowpoke Well (Event)"}
                 ]
@@ -336,7 +336,7 @@
                 {"name": "Defeat Lance and Clair at Dragon's Den (Event)", "ref": "Dragon's Den/Shrine - Defeat Lance and Clair at Dragon's Den (Event)"}
                 ]
             }, 
-            {"name": "Red", "map_locations": [{"map": "mtsilvertop", "x": 328 , "y": 38}], "sections": [
+            {"name": "Red", "map_locations": [{"map": "mtsilvertop", "x": 327 , "y": 38}], "sections": [
                 {"name": "Defeat Red (Event)", "ref": "Mt. Silver Cave/Summit - Defeat Red (Event)"},
                 {"name": "Pokemon Trainer Red", "ref": "Mt. Silver Cave/Summit - Pokemon Trainer Red"}
                 ]
@@ -356,7 +356,7 @@
                 {"name": "Hidden Item on Southeast Island", "ref": "Route 19/Hidden Item on Southeast Island"}
                 ]
             }, 
-            {"name": "Violet City Gym", "map_locations": [{"map": "violetcity", "x": 504 , "y": 526}], "sections": [
+            {"name": "Violet City Gym", "map_locations": [{"map": "violetcity", "x": 505 , "y": 526}], "sections": [
                 {"name": "Bird Keeper Abe", "ref": "Violet City/Gym - Bird Keeper Abe"},
                 {"name": "Bird Keeper Rod", "ref": "Violet City/Gym - Bird Keeper Rod"},
                 {"name": "Defeat Falkner (Event)", "ref": "Violet City/Gym - Defeat Falkner (Event)"},
@@ -402,7 +402,7 @@
                 {"name": "Gift from Morty", "ref": "Ecruteak City/Gym - Gift from Morty"}
                 ]
             }, 
-            {"name": "Olivine City Gym", "map_locations": [{"map": "olivinecity", "x": 216 , "y": 222}], "sections": [
+            {"name": "Olivine City Gym", "map_locations": [{"map": "olivinecity", "x": 218 , "y": 222}], "sections": [
                 {"name": "Defeat Jasmine (Event)", "ref": "Olivine City/Gym - Defeat Jasmine (Event)"},
                 {"name": "Leader Jasmine", "ref": "Olivine City/Gym - Leader Jasmine"},
                 {"name": "Badge from Jasmine", "ref": "Olivine City/Gym - Badge from Jasmine"},
@@ -410,7 +410,7 @@
                 {"name": "Gift from Jasmine", "ref": "Olivine City/Gym - Gift from Jasmine"}
                 ]
             },
-            {"name": "Cianwood City Gym", "map_locations": [{"map": "cianwoodcity", "x": 200 , "y": 590}], "sections": [
+            {"name": "Cianwood City Gym", "map_locations": [{"map": "cianwoodcity", "x": 201 , "y": 590}], "sections": [
                 {"name": "Black Belt Lao", "ref": "Cianwood City/Gym - Black Belt Lao"},
                 {"name": "Black Belt Lung", "ref": "Cianwood City/Gym - Black Belt Lung"},
                 {"name": "Black Belt Yoshi", "ref": "Cianwood City/Gym - Black Belt Yoshi"},
@@ -561,7 +561,7 @@
                 {"name": "Item on Southeast Ledge", "ref": "Dark Cave (South Side)/Item on Southeast Ledge"}
                 ]
             },
-            {"name": "Sprout Tower", "map_locations": [{"map": "violetcity", "x": 632 , "y": 64}], "sections": [
+            {"name": "Sprout Tower", "map_locations": [{"map": "violetcity", "x": 633 , "y": 64}], "sections": [
                 {"name": "Item in East Hall", "ref": "Sprout Tower/1F - Item in East Hall"},
                 {"name": "Sage Chow", "ref": "Sprout Tower/1F - Sage Chow"},
                 {"name": "Sage Nico", "ref": "Sprout Tower/2F - Sage Nico"},
@@ -733,7 +733,7 @@
                 {"name": "Gift from Super Nerd\u200b", "ref": "Slowpoke Well/B2F - Gift from Super Nerd\u200b"}
                 ]
             },
-            {"name": "B2F\u200b", "map_locations": [{"map": "slowpokewellb1f", "x": 198 , "y": 372}], "sections": [
+            {"name": "B2F\u200b", "map_locations": [{"map": "slowpokewellb1f", "x": 202 , "y": 372}], "sections": [
                 {"name": "Item on East Side", "ref": "Slowpoke Well/B2F - Item on East Side"},
                 {"name": "Gift from Super Nerd", "ref": "Slowpoke Well/B2F - Gift from Super Nerd"},
                 {"name": "Gift from Super Nerd\u200b", "ref": "Slowpoke Well/B2F - Gift from Super Nerd\u200b"}
@@ -941,7 +941,7 @@
                 {"name": "Item on Right", "ref": "Olivine Lighthouse/6F - Item on Right"}
                 ]
             }, 
-            {"name": "Whirl Islands Northeast", "map_locations": [{"map": "route41", "x": 728 , "y": 322}], "sections": [
+            {"name": "Whirl Islands Northeast", "map_locations": [{"map": "route41", "x": 729 , "y": 322}], "sections": [
                 {"name": "Item in Northeast Island", "ref": "Whirl Islands/1F - Item in Northeast Island"},
                 {"name": "Item in Southwest Island", "ref": "Whirl Islands/1F - Item in Southwest Island"},
                 {"name": "Hidden Item on Rock in Southeast Island", "ref": "Whirl Islands/1F - Hidden Item on Rock in Southeast Island"},
@@ -1089,7 +1089,7 @@
                 {"name": "Encounter Lugia (Event)", "ref": "Whirl Islands/Lugia's Chamber - Encounter Lugia (Event)"}
                 ]
             }, 
-            {"name": "Mt. Mortar West Entrance", "map_locations": [{"map": "route42_w", "x": 328 , "y": 226}], "sections": [
+            {"name": "Mt. Mortar West Entrance", "map_locations": [{"map": "route42_w", "x": 329 , "y": 226}], "sections": [
                 {"name": "Hidden Item By West Entrance", "ref": "Mt. Mortar/1F - Hidden Item By West Entrance"},
                 {"name": "Item From 2F West Ladder", "ref": "Mt. Mortar/1F - Item From 2F West Ladder"},
                 {"name": "Item From 2F East Ladder", "ref": "Mt. Mortar/1F - Item From 2F East Ladder"},
@@ -1285,7 +1285,7 @@
                 {"name": "Rival", "ref": "Victory Road/3F - Rival"}
                 ]
             }, 
-            {"name": "Viridian Forest", "map_locations": [{"map": "route2_s", "x": 176 , "y": 46}, {"map": "route2_n", "x": 80 , "y": 200}], "sections": [
+            {"name": "Viridian Forest", "map_locations": [{"map": "route2_s", "x": 177 , "y": 46}, {"map": "route2_n", "x": 79 , "y": 200}], "sections": [
                 {"name": "Southwest Hidden Item", "ref": "Viridian Forest/Southwest Hidden Item"},
                 {"name": "Hidden Item on Flower in Corner Near Western Lone Tree", "ref": "Viridian Forest/Hidden Item on Flower in Corner Near Western Lone Tree"},
                 {"name": "Southwest Item", "ref": "Viridian Forest/Southwest Item"},
@@ -1314,7 +1314,7 @@
                 {"name": "Item after Clefairy Event\u200b", "ref": "Mt. Moon/Square - Item after Clefairy Event\u200b"}
                 ]
             }, 
-            {"name": "Square", "map_locations": [{"map": "mtmooncave", "x": 296 , "y": 84}], "sections": [
+            {"name": "Mt. Moon Square", "map_locations": [{"map": "mtmooncave", "x": 297 , "y": 84}], "sections": [
                 {"name": "Hidden Item in Trees", "ref": "Mt. Moon/Square - Hidden Item in Trees"},
                 {"name": "Item after Clefairy Event", "ref": "Mt. Moon/Square - Item after Clefairy Event"},
                 {"name": "Item after Clefairy Event\u200b", "ref": "Mt. Moon/Square - Item after Clefairy Event\u200b"}
@@ -1347,7 +1347,7 @@
                 {"name": "Hidden Item Behind Southeast Breakable Rocks", "ref": "Rock Tunnel/B1F - Hidden Item Behind Southeast Breakable Rocks"}
                 ]
             },
-            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 121 , "y": 320}, {"map": "route20_w", "x": 920 , "y": 232}], "sections": [
+            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 120 , "y": 320}, {"map": "route20_w", "x": 920 , "y": 232}], "sections": [
                 {"name": "Hidden Item Against North Wall", "ref": "Seafoam Islands/Entrance - Hidden Item Against North Wall"},
                 {"name": "Item By North Wall", "ref": "Seafoam Islands/B1F - Item By North Wall"},
                 {"name": "Hidden Item in Central Snow Patch", "ref": "Seafoam Islands/B1F - Hidden Item in Central Snow Patch"},
@@ -1524,7 +1524,7 @@
                 {"name": "Item in Southeast Past Water", "ref": "Cerulean Cave/B1F - Item in Southeast Past Water"}
                 ]
             }, 
-            {"name": "S.S. Aqua to Vermilion", "map_locations": [{"map": "olivinecity", "x": 552 , "y": 1023}], "sections": [
+            {"name": "S.S. Aqua to Vermilion", "map_locations": [{"map": "olivinecity", "x": 553 , "y": 1024}], "sections": [
                 {"name": "Super Nerd Shawn", "ref": "S.S. Aqua/1F Northwest Rooms - Super Nerd Shawn"},
                 {"name": "Psychic Rodney", "ref": "S.S. Aqua/1F Northwest Rooms - Psychic Rodney"},
                 {"name": "Pokefan Jeremy", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Jeremy"},
@@ -1604,7 +1604,7 @@
                 {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/Iron Plate from Captain"}
                 ]
             }, 
-            {"name": "Mt. Silver Cave", "map_locations": [{"map": "mountsilver", "x": 184 , "y": 136}], "sections": [
+            {"name": "Mt. Silver Cave", "map_locations": [{"map": "mountsilver", "x": 185 , "y": 136}], "sections": [
                 {"name": "Hidden Item After First Rock Climb Slope", "ref": "Mt. Silver Cave/1F - Hidden Item After First Rock Climb Slope"},
                 {"name": "Item in Cave Behind First Waterfall", "ref": "Mt. Silver Cave/1F - Item in Cave Behind First Waterfall"},
                 {"name": "Hidden Item Up Rock Climb Slope After First Waterfall", "ref": "Mt. Silver Cave/1F - Hidden Item Up Rock Climb Slope After First Waterfall"},
