@@ -1210,7 +1210,7 @@
                 {"name": "Executive Petrel 2", "ref": "Team Rocket HQ/B3F - Executive Petrel 2"}
                 ]
             }, 
-            {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 920 , "y": 120}, {"map": "blackthorncity", "x": 920 , "y": 296}], "sections": [
+            {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 920 , "y": 144}, {"map": "blackthorncity", "x": 920 , "y": 310}], "sections": [
                 {"name": "Hidden Item on Big Ice Puzzle's Southwest Rock", "ref": "Ice Path/1F - Hidden Item on Big Ice Puzzle's Southwest Rock"},
                 {"name": "Item in Ice Puzzle Watched By Old Man", "ref": "Ice Path/1F - Item in Ice Puzzle Watched By Old Man"},
                 {"name": "Item in Ice Puzzle Watched By Old Man\u200b", "ref": "Ice Path/1F - Item in Ice Puzzle Watched By Old Man\u200b"},
@@ -1226,7 +1226,7 @@
                 {"name": "Item in Center\u200b", "ref": "Ice Path/B3F - Item in Center"}
                 ]
             },
-            {"name": "Dragon's Den", "map_locations": [{"map": "blackthorncity", "x": 520 , "y": 104}], "sections": [
+            {"name": "Dragon's Den", "map_locations": [{"map": "blackthorncity", "x": 520 , "y": 118}], "sections": [
                 {"name": "Ace Trainer Kobe", "ref": "Dragon's Den/Ace Trainer Kobe"},
                 {"name": "Hidden Item on Rock in Northwest Corner", "ref": "Dragon's Den/Hidden Item on Rock in Northwest Corner"},
                 {"name": "Item in Northeast Corner", "ref": "Dragon's Den/Item in Northeast Corner"},
