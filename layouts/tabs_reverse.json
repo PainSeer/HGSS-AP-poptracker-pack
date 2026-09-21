@@ -119,6 +119,18 @@
                                             }
                                         ]
                                     }
+                                },
+                                {
+                                    "title": "S.S. Aqua",
+                                    "content": {
+                                        "type": "dock",
+                                        "content": [
+                                            {
+                                            "type": "layout",
+                                            "key": "ss_aqua"
+                                            }
+                                        ]
+                                    }
                                 }
                             ]
                         }
