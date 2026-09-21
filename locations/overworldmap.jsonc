@@ -3877,7 +3877,7 @@
                 "item_count": 1
             },
             {
-                "name": "Dance Theater - Team Rocket Grunt",
+                "name": "Dance Theater - Team Rocket Grunt on Stage",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4722,7 +4722,7 @@
                 "hosted_item": "event_radio_quiz_hosted"
             },
             {
-                "name": "1F - Grunt Blocking Stairs",
+                "name": "1F - Team Rocket Grunt Blocking Stairs",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4735,7 +4735,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Team Rocket Grunt 2",
+                "name": "2F - Team Rocket Grunt F Near Studio",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4748,7 +4748,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Team Rocket Grunt 4",
+                "name": "2F - Team Rocket Grunt in Southwest",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4761,7 +4761,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Team Rocket Grunt 5",
+                "name": "2F - Team Rocket Grunt in North",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4774,7 +4774,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Team Rocket Grunt 6",
+                "name": "2F - Team Rocket Grunt Near Bookshelf",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4799,7 +4799,7 @@
                 "item_count": 1
             },
             {
-                "name": "3F - Team Rocket Grunt 7",
+                "name": "3F - Team Rocket Grunt Near Signs",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4825,7 +4825,7 @@
                 "item_count": 1
             },
             {
-                "name": "3F - Team Rocket Grunt 8",
+                "name": "3F - Team Rocket Grunt Below Painting",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4838,7 +4838,7 @@
                 "item_count": 1
             },
             {
-                "name": "3F - Team Rocket Grunt 9",
+                "name": "3F - Team Rocket Grunt after Card Key Door",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4863,7 +4863,7 @@
                 "item_count": 1
             },
             {
-                "name": "4F - Team Rocket Grunt 10",
+                "name": "4F - Team Rocket Grunt in Northwest",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -4876,7 +4876,7 @@
                 "item_count": 1
             },
             {
-                "name": "4F - Female Grunt in Corner",
+                "name": "4F - Team Rocket Grunt F in Studio",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_f.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_f_bw.png",
                 "access_rules": [
@@ -4902,7 +4902,7 @@
                 "item_count": 1
             },
             {
-                "name": "4F - Executive Proton 2",
+                "name": "4F - Executive Proton",
                 "chest_unopened_img": "/images/trainers/proton.png",
                 "chest_opened_img": "/images/trainers/proton_bw.png",
                 "access_rules": [
@@ -5156,7 +5156,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 3",
+                "name": "B2F - Team Rocket Grunt F Before Warehouse",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -5215,7 +5215,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 11",
+                "name": "B2F - Team Rocket Grunt Across from Stairs",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -5228,7 +5228,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 12",
+                "name": "B2F - Team Rocket Grunt Above Shortcut Door",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -5241,7 +5241,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 23",
+                "name": "B2F - Team Rocket Grunt in Northwest",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -5276,7 +5276,7 @@
                 "item_count": 1
             },
             {
-                "name": "Warehouse - Team Rocket Grunt 13",
+                "name": "Warehouse - Team Rocket Grunt Above South Box",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -5311,7 +5311,7 @@
                 "item_count": 1
             },
             {
-                "name": "Warehouse - Team Rocket Grunt 14",
+                "name": "Warehouse - Team Rocket Grunt Circling Boxes",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -5324,7 +5324,7 @@
                 "item_count": 1
             },
             {
-                "name": "Warehouse - Team Rocket Grunt 22",
+                "name": "Warehouse - Team Rocket Grunt North of Director",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -6313,7 +6313,7 @@
                 "item_count": 1
             },
             {
-                "name": "Ace Trainer Alton",
+                "name": "Low Tide - Ace Trainer Alton",
                 "chest_unopened_img": "/images/trainers/ace_trainer_m.png",
                 "chest_opened_img": "/images/trainers/ace_trainer_m_bw.png",
                 "access_rules": [
@@ -9867,7 +9867,7 @@
                 "hosted_item": "event_clear_pokemon_league_hosted"
             },
             {
-                "name": "Elite Four Will 2",
+                "name": "Elite Four Will Rematch",
                 "chest_unopened_img": "/images/trainers/will.png",
                 "chest_opened_img": "/images/trainers/will_bw.png",
                 "access_rules": [
@@ -9880,7 +9880,7 @@
                 "item_count": 1
             },
             {
-                "name": "Elite Four Koga 2",
+                "name": "Elite Four Koga Rematch",
                 "chest_unopened_img": "/images/trainers/koga.png",
                 "chest_opened_img": "/images/trainers/koga_bw.png",
                 "access_rules": [
@@ -9893,7 +9893,7 @@
                 "item_count": 1
             },
             {
-                "name": "Elite Four Bruno 2",
+                "name": "Elite Four Bruno Rematch",
                 "chest_unopened_img": "/images/trainers/bruno.png",
                 "chest_opened_img": "/images/trainers/bruno_bw.png",
                 "access_rules": [
@@ -9906,7 +9906,7 @@
                 "item_count": 1
             },
             {
-                "name": "Elite Four Karen 2",
+                "name": "Elite Four Karen Rematch",
                 "chest_unopened_img": "/images/trainers/karen.png",
                 "chest_opened_img": "/images/trainers/karen_bw.png",
                 "access_rules": [
@@ -9919,7 +9919,7 @@
                 "item_count": 1
             },
             {
-                "name": "Champion Lance 2",
+                "name": "Champion Lance Rematch",
                 "chest_unopened_img": "/images/trainers/lance.png",
                 "chest_opened_img": "/images/trainers/lance_bw.png",
                 "access_rules": [
@@ -13263,7 +13263,7 @@
                 "hosted_item": "event_route_24_defeat_kanto_grunt_hosted"
             },
             {
-                "name": "Team Rocket Grunt",
+                "name": "Team Rocket Grunt from Gym",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -20716,7 +20716,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "1F Northwest Rooms - Pokefan Georgia",
+                "name": "Westbound 1F Northwest Rooms - Pokefan Georgia",
                 "chest_unopened_img": "/images/trainers/pokefan_f.png",
                 "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
@@ -20729,7 +20729,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Northwest Rooms - Super Nerd Shawn",
+                "name": "Eastbound 1F Northwest Rooms - Super Nerd Shawn",
                 "chest_unopened_img": "/images/trainers/super_nerd.png",
                 "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
@@ -20742,7 +20742,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Northwest Rooms - Psychic Rodney",
+                "name": "Eastbound 1F Northwest Rooms - Psychic Rodney",
                 "chest_unopened_img": "/images/trainers/psychic.png",
                 "chest_opened_img": "/images/trainers/psychic_bw.png",
                 "access_rules": [
@@ -20755,7 +20755,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Northwest Rooms - Pokefan Jeremy",
+                "name": "Westbound 1F Northwest Rooms - Pokefan Jeremy",
                 "chest_unopened_img": "/images/trainers/pokefan_m.png",
                 "chest_opened_img": "/images/trainers/pokefan_m_bw.png",
                 "access_rules": [
@@ -20807,7 +20807,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Northeast Rooms - Guitarist Clyde",
+                "name": "Westbound 1F Northeast Rooms - Guitarist Clyde",
                 "chest_unopened_img": "/images/trainers/guitarist.png",
                 "chest_opened_img": "/images/trainers/guitarist_bw.png",
                 "access_rules": [
@@ -20820,7 +20820,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Northeast Rooms - Bug Catcher Ken",
+                "name": "Westbound 1F Northeast Rooms - Bug Catcher Ken",
                 "chest_unopened_img": "/images/trainers/bugcatcher.png",
                 "chest_opened_img": "/images/trainers/bugcatcher_bw.png",
                 "access_rules": [
@@ -20833,7 +20833,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Northeast Rooms - Beauty Cassie",
+                "name": "Eastbound 1F Northeast Rooms - Beauty Cassie",
                 "chest_unopened_img": "/images/trainers/beauty.png",
                 "chest_opened_img": "/images/trainers/beauty_bw.png",
                 "access_rules": [
@@ -20846,7 +20846,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Southwest Rooms - Poke Maniac Morgan",
+                "name": "Westbound 1F Southwest Rooms - Poke Maniac Morgan",
                 "chest_unopened_img": "/images/trainers/pokemaniac.png",
                 "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
@@ -20872,7 +20872,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Southwest Rooms - Ace Trainer Shaye",
+                "name": "Eastbound 1F Southwest Rooms - Ace Trainer Shaye",
                 "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
                 "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
@@ -20885,7 +20885,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Southwest Rooms - Ace Trainer Carol",
+                "name": "Eastbound 1F Southwest Rooms - Ace Trainer Carol",
                 "chest_unopened_img": "/images/trainers/ace_trainer_f.png",
                 "chest_opened_img": "/images/trainers/ace_trainer_f_bw.png",
                 "access_rules": [
@@ -20898,7 +20898,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Southeast Rooms - Burglar Corey",
+                "name": "Westbound 1F Southeast Rooms - Burglar Corey",
                 "chest_unopened_img": "/images/trainers/burglar.png",
                 "chest_opened_img": "/images/trainers/burglar_bw.png",
                 "access_rules": [
@@ -20911,7 +20911,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Southeast Rooms - Gentleman Edward",
+                "name": "Eastbound 1F Southeast Rooms - Gentleman Edward",
                 "chest_unopened_img": "/images/trainers/gentleman.png",
                 "chest_opened_img": "/images/trainers/gentleman_bw.png",
                 "access_rules": [
@@ -20950,7 +20950,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Fisherman Jonah",
+                "name": "Eastbound B1F - Fisherman Jonah",
                 "chest_unopened_img": "/images/trainers/fisherman.png",
                 "chest_opened_img": "/images/trainers/fisherman_bw.png",
                 "access_rules": [
@@ -20976,7 +20976,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Sailor Garrett",
+                "name": "Eastbound B1F - Sailor Garrett",
                 "chest_unopened_img": "/images/trainers/sailor.png",
                 "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
@@ -20989,7 +20989,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Sailor Kenneth",
+                "name": "Westbound B1F - Sailor Kenneth",
                 "chest_unopened_img": "/images/trainers/sailor.png",
                 "chest_opened_img": "/images/trainers/sailor_bw.png",
                 "access_rules": [
@@ -21015,7 +21015,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Black Belt Wai",
+                "name": "Eastbound B1F - Black Belt Wai",
                 "chest_unopened_img": "/images/trainers/black_belt.png",
                 "chest_opened_img": "/images/trainers/black_belt_bw.png",
                 "access_rules": [
@@ -21028,7 +21028,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Teacher Shirley",
+                "name": "Westbound B1F - Teacher Shirley",
                 "chest_unopened_img": "/images/trainers/pokefan_f.png",
                 "chest_opened_img": "/images/trainers/pokefan_f_bw.png",
                 "access_rules": [
@@ -21041,7 +21041,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - School Kid Nate",
+                "name": "Westbound B1F - School Kid Nate",
                 "chest_unopened_img": "/images/trainers/school_kid.png",
                 "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
@@ -21054,7 +21054,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - School Kid Ricky",
+                "name": "Westbound B1F - School Kid Ricky",
                 "chest_unopened_img": "/images/trainers/school_kid.png",
                 "chest_opened_img": "/images/trainers/school_kid_bw.png",
                 "access_rules": [
@@ -22235,7 +22235,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Team Rocket Grunt",
+                "name": "B1F - Team Rocket Grunt Below Proton",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22258,7 +22258,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Team Rocket Grunt F",
+                "name": "B1F - Team Rocket Grunt F on Upper Ledge",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_f.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_f_bw.png",
                 "access_rules": [
@@ -22283,7 +22283,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Team Rocket Grunt 2",
+                "name": "B1F - Team Rocket Grunt in East",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22831,7 +22831,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Trap Team Rocket Grunt 2",
+                "name": "B1F - Team Rocket Grunt from Trap 2",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22844,7 +22844,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Team Rocket Grunt 15",
+                "name": "B1F - Team Rocket Grunt Above Trapped Floor",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22937,7 +22937,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 17",
+                "name": "B2F - Team Rocket Grunt by Northwest Stairs",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22962,7 +22962,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 18",
+                "name": "B2F - Team Rocket Grunt Below Generator Room",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22985,7 +22985,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Grunt in Double Battle with Lance",
+                "name": "B2F - Team Rocket Grunt in Double Battle with Lance",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22998,7 +22998,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Executive Ariana 2",
+                "name": "B2F - Executive Ariana",
                 "chest_unopened_img": "/images/trainers/ariana.png",
                 "chest_opened_img": "/images/trainers/ariana_bw.png",
                 "access_rules": [
@@ -23064,7 +23064,7 @@
                 "item_count": 1
             },
             {
-                "name": "B3F - Team Rocket Grunt 5",
+                "name": "B3F - Team Rocket Grunt F Using Computer",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -23090,7 +23090,7 @@
                 "item_count": 1
             },
             {
-                "name": "B3F - Team Rocket Grunt 19",
+                "name": "B3F - Team Rocket Grunt Near Plants",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -23143,7 +23143,7 @@
                 "item_count": 1
             },
             {
-                "name": "B3F - Executive Petrel 2",
+                "name": "B3F - Executive Petrel",
                 "chest_unopened_img": "/images/trainers/petrel.png",
                 "chest_opened_img": "/images/trainers/petrel_bw.png",
                 "access_rules": [
