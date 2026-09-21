@@ -322,7 +322,7 @@
             }, 
             {"name": "Rocket Grunt", "map_locations": [{"map": "route24", "x": 216 , "y": 256}], "sections": [
                 {"name": "Defeat the grunt on Nugget Bridge (Event)", "ref": "Route 24/Defeat the grunt on Nugget Bridge (Event)"},
-                {"name": "Team Rocket Grunt from Gym", "ref": "Route 24/Team Rocket Grunt"}
+                {"name": "Team Rocket Grunt from Gym", "ref": "Route 24/Team Rocket Grunt from Gym"}
                 ]
             }, 
             {"name": "Rival", "map_locations": [{"map": "mtmooncave", "x": 120 , "y": 88}], "sections": [
