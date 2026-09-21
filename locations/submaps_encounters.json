@@ -1409,22 +1409,29 @@
             ]
         },
         {
-            "name": "Route 2 Encounters",
+            "name": "Route 2 South Encounters",
             "map_locations": [
-            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
             { "map": "route2_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
-            { "name": "Morning, Day", "ref": "Route 2/Encounters (Morning, Day)" },
-            { "name": "Land", "ref": "Route 2/Encounters (Land)" },
-            { "name": "Night", "ref": "Route 2/Encounters (Night)" },
-            { "name": "Morning, Night", "ref": "Route 2/Encounter (Morning, Night)" },
-            { "name": "Morning", "ref": "Route 2/Encounter (Morning)" },
-            { "name": "Day", "ref": "Route 2/Encounter (Day)" },
-            { "name": "Hoenn", "ref": "Route 2/Encounters (Hoenn)" },
-            { "name": "Sinnoh", "ref": "Route 2/Encounter (Sinnoh)" }
+            { "name": "Morning, Day", "ref": "Route 2/South - Encounters (Morning, Day)" },
+            { "name": "Land", "ref": "Route 2/South - Encounters (Land)" },
+            { "name": "Night", "ref": "Route 2/South - Encounters (Night)" },
+            { "name": "Morning, Night", "ref": "Route 2/South - Encounter (Morning, Night)" },
+            { "name": "Morning", "ref": "Route 2/South - Encounter (Morning)" },
+            { "name": "Day", "ref": "Route 2/South - Encounter (Day)" },
+            { "name": "Hoenn", "ref": "Route 2/South - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 2/South - Encounter (Sinnoh)" }
             ]
         },
+//        {
+//            "name": "Route 2 North Encounters",
+//            "map_locations": [
+//            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+//            ],
+//            "sections": [
+//            ]
+//        },
         {
             "name": "Route 3 Encounters",
             "map_locations": [

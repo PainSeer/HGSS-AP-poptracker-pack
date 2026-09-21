@@ -5803,7 +5803,7 @@
                 "chest_unopened_img": "/images/gifts/black_belt_closed.png",
                 "chest_opened_img": "/images/gifts/black_belt_opened.png",
                 "access_rules": [
-                    "@ilex_forest_south, event_farfetchd_rescue"
+                    "@ilex_forest_south, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": ["show_items, opt_hms_on"],
                 "item_count": 1
@@ -5811,7 +5811,7 @@
             {
                 "name": "Item from Charcoal Maker\u200b",
                 "access_rules": [
-                    "@ilex_forest_south, event_farfetchd_rescue"
+                    "@ilex_forest_south, event_clear_slowpoke_well"
                 ],
                 "visibility_rules": [
                     "show_items, opt_hms_off"
@@ -8738,7 +8738,8 @@
                 "chest_unopened_img": "/images/gifts/elm_closed.png",
                 "chest_opened_img": "/images/gifts/elm_opened.png",
                 "access_rules": [
-                    "@new_bark_elms_lab_1f, event_clear_pokemon_league"
+                    "@new_bark_elms_lab_1f, event_clear_pokemon_league",
+                    "@new_bark_elms_lab_1f, event_defeat_red"
                 ],
                 "visibility_rules": [
                     "show_items, opt_keyitems_on"
@@ -8748,7 +8749,9 @@
             {
                 "name": "Elm's Lab - Gift from Prof. Elm after Clearing the Pokemon League\u200b",
                 "access_rules": [
-                    "@new_bark_elms_lab_1f, event_clear_pokemon_league"
+                    "@new_bark_elms_lab_1f, event_clear_pokemon_league",
+                    "@new_bark_elms_lab_1f, event_defeat_red"
+
                 ],
                 "visibility_rules": [
                     "show_items, opt_keyitems_off"
@@ -12319,7 +12322,7 @@
             {
                 "name": "Item Behind Diglett's Cave",
                 "access_rules": [
-                    "@route_2_east"
+                    "@route_2_northeast"
                 ],
                 "visibility_rules": [
                     "show_items, opt_overworld_on"
@@ -12331,7 +12334,7 @@
                 "chest_unopened_img": "/images/trainers/bugcatcher.png",
                 "chest_opened_img": "/images/trainers/bugcatcher_bw.png",
                 "access_rules": [
-                    "@route_2"
+                    "@route_2_northwest"
                 ],
                 "visibility_rules": [
                     "show_items, opt_trainer_full",
@@ -12366,7 +12369,7 @@
             {
                 "name": "Item By Southeast Cut Trees",
                 "access_rules": [
-                    "@route_2_east"
+                    "@route_2_southeast"
                 ],
                 "visibility_rules": [
                     "show_items, opt_overworld_on"
@@ -12400,7 +12403,7 @@
                 "item_count": 1
             },
             {
-                "name": "Encounters (Morning, Day)",
+                "name": "South - Encounters (Morning, Day)",
                 "item_count": 4,
                 "chest_unopened_img": "/images/locations/encounters/morning_day.png",
                 "chest_opened_img": "/images/locations/encounters/morning_day_c.png",
@@ -12412,7 +12415,7 @@
                 ]
             },
             {
-                "name": "Encounters (Land)",
+                "name": "South - Encounters (Land)",
                 "item_count": 2,
                 "chest_unopened_img": "/images/locations/encounters/land.png",
                 "chest_opened_img": "/images/locations/encounters/land_c.png",
@@ -12424,7 +12427,7 @@
                 ]
             },
             {
-                "name": "Encounters (Night)",
+                "name": "South - Encounters (Night)",
                 "item_count": 3,
                 "chest_unopened_img": "/images/locations/encounters/night.png",
                 "chest_opened_img": "/images/locations/encounters/night_c.png",
@@ -12436,7 +12439,7 @@
                 ]
             },
             {
-                "name": "Encounter (Morning, Night)",
+                "name": "South - Encounter (Morning, Night)",
                 "item_count": 1,
                 "chest_unopened_img": "/images/locations/encounters/morning_night.png",
                 "chest_opened_img": "/images/locations/encounters/morning_night_c.png",
@@ -12448,7 +12451,7 @@
                 ]
             },
             {
-                "name": "Encounter (Morning)",
+                "name": "South - Encounter (Morning)",
                 "item_count": 1,
                 "chest_unopened_img": "/images/locations/encounters/morning.png",
                 "chest_opened_img": "/images/locations/encounters/morning_c.png",
@@ -12460,7 +12463,7 @@
                 ]
             },
             {
-                "name": "Encounter (Day)",
+                "name": "South - Encounter (Day)",
                 "item_count": 1,
                 "chest_unopened_img": "/images/locations/encounters/day.png",
                 "chest_opened_img": "/images/locations/encounters/day_c.png",
@@ -12472,7 +12475,7 @@
                 ]
             },
             {
-                "name": "Encounters (Hoenn)",
+                "name": "South - Encounters (Hoenn)",
                 "item_count": 2,
                 "chest_unopened_img": "/images/locations/encounters/hoenn.png",
                 "chest_opened_img": "/images/locations/encounters/hoenn_c.png",
@@ -12484,7 +12487,7 @@
                 ]
             },
             {
-                "name": "Encounter (Sinnoh)",
+                "name": "South - Encounter (Sinnoh)",
                 "item_count": 1,
                 "chest_unopened_img": "/images/locations/encounters/sinnoh.png",
                 "chest_opened_img": "/images/locations/encounters/sinnoh_c.png",
@@ -19044,7 +19047,7 @@
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
-                    "@cliff_edge_gate, $surf, $rock_climb, event_cure_amphy, ^$hidden" // this replaces event_call_from_baoba as they're essentially the same 
+                    "@cliff_edge_gate, $surf, $rock_climb, ^$hidden"
                 ],
                 "visibility_rules": [
                     "show_items, opt_hidden_on"
@@ -24332,7 +24335,7 @@
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
-                    "@victory_road_1f"
+                    "@route_22_pokemon_league_reception_gate_south"
                 ],
                 "visibility_rules": [
                     "show_items, opt_randomize_fly_items_pokemon_league"
