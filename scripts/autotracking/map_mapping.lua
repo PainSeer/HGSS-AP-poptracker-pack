@@ -194,7 +194,6 @@ MAP_MAPPING = {
 [496] = {"Kanto Cities","Viridian City","Gym"}, -- MAP_VIRIDIAN_GYM,
 [513] = {"Kanto Dungeons","Mt. Moon","Square"}, -- MAP_MOUNT_MOON_SQUARE_CLEFAIRY_EVENT,
 [532] = {"Kanto Dungeons","Underground Path"}, -- MAP_ROUTE_5_UNDERGROUND_PATH,
-[88] = {"Johto Dungeons", "Lake of Rage", "High Tide"}, -- MAP_LAKE_OF_RAGE,    we are unable to detect the tide level without a bounce from the AP
 }
 
 MAP_SPLIT_MAPPING = {
@@ -437,4 +436,9 @@ AQUA_MAPPING = {
     [511] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHEAST_ROOMS
     [528] = {"S.S. Aqua", "Westbound", "1F"},  --MAP_SS_AQUA_1F_NORTHWEST_ROOMS
     [529] = {"S.S. Aqua", "Westbound", "B1F"}, --MAP_SS_AQUA_B1F
+}
+
+RAGE_MAPPING = {
+    [88] = {"Johto Dungeons", "Lake of Rage", "High Tide"},
+    [188] = {"Johto Dungeons", "Lake of Rage", "Low Tide"},
 }
