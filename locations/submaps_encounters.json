@@ -1424,14 +1424,22 @@
             { "name": "Sinnoh", "ref": "Route 2/South - Encounter (Sinnoh)" }
             ]
         },
-//        {
-//            "name": "Route 2 North Encounters",
-//            "map_locations": [
-//            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
-//            ],
-//            "sections": [
-//            ]
-//        },
+        {
+            "name": "Route 2 North Encounters",
+            "map_locations": [
+            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Morning, Day", "ref": "Route 2/North - Encounters (Morning, Day)" },
+            { "name": "Land", "ref": "Route 2/North - Encounters (Land)" },
+            { "name": "Night", "ref": "Route 2/North - Encounters (Night)" },
+            { "name": "Morning, Night", "ref": "Route 2/North - Encounter (Morning, Night)" },
+            { "name": "Morning", "ref": "Route 2/North - Encounter (Morning)" },
+            { "name": "Day", "ref": "Route 2/North - Encounter (Day)" },
+            { "name": "Hoenn", "ref": "Route 2/North - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 2/North - Encounter (Sinnoh)" }
+            ]
+        },
         {
             "name": "Route 3 Encounters",
             "map_locations": [

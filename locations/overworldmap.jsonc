@@ -12403,6 +12403,102 @@
                 "item_count": 1
             },
             {
+                "name": "North - Encounters (Morning, Day)",
+                "item_count": 4,
+                "chest_unopened_img": "/images/locations/encounters/morning_day.png",
+                "chest_opened_img": "/images/locations/encounters/morning_day_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^&enc|morning|day"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounters (Land)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/land.png",
+                "chest_opened_img": "/images/locations/encounters/land_c.png",
+                "access_rules": [
+                    "@route_2_northwest"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounters (Night)",
+                "item_count": 3,
+                "chest_unopened_img": "/images/locations/encounters/night.png",
+                "chest_opened_img": "/images/locations/encounters/night_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|night"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Morning, Night)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/morning_night.png",
+                "chest_opened_img": "/images/locations/encounters/morning_night_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|morning|night"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Morning)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/morning.png",
+                "chest_opened_img": "/images/locations/encounters/morning_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|morning"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Day)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/day.png",
+                "chest_opened_img": "/images/locations/encounters/day_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|day"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounters (Hoenn)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/hoenn.png",
+                "chest_opened_img": "/images/locations/encounters/hoenn_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|hoenn"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Sinnoh)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/sinnoh.png",
+                "chest_opened_img": "/images/locations/encounters/sinnoh_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|sinnoh"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
                 "name": "South - Encounters (Morning, Day)",
                 "item_count": 4,
                 "chest_unopened_img": "/images/locations/encounters/morning_day.png",
