@@ -3124,7 +3124,8 @@
         "name": "seafoam_islands_1f_east",
         "access_rules": [
             "@route_20_west",
-            "@seafoam_islands_b1f, $strength"
+            "@seafoam_islands_b1f, $strength",
+            "@seafoam_islands_cinnabar_gym"
         ]
     },
     {
@@ -3132,7 +3133,6 @@
         "access_rules": [
             "@route_20_east",
             "@seafoam_islands_b1f, $strength",
-            "@seafoam_islands_cinnabar_gym"
         ]
     },
     {

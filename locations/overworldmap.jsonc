@@ -23674,7 +23674,7 @@
                 "chest_unopened_img": "/images/trainers/pokemaniac.png",
                 "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
-                    "@union_cave_b1f, $surf"
+                    "@union_cave_b1f_pathway, $surf"
                 ],
                 "visibility_rules": [
                     "show_items, opt_trainer_full",
@@ -23687,7 +23687,7 @@
                 "chest_unopened_img": "/images/trainers/pokemaniac.png",
                 "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
                 "access_rules": [
-                    "@union_cave_b1f, $surf"
+                    "@union_cave_b1f_pathway, $surf"
                 ],
                 "visibility_rules": [
                     "show_items, opt_trainer_full",
