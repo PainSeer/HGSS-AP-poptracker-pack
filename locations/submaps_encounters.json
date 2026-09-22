@@ -1308,13 +1308,7 @@
             "sections": [
             { "name": "Land", "ref": "Cerulean Cave/2F - Encounters (Land)" },
             { "name": "Hoenn", "ref": "Cerulean Cave/2F - Encounters (Hoenn)" },
-            { "name": "Sinnoh", "ref": "Cerulean Cave/2F - Encounters (Sinnoh)" },
-            { "name": "Surf", "ref": "Cerulean Cave/2F - Encounters (Surf)" },
-            { "name": "Good Rod, Super Rod, Night Fishing", "ref": "Cerulean Cave/2F - Encounter (Good Rod, Super Rod, Night Fishing)" },
-            { "name": "Old Rod, Good Rod", "ref": "Cerulean Cave/2F - Encounter (Old Rod, Good Rod)" },
-            { "name": "Super Rod [Morn-Day]", "ref": "Cerulean Cave/2F - Encounter (Super Rod [Morn-Day])" },
-            { "name": "Super Rod", "ref": "Cerulean Cave/2F - Encounter (Super Rod)" },
-            { "name": "Good Rod, Good Rod [Morn-Day]", "ref": "Cerulean Cave/2F - Encounter (Good Rod, Good Rod [Morn-Day])" }
+            { "name": "Sinnoh", "ref": "Cerulean Cave/2F - Encounters (Sinnoh)" }
             ]
         },
         {
