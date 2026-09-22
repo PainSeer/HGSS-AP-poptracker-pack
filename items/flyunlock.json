@@ -1,162 +1,162 @@
 [
     {
-        "name": "Fly Region - Pallet",
+        "name": "Fly Unlock (Pallet Town)",
         "type": "toggle",
         "img": "images/items/fly_items/pallet.png",
         "codes": "fly_map_pallet"
     },
     {
-        "name": "Fly Region - Viridian",
+        "name": "Fly Unlock (Viridian City)",
         "type": "toggle",
         "img": "images/items/fly_items/viridian.png",
         "codes": "fly_map_viridian"
     },
     {
-        "name": "Fly Region - Pewter",
+        "name": "Fly Unlock (Pewter City)",
         "type": "toggle",
         "img": "images/items/fly_items/pewter.png",
         "codes": "fly_map_pewter"
     },
     {
-        "name": "Fly Region - Cerulean",
+        "name": "Fly Unlock (Cerulean City)",
         "type": "toggle",
         "img": "images/items/fly_items/cerulean.png",
         "codes": "fly_map_cerulean"
     },
     {
-        "name": "Fly Region - Lavender",
+        "name": "Fly Unlock (Lavender Town)",
         "type": "toggle",
         "img": "images/items/fly_items/lavender.png",
         "codes": "fly_map_lavender"
     },
     {
-        "name": "Fly Region - Vermilion",
+        "name": "Fly Unlock (Vermilion City)",
         "type": "toggle",
         "img": "images/items/fly_items/vermilion.png",
         "codes": "fly_map_vermilion"
     },
     {
-        "name": "Fly Region - Celadon",
+        "name": "Fly Unlock (Celadon City)",
         "type": "toggle",
         "img": "images/items/fly_items/celadon.png",
         "codes": "fly_map_celadon"
     },
     {
-        "name": "Fly Region - Fuchsia",
+        "name": "Fly Unlock (Fuchsia City)",
         "type": "toggle",
         "img": "images/items/fly_items/fuchsia.png",
         "codes": "fly_map_fuchsia"
     },
     {
-        "name": "Fly Region - Cinnabar Island",
+        "name": "Fly Unlock (Cinnabar Island)",
         "type": "toggle",
         "img": "images/items/fly_items/cinnabar_island.png",
         "codes": "fly_map_cinnabar_island"
     },
     {
-        "name": "Fly Region - Indigo Plateau",
+        "name": "Fly Unlock (Indigo Plateau)",
         "type": "toggle",
         "img": "images/items/fly_items/indigo_plateau.png",
         "codes": "fly_map_indigo_plateau"
     },
     {
-        "name": "Fly Region - Saffron",
+        "name": "Fly Unlock (Saffron City)",
         "type": "toggle",
         "img": "images/items/fly_items/saffron.png",
         "codes": "fly_map_saffron"
     },
     {
-        "name": "Fly Region - New Bark",
+        "name": "Fly Unlock (New Bark Town)",
         "type": "toggle",
         "img": "images/items/fly_items/new_bark.png",
         "codes": "fly_map_new_bark"
     },
     {
-        "name": "Fly Region - Cherrygrove",
+        "name": "Fly Unlock (Cherrygrove City)",
         "type": "toggle",
         "img": "images/items/fly_items/cherrygrove.png",
         "codes": "fly_map_cherrygrove"
     },
     {
-        "name": "Fly Region - Violet",
+        "name": "Fly Unlock (Violet City)",
         "type": "toggle",
         "img": "images/items/fly_items/violet.png",
         "codes": "fly_map_violet"
     },
     {
-        "name": "Fly Region - Azalea",
+        "name": "Fly Unlock (Azalea Town)",
         "type": "toggle",
         "img": "images/items/fly_items/azalea.png",
         "codes": "fly_map_azalea"
     },
     {
-        "name": "Fly Region - Cianwood",
+        "name": "Fly Unlock (Cianwood City)",
         "type": "toggle",
         "img": "images/items/fly_items/cianwood.png",
         "codes": "fly_map_cianwood"
     },
     {
-        "name": "Fly Region - Goldenrod",
+        "name": "Fly Unlock (Goldenrod City)",
         "type": "toggle",
         "img": "images/items/fly_items/goldenrod.png",
         "codes": "fly_map_goldenrod"
     },
     {
-        "name": "Fly Region - Olivine",
+        "name": "Fly Unlock (Olivine City)",
         "type": "toggle",
         "img": "images/items/fly_items/olivine.png",
         "codes": "fly_map_olivine"
     },
     {
-        "name": "Fly Region - Ecruteak",
+        "name": "Fly Unlock (Ecruteak City)",
         "type": "toggle",
         "img": "images/items/fly_items/ecruteak.png",
         "codes": "fly_map_ecruteak"
     },
     {
-        "name": "Fly Region - Mahogany",
+        "name": "Fly Unlock (Mahogany Town)",
         "type": "toggle",
         "img": "images/items/fly_items/mahogany.png",
         "codes": "fly_map_mahogany"
     },
     {
-        "name": "Fly Region - Blackthorn",
+        "name": "Fly Unlock (Blackthorn City)",
         "type": "toggle",
         "img": "images/items/fly_items/blackthorn.png",
         "codes": "fly_map_blackthorn"
     },
     {
-        "name": "Fly Region - Lake Of Rage",
+        "name": "Fly Unlock (Lake of Rage)",
         "type": "toggle",
         "img": "images/items/fly_items/lake_of_rage.png",
         "codes": "fly_map_lake_of_rage"
     },
     {
-        "name": "Fly Region - Mount Silver",
+        "name": "Fly Unlock (Mt. Silver)",
         "type": "toggle",
         "img": "images/items/fly_items/mount_silver.png",
         "codes": "fly_map_mount_silver"
     },
     {
-        "name": "Fly Region - Safari Zone Gate",
+        "name": "Fly Unlock (Safari Zone Gate)",
         "type": "toggle",
         "img": "images/items/fly_items/safari_zone_gate.png",
         "codes": "fly_map_safari_zone_gate"
     },
     {
-        "name": "Fly Region - Battle Frontier",
+        "name": "Fly Unlock (Battle Frontier)",
         "type": "toggle",
         "img": "images/items/fly_items/battle_frontier.png",
         "codes": "fly_map_battle_frontier"
     },
     {
-        "name": "Fly Region - National Park",
+        "name": "Fly Unlock (National Park)",
         "type": "toggle",
         "img": "images/items/fly_items/national_park.png",
         "codes": "fly_map_national_park"
     },
     {
-        "name": "Fly Region - Victory Road 1F",
+        "name": "Fly Unlock (Victory Road)",
         "type": "toggle",
         "img": "images/items/fly_items/victory_road_1f.png",
         "codes": "fly_map_victory_road_1f"
