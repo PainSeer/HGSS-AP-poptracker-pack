@@ -5348,7 +5348,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item in Ice Puzzle Watched By Old Man\u200b",
+                "name": "1F - Item in Ice Puzzle Watched by Old Man\u200b",
                 "access_rules": [
                     "@ice_path_1f"
                 ],
