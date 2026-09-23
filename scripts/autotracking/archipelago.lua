@@ -660,9 +660,9 @@ function onMap(mapBounce)
         elseif AQUA_MAPPING[mapID] ~= nil then
             if has("event_first_voyage_completed") then
                 if aqua_direction == "east" then
-                    mapID = mapID + 100
+                    mapID = mapID + 500
                 else
-                    mapID = mapID + 200
+                    mapID = mapID + 600
                 end
             end
 
@@ -676,7 +676,7 @@ function onMap(mapBounce)
         elseif RAGE_MAPPING[mapID] ~= nil then
             local tidelevel = mapBounce.data.lakeOfRageTide
             if tidelevel == "low" then
-                mapID = mapID + 100
+                mapID = mapID + 800
                 end
             local tabs = RAGE_MAPPING[mapID]
             if tabs then
