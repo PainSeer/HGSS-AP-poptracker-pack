@@ -17,7 +17,7 @@ PopTracker v0.33.3 or higher is neccessary.
 
 ## Known Issues
 
-* Auto tabbing for the Lake of Rage maps currently cannot detect the tide level
+* Falling down the holes in Ice Path B1F will not auto tab you to B2F until you step onto solid ground
 
 ## Planned Features
 
