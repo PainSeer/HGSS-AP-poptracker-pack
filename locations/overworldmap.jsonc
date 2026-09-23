@@ -18075,7 +18075,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Down Rock Climb Slope From Mt. Mortar\u200b",
+                "name": "Item Down Rock Climb Slope from Mt. Mortar\u200b",
                 "access_rules": [
                     "@route_42, $rock_climb"
                 ],
