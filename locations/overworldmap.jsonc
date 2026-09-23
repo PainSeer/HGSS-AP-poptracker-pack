@@ -12243,45 +12243,10 @@
         ]
     },
     {
-        "name": "Route 2",
+        "name": "Route 2 South",
         "chest_unopened_img": "/images/locations/ball.png",
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
-            {
-                "name": "Item Behind Diglett's Cave",
-                "access_rules": [
-                    "@route_2_northeast"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_overworld_on"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Bug Catcher Ed",
-                "chest_unopened_img": "/images/trainers/bugcatcher.png",
-                "chest_opened_img": "/images/trainers/bugcatcher_bw.png",
-                "access_rules": [
-                    "@route_2_northwest"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_trainer_full",
-                    "show_items, $partial_trainersanity, opt_trainer_262392"
-                ],
-                "item_count": 1
-            },
-            {
-                "name": "Nugget from Man in House",
-				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
-                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
-                "access_rules": [
-                    "@route_2_house"
-                ],
-                "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
-                ],
-                "item_count": 1
-            },
             {
                 "name": "Southeast Gatehouse - Gift from Lab Assistant",
 				"chest_unopened_img": "/images/gifts/elmsaide_closed.png",
@@ -12329,102 +12294,6 @@
                     "show_items, $partial_trainersanity, opt_trainer_262192"
                 ],
                 "item_count": 1
-            },
-            {
-                "name": "North - Encounters (Morning, Day)",
-                "item_count": 4,
-                "chest_unopened_img": "/images/locations/encounters/morning_day.png",
-                "chest_opened_img": "/images/locations/encounters/morning_day_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^&enc|morning|day"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounters (Land)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/land.png",
-                "chest_opened_img": "/images/locations/encounters/land_c.png",
-                "access_rules": [
-                    "@route_2_northwest"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounters (Night)",
-                "item_count": 3,
-                "chest_unopened_img": "/images/locations/encounters/night.png",
-                "chest_opened_img": "/images/locations/encounters/night_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^$enc|night"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounter (Morning, Night)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/morning_night.png",
-                "chest_opened_img": "/images/locations/encounters/morning_night_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^$enc|morning|night"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounter (Morning)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/morning.png",
-                "chest_opened_img": "/images/locations/encounters/morning_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^$enc|morning"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounter (Day)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/day.png",
-                "chest_opened_img": "/images/locations/encounters/day_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^$enc|day"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounters (Hoenn)",
-                "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/hoenn.png",
-                "chest_opened_img": "/images/locations/encounters/hoenn_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^$enc|hoenn"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
-            },
-            {
-                "name": "North - Encounter (Sinnoh)",
-                "item_count": 1,
-                "chest_unopened_img": "/images/locations/encounters/sinnoh.png",
-                "chest_opened_img": "/images/locations/encounters/sinnoh_c.png",
-                "access_rules": [
-                    "@route_2_northwest, ^$enc|sinnoh"
-                ],
-                "visibility_rules": [
-                    "show_mons"
-                ]
             },
             {
                 "name": "South - Encounters (Morning, Day)",
@@ -12540,6 +12409,164 @@
                 "map": "kanto",
                 "x": 144,
                 "y": 134,
+                "size": 8
+            }
+        ]
+    },
+    {
+        "name": "Route 2 North",
+        "chest_unopened_img": "/images/locations/ball.png",
+        "chest_opened_img": "/images/locations/ballopened.png",
+        "sections": [
+            {
+                "name": "Item Behind Diglett's Cave",
+                "access_rules": [
+                    "@route_2_northeast"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_overworld_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Bug Catcher Ed",
+                "chest_unopened_img": "/images/trainers/bugcatcher.png",
+                "chest_opened_img": "/images/trainers/bugcatcher_bw.png",
+                "access_rules": [
+                    "@route_2_northwest"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_trainer_full",
+                    "show_items, $partial_trainersanity, opt_trainer_262392"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Nugget from Man in House",
+				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
+                "chest_opened_img": "/images/gifts/overalls_man_opened.png",
+                "access_rules": [
+                    "@route_2_house"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "North - Encounters (Morning, Day)",
+                "item_count": 4,
+                "chest_unopened_img": "/images/locations/encounters/morning_day.png",
+                "chest_opened_img": "/images/locations/encounters/morning_day_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^&enc|morning|day"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounters (Land)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/land.png",
+                "chest_opened_img": "/images/locations/encounters/land_c.png",
+                "access_rules": [
+                    "@route_2_northwest"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounters (Night)",
+                "item_count": 3,
+                "chest_unopened_img": "/images/locations/encounters/night.png",
+                "chest_opened_img": "/images/locations/encounters/night_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|night"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Morning, Night)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/morning_night.png",
+                "chest_opened_img": "/images/locations/encounters/morning_night_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|morning|night"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Morning)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/morning.png",
+                "chest_opened_img": "/images/locations/encounters/morning_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|morning"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Day)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/day.png",
+                "chest_opened_img": "/images/locations/encounters/day_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|day"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounters (Hoenn)",
+                "item_count": 2,
+                "chest_unopened_img": "/images/locations/encounters/hoenn.png",
+                "chest_opened_img": "/images/locations/encounters/hoenn_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|hoenn"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            },
+            {
+                "name": "North - Encounter (Sinnoh)",
+                "item_count": 1,
+                "chest_unopened_img": "/images/locations/encounters/sinnoh.png",
+                "chest_opened_img": "/images/locations/encounters/sinnoh_c.png",
+                "access_rules": [
+                    "@route_2_northwest, ^$enc|sinnoh"
+                ],
+                "visibility_rules": [
+                    "show_mons"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 520,
+                "y": 104,
+                "size": 8
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 145,
+                "y": 424,
+                "size": 8
+            },
+            {
+                "map": "kanto",
+                "x": 144,
+                "y": 104,
                 "size": 8
             }
         ]
@@ -25419,19 +25446,19 @@
             {
                 "map": "johtokanto",
                 "x": 520,
-                "y": 118,
+                "y": 120,
                 "size": 8
             },
             {
                 "map": "johtokanto_v",
                 "x": 145,
-                "y": 438,
+                "y": 440,
                 "size": 8
             },
             {
                 "map": "kanto",
                 "x": 144,
-                "y": 118,
+                "y": 120,
                 "size": 8
             }
         ]
