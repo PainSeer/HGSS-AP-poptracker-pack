@@ -12459,7 +12459,7 @@
                 "chest_unopened_img": "/images/locations/encounters/morning_day.png",
                 "chest_opened_img": "/images/locations/encounters/morning_day_c.png",
                 "access_rules": [
-                    "@route_2_northwest, ^&enc|morning|day"
+                    "@route_2_northwest, ^$enc|morning|day"
                 ],
                 "visibility_rules": [
                     "show_mons"
