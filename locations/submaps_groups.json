@@ -10,11 +10,11 @@
                 {"name": "Elite Four Karen", "ref": "Pokemon League/Elite Four Karen"},
                 {"name": "Champion Lance", "ref": "Pokemon League/Champion Lance"},
                 {"name": "Become Champion (Event)", "ref": "Pokemon League/Become Champion (Event)"},
-                {"name": "Elite Four Will 2", "ref": "Pokemon League/Elite Four Will 2"},
-                {"name": "Elite Four Koga 2", "ref": "Pokemon League/Elite Four Koga 2"},
-                {"name": "Elite Four Bruno 2", "ref": "Pokemon League/Elite Four Bruno 2"},
-                {"name": "Elite Four Karen 2", "ref": "Pokemon League/Elite Four Karen 2"},
-                {"name": "Champion Lance 2", "ref": "Pokemon League/Champion Lance 2"}
+                {"name": "Elite Four Will Rematch", "ref": "Pokemon League/Elite Four Will Rematch"},
+                {"name": "Elite Four Koga Rematch", "ref": "Pokemon League/Elite Four Koga Rematch"},
+                {"name": "Elite Four Bruno Rematch", "ref": "Pokemon League/Elite Four Bruno Rematch"},
+                {"name": "Elite Four Karen Rematch", "ref": "Pokemon League/Elite Four Karen Rematch"},
+                {"name": "Champion Lance Rematch", "ref": "Pokemon League/Champion Lance Rematch"}
                 ]
             },
             {"name": "Morty", "map_locations": [{"map": "ecruteakgym", "x": 80 , "y": 68}], "sections": [
@@ -68,7 +68,7 @@
             {"name": "Elm's Lab", "map_locations": [{"map": "newbarktown", "x": 200 , "y": 144}], "sections": [
                 {"name": "Gift from Assistant after Obtaining Starter", "ref": "New Bark Town/Elm's Lab - Gift from Assistant after Obtaining Starter"},
                 {"name": "Gift from Elm after Togepi Egg Hatches", "ref": "New Bark Town/Elm's Lab - Gift from Elm after Togepi Egg Hatches"},
-                {"name": "Gift from Prof. Elm after Eight Johto Badges", "ref": "New Bark Town/Elm's Lab - Gift from Prof. Elm after Eight Johto Badges"},
+                {"name": "Reward from Prof. Elm for Collecting Badges", "ref": "New Bark Town/Elm's Lab - Reward from Prof. Elm for Collecting Badges"},
                 {"name": "Get Master Ball from Elm (Event)", "ref": "New Bark Town/Elm's Lab - Get Master Ball from Elm (Event)"},
                 {"name": "Gift from Prof. Elm after Clearing the Pokemon League", "ref": "New Bark Town/Elm's Lab - Gift from Prof. Elm after Clearing the Pokemon League"},
                 {"name": "Gift from Prof. Elm after Clearing the Pokemon League\u200b", "ref": "New Bark Town/Elm's Lab - Gift from Prof. Elm after Clearing the Pokemon League\u200b"}
@@ -133,8 +133,8 @@
             {"name": "Blue", "map_locations": [{"map": "viridiangym", "x": 118 , "y": 80}], "sections": [
                 {"name": "Defeat Blue (Event)", "ref": "Viridian City/Gym - Defeat Blue (Event)"},
                 {"name": "Leader Blue", "ref": "Viridian City/Gym - Leader Blue"},
-                {"name": "Earth Badge", "ref": "Viridian City/Gym - Earth Badge"},
-                {"name": "Earth Badge\u200b", "ref": "Viridian City/Gym - Earth Badge\u200b"},
+                {"name": "Earth Badge", "ref": "Viridian City/Gym - Badge from Blue"},
+                {"name": "Earth Badge\u200b", "ref": "Viridian City/Gym - Badge from Blue\u200b"},
                 {"name": "Gift from Blue", "ref": "Viridian City/Gym - Gift from Blue"}
                 ]
             }, 
@@ -171,7 +171,7 @@
             }, 
             {"name": "Celadon Condominiums", "map_locations": [{"map": "celadoncity", "x": 552 , "y": 208}], "sections": [
                 {"name": "GB Sounds from Sound Designer", "ref": "Celadon City/Condominiums 3F - GB Sounds from Sound Designer"},
-                {"name": "Gift After Man's Scary Story", "ref": "Celadon City/Condominiums 4F - Gift After Man's Scary Story"}
+                {"name": "Gift after Man's Scary Story", "ref": "Celadon City/Condominiums 4F - Gift after Man's Scary Story"}
                 ]
             },
             {"name": "Power Plant", "map_locations": [{"map": "route10_n", "x": 248 , "y": 400}], "sections": [
@@ -182,8 +182,8 @@
             }, 
             {"name": "Oak's Lab", "map_locations": [{"map": "pallettown", "x": 344 , "y": 320}], "sections": [
                 {"name": "Talk to Oak to unlock Mt. Silver (Event)", "ref": "Pallet Town/Oak's Lab - Talk to Oak to unlock Mt. Silver (Event)"},
-                {"name": "Gift from Oak after Eight Kanto Badges", "ref": "Pallet Town/Oak's Lab - Gift from Oak after Eight Kanto Badges"},
-                {"name": "Gift from Oak after Eight Kanto Badges\u200b", "ref": "Pallet Town/Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b"}
+                {"name": "Reward from Prof. Oak for Collecting Badges", "ref": "Pallet Town/Oak's Lab - Reward from Prof. Oak for Collecting Badges"},
+                {"name": "Reward from Prof. Oak for Collecting Badges\u200b", "ref": "Pallet Town/Oak's Lab - Reward from Prof. Oak for Collecting Badges\u200b"}
                 ]
             }, 
             {"name": "Berry Lass", "map_locations": [{"map": "route36", "x": 676 , "y": 414}], "sections": [
@@ -208,7 +208,7 @@
             }, 
             {"name": "Route 35 Gatehouse", "map_locations": [{"map": "goldenrodcity", "x": 864 , "y": 62}, {"map": "route35", "x": 112 , "y": 1000}], "sections": [
                 {"name": "Get Kenya (Event)", "ref": "Route 35/Gatehouse - Get Kenya (Event)"},
-                {"name": "Gift From Guard After Delivering Kenya", "ref": "Route 35/Gatehouse - Gift From Guard After Delivering Kenya"}
+                {"name": "Gate to Goldenrod City - Gift from Guard after Delivering Kenya", "ref": "Route 35/Gatehouse - Gate to Goldenrod City - Gift from Guard after Delivering Kenya"}
                 ]
             },
             {"name": "Lance", "map_locations": [{"map": "rockethqb2f", "x": 270 , "y": 192}], "sections": [
@@ -260,7 +260,7 @@
                 ]
             }, 
             {"name": "Stage", "map_locations": [{"map": "ecruteakdancetheater", "x": 119 , "y": 130}], "sections": [
-                {"name": "Team Rocket Grunt", "ref": "Ecruteak City/Dance Theater - Team Rocket Grunt"},
+                {"name": "Team Rocket Grunt", "ref": "Ecruteak City/Dance Theater - Team Rocket Grunt on Stage"},
                 {"name": "Defend the Dance Theater from Team Rocket (Event)", "ref": "Ecruteak City/Dance Theater - Defend the Dance Theater from Team Rocket (Event)"},
                 {"name": "Kimono Girl Zuki", "ref": "Ecruteak City/Dance Theater - Kimono Girl Zuki"},
                 {"name": "Kimono Girl Naoko", "ref": "Ecruteak City/Dance Theater - Kimono Girl Naoko"},
@@ -284,24 +284,24 @@
                 {"name": "Gift from Farm Girl in Stable", "ref": "Route 39/Gift from Farm Girl in Stable"}
                 ]
             },
-            {"name": "Captain", "map_locations": [{"map": "ssaqua1f_fv", "x": 1151 , "y": 64}, {"map": "ssaqua1f_w", "x": 1151 , "y": 64}, {"map": "ssaqua1f_e", "x": 1151 , "y": 64}], "sections": [
-                {"name": "Nugget from Captain", "ref": "S.S. Aqua/Nugget from Captain"},
-                {"name": "Flame Plate from Captain", "ref": "S.S. Aqua/Flame Plate from Captain"},
-                {"name": "Splash Plate from Captain", "ref": "S.S. Aqua/Splash Plate from Captain"},
-                {"name": "Zap Plate from Captain", "ref": "S.S. Aqua/Zap Plate from Captain"},
-                {"name": "Meadow Plate from Captain", "ref": "S.S. Aqua/Meadow Plate from Captain"},
-                {"name": "Icicle Plate from Captain", "ref": "S.S. Aqua/Icicle Plate from Captain"},
-                {"name": "Fist Plate from Captain", "ref": "S.S. Aqua/Fist Plate from Captain"},
-                {"name": "Toxic Plate from Captain", "ref": "S.S. Aqua/Toxic Plate from Captain"},
-                {"name": "Earth Plate from Captain", "ref": "S.S. Aqua/Earth Plate from Captain"},
-                {"name": "Sky Plate from Captain", "ref": "S.S. Aqua/Sky Plate from Captain"},
-                {"name": "Mind Plate from Captain", "ref": "S.S. Aqua/Mind Plate from Captain"},
-                {"name": "Insect Plate from Captain", "ref": "S.S. Aqua/Insect Plate from Captain"},
-                {"name": "Stone Plate from Captain", "ref": "S.S. Aqua/Stone Plate from Captain"},
-                {"name": "Spooky Plate from Captain", "ref": "S.S. Aqua/Spooky Plate from Captain"},
-                {"name": "Draco Plate from Captain", "ref": "S.S. Aqua/Draco Plate from Captain"},
-                {"name": "Dread Plate from Captain", "ref": "S.S. Aqua/Dread Plate from Captain"},
-                {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/Iron Plate from Captain"}
+            {"name": "1F Captain's Cabin - Captain", "map_locations": [{"map": "ssaqua1f_fv", "x": 1151 , "y": 64}, {"map": "ssaqua1f_w", "x": 1151 , "y": 64}, {"map": "ssaqua1f_e", "x": 1151 , "y": 64}], "sections": [
+                {"name": "Nugget from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Nugget from Captain"},
+                {"name": "Flame Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Flame Plate from Captain"},
+                {"name": "Splash Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Splash Plate from Captain"},
+                {"name": "Zap Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Zap Plate from Captain"},
+                {"name": "Meadow Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Meadow Plate from Captain"},
+                {"name": "Icicle Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Icicle Plate from Captain"},
+                {"name": "Fist Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Fist Plate from Captain"},
+                {"name": "Toxic Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Toxic Plate from Captain"},
+                {"name": "Earth Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Earth Plate from Captain"},
+                {"name": "Sky Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Sky Plate from Captain"},
+                {"name": "Mind Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Mind Plate from Captain"},
+                {"name": "Insect Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Insect Plate from Captain"},
+                {"name": "Stone Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Stone Plate from Captain"},
+                {"name": "Spooky Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Spooky Plate from Captain"},
+                {"name": "Draco Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Draco Plate from Captain"},
+                {"name": "Dread Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Dread Plate from Captain"},
+                {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Iron Plate from Captain"}
                 ]
             }, 
             {"name": "Copycat's House", "map_locations": [{"map": "saffroncity", "x": 280 , "y": 416}], "sections": [
@@ -322,7 +322,7 @@
             }, 
             {"name": "Rocket Grunt", "map_locations": [{"map": "route24", "x": 216 , "y": 256}], "sections": [
                 {"name": "Defeat the grunt on Nugget Bridge (Event)", "ref": "Route 24/Defeat the grunt on Nugget Bridge (Event)"},
-                {"name": "Team Rocket Grunt", "ref": "Route 24/Team Rocket Grunt"}
+                {"name": "Team Rocket Grunt from Gym", "ref": "Route 24/Team Rocket Grunt from Gym"}
                 ]
             }, 
             {"name": "Rival", "map_locations": [{"map": "mtmooncave", "x": 120 , "y": 88}], "sections": [
@@ -342,13 +342,13 @@
                 ]
             }, 
             {"name": "Ariana", "map_locations": [{"map": "rockethqb2f", "x": 390 , "y": 256}], "sections": [
-                {"name": "Grunt in Double Battle with Lance", "ref": "Team Rocket HQ/B2F - Grunt in Double Battle with Lance"},
-                {"name": "Executive Ariana 2", "ref": "Team Rocket HQ/B2F - Executive Ariana 2"}
+                {"name": "Team Rocket Grunt in Double Battle with Lance", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt in Double Battle with Lance"},
+                {"name": "Executive Ariana", "ref": "Team Rocket HQ/B2F - Executive Ariana"}
                 ]
             }, 
             {"name": "Statue Trap", "map_locations": [{"map": "rockethqb1f", "x": 606 , "y": 86}], "sections": [
                 {"name": "Trap Team Rocket Grunt 1", "ref": "Team Rocket HQ/B1F - Trap Team Rocket Grunt 1"},
-                {"name": "Trap Team Rocket Grunt 2", "ref": "Team Rocket HQ/B1F - Trap Team Rocket Grunt 2"}
+                {"name": "Team Rocket Grunt from Trap 2", "ref": "Team Rocket HQ/B1F - Team Rocket Grunt from Trap 2"}
                 ]
             },
             {"name": "Route 19", "map_locations": [{"map": "route19", "x": 424 , "y": 920}], "sections": [
@@ -525,8 +525,8 @@
                 {"name": "Double Team Elan & Ida", "ref": "Viridian City/Gym - Double Team Elan & Ida"},
                 {"name": "Defeat Blue (Event)", "ref": "Viridian City/Gym - Defeat Blue (Event)"},
                 {"name": "Leader Blue", "ref": "Viridian City/Gym - Leader Blue"},
-                {"name": "Earth Badge", "ref": "Viridian City/Gym - Earth Badge"},
-                {"name": "Earth Badge\u200b", "ref": "Viridian City/Gym - Earth Badge\u200b"},
+                {"name": "Earth Badge", "ref": "Viridian City/Gym - Badge from Blue"},
+                {"name": "Earth Badge\u200b", "ref": "Viridian City/Gym - Badge from Blue\u200b"},
                 {"name": "Gift from Blue", "ref": "Viridian City/Gym - Gift from Blue"}
                 ]
             }, 
@@ -656,11 +656,11 @@
                 {"name": "Hidden Item on Island Northwest of Poke Maniac", "ref": "Union Cave/1F - Hidden Item on Island Northwest of Poke Maniac"},
                 {"name": "Poke Maniac Larry", "ref": "Union Cave/1F - Poke Maniac Larry"},
                 {"name": "Item West of Southern Exit", "ref": "Union Cave/1F - Item West of Southern Exit"},
-                {"name": "Item North of Southeastern Stairs", "ref": "Union Cave/B1F - Item North of Southeastern Stairs"},
-                {"name": "Hidden Item West of Southeastern Stairs", "ref": "Union Cave/B1F - Hidden Item West of Southeastern Stairs"},
+                {"name": "Item North of Southeast Stairs", "ref": "Union Cave/B1F - Item North of Southeast Stairs"},
+                {"name": "Hidden Item West of Southeast Stairs", "ref": "Union Cave/B1F - Hidden Item West of Southeast Stairs"},
                 {"name": "Item West of Southeast Stairs", "ref": "Union Cave/B1F - Item West of Southeast Stairs"},
                 {"name": "Hiker Leonard", "ref": "Union Cave/B1F - Hiker Leonard"},
-                {"name": "Hidden Item on Rock Northeast of Southern Hiker", "ref": "Union Cave/B1F - Hidden Item on Rock Northeast of Southern Hiker"},
+                {"name": "Hidden Item on Rock Northeast of Lower Hiker", "ref": "Union Cave/B1F - Hidden Item on Rock Northeast of Lower Hiker"},
                 {"name": "Hiker Phillip", "ref": "Union Cave/B1F - Hiker Phillip"},
                 {"name": "Poke Maniac Andrew", "ref": "Union Cave/B1F - Poke Maniac Andrew"},
                 {"name": "Poke Maniac Calvin", "ref": "Union Cave/B1F - Poke Maniac Calvin"},
@@ -674,11 +674,11 @@
                 ]
             },
             {"name": "B1F", "map_locations": [{"map": "unioncave1f", "x": 56 , "y": 116}], "sections": [
-                {"name": "Item North of Southeastern Stairs", "ref": "Union Cave/B1F - Item North of Southeastern Stairs"},
-                {"name": "Hidden Item West of Southeastern Stairs", "ref": "Union Cave/B1F - Hidden Item West of Southeastern Stairs"},
+                {"name": "Item North of Southeast Stairs", "ref": "Union Cave/B1F - Item North of Southeast Stairs"},
+                {"name": "Hidden Item West of Southeast Stairs", "ref": "Union Cave/B1F - Hidden Item West of Southeast Stairs"},
                 {"name": "Item West of Southeast Stairs", "ref": "Union Cave/B1F - Item West of Southeast Stairs"},
                 {"name": "Hiker Leonard", "ref": "Union Cave/B1F - Hiker Leonard"},
-                {"name": "Hidden Item on Rock Northeast of Southern Hiker", "ref": "Union Cave/B1F - Hidden Item on Rock Northeast of Southern Hiker"},
+                {"name": "Hidden Item on Rock Northeast of Lower Hiker", "ref": "Union Cave/B1F - Hidden Item on Rock Northeast of Lower Hiker"},
                 {"name": "Hiker Phillip", "ref": "Union Cave/B1F - Hiker Phillip"}
                 ]
             },  
@@ -706,11 +706,11 @@
             }, 
             {"name": "Slowpoke Well", "map_locations": [{"map": "azaleatown", "x": 792 , "y": 136}], "sections": [
                 {"name": "Hidden Item in Pond", "ref": "Slowpoke Well/Entrance - Hidden Item in Pond"},
-                {"name": "Team Rocket Grunt", "ref": "Slowpoke Well/B1F - Team Rocket Grunt"},
+                {"name": "Team Rocket Grunt", "ref": "Slowpoke Well/B1F - Team Rocket Grunt Below Proton"},
                 {"name": "Item in Northeast", "ref": "Slowpoke Well/B1F - Item in Northeast"},
-                {"name": "Team Rocket Grunt F", "ref": "Slowpoke Well/B1F - Team Rocket Grunt F"},
+                {"name": "Team Rocket Grunt F", "ref": "Slowpoke Well/B1F - Team Rocket Grunt F on Upper Ledge"},
                 {"name": "Hidden Item in East Divot", "ref": "Slowpoke Well/B1F - Hidden Item in East Divot"},
-                {"name": "Team Rocket Grunt 2", "ref": "Slowpoke Well/B1F - Team Rocket Grunt 2"},
+                {"name": "Team Rocket Grunt 2", "ref": "Slowpoke Well/B1F - Team Rocket Grunt in East"},
                 {"name": "Executive Proton", "ref": "Slowpoke Well/B1F - Executive Proton"},
                 {"name": "Clear Slowpoke Well (Event)", "ref": "Slowpoke Well/B1F - Clear Slowpoke Well (Event)"},
                 {"name": "Hidden Item on East Hill", "ref": "Slowpoke Well/B1F - Hidden Item on East Hill"},
@@ -720,11 +720,11 @@
                 ]
             }, 
             {"name": "B1F\u200b", "map_locations": [{"map": "slowpokewellentrance", "x": 56 , "y": 242}], "sections": [
-                {"name": "Team Rocket Grunt", "ref": "Slowpoke Well/B1F - Team Rocket Grunt"},
+                {"name": "Team Rocket Grunt", "ref": "Slowpoke Well/B1F - Team Rocket Grunt Below Proton"},
                 {"name": "Item in Northeast", "ref": "Slowpoke Well/B1F - Item in Northeast"},
-                {"name": "Team Rocket Grunt F", "ref": "Slowpoke Well/B1F - Team Rocket Grunt F"},
+                {"name": "Team Rocket Grunt F", "ref": "Slowpoke Well/B1F - Team Rocket Grunt F on Upper Ledge"},
                 {"name": "Hidden Item in East Divot", "ref": "Slowpoke Well/B1F - Hidden Item in East Divot"},
-                {"name": "Team Rocket Grunt 2", "ref": "Slowpoke Well/B1F - Team Rocket Grunt 2"},
+                {"name": "Team Rocket Grunt 2", "ref": "Slowpoke Well/B1F - Team Rocket Grunt in East"},
                 {"name": "Executive Proton", "ref": "Slowpoke Well/B1F - Executive Proton"},
                 {"name": "Clear Slowpoke Well (Event)", "ref": "Slowpoke Well/B1F - Clear Slowpoke Well (Event)"},
                 {"name": "Hidden Item on East Hill", "ref": "Slowpoke Well/B1F - Hidden Item on East Hill"},
@@ -759,7 +759,7 @@
                 ]
             }, 
             {"name": "Ilex Forest\u200b", "map_locations": [{"map": "route34_s", "x": 336 , "y": 548}], "sections": [
-                {"name": "Gift From Woman With Butterfree", "ref": "Route 34/Gatehouse - Gift From Woman With Butterfree"},
+                {"name": "Gate to Ilex Forest - Gift from Woman With Butterfree", "ref": "Route 34/Gatehouse - Gate to Ilex Forest - Gift from Woman With Butterfree"},
                 {"name": "Rescue Farfetch'd (Event)", "ref": "Ilex Forest/Rescue Farfetch'd (Event)"},
                 {"name": "Item in Southeast Corner", "ref": "Ilex Forest/Item in Southeast Corner"},
                 {"name": "Hidden Item in Northeast Corner of Branch Area", "ref": "Ilex Forest/Hidden Item in Northeast Corner of Branch Area"},
@@ -793,7 +793,7 @@
                 ]
             },
             {"name": "Pokeathlon Dome", "map_locations": [{"map": "route35", "x": 128 , "y": 83}, {"map": "nationalpark", "x": 256 , "y": 1267}], "sections": [
-                {"name": "Fly Unlock", "ref": "Pokeathlon Dome/Fly Unlock"},
+                {"name": "First Visit", "ref": "Pokeathlon Dome/First Visit"},
                 {"name": "Hidden Item East of Dome", "ref": "Pokeathlon Dome/Hidden Item East of Dome"},
                 {"name": "Hidden Item on Southern Grass Plot", "ref": "Pokeathlon Dome/Hidden Item on Southern Grass Plot"}
                 ]
@@ -802,21 +802,21 @@
                 {"name": "Radio Card", "ref": "Goldenrod Radio Tower/1F - Radio Card"},
                 {"name": "Radio Card\u200b", "ref": "Goldenrod Radio Tower/1F - Radio Card\u200b"},
                 {"name": "Beat the Radio Quiz (Event)", "ref": "Goldenrod Radio Tower/1F - Beat the Radio Quiz (Event)"},
-                {"name": "Grunt Blocking Stairs", "ref": "Goldenrod Radio Tower/1F - Grunt Blocking Stairs"},
-                {"name": "Team Rocket Grunt 2", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt 2"},
-                {"name": "Team Rocket Grunt 4", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt 4"},
-                {"name": "Team Rocket Grunt 5", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt 5"},
-                {"name": "Team Rocket Grunt 6", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt 6"},
-                {"name": "Gift from Lady at Desk", "ref": "Goldenrod Radio Tower/2F - Gift from Lady at Desk"},
-                {"name": "Team Rocket Grunt 7", "ref": "Goldenrod Radio Tower/3F - Team Rocket Grunt 7"},
+                {"name": "Grunt Blocking Stairs", "ref": "Goldenrod Radio Tower/1F - Team Rocket Grunt Blocking Stairs"},
+                {"name": "Team Rocket Grunt 2", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt F Near Studio"},
+                {"name": "Team Rocket Grunt 4", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt in Southwest"},
+                {"name": "Team Rocket Grunt 5", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt in North"},
+                {"name": "Team Rocket Grunt 6", "ref": "Goldenrod Radio Tower/2F - Team Rocket Grunt Near Bookshelf"},
+                {"name": "Gift from Buena", "ref": "Goldenrod Radio Tower/2F - Gift from Buena"},
+                {"name": "Team Rocket Grunt 7", "ref": "Goldenrod Radio Tower/3F - Team Rocket Grunt Near Signs"},
                 {"name": "Scientist Garett", "ref": "Goldenrod Radio Tower/3F - Scientist Garett"},
-                {"name": "Team Rocket Grunt 8", "ref": "Goldenrod Radio Tower/3F - Team Rocket Grunt 8"},
-                {"name": "Team Rocket Grunt 9", "ref": "Goldenrod Radio Tower/3F - Team Rocket Grunt 9"},
+                {"name": "Team Rocket Grunt 8", "ref": "Goldenrod Radio Tower/3F - Team Rocket Grunt Below Painting"},
+                {"name": "Team Rocket Grunt 9", "ref": "Goldenrod Radio Tower/3F - Team Rocket Grunt after Card Key Door"},
                 {"name": "Gift from Lady", "ref": "Goldenrod Radio Tower/3F - Gift from Lady"},
-                {"name": "Team Rocket Grunt 10", "ref": "Goldenrod Radio Tower/4F - Team Rocket Grunt 10"},
-                {"name": "Female Grunt in Corner", "ref": "Goldenrod Radio Tower/4F - Female Grunt in Corner"},
+                {"name": "Team Rocket Grunt 10", "ref": "Goldenrod Radio Tower/4F - Team Rocket Grunt in Northwest"},
+                {"name": "Female Grunt in Corner", "ref": "Goldenrod Radio Tower/4F - Team Rocket Grunt F in Studio"},
                 {"name": "Scientist Trenton", "ref": "Goldenrod Radio Tower/4F - Scientist Trenton"},
-                {"name": "Executive Proton 2", "ref": "Goldenrod Radio Tower/4F - Executive Proton 2"},
+                {"name": "Executive Proton", "ref": "Goldenrod Radio Tower/4F - Executive Proton"},
                 {"name": "Item By Staircase", "ref": "Goldenrod Radio Tower/4F - Item By Staircase"},
                 {"name": "Gift from Mary", "ref": "Goldenrod Radio Tower/4F - Gift from Mary"},
                 {"name": "Executive Petrel", "ref": "Goldenrod Radio Tower/5F - Executive Petrel"},
@@ -838,21 +838,21 @@
                 {"name": "Super Nerd Eric", "ref": "Goldenrod Tunnel/B1F - Super Nerd Eric"},
                 {"name": "Poke Maniac Issac", "ref": "Goldenrod Tunnel/B1F - Poke Maniac Issac"},
                 {"name": "Rival", "ref": "Goldenrod Tunnel/B2F - Rival"},
-                {"name": "Team Rocket Grunt 3", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt 3"},
+                {"name": "Team Rocket Grunt 3", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt F Before Warehouse"},
                 {"name": "Item North of Door Puzzle", "ref": "Goldenrod Tunnel/Item North of Door Puzzle"},
                 {"name": "Burglar Duncan", "ref": "Goldenrod Tunnel/B2F - Burglar Duncan"},
                 {"name": "Item in Southwest Puzzle Room", "ref": "Goldenrod Tunnel/Item in Southwest Puzzle Room"},
                 {"name": "Burglar Orson", "ref": "Goldenrod Tunnel/B2F - Burglar Orson"},
-                {"name": "Team Rocket Grunt 11", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt 11"},
-                {"name": "Team Rocket Grunt 12", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt 12"},
-                {"name": "Team Rocket Grunt 23", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt 23"},
+                {"name": "Team Rocket Grunt 11", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt Across from Stairs"},
+                {"name": "Team Rocket Grunt 12", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt Above Shortcut Door"},
+                {"name": "Team Rocket Grunt 23", "ref": "Goldenrod Tunnel/B2F - Team Rocket Grunt in Northwest"},
                 {"name": "Item in Northwest Corner", "ref": "Goldenrod Tunnel/Item in Northwest Corner"},
                 {"name": "Hidden Item in Small Box in West Hallway", "ref": "Goldenrod Tunnel/Hidden Item in Small Box in West Hallway"},
-                {"name": "Team Rocket Grunt 13", "ref": "Goldenrod Tunnel/Warehouse - Team Rocket Grunt 13"},
+                {"name": "Team Rocket Grunt 13", "ref": "Goldenrod Tunnel/Warehouse - Team Rocket Grunt Above South Box"},
                 {"name": "Item in Southeast Corner", "ref": "Goldenrod Tunnel/Item in Southeast Corner"},
                 {"name": "Hidden Item in Small Box in East Hallway", "ref": "Goldenrod Tunnel/Hidden Item in Small Box in East Hallway"},
-                {"name": "Team Rocket Grunt 14", "ref": "Goldenrod Tunnel/Warehouse - Team Rocket Grunt 14"},
-                {"name": "Team Rocket Grunt 22", "ref": "Goldenrod Tunnel/Warehouse - Team Rocket Grunt 22"},
+                {"name": "Team Rocket Grunt 14", "ref": "Goldenrod Tunnel/Warehouse - Team Rocket Grunt Circling Boxes"},
+                {"name": "Team Rocket Grunt North of Director", "ref": "Goldenrod Tunnel/Warehouse - Team Rocket Grunt North of Director"},
                 {"name": "Item By Director", "ref": "Goldenrod Tunnel/Item By Director"},
                 {"name": "Card Key From Director", "ref": "Goldenrod Tunnel/Card Key From Director"},
                 {"name": "Card Key From Director\u200b", "ref": "Goldenrod Tunnel/Card Key From Director\u200b"}
@@ -869,7 +869,7 @@
                 ]
             },
             {"name": "Dance Theater", "map_locations": [{"map": "ecruteakcity", "x": 728 , "y": 720}], "sections": [
-                {"name": "Team Rocket Grunt", "ref": "Ecruteak City/Dance Theater - Team Rocket Grunt"},
+                {"name": "Team Rocket Grunt", "ref": "Ecruteak City/Dance Theater - Team Rocket Grunt on Stage"},
                 {"name": "Defend the Dance Theater from Team Rocket (Event)", "ref": "Ecruteak City/Dance Theater - Defend the Dance Theater from Team Rocket (Event)"},
                 {"name": "Gift from Theater's Owner", "ref": "Ecruteak City/Dance Theater - Gift from Theater's Owner"},
                 {"name": "Gift from Theater's Owner\u200b", "ref": "Ecruteak City/Dance Theater - Gift from Theater's Owner\u200b"},
@@ -945,7 +945,7 @@
                 {"name": "Item in Northeast Island", "ref": "Whirl Islands/1F - Item in Northeast Island"},
                 {"name": "Item in Southwest Island", "ref": "Whirl Islands/1F - Item in Southwest Island"},
                 {"name": "Hidden Item on Rock in Southeast Island", "ref": "Whirl Islands/1F - Hidden Item on Rock in Southeast Island"},
-                {"name": "Hidden Item on Rock North of Southern Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Southern Northeast Ladder"},
+                {"name": "Hidden Item on Rock North of Lower Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Lower Northeast Ladder"},
                 {"name": "North Item", "ref": "Whirl Islands/B1F - North Item"},
                 {"name": "Hidden Item on Rock East of Northwest Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock East of Northwest Ladder"},
                 {"name": "Northwest Item", "ref": "Whirl Islands/B1F - Northwest Item"},
@@ -978,7 +978,7 @@
             {"name": "B1F South Entrance", "map_locations": [{"map": "whirlislands1f_ne", "x": 296 , "y": 296}], "sections": [
                 {"name": "Item in Southwest Island", "ref": "Whirl Islands/1F - Item in Southwest Island"},
                 {"name": "Hidden Item on Rock in Southeast Island", "ref": "Whirl Islands/1F - Hidden Item on Rock in Southeast Island"},
-                {"name": "Hidden Item on Rock North of Southern Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Southern Northeast Ladder"},
+                {"name": "Hidden Item on Rock North of Lower Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Lower Northeast Ladder"},
                 {"name": "North Item", "ref": "Whirl Islands/B1F - North Item"},
                 {"name": "Hidden Item on Rock East of Northwest Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock East of Northwest Ladder"},
                 {"name": "Northwest Item", "ref": "Whirl Islands/B1F - Northwest Item"},
@@ -994,7 +994,7 @@
                 {"name": "Item in Northeast Island", "ref": "Whirl Islands/1F - Item in Northeast Island"},
                 {"name": "Item in Southwest Island", "ref": "Whirl Islands/1F - Item in Southwest Island"},
                 {"name": "Hidden Item on Rock in Southeast Island", "ref": "Whirl Islands/1F - Hidden Item on Rock in Southeast Island"},
-                {"name": "Hidden Item on Rock North of Southern Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Southern Northeast Ladder"},
+                {"name": "Hidden Item on Rock North of Lower Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Lower Northeast Ladder"},
                 {"name": "North Item", "ref": "Whirl Islands/B1F - North Item"},
                 {"name": "Hidden Item on Rock East of Northwest Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock East of Northwest Ladder"},
                 {"name": "Northwest Item", "ref": "Whirl Islands/B1F - Northwest Item"},
@@ -1010,7 +1010,7 @@
                 {"name": "Item in Northeast Island", "ref": "Whirl Islands/1F - Item in Northeast Island"},
                 {"name": "Item in Southwest Island", "ref": "Whirl Islands/1F - Item in Southwest Island"},
                 {"name": "Hidden Item on Rock in Southeast Island", "ref": "Whirl Islands/1F - Hidden Item on Rock in Southeast Island"},
-                {"name": "Hidden Item on Rock North of Southern Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Southern Northeast Ladder"},
+                {"name": "Hidden Item on Rock North of Lower Northeast Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock North of Lower Northeast Ladder"},
                 {"name": "North Item", "ref": "Whirl Islands/B1F - North Item"},
                 {"name": "Hidden Item on Rock East of Northwest Ladder", "ref": "Whirl Islands/B1F - Hidden Item on Rock East of Northwest Ladder"},
                 {"name": "Northwest Item", "ref": "Whirl Islands/B1F - Northwest Item"},
@@ -1091,8 +1091,8 @@
             }, 
             {"name": "Mt. Mortar West Entrance", "map_locations": [{"map": "route42_w", "x": 329 , "y": 226}], "sections": [
                 {"name": "Hidden Item By West Entrance", "ref": "Mt. Mortar/1F - Hidden Item By West Entrance"},
-                {"name": "Item From 2F West Ladder", "ref": "Mt. Mortar/1F - Item From 2F West Ladder"},
-                {"name": "Item From 2F East Ladder", "ref": "Mt. Mortar/1F - Item From 2F East Ladder"},
+                {"name": "Item Accessed from 1F Back West Ladder", "ref": "Mt. Mortar/1F - Item Accessed from 1F Back West Ladder"},
+                {"name": "Item Item Accessed from 1F Back East Ladder", "ref": "Mt. Mortar/1F - Item Item Accessed from 1F Back East Ladder"},
                 {"name": "Hidden Item By Rock Climb Entrance", "ref": "Mt. Mortar/1F - Hidden Item By Rock Climb Entrance"},
                 {"name": "Poke Maniac Harrison", "ref": "Mt. Mortar/1F Back - Poke Maniac Harrison"},
                 {"name": "Hidden Item North of Strength Boulder", "ref": "Mt. Mortar/1F Back - Hidden Item North of Strength Boulder"},
@@ -1111,8 +1111,8 @@
             }, 
             {"name": "Mt. Mortar East Entrance", "map_locations": [{"map": "route42_e", "x": 728 , "y": 210}], "sections": [
                 {"name": "Hidden Item By West Entrance", "ref": "Mt. Mortar/1F - Hidden Item By West Entrance"},
-                {"name": "Item From 2F West Ladder", "ref": "Mt. Mortar/1F - Item From 2F West Ladder"},
-                {"name": "Item From 2F East Ladder", "ref": "Mt. Mortar/1F - Item From 2F East Ladder"},
+                {"name": "Item Accessed from 1F Back West Ladder", "ref": "Mt. Mortar/1F - Item Accessed from 1F Back West Ladder"},
+                {"name": "Item Item Accessed from 1F Back East Ladder", "ref": "Mt. Mortar/1F - Item Item Accessed from 1F Back East Ladder"},
                 {"name": "Hidden Item By Rock Climb Entrance", "ref": "Mt. Mortar/1F - Hidden Item By Rock Climb Entrance"},
                 {"name": "Poke Maniac Harrison", "ref": "Mt. Mortar/1F Back - Poke Maniac Harrison"},
                 {"name": "Hidden Item North of Strength Boulder", "ref": "Mt. Mortar/1F Back - Hidden Item North of Strength Boulder"},
@@ -1131,8 +1131,8 @@
             },
             {"name": "Mt. Mortar Center Entrance", "map_locations": [{"map": "route42_e", "x": 264 , "y": 290}], "sections": [
                 {"name": "Hidden Item By West Entrance", "ref": "Mt. Mortar/1F - Hidden Item By West Entrance"},
-                {"name": "Item From 2F West Ladder", "ref": "Mt. Mortar/1F - Item From 2F West Ladder"},
-                {"name": "Item From 2F East Ladder", "ref": "Mt. Mortar/1F - Item From 2F East Ladder"},
+                {"name": "Item Accessed from 1F Back West Ladder", "ref": "Mt. Mortar/1F - Item Accessed from 1F Back West Ladder"},
+                {"name": "Item Item Accessed from 1F Back East Ladder", "ref": "Mt. Mortar/1F - Item Item Accessed from 1F Back East Ladder"},
                 {"name": "Hidden Item By Rock Climb Entrance", "ref": "Mt. Mortar/1F - Hidden Item By Rock Climb Entrance"},
                 {"name": "Poke Maniac Harrison", "ref": "Mt. Mortar/1F Back - Poke Maniac Harrison"},
                 {"name": "Hidden Item North of Strength Boulder", "ref": "Mt. Mortar/1F Back - Hidden Item North of Strength Boulder"},
@@ -1180,8 +1180,8 @@
             }, 
             {"name": "Team Rocket HQ", "map_locations": [{"map": "mahoganytown", "x": 264 , "y": 224}], "sections": [
                 {"name": "Trap Team Rocket Grunt 1", "ref": "Team Rocket HQ/B1F - Trap Team Rocket Grunt 1"},
-                {"name": "Trap Team Rocket Grunt 2", "ref": "Team Rocket HQ/B1F - Trap Team Rocket Grunt 2"},
-                {"name": "Team Rocket Grunt 15", "ref": "Team Rocket HQ/B1F - Team Rocket Grunt 15"},
+                {"name": "Team Rocket Grunt from Trap 2", "ref": "Team Rocket HQ/B1F - Team Rocket Grunt from Trap 2"},
+                {"name": "Team Rocket Grunt Above Trapped Floor", "ref": "Team Rocket HQ/B1F - Team Rocket Grunt Above Trapped Floor"},
                 {"name": "Scientist Gregg", "ref": "Team Rocket HQ/B1F - Scientist Gregg"},
                 {"name": "Item in Computer Room", "ref": "Team Rocket HQ/B1F - Item in Computer Room"},
                 {"name": "Eastern Item", "ref": "Team Rocket HQ/B1F - Eastern Item"},
@@ -1189,25 +1189,25 @@
                 {"name": "Southern Item", "ref": "Team Rocket HQ/B1F - Southern Item"},
                 {"name": "Hidden Item on Middle of 3 Southwestern Boxes", "ref": "Team Rocket HQ/B2F - Hidden Item on Middle of 3 Southwestern Boxes"},
                 {"name": "Team Rocket Grunt 16", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt 16"},
-                {"name": "Team Rocket Grunt 17", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt 17"},
+                {"name": "Team Rocket Grunt by Northwest Stairs", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt by Northwest Stairs"},
                 {"name": "Hidden Item Next to Eastern Computer", "ref": "Team Rocket HQ/B2F - Hidden Item Next to Eastern Computer"},
-                {"name": "Team Rocket Grunt 18", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt 18"},
+                {"name": "Team Rocket Grunt Below Generator Room", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt Below Generator Room"},
                 {"name": "Item in Western Room", "ref": "Team Rocket HQ/B2F - Item in Western Room"},
-                {"name": "Grunt in Double Battle with Lance", "ref": "Team Rocket HQ/B2F - Grunt in Double Battle with Lance"},
-                {"name": "Executive Ariana 2", "ref": "Team Rocket HQ/B2F - Executive Ariana 2"},
+                {"name": "Team Rocket Grunt in Double Battle with Lance", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt in Double Battle with Lance"},
+                {"name": "Executive Ariana", "ref": "Team Rocket HQ/B2F - Executive Ariana"},
                 {"name": "Gift from Lance", "ref": "Team Rocket HQ/B2F - Gift from Lance"},
                 {"name": "Gift from Lance\u200b", "ref": "Team Rocket HQ/B2F - Gift from Lance\u200b"},
                 {"name": "Clear Mahogany Hideout (Event)", "ref": "Team Rocket HQ/B2F - Clear Mahogany Hideout (Event)"},
                 {"name": "Item in Eastern Hallway", "ref": "Team Rocket HQ/B3F - Item in Eastern Hallway"},
                 {"name": "Scientist Ross", "ref": "Team Rocket HQ/B3F - Scientist Ross"},
-                {"name": "Team Rocket Grunt 5", "ref": "Team Rocket HQ/B3F - Team Rocket Grunt 5"},
+                {"name": "Team Rocket Grunt 5", "ref": "Team Rocket HQ/B3F - Team Rocket Grunt F Using Computer"},
                 {"name": "Scientist Mitch", "ref": "Team Rocket HQ/B3F - Scientist Mitch"},
-                {"name": "Team Rocket Grunt 19", "ref": "Team Rocket HQ/B3F - Team Rocket Grunt 19"},
+                {"name": "Team Rocket Grunt Near Plants", "ref": "Team Rocket HQ/B3F - Team Rocket Grunt Near Plants"},
                 {"name": "Item in Southwest Corner 1", "ref": "Team Rocket HQ/B3F - Item in Southwest Corner 1"},
                 {"name": "Item in Southwest Corner 2", "ref": "Team Rocket HQ/B3F - Item in Southwest Corner 2"},
                 {"name": "Item in Northwest Corner of Eastern Section", "ref": "Team Rocket HQ/B3F - Item in Northwest Corner of Eastern Section"},
                 {"name": "Item South of Admin's Room", "ref": "Team Rocket HQ/B3F - Item South of Admin's Room"},
-                {"name": "Executive Petrel 2", "ref": "Team Rocket HQ/B3F - Executive Petrel 2"}
+                {"name": "Executive Petrel", "ref": "Team Rocket HQ/B3F - Executive Petrel"}
                 ]
             }, 
             {"name": "Ice Path", "map_locations": [{"map": "route44_e", "x": 921 , "y": 132}, {"map": "blackthorncity", "x": 920 , "y": 310}], "sections": [
@@ -1245,7 +1245,7 @@
                 ]
             }, 
             {"name": "Victory Road", "map_locations": [{"map": "route26_n", "x": 224 , "y": 160}, {"map": "route28", "x": 904 , "y": 304}, {"map": "route22", "x": 104 , "y": 176}], "sections": [
-                {"name": "Fly Unlock", "ref": "Victory Road/Fly Unlock"},
+                {"name": "First Visit", "ref": "Victory Road/First Visit"},
                 {"name": "Item North of Entrance", "ref": "Victory Road/1F - Item North of Entrance"},
                 {"name": "Hidden Item in Raised Section", "ref": "Victory Road/1F - Hidden Item in Raised Section"},
                 {"name": "Item Under Bridge", "ref": "Victory Road/1F - Item Under Bridge"},
@@ -1254,8 +1254,8 @@
                 {"name": "Hidden Item on Rock Above West Ladder", "ref": "Victory Road/2F - Hidden Item on Rock Above West Ladder"},
                 {"name": "Item West of Northeast Ladder", "ref": "Victory Road/2F - Item West of Northeast Ladder"},
                 {"name": "Eastern Hidden Item", "ref": "Victory Road/2F - Eastern Hidden Item"},
-                {"name": "Item Above Ledge North of Southern Ladder", "ref": "Victory Road/2F - Item Above Ledge North of Southern Ladder"},
-                {"name": "Hidden Item Above Ledge North of Southern Ladder", "ref": "Victory Road/2F - Hidden Item Above Ledge North of Southern Ladder"},
+                {"name": "Item Above Ledge North of South Ladder", "ref": "Victory Road/2F - Item Above Ledge North of South Ladder"},
+                {"name": "Hidden Item Above Ledge North of South Ladder", "ref": "Victory Road/2F - Hidden Item Above Ledge North of South Ladder"},
                 {"name": "Item Below Northwest Ladder", "ref": "Victory Road/2F - Item Below Northwest Ladder"},
                 {"name": "Hidden Item East of Southeast Hole", "ref": "Victory Road/3F - Hidden Item East of Southeast Hole"},
                 {"name": "Eastern Item", "ref": "Victory Road/3F - Eastern Item"},
@@ -1274,8 +1274,8 @@
                 {"name": "Hidden Item on Rock Above West Ladder", "ref": "Victory Road/2F - Hidden Item on Rock Above West Ladder"},
                 {"name": "Item West of Northeast Ladder", "ref": "Victory Road/2F - Item West of Northeast Ladder"},
                 {"name": "Eastern Hidden Item", "ref": "Victory Road/2F - Eastern Hidden Item"},
-                {"name": "Item Above Ledge North of Southern Ladder", "ref": "Victory Road/2F - Item Above Ledge North of Southern Ladder"},
-                {"name": "Hidden Item Above Ledge North of Southern Ladder", "ref": "Victory Road/2F - Hidden Item Above Ledge North of Southern Ladder"},
+                {"name": "Item Above Ledge North of South Ladder", "ref": "Victory Road/2F - Item Above Ledge North of South Ladder"},
+                {"name": "Hidden Item Above Ledge North of South Ladder", "ref": "Victory Road/2F - Hidden Item Above Ledge North of South Ladder"},
                 {"name": "Item Below Northwest Ladder", "ref": "Victory Road/2F - Item Below Northwest Ladder"},
                 {"name": "Hidden Item East of Southeast Hole", "ref": "Victory Road/3F - Hidden Item East of Southeast Hole"},
                 {"name": "Eastern Item", "ref": "Victory Road/3F - Eastern Item"},
@@ -1290,7 +1290,7 @@
                 {"name": "Hidden Item on Flower in Corner Near Western Lone Tree", "ref": "Viridian Forest/Hidden Item on Flower in Corner Near Western Lone Tree"},
                 {"name": "Southwest Item", "ref": "Viridian Forest/Southwest Item"},
                 {"name": "Southwest Item\u200b", "ref": "Viridian Forest/Southwest Item\u200b"},
-                {"name": "Hidden Item on Wall North of Southern Entrance", "ref": "Viridian Forest/Hidden Item on Wall North of Southern Entrance"},
+                {"name": "Hidden Item on Wall North of South Entrance", "ref": "Viridian Forest/Hidden Item on Wall North of South Entrance"},
                 {"name": "Bug Catcher Dane", "ref": "Viridian Forest/Bug Catcher Dane"},
                 {"name": "Southeast Item", "ref": "Viridian Forest/Southeast Item"},
                 {"name": "Hidden Item on Wall in Southeastern Corner", "ref": "Viridian Forest/Hidden Item on Wall in Southeastern Corner"},
@@ -1354,7 +1354,7 @@
                 {"name": "Item on Central Hill", "ref": "Seafoam Islands/B1F - Item on Central Hill"},
                 {"name": "Item on Southern Ledge", "ref": "Seafoam Islands/B2F - Item on Southern Ledge"},
                 {"name": "Item on Southern Ledge\u200b", "ref": "Seafoam Islands/B2F - Item on Southern Ledge\u200b"},
-                {"name": "Hidden Item by Northeast Ice Patch", "ref": "Seafoam Islands/B2F - Hidden Item by Northeast Ice Patch"},
+                {"name": "Hidden Item by Northeast Ice Patch", "ref": "Seafoam Islands/B2F - Hidden Item by Northwest Ice Patch"},
                 {"name": "Skier Cady", "ref": "Seafoam Islands/B2F - Skier Cady"},
                 {"name": "Boarder Shaun", "ref": "Seafoam Islands/B2F - Boarder Shaun"},
                 {"name": "Boarder Bryce", "ref": "Seafoam Islands/B2F - Boarder Bryce"},
@@ -1399,7 +1399,7 @@
                 {"name": "Item on Central Hill", "ref": "Seafoam Islands/B1F - Item on Central Hill"},
                 {"name": "Item on Southern Ledge", "ref": "Seafoam Islands/B2F - Item on Southern Ledge"},
                 {"name": "Item on Southern Ledge\u200b", "ref": "Seafoam Islands/B2F - Item on Southern Ledge\u200b"},
-                {"name": "Hidden Item by Northeast Ice Patch", "ref": "Seafoam Islands/B2F - Hidden Item by Northeast Ice Patch"},
+                {"name": "Hidden Item by Northeast Ice Patch", "ref": "Seafoam Islands/B2F - Hidden Item by Northwest Ice Patch"},
                 {"name": "Skier Cady", "ref": "Seafoam Islands/B2F - Skier Cady"},
                 {"name": "Boarder Shaun", "ref": "Seafoam Islands/B2F - Boarder Shaun"},
                 {"name": "Boarder Bryce", "ref": "Seafoam Islands/B2F - Boarder Bryce"},
@@ -1414,7 +1414,7 @@
                 ]
             }, 
             {"name": "B2F\u200b\u200b\u200b", "map_locations": [{"map": "seafoamislandsb1f", "x": 312 , "y": 155}], "sections": [
-                {"name": "Hidden Item by Northeast Ice Patch", "ref": "Seafoam Islands/B2F - Hidden Item by Northeast Ice Patch"},
+                {"name": "Hidden Item by Northeast Ice Patch", "ref": "Seafoam Islands/B2F - Hidden Item by Northwest Ice Patch"},
                 {"name": "Skier Cady", "ref": "Seafoam Islands/B2F - Skier Cady"},
                 {"name": "Boarder Shaun", "ref": "Seafoam Islands/B2F - Boarder Shaun"},
                 {"name": "Boarder Bryce", "ref": "Seafoam Islands/B2F - Boarder Bryce"},
@@ -1525,89 +1525,89 @@
                 ]
             }, 
             {"name": "S.S. Aqua to Vermilion", "map_locations": [{"map": "olivinecity", "x": 553 , "y": 1024}], "sections": [
-                {"name": "Super Nerd Shawn", "ref": "S.S. Aqua/1F Northwest Rooms - Super Nerd Shawn"},
-                {"name": "Psychic Rodney", "ref": "S.S. Aqua/1F Northwest Rooms - Psychic Rodney"},
-                {"name": "Pokefan Jeremy", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Jeremy"},
+                {"name": "Super Nerd Shawn", "ref": "S.S. Aqua/Eastbound 1F Northwest Rooms - Super Nerd Shawn"},
+                {"name": "Psychic Rodney", "ref": "S.S. Aqua/Eastbound 1F Northwest Rooms - Psychic Rodney"},
+                {"name": "Pokefan Jeremy", "ref": "S.S. Aqua/Westbound 1F Northwest Rooms - Pokefan Jeremy"},
                 {"name": "Pokefan Colin", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Colin"},
                 {"name": "Twins Meg & Peg", "ref": "S.S. Aqua/1F Northwest Rooms - Twins Meg & Peg"},
                 {"name": "Firebreather Lyle", "ref": "S.S. Aqua/1F Northeast Rooms - Firebreather Lyle"},
-                {"name": "Beauty Cassie", "ref": "S.S. Aqua/1F Northeast Rooms - Beauty Cassie"},
+                {"name": "Beauty Cassie", "ref": "S.S. Aqua/Eastbound 1F Northeast Rooms - Beauty Cassie"},
                 {"name": "Hiker Noland", "ref": "S.S. Aqua/1F Southwest Rooms - Hiker Noland"},
-                {"name": "Ace Trainer Shaye", "ref": "S.S. Aqua/1F Southwest Rooms - Ace Trainer Shaye"},
-                {"name": "Ace Trainer Carol", "ref": "S.S. Aqua/1F Southwest Rooms - Ace Trainer Carol"},
-                {"name": "Gentleman Edward", "ref": "S.S. Aqua/1F Southeast Rooms - Gentleman Edward"},
+                {"name": "Ace Trainer Shaye", "ref": "S.S. Aqua/Eastbound 1F Southwest Rooms - Ace Trainer Shaye"},
+                {"name": "Ace Trainer Carol", "ref": "S.S. Aqua/Eastbound 1F Southwest Rooms - Ace Trainer Carol"},
+                {"name": "Gentleman Edward", "ref": "S.S. Aqua/Eastbound 1F Southeast Rooms - Gentleman Edward"},
                 {"name": "Sailor Stanly", "ref": "S.S. Aqua/1F Southeast Rooms - Sailor Stanly"},
                 {"name": "Picnicker Debra", "ref": "S.S. Aqua/B1F - Picnicker Debra"},
-                {"name": "Fisherman Jonah", "ref": "S.S. Aqua/B1F - Fisherman Jonah"},
+                {"name": "Fisherman Jonah", "ref": "S.S. Aqua/Eastbound B1F - Fisherman Jonah"},
                 {"name": "Sailor Jeff", "ref": "S.S. Aqua/B1F - Sailor Jeff"},
-                {"name": "Sailor Garrett", "ref": "S.S. Aqua/B1F - Sailor Garrett"},
+                {"name": "Sailor Garrett", "ref": "S.S. Aqua/Eastbound B1F - Sailor Garrett"},
                 {"name": "Juggler Fritz", "ref": "S.S. Aqua/B1F - Juggler Fritz"},
-                {"name": "Black Belt Wai", "ref": "S.S. Aqua/B1F - Black Belt Wai"},
-                {"name": "Metal Coat from Grandpa", "ref": "S.S. Aqua/Metal Coat from Grandpa"},
-                {"name": "Metal Coat from Grandpa\u200b", "ref": "S.S. Aqua/Metal Coat from Grandpa\u200b"},
-                {"name": "Nugget from Captain", "ref": "S.S. Aqua/Nugget from Captain"},
-                {"name": "Flame Plate from Captain", "ref": "S.S. Aqua/Flame Plate from Captain"},
-                {"name": "Splash Plate from Captain", "ref": "S.S. Aqua/Splash Plate from Captain"},
-                {"name": "Zap Plate from Captain", "ref": "S.S. Aqua/Zap Plate from Captain"},
-                {"name": "Meadow Plate from Captain", "ref": "S.S. Aqua/Meadow Plate from Captain"},
-                {"name": "Icicle Plate from Captain", "ref": "S.S. Aqua/Icicle Plate from Captain"},
-                {"name": "Fist Plate from Captain", "ref": "S.S. Aqua/Fist Plate from Captain"},
-                {"name": "Toxic Plate from Captain", "ref": "S.S. Aqua/Toxic Plate from Captain"},
-                {"name": "Earth Plate from Captain", "ref": "S.S. Aqua/Earth Plate from Captain"},
-                {"name": "Sky Plate from Captain", "ref": "S.S. Aqua/Sky Plate from Captain"},
-                {"name": "Mind Plate from Captain", "ref": "S.S. Aqua/Mind Plate from Captain"},
-                {"name": "Insect Plate from Captain", "ref": "S.S. Aqua/Insect Plate from Captain"},
-                {"name": "Stone Plate from Captain", "ref": "S.S. Aqua/Stone Plate from Captain"},
-                {"name": "Spooky Plate from Captain", "ref": "S.S. Aqua/Spooky Plate from Captain"},
-                {"name": "Draco Plate from Captain", "ref": "S.S. Aqua/Draco Plate from Captain"},
-                {"name": "Dread Plate from Captain", "ref": "S.S. Aqua/Dread Plate from Captain"},
-                {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/Iron Plate from Captain"}
+                {"name": "Black Belt Wai", "ref": "S.S. Aqua/Eastbound B1F - Black Belt Wai"},
+                {"name": "Metal Coat from Grandpa", "ref": "S.S. Aqua/1F Northwest Rooms - Metal Coat from Grandpa"},
+                {"name": "Metal Coat from Grandpa\u200b", "ref": "S.S. Aqua/1F Northwest Rooms - Metal Coat from Grandpa\u200b"},
+                {"name": "Nugget from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Nugget from Captain"},
+                {"name": "Flame Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Flame Plate from Captain"},
+                {"name": "Splash Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Splash Plate from Captain"},
+                {"name": "Zap Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Zap Plate from Captain"},
+                {"name": "Meadow Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Meadow Plate from Captain"},
+                {"name": "Icicle Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Icicle Plate from Captain"},
+                {"name": "Fist Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Fist Plate from Captain"},
+                {"name": "Toxic Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Toxic Plate from Captain"},
+                {"name": "Earth Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Earth Plate from Captain"},
+                {"name": "Sky Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Sky Plate from Captain"},
+                {"name": "Mind Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Mind Plate from Captain"},
+                {"name": "Insect Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Insect Plate from Captain"},
+                {"name": "Stone Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Stone Plate from Captain"},
+                {"name": "Spooky Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Spooky Plate from Captain"},
+                {"name": "Draco Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Draco Plate from Captain"},
+                {"name": "Dread Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Dread Plate from Captain"},
+                {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Iron Plate from Captain"}
                 ]
             },
             {"name": "S.S. Aqua to Olivine", "map_locations": [{"map": "vermilioncity", "x": 648 , "y": 1055}], "sections": [
-                {"name": "Pokefan Georgia", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Georgia"},
-                {"name": "Pokefan Jeremy", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Jeremy"},
+                {"name": "Pokefan Georgia", "ref": "S.S. Aqua/Westbound 1F Northwest Rooms - Pokefan Georgia"},
+                {"name": "Pokefan Jeremy", "ref": "S.S. Aqua/Westbound 1F Northwest Rooms - Pokefan Jeremy"},
                 {"name": "Pokefan Colin", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Colin"},
                 {"name": "Twins Meg & Peg", "ref": "S.S. Aqua/1F Northwest Rooms - Twins Meg & Peg"},
                 {"name": "Firebreather Lyle", "ref": "S.S. Aqua/1F Northeast Rooms - Firebreather Lyle"},
-                {"name": "Guitarist Clyde", "ref": "S.S. Aqua/1F Northeast Rooms - Guitarist Clyde"},
-                {"name": "Bug Catcher Ken", "ref": "S.S. Aqua/1F Northeast Rooms - Bug Catcher Ken"},
-                {"name": "Poke Maniac Morgan", "ref": "S.S. Aqua/1F Southwest Rooms - Poke Maniac Morgan"},
+                {"name": "Guitarist Clyde", "ref": "S.S. Aqua/Westbound 1F Northeast Rooms - Guitarist Clyde"},
+                {"name": "Bug Catcher Ken", "ref": "S.S. Aqua/Westbound 1F Northeast Rooms - Bug Catcher Ken"},
+                {"name": "Poke Maniac Morgan", "ref": "S.S. Aqua/Westbound 1F Southwest Rooms - Poke Maniac Morgan"},
                 {"name": "Hiker Noland", "ref": "S.S. Aqua/1F Southwest Rooms - Hiker Noland"},
-                {"name": "Burglar Corey", "ref": "S.S. Aqua/1F Southeast Rooms - Burglar Corey"},
+                {"name": "Burglar Corey", "ref": "S.S. Aqua/Westbound 1F Southeast Rooms - Burglar Corey"},
                 {"name": "Sailor Stanly", "ref": "S.S. Aqua/1F Southeast Rooms - Sailor Stanly"},
                 {"name": "Picnicker Debra", "ref": "S.S. Aqua/B1F - Picnicker Debra"},
                 {"name": "Sailor Jeff", "ref": "S.S. Aqua/B1F - Sailor Jeff"},
-                {"name": "Sailor Kenneth", "ref": "S.S. Aqua/B1F - Sailor Kenneth"},
+                {"name": "Sailor Kenneth", "ref": "S.S. Aqua/Westbound B1F - Sailor Kenneth"},
                 {"name": "Juggler Fritz", "ref": "S.S. Aqua/B1F - Juggler Fritz"},
-                {"name": "Teacher Shirley", "ref": "S.S. Aqua/B1F - Teacher Shirley"},
-                {"name": "School Kid Nate", "ref": "S.S. Aqua/B1F - School Kid Nate"},
-                {"name": "School Kid Ricky", "ref": "S.S. Aqua/B1F - School Kid Ricky"},
-                {"name": "Metal Coat from Grandpa", "ref": "S.S. Aqua/Metal Coat from Grandpa"},
-                {"name": "Metal Coat from Grandpa\u200b", "ref": "S.S. Aqua/Metal Coat from Grandpa\u200b"},
-                {"name": "Nugget from Captain", "ref": "S.S. Aqua/Nugget from Captain"},
-                {"name": "Flame Plate from Captain", "ref": "S.S. Aqua/Flame Plate from Captain"},
-                {"name": "Splash Plate from Captain", "ref": "S.S. Aqua/Splash Plate from Captain"},
-                {"name": "Zap Plate from Captain", "ref": "S.S. Aqua/Zap Plate from Captain"},
-                {"name": "Meadow Plate from Captain", "ref": "S.S. Aqua/Meadow Plate from Captain"},
-                {"name": "Icicle Plate from Captain", "ref": "S.S. Aqua/Icicle Plate from Captain"},
-                {"name": "Fist Plate from Captain", "ref": "S.S. Aqua/Fist Plate from Captain"},
-                {"name": "Toxic Plate from Captain", "ref": "S.S. Aqua/Toxic Plate from Captain"},
-                {"name": "Earth Plate from Captain", "ref": "S.S. Aqua/Earth Plate from Captain"},
-                {"name": "Sky Plate from Captain", "ref": "S.S. Aqua/Sky Plate from Captain"},
-                {"name": "Mind Plate from Captain", "ref": "S.S. Aqua/Mind Plate from Captain"},
-                {"name": "Insect Plate from Captain", "ref": "S.S. Aqua/Insect Plate from Captain"},
-                {"name": "Stone Plate from Captain", "ref": "S.S. Aqua/Stone Plate from Captain"},
-                {"name": "Spooky Plate from Captain", "ref": "S.S. Aqua/Spooky Plate from Captain"},
-                {"name": "Draco Plate from Captain", "ref": "S.S. Aqua/Draco Plate from Captain"},
-                {"name": "Dread Plate from Captain", "ref": "S.S. Aqua/Dread Plate from Captain"},
-                {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/Iron Plate from Captain"}
+                {"name": "Teacher Shirley", "ref": "S.S. Aqua/Westbound B1F - Teacher Shirley"},
+                {"name": "School Kid Nate", "ref": "S.S. Aqua/Westbound B1F - School Kid Nate"},
+                {"name": "School Kid Ricky", "ref": "S.S. Aqua/Westbound B1F - School Kid Ricky"},
+                {"name": "Metal Coat from Grandpa", "ref": "S.S. Aqua/1F Northwest Rooms - Metal Coat from Grandpa"},
+                {"name": "Metal Coat from Grandpa\u200b", "ref": "S.S. Aqua/1F Northwest Rooms - Metal Coat from Grandpa\u200b"},
+                {"name": "Nugget from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Nugget from Captain"},
+                {"name": "Flame Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Flame Plate from Captain"},
+                {"name": "Splash Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Splash Plate from Captain"},
+                {"name": "Zap Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Zap Plate from Captain"},
+                {"name": "Meadow Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Meadow Plate from Captain"},
+                {"name": "Icicle Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Icicle Plate from Captain"},
+                {"name": "Fist Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Fist Plate from Captain"},
+                {"name": "Toxic Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Toxic Plate from Captain"},
+                {"name": "Earth Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Earth Plate from Captain"},
+                {"name": "Sky Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Sky Plate from Captain"},
+                {"name": "Mind Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Mind Plate from Captain"},
+                {"name": "Insect Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Insect Plate from Captain"},
+                {"name": "Stone Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Stone Plate from Captain"},
+                {"name": "Spooky Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Spooky Plate from Captain"},
+                {"name": "Draco Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Draco Plate from Captain"},
+                {"name": "Dread Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Dread Plate from Captain"},
+                {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Iron Plate from Captain"}
                 ]
             }, 
             {"name": "Mt. Silver Cave", "map_locations": [{"map": "mountsilver", "x": 185 , "y": 146}], "sections": [
-                {"name": "Hidden Item After First Rock Climb Slope", "ref": "Mt. Silver Cave/1F - Hidden Item After First Rock Climb Slope"},
+                {"name": "Hidden Item after First Rock Climb Slope", "ref": "Mt. Silver Cave/1F - Hidden Item after First Rock Climb Slope"},
                 {"name": "Item in Cave Behind First Waterfall", "ref": "Mt. Silver Cave/1F - Item in Cave Behind First Waterfall"},
-                {"name": "Hidden Item Up Rock Climb Slope After First Waterfall", "ref": "Mt. Silver Cave/1F - Hidden Item Up Rock Climb Slope After First Waterfall"},
+                {"name": "Hidden Item Up Rock Climb Slope after First Waterfall", "ref": "Mt. Silver Cave/1F - Hidden Item Up Rock Climb Slope after First Waterfall"},
                 {"name": "Item from Northern Outside Entrance", "ref": "Mt. Silver Cave/1F - Item from Northern Outside Entrance"},
                 {"name": "Hidden Item on Rock East of Long Staircase", "ref": "Mt. Silver Cave/1F - Hidden Item on Rock East of Long Staircase"},
                 {"name": "Northwest Hidden Item", "ref": "Mt. Silver Cave/Moltres Chamber - Northwest Hidden Item"},

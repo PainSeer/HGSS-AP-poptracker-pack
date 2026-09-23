@@ -73,7 +73,7 @@
             "@battle_frontier_battle_hall",
             "@battle_frontier_frontier_access_gatehouse",
             "@battle_tower",
-            "$can_freefly|battle_frontier, [fly_map_battle_frontier_itemunlock]"
+            "$can_freefly|battle_frontier"
         ]
     },
     {
@@ -107,7 +107,8 @@
             "@frontier_access_move_tutor_house",
             "@frontier_access_pokecenter_1f",
             "@frontier_access_pokemart",
-            "@route_40_battle_frontier_gatehouse, event_clear_pokemon_league"
+            "@route_40_battle_frontier_gatehouse, event_clear_pokemon_league",
+            "@route_40_battle_frontier_gatehouse, event_defeat_red"
         ]
     },
     {
@@ -692,7 +693,7 @@
         "name": "diglett_cave",
         "access_rules": [
             "@route_11, international_radio_card",
-            "@route_2_east"
+            "@route_2_northeast"
         ]
     },
     {
@@ -1852,7 +1853,7 @@
             "@pewter_pokecenter_1f",
             "@pewter_pokemart",
             "@pewter_southwest_house",
-            "@route_2",
+            "@route_2_northwest",
             "@route_3",
             "$can_freefly|pewter"
         ]
@@ -2195,11 +2196,60 @@
     {
         "name": "route_2",
         "access_rules": [
-            "@pewter",
-            "@route_2_east, $cut",
-            "@route_2_viridian_forest_north_gatehouse",
+            "@route_2_southeast, $cut",
             "@route_2_viridian_forest_south_gatehouse",
             "@viridian"
+        ]
+    },
+    {
+        "name": "route_2_southeast",
+        "access_rules": [
+            "@route_2, $cut",
+            "@route_2_southeast_gatehouse"
+        ]
+    },
+    {
+        "name": "route_2_northeast",
+        "access_rules": [
+            "@diglett_cave",
+            "@route_2_northwest, $cut",
+            "@route_2_house",
+            "@route_2_southeast_gatehouse"
+        ]
+    },
+    {
+        "name": "route_2_northwest",
+        "access_rules": [
+            "@pewter",
+            "@route_2_northeast, $cut",
+            "@route_2_viridian_forest_north_gatehouse",
+        ]
+    },
+    {
+        "name": "route_2_house",
+        "access_rules": [
+            "@route_2_northeast"
+        ]
+    },
+    {
+        "name": "route_2_southeast_gatehouse",
+        "access_rules": [
+            "@route_2_northeast",
+            "@route_2_southeast",
+        ]
+    },
+    {
+        "name": "route_2_viridian_forest_north_gatehouse",
+        "access_rules": [
+            "@route_2_northwest",
+            "@viridian_forest"
+        ]
+    },
+    {
+        "name": "route_2_viridian_forest_south_gatehouse",
+        "access_rules": [
+            "@route_2",
+            "@viridian_forest"
         ]
     },
     {
@@ -2234,9 +2284,16 @@
         "name": "route_22_pokemon_league_reception_gate",
         "access_rules": [
             "@route_22",
-            "@route_26, $johto_badges_req|8",
+            "@route_22_pokemon_league_reception_gate_south, $johto_badges_req|8",
             "@route_28_south",
             "@victory_road_1f_entrance"
+        ]
+    },
+    {
+        "name": "route_22_pokemon_league_reception_gate_south",
+        "access_rules": [
+            "@route_26",
+            "@route_22_pokemon_league_reception_gate"
         ]
     },
     {
@@ -2344,41 +2401,6 @@
         "access_rules": [
             "@route_29",
             "@route_46_south"
-        ]
-    },
-    {
-        "name": "route_2_east",
-        "access_rules": [
-            "@diglett_cave",
-            "@route_2, $cut",
-            "@route_2_house",
-            "@route_2_southeast_gatehouse"
-        ]
-    },
-    {
-        "name": "route_2_house",
-        "access_rules": [
-            "@route_2_east"
-        ]
-    },
-    {
-        "name": "route_2_southeast_gatehouse",
-        "access_rules": [
-            "@route_2_east"
-        ]
-    },
-    {
-        "name": "route_2_viridian_forest_north_gatehouse",
-        "access_rules": [
-            "@route_2",
-            "@viridian_forest"
-        ]
-    },
-    {
-        "name": "route_2_viridian_forest_south_gatehouse",
-        "access_rules": [
-            "@route_2",
-            "@viridian_forest"
         ]
     },
     {
@@ -3102,7 +3124,8 @@
         "name": "seafoam_islands_1f_east",
         "access_rules": [
             "@route_20_west",
-            "@seafoam_islands_b1f, $strength"
+            "@seafoam_islands_b1f, $strength",
+            "@seafoam_islands_cinnabar_gym"
         ]
     },
     {
@@ -3110,7 +3133,6 @@
         "access_rules": [
             "@route_20_east",
             "@seafoam_islands_b1f, $strength",
-            "@seafoam_islands_cinnabar_gym"
         ]
     },
     {

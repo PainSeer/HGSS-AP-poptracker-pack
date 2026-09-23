@@ -672,6 +672,18 @@ function onMap(mapBounce)
                     Tracker:UiHint("ActivateTab", tab)
                 end
             end
+        -- Lake of Rage stuff
+        elseif RAGE_MAPPING[mapID] ~= nil then
+            local tidelevel = mapBounce.data.lakeOfRageTide
+            if tidelevel == "low" then
+                mapID = mapID + 100
+                end
+            local tabs = RAGE_MAPPING[mapID]
+            if tabs then
+                for _, tab in ipairs(tabs) do
+                    Tracker:UiHint("ActivateTab", tab)
+                end
+            end
         else
             --print("No Mapping found for:")
             --print(dump_table(mapBounce))

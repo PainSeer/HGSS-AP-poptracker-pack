@@ -1308,13 +1308,7 @@
             "sections": [
             { "name": "Land", "ref": "Cerulean Cave/2F - Encounters (Land)" },
             { "name": "Hoenn", "ref": "Cerulean Cave/2F - Encounters (Hoenn)" },
-            { "name": "Sinnoh", "ref": "Cerulean Cave/2F - Encounters (Sinnoh)" },
-            { "name": "Surf", "ref": "Cerulean Cave/2F - Encounters (Surf)" },
-            { "name": "Good Rod, Super Rod, Night Fishing", "ref": "Cerulean Cave/2F - Encounter (Good Rod, Super Rod, Night Fishing)" },
-            { "name": "Old Rod, Good Rod", "ref": "Cerulean Cave/2F - Encounter (Old Rod, Good Rod)" },
-            { "name": "Super Rod [Morn-Day]", "ref": "Cerulean Cave/2F - Encounter (Super Rod [Morn-Day])" },
-            { "name": "Super Rod", "ref": "Cerulean Cave/2F - Encounter (Super Rod)" },
-            { "name": "Good Rod, Good Rod [Morn-Day]", "ref": "Cerulean Cave/2F - Encounter (Good Rod, Good Rod [Morn-Day])" }
+            { "name": "Sinnoh", "ref": "Cerulean Cave/2F - Encounters (Sinnoh)" }
             ]
         },
         {
@@ -1409,20 +1403,35 @@
             ]
         },
         {
-            "name": "Route 2 Encounters",
+            "name": "Route 2 South Encounters",
             "map_locations": [
-            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
             { "map": "route2_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
-            { "name": "Morning, Day", "ref": "Route 2/Encounters (Morning, Day)" },
-            { "name": "Land", "ref": "Route 2/Encounters (Land)" },
-            { "name": "Night", "ref": "Route 2/Encounters (Night)" },
-            { "name": "Morning, Night", "ref": "Route 2/Encounter (Morning, Night)" },
-            { "name": "Morning", "ref": "Route 2/Encounter (Morning)" },
-            { "name": "Day", "ref": "Route 2/Encounter (Day)" },
-            { "name": "Hoenn", "ref": "Route 2/Encounters (Hoenn)" },
-            { "name": "Sinnoh", "ref": "Route 2/Encounter (Sinnoh)" }
+            { "name": "Morning, Day", "ref": "Route 2 South/South - Encounters (Morning, Day)" },
+            { "name": "Land", "ref": "Route 2 South/South - Encounters (Land)" },
+            { "name": "Night", "ref": "Route 2 South/South - Encounters (Night)" },
+            { "name": "Morning, Night", "ref": "Route 2 South/South - Encounter (Morning, Night)" },
+            { "name": "Morning", "ref": "Route 2 South/South - Encounter (Morning)" },
+            { "name": "Day", "ref": "Route 2 South/South - Encounter (Day)" },
+            { "name": "Hoenn", "ref": "Route 2 South/South - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 2 South/South - Encounter (Sinnoh)" }
+            ]
+        },
+        {
+            "name": "Route 2 North Encounters",
+            "map_locations": [
+            { "map": "route2_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Morning, Day", "ref": "Route 2 North/North - Encounters (Morning, Day)" },
+            { "name": "Land", "ref": "Route 2 North/North - Encounters (Land)" },
+            { "name": "Night", "ref": "Route 2 North/North - Encounters (Night)" },
+            { "name": "Morning, Night", "ref": "Route 2 North/North - Encounter (Morning, Night)" },
+            { "name": "Morning", "ref": "Route 2 North/North - Encounter (Morning)" },
+            { "name": "Day", "ref": "Route 2 North/North - Encounter (Day)" },
+            { "name": "Hoenn", "ref": "Route 2 North/North - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 2 North/North - Encounter (Sinnoh)" }
             ]
         },
         {
