@@ -1192,7 +1192,7 @@
                 {"name": "Team Rocket Grunt by Northwest Stairs", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt by Northwest Stairs"},
                 {"name": "Hidden Item Next to East Computer", "ref": "Team Rocket HQ/B2F - Hidden Item Next to East Computer"},
                 {"name": "Team Rocket Grunt Below Generator Room", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt Below Generator Room"},
-                {"name": "Item in West Room", "ref": "Team Rocket HQ/B2F - Item in Western Room"},
+                {"name": "Item in West Room", "ref": "Team Rocket HQ/B2F - Item in West Room"},
                 {"name": "Team Rocket Grunt in Double Battle with Lance", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt in Double Battle with Lance"},
                 {"name": "Executive Ariana", "ref": "Team Rocket HQ/B2F - Executive Ariana"},
                 {"name": "Gift from Lance", "ref": "Team Rocket HQ/B2F - Gift from Lance"},
@@ -1687,7 +1687,7 @@
                 ]
             },
             {"name": "2F Outside North", "map_locations": [{"map": "mtsilver2f", "x": 352 , "y": 51}], "sections": [
-                {"name": "Hidden Item Beside Northern Entrance", "ref": "Mt. Silver Cave/2F (Outside) - Hidden Item Beside Northern Entrance"}
+                {"name": "Hidden Item Beside North Entrance", "ref": "Mt. Silver Cave/2F (Outside) - Hidden Item Beside North Entrance"}
                 ]
             }, 
             {"name": "2F Outside Southeast", "map_locations": [{"map": "mtsilver2f", "x": 658 , "y": 436}], "sections": [
@@ -1705,7 +1705,7 @@
                 ]
             }, 
             {"name": "2F Northeast\u200b", "map_locations": [{"map": "mtsilveruppermountainside", "x": 613 , "y": 266}], "sections": [
-                {"name": "Eastern Item on Top Layer", "ref": "Mt. Silver Cave/2F - Eastern Item on Top Layer"},
+                {"name": "East Item on Top Layer", "ref": "Mt. Silver Cave/2F - East Item on Top Layer"},
                 {"name": "Hidden Item Behind Northeast Breakable Rocks", "ref": "Mt. Silver Cave/2F - Hidden Item Behind Northeast Breakable Rocks"}
                 ]
             }, 
