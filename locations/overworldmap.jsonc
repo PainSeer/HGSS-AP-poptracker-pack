@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -210,7 +210,7 @@
         "name": "Battle Frontier",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -947,7 +947,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -1336,7 +1336,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -1370,7 +1370,7 @@
                 "item_count": 1
             },
             {
-                "name": "Condominiums 4F - Gift After Man's Scary Story",
+                "name": "Condominiums 4F - Gift after Man's Scary Story",
 				"chest_unopened_img": "/images/gifts/gym_guide_closed.png",
                 "chest_opened_img": "/images/gifts/gym_guide_opened.png",
                 "access_rules": [
@@ -1382,7 +1382,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Southwest Trees",
+                "name": "Hidden Item in Southeast Trees",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -2140,7 +2140,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -2379,7 +2379,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -2534,7 +2534,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -2845,7 +2845,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -3723,7 +3723,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -4129,7 +4129,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -4313,7 +4313,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -4715,7 +4715,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Gift from Lady at Desk",
+                "name": "2F - Gift from Buena",
 				"chest_unopened_img": "/images/gifts/monica_closed.png",
                 "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
@@ -5989,7 +5989,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -6046,7 +6046,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -6080,7 +6080,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Northeast",
+                "name": "Northeast Hidden Item",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -6219,7 +6219,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Fishing Guru",
+                "name": "Item from Fishing Guru for showing Magikarp",
                 "chest_unopened_img": "/images/gifts/fisherman_closed.png",
                 "chest_opened_img": "/images/gifts/fisherman_opened.png",
                 "access_rules": [
@@ -6325,7 +6325,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -6388,7 +6388,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -6400,7 +6400,7 @@
                 "item_count": 1
             },
             {
-                "name": "RageCandyBar",
+                "name": "RageCandyBar from Salesman",
 				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
                 "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
@@ -6412,7 +6412,7 @@
                 "item_count": 1
             },
             {
-                "name": "RageCandyBar\u200b",
+                "name": "RageCandyBar from Salesman\u200b",
                 "access_rules": [
                     "@mahogany"
                 ],
@@ -6797,7 +6797,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item From 2F West Ladder",
+                "name": "1F - Item Accessed from 1F Back West Ladder",
                 "access_rules": [
                     "@mount_mortar_1f_entrance"
                 ],
@@ -6807,7 +6807,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item From 2F East Ladder",
+                "name": "1F - Item Item Accessed from 1F Back East Ladder",
                 "access_rules": [
                     "@mount_mortar_1f_entrance"
                 ],
@@ -7524,7 +7524,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "1F - Hidden Item After First Rock Climb Slope",
+                "name": "1F - Hidden Item after First Rock Climb Slope",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -7546,7 +7546,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Hidden Item Up Rock Climb Slope After First Waterfall",
+                "name": "1F - Hidden Item Up Rock Climb Slope after First Waterfall",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -8204,7 +8204,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -8592,7 +8592,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -8640,7 +8640,7 @@
                 "item_count": 1
             },
             {
-                "name": "Elm's Lab - Gift from Prof. Elm after Eight Johto Badges",
+                "name": "Elm's Lab - Reward from Prof. Elm for Collecting Badges",
                 "chest_unopened_img": "/images/gifts/elm_closed.png",
                 "chest_opened_img": "/images/gifts/elm_opened.png",
                 "access_rules": [
@@ -8774,7 +8774,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -9269,7 +9269,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -9289,7 +9289,7 @@
                 "hosted_item": "event_get_hm08_hosted"
             },
 			{
-                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges\u200b",
+                "name": "Oak's Lab - Reward from Prof. Oak for Collecting Badges\u200b",
                 "access_rules": [
                     "@pallet_town_oaks_lab, $badges_req|16"
                 ],
@@ -9299,7 +9299,7 @@
                 "hosted_item": "hm08_hosted"
             },
 			{
-                "name": "Oak's Lab - Gift from Oak after Eight Kanto Badges",
+                "name": "Oak's Lab - Reward from Prof. Oak for Collecting Badges",
                 "chest_unopened_img": "/images/gifts/oak_closed.png",
                 "chest_opened_img": "/images/gifts/oak_opened.png",
                 "access_rules": [
@@ -9398,7 +9398,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -9410,7 +9410,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Southeast Behind Fence",
+                "name": "Southwest Hidden Item Behind Fence",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -9610,7 +9610,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -10754,7 +10754,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Behind Northern Cut Tree",
+                "name": "Item Behind Cut Tree Southwest of House",
                 "access_rules": [
                     "@route_12, $cut"
                 ],
@@ -10777,7 +10777,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Behind Southern Cut Tree",
+                "name": "Item Behind Southwest Cut Tree Across Water",
                 "access_rules": [
                     "@route_12, $surf, $cut"
                 ],
@@ -11243,7 +11243,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Woman in Grass Patch after Showing Chansey",
+                "name": "Item from Woman in Grass Patch for Showing Chansey",
 				"chest_unopened_img": "/images/gifts/monica_closed.png",
                 "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
@@ -14877,7 +14877,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item Behind Breakable Rocks By Pokemon Center",
+                "name": "Hidden Item Behind Breakable Rocks by Pokemon Center",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -15299,7 +15299,7 @@
                 "item_count": 1
             },
             {
-                "name": "Vs. Recorder from Lyra or Ethan at Violet Gate",
+                "name": "Gate to Violet City - Vs. Recorder from Lyra or Ethan",
 				"chest_unopened_img": "/images/gifts/rival_closed.png",
                 "chest_opened_img": "/images/gifts/rival_opened.png",
                 "access_rules": [
@@ -15615,7 +15615,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Fishing Guru in Pokemon Center",
+                "name": "Pokemon Center - Item from Fishing Guru",
 				"chest_unopened_img": "/images/gifts/fisherman_closed.png",
                 "chest_opened_img": "/images/gifts/fisherman_opened.png",
                 "access_rules": [
@@ -15625,7 +15625,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Fishing Guru in Pokemon Center\u200b",
+                "name": "Pokemon Center - Item from Fishing Guru\u200b",
                 "access_rules": [
                     "@route_32_pokecenter_1f"
                 ],
@@ -15935,7 +15935,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Gatehouse - Gift From Woman With Butterfree",
+                "name": "Gatehouse - Gate to Ilex Forest - Gift from Woman With Butterfree",
 				"chest_unopened_img": "/images/gifts/butterfree_closed.png",
                 "chest_opened_img": "/images/gifts/butterfree_opened.png",
                 "access_rules": [
@@ -16265,7 +16265,7 @@
                 "hosted_item": "event_get_kenya_hosted"
             },
             {
-                "name": "Gatehouse - Gift From Guard After Delivering Kenya",
+                "name": "Gatehouse - Gate to Goldenrod City - Gift from Guard after Delivering Kenya",
 				"chest_unopened_img": "/images/gifts/gatehouse_guard_closed.png",
                 "chest_opened_img": "/images/gifts/gatehouse_guard_opened.png",
                 "access_rules": [
@@ -18221,7 +18221,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gift from Mid-Route Guard",
+                "name": "Southeast Gatehouse - Gift from Mid-Route Guard",
 				"chest_unopened_img": "/images/gifts/gatehouse_guard_closed.png",
                 "chest_opened_img": "/images/gifts/gatehouse_guard_opened.png",
                 "access_rules": [
@@ -20371,7 +20371,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Hidden Item Behind Northeast Breakable Rocks",
+                "name": "Hidden Item Behind Northwest Breakable Rocks",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -21121,7 +21121,7 @@
                 "item_count": 1
             },
             {
-                "name": "Metal Coat from Grandpa",
+                "name": "1F Northwest Rooms - Metal Coat from Grandpa",
 				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
                 "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
@@ -21133,7 +21133,7 @@
                 "item_count": 1
             },
             {
-                "name": "Metal Coat from Grandpa\u200b",
+                "name": "1F Northwest Rooms - Metal Coat from Grandpa\u200b",
                 "access_rules": [
                     "@ss_aqua_1f_northwest_rooms"
                 ],
@@ -21143,7 +21143,7 @@
                 "hosted_item": "metalcoat_hosted"
             },
             {
-                "name": "Flame Plate from Captain",
+                "name": "1F Captain's Cabin - Flame Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21155,7 +21155,7 @@
                 "item_count": 1
             },
             {
-                "name": "Splash Plate from Captain",
+                "name": "1F Captain's Cabin - Splash Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21167,7 +21167,7 @@
                 "item_count": 1
             },
             {
-                "name": "Zap Plate from Captain",
+                "name": "1F Captain's Cabin - Zap Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21179,7 +21179,7 @@
                 "item_count": 1
             },
             {
-                "name": "Meadow Plate from Captain",
+                "name": "1F Captain's Cabin - Meadow Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21191,7 +21191,7 @@
                 "item_count": 1
             },
             {
-                "name": "Icicle Plate from Captain",
+                "name": "1F Captain's Cabin - Icicle Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21203,7 +21203,7 @@
                 "item_count": 1
             },
             {
-                "name": "Fist Plate from Captain",
+                "name": "1F Captain's Cabin - Fist Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21215,7 +21215,7 @@
                 "item_count": 1
             },
             {
-                "name": "Toxic Plate from Captain",
+                "name": "1F Captain's Cabin - Toxic Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21227,7 +21227,7 @@
                 "item_count": 1
             },
             {
-                "name": "Earth Plate from Captain",
+                "name": "1F Captain's Cabin - Earth Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21239,7 +21239,7 @@
                 "item_count": 1
             },
             {
-                "name": "Sky Plate from Captain",
+                "name": "1F Captain's Cabin - Sky Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21251,7 +21251,7 @@
                 "item_count": 1
             },
             {
-                "name": "Mind Plate from Captain",
+                "name": "1F Captain's Cabin - Mind Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21263,7 +21263,7 @@
                 "item_count": 1
             },
             {
-                "name": "Insect Plate from Captain",
+                "name": "1F Captain's Cabin - Insect Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21275,7 +21275,7 @@
                 "item_count": 1
             },
             {
-                "name": "Stone Plate from Captain",
+                "name": "1F Captain's Cabin - Stone Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21287,7 +21287,7 @@
                 "item_count": 1
             },
             {
-                "name": "Spooky Plate from Captain",
+                "name": "1F Captain's Cabin - Spooky Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21299,7 +21299,7 @@
                 "item_count": 1
             },
             {
-                "name": "Draco Plate from Captain",
+                "name": "1F Captain's Cabin - Draco Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21311,7 +21311,7 @@
                 "item_count": 1
             },
             {
-                "name": "Dread Plate from Captain",
+                "name": "1F Captain's Cabin - Dread Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21323,7 +21323,7 @@
                 "item_count": 1
             },
             {
-                "name": "Iron Plate from Captain",
+                "name": "1F Captain's Cabin - Iron Plate from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21335,7 +21335,7 @@
                 "item_count": 1
             },
             {
-                "name": "Nugget from Captain",
+                "name": "1F Captain's Cabin - Nugget from Captain",
                 "chest_unopened_img": "/images/gifts/captain_closed.png",
                 "chest_opened_img": "/images/gifts/captain_opened.png",
                 "access_rules": [
@@ -21380,7 +21380,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -21455,7 +21455,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -21808,7 +21808,7 @@
                 "hosted_item": "waterstone_hosted"
             },
             {
-                "name": "B2F - Hidden Item by Northeast Ice Patch",
+                "name": "B2F - Hidden Item by Northwest Ice Patch",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -23651,7 +23651,7 @@
                 ]
             },
             {
-                "name": "B1F - Item North of Southeastern Stairs",
+                "name": "B1F - Item North of Southeast Stairs",
                 "access_rules": [
                     "@union_cave_b1f"
                 ],
@@ -23661,7 +23661,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Hidden Item West of Southeastern Stairs",
+                "name": "B1F - Hidden Item West of Southeast Stairs",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -23696,7 +23696,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Hidden Item on Rock Northeast of Southern Hiker",
+                "name": "B1F - Hidden Item on Rock Northeast of Lower Hiker",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -24037,7 +24037,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -24382,7 +24382,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -24521,7 +24521,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Item Above Ledge North of Southern Ladder",
+                "name": "2F - Item Above Ledge North of South Ladder",
                 "access_rules": [
                     "@victory_road_2f_south, $strength"
                 ],
@@ -24531,7 +24531,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Hidden Item Above Ledge North of Southern Ladder",
+                "name": "2F - Hidden Item Above Ledge North of South Ladder",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -24746,7 +24746,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -24958,7 +24958,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Fly Unlock",
+                "name": "First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -24970,8 +24970,8 @@
                 "item_count": 1
             },
             {
-                "name": "Battle Frontier Fly Unlock (which is somehow in the basement of the Viridian Trainer House)",
-				"ref": "Battle Frontier/Fly Unlock"
+                "name": "Viridian Trainer House B1F First Visit",
+				"ref": "Battle Frontier/First Visit"
             },
             {
                 "name": "Hidden Item in East Flower Patch",
@@ -25074,7 +25074,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gym - Earth Badge",
+                "name": "Gym - Badge from Blue",
 				"chest_unopened_img": "/images/locations/badges/earthbadge.png",
                 "chest_opened_img": "/images/locations/badges/earthbadge_bw.png",
                 "access_rules": [
@@ -25086,7 +25086,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gym - Earth Badge\u200b",
+                "name": "Gym - Badge from Blue\u200b",
                 "access_rules": [
                     "@viridian_gym, event_cinnabar_island_blue_return_viridian"
                 ],
@@ -25215,7 +25215,7 @@
                 "hosted_item": "leafstone_hosted"
             },
             {
-                "name": "Hidden Item on Wall North of Southern Entrance",
+                "name": "Hidden Item on Wall North of South Entrance",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -25597,7 +25597,7 @@
                 ]
             },
             {
-                "name": "B1F - Hidden Item on Rock North of Southern Northeast Ladder",
+                "name": "B1F - Hidden Item on Rock North of Lower Northeast Ladder",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
