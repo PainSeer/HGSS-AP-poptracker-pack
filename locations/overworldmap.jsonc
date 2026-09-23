@@ -17,7 +17,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item By Charcoal Kiln",
+                "name": "Hidden Item by Charcoal Kiln",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -210,7 +210,7 @@
         "name": "Battle Frontier",
         "sections": [
             {
-                "name": "First Visit",
+                "name": "Gatehouse - First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -223,7 +223,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item By Trees",
+                "name": "Frontier Access - Hidden Item by Trees",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -450,7 +450,7 @@
                 "item_count": 1
             },
             {
-                "name": "4F - Item By Southeast Ladder",
+                "name": "4F - Item by Southeast Ladder",
                 "access_rules": [
                     "@bell_tower_4f"
                 ],
@@ -460,7 +460,7 @@
                 "item_count": 1
             },
             {
-                "name": "4F - Item By Southwest Ladder",
+                "name": "4F - Item by Southwest Ladder",
                 "access_rules": [
                     "@bell_tower_4f"
                 ],
@@ -518,7 +518,7 @@
                 ]
             },
             {
-                "name": "5F - Item By Center Pillar",
+                "name": "5F - Item by Center Pillar",
                 "access_rules": [
                     "@bell_tower_5f"
                 ],
@@ -588,7 +588,7 @@
                 ]
             },
             {
-                "name": "6F - Item By Center Pillar",
+                "name": "6F - Item by Center Pillar",
                 "access_rules": [
                     "@bell_tower_6f"
                 ],
@@ -598,7 +598,7 @@
                 "item_count": 1
             },
             {
-                "name": "6F - Item in Northwest",
+                "name": "6F - Northwest Item",
                 "access_rules": [
                     "@bell_tower_6f"
                 ],
@@ -714,7 +714,7 @@
                 ]
             },
             {
-                "name": "8F - Item By Northwest Statue",
+                "name": "8F - Item by Northwest Statue",
                 "access_rules": [
                     "@bell_tower_8f"
                 ],
@@ -724,7 +724,7 @@
                 "item_count": 1
             },
             {
-                "name": "8F - Item By Center Pillar",
+                "name": "8F - Item by Center Pillar",
                 "access_rules": [
                     "@bell_tower_8f"
                 ],
@@ -734,7 +734,7 @@
                 "item_count": 1
             },
             {
-                "name": "8F - Hidden Item By Northeast Statue",
+                "name": "8F - Hidden Item by Northeast Statue",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -746,7 +746,7 @@
                 "item_count": 1
             },
             {
-                "name": "8F - Item By Southeast Ramps",
+                "name": "8F - Item by Southeast Ramps",
                 "access_rules": [
                     "@bell_tower_8f"
                 ],
@@ -959,7 +959,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gift From Santos",
+                "name": "Gift from Santos",
 				"chest_unopened_img": "/images/gifts/youngster_closed.png",
                 "chest_opened_img": "/images/gifts/youngster_opened.png",
                 "access_rules": [
@@ -1110,7 +1110,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "1F - Hidden Item By Breakable Rock",
+                "name": "1F - Hidden Item by Breakable Rock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -1239,7 +1239,7 @@
                 "hosted_item": "event_burned_tower_disperse_legendary_dogs_hosted"
             },
             {
-                "name": "B1F - Hidden Item By Northwest Pillar",
+                "name": "B1F - Hidden Item by Northwest Pillar",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -1261,7 +1261,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Hidden Item on Southern Rock",
+                "name": "B1F - Hidden Item on South Rock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -1542,7 +1542,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "1F - Item By Western Ladders",
+                "name": "1F - Item by West Ladders",
                 "access_rules": [
                     "@cerulean_cave_1f, $surf"
                 ],
@@ -1564,7 +1564,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item Between Southern Crystals",
+                "name": "1F - Item Between South Crystals",
                 "access_rules": [
                     "@cerulean_cave_1f, $surf"
                 ],
@@ -1574,7 +1574,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Hidden Item By Central Crystal",
+                "name": "1F - Hidden Item by Central Crystal",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -1596,7 +1596,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item By Northern Crystal",
+                "name": "1F - Item by North Crystal",
                 "access_rules": [
                     "@cerulean_cave_1f, $surf"
                 ],
@@ -1606,7 +1606,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Hidden Item By Southeast Crystal",
+                "name": "1F - Hidden Item by Southeast Crystal",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -1748,7 +1748,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Item in Western Dead End Above Ladder",
+                "name": "2F - Item in West Dead End Above Ladder",
                 "access_rules": [
                     "@cerulean_cave_2f, $rock_smash"
                 ],
@@ -1758,7 +1758,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Item in Western Dead End Below Ladder",
+                "name": "2F - Item in West Dead End Below Ladder",
                 "access_rules": [
                     "@cerulean_cave_2f"
                 ],
@@ -1826,7 +1826,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Southeast Hidden Item On Crystal in Open Area",
+                "name": "2F - Southeast Hidden Item on Crystal in Open Area",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -1898,7 +1898,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item By Lone Pool of Water",
+                "name": "B1F - Item by Lone Pool of Water",
                 "access_rules": [
                     "@cerulean_cave_b1f"
                 ],
@@ -1908,7 +1908,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Southwest Item By Rock Climb Slopes",
+                "name": "B1F - Southwest Item by Rock Climb Slopes",
                 "access_rules": [
                     "@cerulean_cave_b1f, $surf",
                     "@cerulean_cave_b1f, $rock_climb"
@@ -1963,7 +1963,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item in Northeast",
+                "name": "B1F - Northeast Item",
                 "access_rules": [
                     "@cerulean_cave_b1f, $rock_climb"
                 ],
@@ -1973,7 +1973,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item in Northeast\u200b",
+                "name": "B1F - Northeast Item\u200b",
                 "access_rules": [
                     "@cerulean_cave_b1f, $rock_climb"
                 ],
@@ -1983,7 +1983,7 @@
                 "hosted_item": "electirizer_hosted"
             },
             {
-                "name": "B1F - Item in Southeast Past Water",
+                "name": "B1F - Southeast Item Past Water",
                 "access_rules": [
                     "@cerulean_cave_b1f, $surf"
                 ],
@@ -2593,7 +2593,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item Next to Northern House",
+                "name": "Hidden Item Next to North House",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -3010,7 +3010,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Hidden Item On Hill Above North of Water",
+                "name": "Hidden Item on Hill Above North of Water",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -3066,7 +3066,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item By Rock at South Exit",
+                "name": "Hidden Item by Rock at South Exit",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -3222,7 +3222,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on Eastern Wall",
+                "name": "Hidden Item on East Wall",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -3532,7 +3532,7 @@
                 "item_count": 1
             },
             {
-                "name": "Champion Lance 3",
+                "name": "Champion Lance",
                 "chest_unopened_img": "/images/trainers/lance.png",
                 "chest_opened_img": "/images/trainers/lance_bw.png",
                 "access_rules": [
@@ -3596,7 +3596,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Twins",
+                "name": "Item by Twins",
                 "access_rules": [
                     "@dragons_den, $surf"
                 ],
@@ -4581,7 +4581,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item By Staircase",
+                "name": "B1F - Item by Staircase",
                 "access_rules": [
                     "@goldenrod_department_store_basement, basementkey"
                 ],
@@ -4843,7 +4843,7 @@
                 "item_count": 1
             },
             {
-                "name": "4F - Item By Staircase",
+                "name": "4F - Item by Staircase",
                 "access_rules": [
                     "@goldenrod_radio_tower_4f_east"
                 ],
@@ -5097,7 +5097,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item North of Door Puzzle",
+                "name": "B2F - Item North of Door Puzzle",
                 "access_rules": [
                     "@goldenrod_tunnel_b2f"
                 ],
@@ -5120,7 +5120,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Southwest Puzzle Room",
+                "name": "B2F - Item in Southwest Puzzle Room",
                 "access_rules": [
                     "@goldenrod_tunnel_b2f"
                 ],
@@ -5182,7 +5182,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Northwest Corner",
+                "name": "Warehouse - Northwest Item",
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse"
                 ],
@@ -5192,7 +5192,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Small Box in West Hallway",
+                "name": "Warehouse - Hidden Item in Small Box in West Hallway",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -5217,7 +5217,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Southeast Corner",
+                "name": "Warehouse - Southeast Item",
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse"
                 ],
@@ -5227,7 +5227,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Small Box in East Hallway",
+                "name": "Warehouse - Hidden Item in Small Box in East Hallway",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -5265,7 +5265,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Director",
+                "name": "Warehouse - Item Near Director",
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse"
                 ],
@@ -5275,7 +5275,7 @@
                 "item_count": 1
             },
             {
-                "name": "Card Key From Director",
+                "name": "Warehouse - Card Key from Director",
 				"chest_unopened_img": "/images/gifts/gentleman_closed.png",
                 "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
@@ -5287,7 +5287,7 @@
                 "item_count": 1
             },
             {
-                "name": "Card Key From Director\u200b",
+                "name": "Warehouse - Card Key from Director\u200b",
                 "access_rules": [
                     "@goldenrod_tunnel_warehouse, $radio_tower_trigger"
                 ],
@@ -5336,7 +5336,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item in Ice Puzzle Watched By Old Man",
+                "name": "1F - Item in Ice Puzzle Watched by Old Man",
 				"chest_unopened_img": "/images/locations/ball.png",
         "chest_opened_img": "/images/locations/ballopened.png",
                 "access_rules": [
@@ -5348,7 +5348,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item in Ice Puzzle Watched By Old Man\u200b",
+                "name": "1F - Item in Ice Puzzle Watched by Old Man\u200b",
                 "access_rules": [
                     "@ice_path_1f"
                 ],
@@ -5516,7 +5516,7 @@
                 ]
             },
             {
-                "name": "B2F (Boulder Room) - Hidden Item in Southeast",
+                "name": "B2F (Boulder Room) - Southeast Hidden Item",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -5610,7 +5610,7 @@
                 ]
             },
             {
-                "name": "B3F - Item in Center",
+                "name": "B3F - Center Item",
                 "access_rules": [
                     "@ice_path_b3f"
                 ],
@@ -5705,7 +5705,7 @@
                 "hosted_item": "event_farfetchd_rescue_hosted"
             },
             {
-                "name": "Item in Southeast Corner",
+                "name": "Southeast Item",
                 "access_rules": [
                     "@ilex_forest_south"
                 ],
@@ -5781,7 +5781,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Pond",
+                "name": "Item by Pond",
                 "access_rules": [
                     "@ilex_forest_north"
                 ],
@@ -5839,7 +5839,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Northeast Corner",
+                "name": "Northeast Item",
                 "access_rules": [
                     "@ilex_forest_north"
                 ],
@@ -6001,7 +6001,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item By Northwest Poke Ball Statue",
+                "name": "Hidden Item by Northwest Poke Ball Statue",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -6092,7 +6092,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Northeast",
+                "name": "Northeast Item",
                 "access_rules": [
                     "@lake_of_rage, $surf"
                 ],
@@ -6114,7 +6114,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Southwest",
+                "name": "Southwest Item",
                 "access_rules": [
                     "@lake_of_rage, $surf"
                 ],
@@ -6136,7 +6136,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Northwest",
+                "name": "Northwest Item",
                 "access_rules": [
                     "@lake_of_rage, $surf"
                 ],
@@ -6207,7 +6207,7 @@
                 "item_count": 1
             },
             {
-                "name": "Low Tide Gift from Wesley",
+                "name": "Low Tide - Gift from Wesley",
                 "chest_unopened_img": "/images/gifts/wesley_closed.png",
                 "chest_opened_img": "/images/gifts/wesley_opened.png",
                 "access_rules": [
@@ -6231,7 +6231,7 @@
                 "item_count": 1
             },
             {
-                "name": "Low Tide Item West of Old Man",
+                "name": "Low Tide - Item West of Old Man",
                 "access_rules": [
                     "@lake_of_rage_low_tide, $surf"
                 ],
@@ -6254,7 +6254,7 @@
                 "item_count": 1
             },
             {
-                "name": "Low Tide Item in West of Tree Maze",
+                "name": "Low Tide - Item in West of Tree Maze",
                 "access_rules": [
                     "@lake_of_rage_low_tide, $cut"
                 ],
@@ -6264,7 +6264,7 @@
                 "item_count": 1
             },
             {
-                "name": "Low Tide Item in Northeast of Tree Maze",
+                "name": "Low Tide - Item in Northeast of Tree Maze",
                 "access_rules": [
                     "@lake_of_rage_low_tide, $cut"
                 ],
@@ -6337,7 +6337,7 @@
                 "item_count": 1
             },
             {
-                "name": "Radio Station - Expansion Card From Director",
+                "name": "Radio Station - Expansion Card from Director",
                 "chest_unopened_img": "/images/gifts/gentleman_closed.png",
                 "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
@@ -6349,7 +6349,7 @@
                 "item_count": 1
             },
             {
-                "name": "Radio Station - Expansion Card From Director\u200b",
+                "name": "Radio Station - Expansion Card from Director\u200b",
                 "chest_unopened_img": "/images/gifts/gentleman_closed.png",
                 "chest_opened_img": "/images/gifts/gentleman_opened.png",
                 "access_rules": [
@@ -6785,7 +6785,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "1F - Hidden Item By West Entrance",
+                "name": "1F - Hidden Item by West Entrance",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -6807,7 +6807,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item Item Accessed from 1F Back East Ladder",
+                "name": "1F - Item Accessed from 1F Back East Ladder",
                 "access_rules": [
                     "@mount_mortar_1f_entrance"
                 ],
@@ -6817,7 +6817,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Hidden Item By Rock Climb Entrance",
+                "name": "1F - Hidden Item by Rock Climb Entrance",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -7023,7 +7023,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F Back - Item On Eastern Side Behind Rock Climb",
+                "name": "1F Back - Item on East Side Behind Rock Climb",
                 "access_rules": [
                     "@mount_mortar_1f_back_southeast"
                 ],
@@ -7145,7 +7145,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Item in Southwest",
+                "name": "2F - Southwest Item",
                 "access_rules": [
                     "@mount_mortar_2f, $surf"
                 ],
@@ -7241,7 +7241,7 @@
                 "hosted_item": "dragonscale_hosted"
             },
             {
-                "name": "2F - Item By Northwest Pond",
+                "name": "2F - Item by Northwest Pond",
                 "access_rules": [
                     "@mount_mortar_2f, $surf"
                 ],
@@ -7251,7 +7251,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Hidden Item in Northwest",
+                "name": "2F - Northwest Hidden Item",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -7375,7 +7375,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Hidden Item Between Rocks in Southwest",
+                "name": "B1F - Hidden Item Between Southwest Rocks",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -7397,7 +7397,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Hidden Item Up Stairs By Karate Master",
+                "name": "B1F - Hidden Item Up Stairs by Karate Master",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -7558,7 +7558,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item from Northern Outside Entrance",
+                "name": "1F - Item from North Outside Entrance",
                 "access_rules": [
                     "@mount_silver_cave_1f_northeast"
                 ],
@@ -7790,7 +7790,7 @@
                 ]
             },
             {
-                "name": "1F (Outside) - Item By Southeast Exit",
+                "name": "1F (Outside) - Item by Southeast Exit",
                 "access_rules": [
                     "@mount_silver_cave_lower_mountainside"
                 ],
@@ -7878,7 +7878,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Southern Item on Top Layer",
+                "name": "2F - South Item on Top Layer",
                 "access_rules": [
                     "@mount_silver_cave_2f, $rock_smash"
                 ],
@@ -7888,7 +7888,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Eastern Item on Top Layer",
+                "name": "2F - East Item on Top Layer",
                 "access_rules": [
                     "@mount_silver_cave_2f_northeast"
                 ],
@@ -7966,7 +7966,7 @@
                 ]
             },
             {
-                "name": "2F (Outside) - Hidden Item Beside Northern Entrance",
+                "name": "2F (Outside) - Hidden Item Beside North Entrance",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -8628,7 +8628,7 @@
                 "item_count": 1
             },
             {
-                "name": "Elm's Lab - Gift from Elm after Togepi Egg Hatches",
+                "name": "Elm's Lab - Gift from Prof. Elm after Togepi Egg Hatches",
                 "chest_unopened_img": "/images/gifts/elm_closed.png",
                 "chest_opened_img": "/images/gifts/elm_opened.png",
                 "access_rules": [
@@ -8885,7 +8885,7 @@
                 "item_count": 1
             },
             {
-                "name": "Port - Hidden Item on Southern Mooring Post",
+                "name": "Port - Hidden Item on South Mooring Post",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -9610,7 +9610,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "First Visit",
+                "name": "Building - First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -9634,7 +9634,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on Southern Grass Plot",
+                "name": "Hidden Item on South Grass Plot",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -9918,7 +9918,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item in Southwest",
+                "name": "1F - Southwest Item",
                 "access_rules": [
                     "@rock_tunnel_1f"
                 ],
@@ -9928,7 +9928,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Hidden Item Between Northern Rocks",
+                "name": "1F - Hidden Item Between North Rocks",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -10018,7 +10018,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item Behind Rocks in Northwest",
+                "name": "B1F - Northwest Item Behind Rocks",
                 "access_rules": [
                     "@rock_tunnel_b1f"
                 ],
@@ -10494,7 +10494,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Item in Northeast",
+                "name": "Northeast Item",
                 "access_rules": [
                     "@route_11"
                 ],
@@ -11394,7 +11394,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Northwest",
+                "name": "Northwest Item",
                 "access_rules": [
                     "@route_15"
                 ],
@@ -11769,7 +11769,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item Below Second-most-southern Street Lights",
+                "name": "Hidden Item Below Second-most-south Street Lights",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -12260,7 +12260,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Southeast Cut Trees",
+                "name": "Item by Southeast Cut Trees",
                 "access_rules": [
                     "@route_2_southeast"
                 ],
@@ -14242,7 +14242,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item On Ledge By East Bridges",
+                "name": "Hidden Item on Ledge by East Bridges",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -14254,7 +14254,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on Eastern Shore South of Stairs",
+                "name": "Hidden Item on East Shore South of Stairs",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -14429,7 +14429,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Bribe From Celebrity",
+                "name": "Bribe from Celebrity",
 				"chest_unopened_img": "/images/gifts/school_girl_closed.png",
                 "chest_opened_img": "/images/gifts/school_girl_opened.png",
                 "access_rules": [
@@ -14604,7 +14604,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gift From Tuscany",
+                "name": "Gift from Tuscany",
                 "chest_unopened_img": "/images/gifts/beauty_closed.png",
                 "chest_opened_img": "/images/gifts/beauty_opened.png",
                 "access_rules": [
@@ -14976,7 +14976,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Item By First Grass Patch",
+                "name": "Item by First Grass Patch",
                 "access_rules": [
                     "@route_30"
                 ],
@@ -15264,7 +15264,7 @@
                 "hosted_item": "event_give_kenya_hosted"
             },
             {
-                "name": "Gift From Sleepy Man",
+                "name": "Gift from Sleepy Man",
                 "chest_unopened_img": "/images/gifts/overalls_man_closed.png",
                 "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
@@ -15658,7 +15658,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item from Man at Northern Hill",
+                "name": "Item from Man at North Hill",
 				"chest_unopened_img": "/images/gifts/overalls_man_closed.png",
                 "chest_opened_img": "/images/gifts/overalls_man_opened.png",
                 "access_rules": [
@@ -15935,7 +15935,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Gatehouse - Gate to Ilex Forest - Gift from Woman With Butterfree",
+                "name": "Gate to Ilex Forest - Gift from Woman With Butterfree",
 				"chest_unopened_img": "/images/gifts/butterfree_closed.png",
                 "chest_opened_img": "/images/gifts/butterfree_opened.png",
                 "access_rules": [
@@ -15999,7 +15999,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Corner By Youngster",
+                "name": "Hidden Item in Corner by Youngster",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -16110,7 +16110,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in Northern Grass Patch",
+                "name": "Item in North Grass Patch",
                 "access_rules": [
                     "@route_34"
                 ],
@@ -16255,7 +16255,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Gatehouse - Get Kenya (Event)",
+                "name": "Gate to Goldenrod City - Get Kenya (Event)",
                 "access_rules": [
                     "@route_35_goldenrod_gatehouse"
                 ],
@@ -16265,7 +16265,7 @@
                 "hosted_item": "event_get_kenya_hosted"
             },
             {
-                "name": "Gatehouse - Gate to Goldenrod City - Gift from Guard after Delivering Kenya",
+                "name": "Gate to Goldenrod City - Gift from Guard after Delivering Kenya",
 				"chest_unopened_img": "/images/gifts/gatehouse_guard_closed.png",
                 "chest_opened_img": "/images/gifts/gatehouse_guard_opened.png",
                 "access_rules": [
@@ -16290,7 +16290,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item Behind Western Fence",
+                "name": "Hidden Item Behind West Fence",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -16537,7 +16537,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Gift From Arthur",
+                "name": "Gift from Arthur",
 				"chest_unopened_img": "/images/gifts/school_kid_closed.png",
                 "chest_opened_img": "/images/gifts/school_kid_opened.png",
                 "access_rules": [
@@ -16582,7 +16582,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Southern Grass Patch",
+                "name": "Hidden Item in South Grass Patch",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -16763,7 +16763,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gift From Sunny",
+                "name": "Gift from Sunny",
 				"chest_unopened_img": "/images/gifts/little_boy_closed.png",
                 "chest_opened_img": "/images/gifts/little_boy_opened.png",
                 "access_rules": [
@@ -16951,7 +16951,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Southern Ledge",
+                "name": "Item by South Ledge",
                 "access_rules": [
                     "@route_38"
                 ],
@@ -17131,7 +17131,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Miltank Farm West",
+                "name": "West Hidden Item in Miltank Farm",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -17155,7 +17155,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Miltank Farm South",
+                "name": "South Hidden Item in Miltank Farm",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -17342,7 +17342,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Southern Trees",
+                "name": "Hidden Item in South Trees",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -17500,7 +17500,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Gift From Monica",
+                "name": "Gift from Monica",
                 "chest_unopened_img": "/images/gifts/monica_closed.png",
                 "chest_opened_img": "/images/gifts/monica_opened.png",
                 "access_rules": [
@@ -18014,7 +18014,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item By Corner of East Pond",
+                "name": "Hidden Item by Corner of East Pond",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -18065,7 +18065,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Down Rock Climb Slope From Mt. Mortar",
+                "name": "Item Down Rock Climb Slope from Mt. Mortar",
                 "access_rules": [
                     "@route_42, $rock_climb"
                 ],
@@ -18075,7 +18075,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Down Rock Climb Slope From Mt. Mortar\u200b",
+                "name": "Item Down Rock Climb Slope from Mt. Mortar\u200b",
                 "access_rules": [
                     "@route_42, $rock_climb"
                 ],
@@ -18996,7 +18996,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Camper and Lass",
+                "name": "Item by Camper and Lass",
                 "access_rules": [
                     "@route_46"
                 ],
@@ -19168,7 +19168,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item By Camper Across Bridge",
+                "name": "Item by Camper Across Bridge",
                 "access_rules": [
                     "@route_47"
                 ],
@@ -19222,7 +19222,7 @@
                 "item_count": 1
             },
             {
-                "name": "Cliff Cave - Hidden Item By Exit",
+                "name": "Cliff Cave 3F - Hidden Item by Exit",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -19574,7 +19574,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Gift From Superstitious Woman in House",
+                "name": "Gift from Superstitious Woman in House",
 				"chest_unopened_img": "/images/gifts/old_lady_closed.png",
                 "chest_opened_img": "/images/gifts/old_lady_opened.png",
                 "access_rules": [
@@ -19686,7 +19686,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item in South",
+                "name": "South Item",
                 "access_rules": [
                     "@route_6"
                 ],
@@ -19942,7 +19942,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "Item By Biker Trio",
+                "name": "Item by Biker Trio",
                 "access_rules": [
                     "@route_8"
                 ],
@@ -20416,7 +20416,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Rocks By East Gate",
+                "name": "Hidden Item in Rocks by East Gate",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -20502,7 +20502,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item in Southwest Rocks",
+                "name": "Hidden Item in Southwest Rocks (Left)",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -20514,7 +20514,7 @@
                 "item_count": 1
             },
             {
-                "name": "Second Hidden Item in Southwest Rocks",
+                "name": "Hidden Item in Southwest Rocks (Right)",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -21380,7 +21380,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "First Visit",
+                "name": "Gate - First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -21720,7 +21720,7 @@
                 ]
             },
             {
-                "name": "B1F - Item By North Wall",
+                "name": "B1F - Item by North Wall",
                 "access_rules": [
                     "@seafoam_islands_b1f, $strength"
                 ],
@@ -21788,7 +21788,7 @@
                 ]
             },
             {
-                "name": "B2F - Item on Southern Ledge",
+                "name": "B2F - Item on South Ledge",
                 "access_rules": [
                     "@seafoam_islands_b2f"
                 ],
@@ -21798,7 +21798,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Item on Southern Ledge\u200b",
+                "name": "B2F - Item on South Ledge\u200b",
                 "access_rules": [
                     "@seafoam_islands_b2f"
                 ],
@@ -21997,7 +21997,7 @@
                 "item_count": 1
             },
             {
-                "name": "B4F - Item in Northeast",
+                "name": "B4F - Northeast Item",
                 "access_rules": [
                     "@seafoam_islands_b4f"
                 ],
@@ -22302,7 +22302,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Item in Northeast",
+                "name": "B1F - Northeast Item",
                 "access_rules": [
                     "@slowpoke_well_b1f"
                 ],
@@ -22695,7 +22695,7 @@
                 ]
             },
             {
-                "name": "3F - Item in Southwest",
+                "name": "3F - Southwest Item",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -22744,7 +22744,7 @@
                 "item_count": 1
             },
             {
-                "name": "3F - Item in Northeast",
+                "name": "3F - Northeast Item",
                 "access_rules": [
                     "@sprout_tower_3f"
                 ],
@@ -22872,7 +22872,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "B1F - Trap Team Rocket Grunt 1",
+                "name": "B1F - Team Rocket Grunt from Trap 1",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -22934,7 +22934,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Eastern Item",
+                "name": "B1F - East Item",
                 "access_rules": [
                     "@team_rocket_headquarters_b1f"
                 ],
@@ -22956,7 +22956,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Southern Item",
+                "name": "B1F - South Item",
                 "access_rules": [
                     "@team_rocket_headquarters_b1f"
                 ],
@@ -22966,7 +22966,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Hidden Item on Middle of 3 Southwestern Boxes",
+                "name": "B2F - Hidden Item in Middle of 3 Southwest Boxes",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -22978,7 +22978,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Team Rocket Grunt 16",
+                "name": "B2F - Team Rocket Grunt Near Boxes",
                 "chest_unopened_img": "/images/trainers/rocket_grunt_m.png",
                 "chest_opened_img": "/images/trainers/rocket_grunt_m_bw.png",
                 "access_rules": [
@@ -23004,7 +23004,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Hidden Item Next to Eastern Computer",
+                "name": "B2F - Hidden Item Next to East Computer",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -23029,7 +23029,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Item in Western Room",
+                "name": "B2F - Item in West Room",
                 "access_rules": [
                     "@team_rocket_headquarters_b2f"
                 ],
@@ -23095,7 +23095,7 @@
                 "hosted_item": "event_clear_mahogany_hideout_hosted"
             },
             {
-                "name": "B3F - Item in Eastern Hallway",
+                "name": "B3F - Item in East Hallway",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -23157,7 +23157,7 @@
                 "item_count": 1
             },
             {
-                "name": "B3F - Item in Southwest Corner 1",
+                "name": "B3F - Item in Southwest Corner (Left)",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -23167,7 +23167,7 @@
                 "item_count": 1
             },
             {
-                "name": "B3F - Item in Southwest Corner 2",
+                "name": "B3F - Item in Southwest Corner (Right)",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -23177,7 +23177,7 @@
                 "item_count": 1
             },
             {
-                "name": "B3F - Item in Northwest Corner of Eastern Section",
+                "name": "B3F - Item in Northwest Corner of East Section",
                 "access_rules": [
                     "@team_rocket_headquarters_b3f"
                 ],
@@ -23387,7 +23387,7 @@
                 "item_count": 1
             },
             {
-                "name": "Gift From Man For RageCandyBar",
+                "name": "Gift from Man for RageCandyBar",
 				"chest_unopened_img": "/images/gifts/balding_man_closed.png",
                 "chest_opened_img": "/images/gifts/balding_man_opened.png",
                 "access_rules": [
@@ -23487,7 +23487,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Hidden Item in Eastern Wall Between Rocks South of Hikers",
+                "name": "1F - Hidden Item in East Wall Between Rocks South of Hikers",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -23569,7 +23569,7 @@
                 "item_count": 1
             },
             {
-                "name": "1F - Item West of Southern Exit",
+                "name": "1F - Item West of South Exit",
                 "access_rules": [
                     "@union_cave_1f"
                 ],
@@ -23842,7 +23842,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Item on Ledge North of Eastern Ace Trainer",
+                "name": "B2F - Item on Ledge North of East Ace Trainer",
                 "access_rules": [
                     "@union_cave_b2f, $surf"
                 ],
@@ -23865,7 +23865,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Hidden Item Near Northern Ace Trainer",
+                "name": "B2F - Hidden Item Near West Ace Trainer",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -23877,7 +23877,7 @@
                 "item_count": 1
             },
             {
-                "name": "B2F - Hidden Item on Stalagmite Beside Southern Ace Trainer",
+                "name": "B2F - Hidden Item on Stalagmite Beside Southwest Ace Trainer",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -24119,7 +24119,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on the Lower Northern Boat in Harbor",
+                "name": "Hidden Item on the Lower North Boat in Harbor",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -24382,7 +24382,7 @@
         "chest_opened_img": "/images/locations/ballopened.png",
         "sections": [
             {
-                "name": "First Visit",
+                "name": "Reception Gate - First Visit",
                 "chest_unopened_img": "/images/items/fly_items/fly_item.png",
                 "chest_opened_img": "/images/items/fly_items/fly_item_collected.png",
                 "access_rules": [
@@ -24509,7 +24509,7 @@
                 "item_count": 1
             },
             {
-                "name": "2F - Eastern Hidden Item",
+                "name": "2F - East Hidden Item",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -24610,7 +24610,7 @@
                 "item_count": 1
             },
             {
-                "name": "3F - Eastern Item",
+                "name": "3F - East Item",
                 "access_rules": [
                     "@victory_road_3f_northeast"
                 ],
@@ -24782,7 +24782,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Across Lake (East)",
+                "name": "East Item Across Lake",
                 "access_rules": [
                     "@violet, $surf"
                 ],
@@ -24792,7 +24792,7 @@
                 "item_count": 1
             },
             {
-                "name": "Item Across Lake (West)",
+                "name": "West Item Across Lake",
                 "access_rules": [
                     "@violet, $surf"
                 ],
@@ -24970,8 +24970,8 @@
                 "item_count": 1
             },
             {
-                "name": "Viridian Trainer House B1F First Visit",
-				"ref": "Battle Frontier/First Visit"
+                "name": "Viridian Trainer House B1F - First Visit",
+				"ref": "Battle Frontier/Gatehouse - First Visit"
             },
             {
                 "name": "Hidden Item in East Flower Patch",
@@ -25183,7 +25183,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on Flower in Corner Near Western Lone Tree",
+                "name": "Hidden Item on Flower in Corner Near West Lone Tree",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -25250,7 +25250,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on Wall in Southeastern Corner",
+                "name": "Hidden Item on Wall in Southeast Corner",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -25275,7 +25275,7 @@
                 "item_count": 1
             },
             {
-                "name": "Hidden Item on Orange Flower South of Northern East Bug Catcher",
+                "name": "Hidden Item on Orange Flower South of Northeast Bug Catcher",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
@@ -25661,7 +25661,7 @@
                 "item_count": 1
             },
             {
-                "name": "B1F - Hidden Item Between Rocks in Southeast Area",
+                "name": "B1F - Hidden Item Between Southeast Rocks",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopened.png",
                 "access_rules": [
