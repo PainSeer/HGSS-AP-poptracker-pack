@@ -1,0 +1,115 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#171717",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dropshadow": false,
+                    "dock": "bottom",
+                    "content": [
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Key Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "array",
+                                "margin": "0,0,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "key_items_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Encounter and Evolution Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "array",
+                                "margin": "-20,0,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "key_enc_evo_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Fly Unlocks",
+                            "dock": "left",
+                            "content": {
+                                "type": "array",
+                                "margin": "0,0,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "flyunlock_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Events",
+                            "dock": "left",
+                            "content": {
+                                "type": "array",
+                                "margin": ",0,0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "key": "event_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Tools",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "quick_settings_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "background": "#171717",
+                            "header": "Pokésearch",
+                            "dock": "left",
+                            "margin": "0,0,0,0",
+                            "content": {
+                                "type": "layout",
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": "dexsearch_grid"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_maps"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
