@@ -66,7 +66,7 @@
                             "dock": "left",
                             "content": {
                                 "type": "array",
-                                "margin": ",0,0,0",
+                                "margin": "0,0,0,0",
                                 "content": [
                                     {
                                         "type": "layout",
