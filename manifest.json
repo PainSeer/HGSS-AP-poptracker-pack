@@ -11,13 +11,17 @@
             "display_name": "Map Tracker (Horizontal)",
             "flags": ["ap"]
         },
-        "var_vertical": {
+        "var_2_vertical": {
             "display_name": "Map Tracker (Vertical)",
             "flags": ["ap"]
         },
-        "var_items_only": {
+        "var_3_tabless": {
+            "display_name": "Map Tracker (Horizontal, Items Untabbed)",
+            "flags": ["ap"]
+        },
+        "var_4_items_only": {
             "display_name": "Items Only",
             "flags": ["ap"]
-        }
+        } 
     }
 }
