@@ -80,6 +80,7 @@
 						"type": "itemgrid",
                         "item_margin": "0,0",
                         "item_size": "32,32",
+                        "margin": "-4,0,0,0",
                         "h_alignment": "center",
                         "rows": [
                             [
