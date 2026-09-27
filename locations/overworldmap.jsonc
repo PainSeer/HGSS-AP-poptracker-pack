@@ -7812,8 +7812,8 @@
             {
                 "name": "1F (Outside) - Encounters (Land)",
                 "item_count": 6,
-                "chest_unopened_img": "/images/locations/encounters/snow/land.png",
-                "chest_opened_img": "/images/locations/encounters/snow/land_c.png",
+                "chest_unopened_img": "/images/locations/encounters/land/land.png",
+                "chest_opened_img": "/images/locations/encounters/land/land_c.png",
                 "access_rules": [
                     "@mount_silver_cave_lower_mountainside"
                 ],
@@ -7824,8 +7824,8 @@
             {
                 "name": "1F (Outside) - Encounters (Hoenn)",
                 "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/snow/hoenn.png",
-                "chest_opened_img": "/images/locations/encounters/snow/hoenn_c.png",
+                "chest_unopened_img": "/images/locations/encounters/land/hoenn.png",
+                "chest_opened_img": "/images/locations/encounters/land/hoenn_c.png",
                 "access_rules": [
                     "@mount_silver_cave_lower_mountainside, ^$enc|hoenn"
                 ],
@@ -7836,8 +7836,8 @@
             {
                 "name": "1F (Outside) - Encounters (Sinnoh)",
                 "item_count": 2,
-                "chest_unopened_img": "/images/locations/encounters/snow/sinnoh.png",
-                "chest_opened_img": "/images/locations/encounters/snow/sinnoh_c.png",
+                "chest_unopened_img": "/images/locations/encounters/land/sinnoh.png",
+                "chest_opened_img": "/images/locations/encounters/land/sinnoh_c.png",
                 "access_rules": [
                     "@mount_silver_cave_lower_mountainside, ^$enc|sinnoh"
                 ],
