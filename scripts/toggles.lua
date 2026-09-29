@@ -39,6 +39,10 @@ function toggle_splitmap()
         Tracker:AddLayouts("layouts/tabs_split.json")
     elseif has("splitmap_reverse") then
         Tracker:AddLayouts("layouts/tabs_reverse.json")
+    elseif has("splitmap_vert") then
+        Tracker:AddLayouts("layouts/tabs_split_vert.json")
+    elseif has("splitmap_reverse_vert") then
+        Tracker:AddLayouts("layouts/tabs_reverse_vert.json")
     end
 end
 

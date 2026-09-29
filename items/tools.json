@@ -94,6 +94,18 @@
                 "img": "/images/tools/map_reverse.png",
                 "codes": "splitmap, splitmap_reverse",
                 "inherit_codes": false
+            },
+            {
+                "name": "Vertical Split Map - ON",
+                "img": "/images/tools/map_split_vert.png",
+                "codes": "splitmap, splitmap_vert",
+                "inherit_codes": false
+            },
+            {
+                "name": "Vertical Split Map - Reverse",
+                "img": "/images/tools/map_reverse_vert.png",
+                "codes": "splitmap, splitmap_reverse_vert",
+                "inherit_codes": false
             }
         ]
     },
