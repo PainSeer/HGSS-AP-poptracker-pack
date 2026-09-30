@@ -39,9 +39,19 @@ function toggle_splitmap()
         Tracker:AddLayouts("layouts/tabs_split.json")
     elseif has("splitmap_reverse") then
         Tracker:AddLayouts("layouts/tabs_reverse.json")
-    elseif has("splitmap_vert") then
+    end
+end
+
+function vtoggle_splitmap()
+    if has("vsplitmap_off") then
+        Tracker:AddLayouts("layouts/tabs_single.json")
+    elseif has("vsplitmap_on") then
+        Tracker:AddLayouts("layouts/tabs_split.json")
+    elseif has("vsplitmap_reverse") then
+        Tracker:AddLayouts("layouts/tabs_reverse.json")
+    elseif has("vsplitmap_vert") then
         Tracker:AddLayouts("layouts/tabs_split_vert.json")
-    elseif has("splitmap_reverse_vert") then
+    elseif has("vsplitmap_reverse_vert") then
         Tracker:AddLayouts("layouts/tabs_reverse_vert.json")
     end
 end

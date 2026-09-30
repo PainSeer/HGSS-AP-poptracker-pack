@@ -9,6 +9,7 @@ Archipelago:AddBouncedHandler("map handler", onMap)
 -- Layout Watches
 ScriptHost:AddWatchForCode("opt_hmreader", "opt_hmreader", toggle_itemgrid)
 ScriptHost:AddWatchForCode("splitmap", "splitmap", toggle_splitmap)
+ScriptHost:AddWatchForCode("vsplitmap", "vsplitmap", vtoggle_splitmap)
 ScriptHost:AddWatchForCode("opt_randomize_fly_items", "opt_randomize_fly_items", toggle_trackerlayout)
 ScriptHost:AddWatchForCode("game_version", "game_version", toggle_itemgrid)
 ScriptHost:AddWatchForCode("game_version2", "game_version", toggle_eventgrid)
