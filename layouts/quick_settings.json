@@ -26,6 +26,9 @@
                             [
                                 "encevo_visibility",
                                 "hint_tracking"
+                            ],
+                            [
+                                "hide_cleared"
                             ]
                         ]
                     }
@@ -55,13 +58,14 @@
                                 "location_visibility",
                 				"encounter_tracking",
                                 "encevo_visibility",
-                                "hint_tracking"
+                                "hint_tracking",
+                                "hide_cleared"
                             ]
                         ]
                     }
                 ]
             }
         ]
-    }    
+    }
     
 }

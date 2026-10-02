@@ -2222,7 +2222,7 @@
         "access_rules": [
             "@pewter",
             "@route_2_northeast, $cut",
-            "@route_2_viridian_forest_north_gatehouse",
+            "@route_2_viridian_forest_north_gatehouse"
         ]
     },
     {
@@ -2235,7 +2235,7 @@
         "name": "route_2_southeast_gatehouse",
         "access_rules": [
             "@route_2_northeast",
-            "@route_2_southeast",
+            "@route_2_southeast"
         ]
     },
     {
@@ -3132,7 +3132,7 @@
         "name": "seafoam_islands_1f_west",
         "access_rules": [
             "@route_20_east",
-            "@seafoam_islands_b1f, $strength",
+            "@seafoam_islands_b1f, $strength"
         ]
     },
     {
