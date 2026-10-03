@@ -6303,19 +6303,19 @@
                 "map": "johtokanto",
                 "x": 264,
                 "y": 64,
-                "size": 8
+                "size": 14
             },
             {
                 "map": "johtokanto_v",
                 "x": 264,
                 "y": 64,
-                "size": 8
+                "size": 14
             },
             {
                 "map": "johto",
                 "x": 264,
                 "y": 64,
-                "size": 8
+                "size": 14
             }
         ]
     },
