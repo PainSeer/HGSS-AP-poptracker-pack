@@ -42,6 +42,20 @@ function toggle_splitmap()
     end
 end
 
+function vtoggle_splitmap()
+    if has("vsplitmap_off") then
+        Tracker:AddLayouts("layouts/tabs_single.json")
+    elseif has("vsplitmap_on") then
+        Tracker:AddLayouts("layouts/tabs_split.json")
+    elseif has("vsplitmap_reverse") then
+        Tracker:AddLayouts("layouts/tabs_reverse.json")
+    elseif has("vsplitmap_vert") then
+        Tracker:AddLayouts("layouts/tabs_split_vert.json")
+    elseif has("vsplitmap_reverse_vert") then
+        Tracker:AddLayouts("layouts/tabs_reverse_vert.json")
+    end
+end
+
 function toggle_trackerlayout()
     local suffix = ""
    
