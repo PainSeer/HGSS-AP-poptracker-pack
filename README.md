@@ -2,7 +2,7 @@
 
 Archipelago Pokémon HeartGold and SoulSilver tracker pack [PopTracker](https://github.com/black-sliver/PopTracker/) with Autotracking.
 
-PopTracker v0.33.3 or higher is neccessary.
+PopTracker v0.35.4 or higher is neccessary.
 
 ## Features
 
@@ -13,6 +13,9 @@ PopTracker v0.33.3 or higher is neccessary.
 * Submaps
 * Encounter and Evolution Logic
 * Encounter Tracking
+* "In Logic"-Tab for Evolutions
+  * Inside the "Pokedex" tab you will find the "In Logic" tab. It lists caught Pokémon whose evolution is in logic and gives you a new Pokémon, including evolutions that chain through uncaught stages.
+  * If you have dexsanity, the left column instead shows evolutions that are guaranteed to lead you to a Dexsanity-Check-Pokémon, and the right column shows the new Pokémon.
 * Auto Tabbing
 
 ## Known Issues

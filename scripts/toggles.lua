@@ -56,6 +56,14 @@ function vtoggle_splitmap()
     end
 end
 
+function toggle_inlogic()
+    if inlogic_split() then
+        Tracker:AddLayouts("layouts/inlogic/inlogic_split.json")
+    else
+        Tracker:AddLayouts("layouts/inlogic/inlogic_new.json")
+    end
+end
+
 function toggle_trackerlayout()
     local suffix = ""
    

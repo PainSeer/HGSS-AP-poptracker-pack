@@ -31,6 +31,21 @@ ScriptHost:AddWatchForCode("search_growlithe_active", "search_growlithe_active",
 ScriptHost:AddWatchForCode("search_vulpix_active", "search_vulpix_active", searchVulpix)
 ScriptHost:AddWatchForCode("search_pichu_active", "search_pichu_active", searchPichu)
 ScriptHost:AddWatchForCode("search_reset_complete", "search_reset_complete", searchReset)
+ScriptHost:AddWatchForCode("opt_dexsanity", "opt_dexsanity", toggle_inlogic)
+
+-- In Logic Tab
+ScriptHost:AddWatchForCode("inlogic_dirty", "*", function(code)
+    if code:sub(1, 8) ~= "inlogic_" then
+        INLOGIC_DIRTY = true
+    end
+end)
+
+ScriptHost:AddOnFrameHandler("inlogic_flush", function()
+    if INLOGIC_DIRTY then
+        INLOGIC_DIRTY = false
+        syncInLogic()
+    end
+end)
 
 -- Other
 ScriptHost:AddWatchForCode("hint_tracking", "hint_tracking", toggleHints)
