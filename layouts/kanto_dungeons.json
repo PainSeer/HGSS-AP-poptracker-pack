@@ -13,50 +13,6 @@
         }
       },
       {
-        "title": "Rock Tunnel",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "1F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "rocktunnel1f"
-                ]
-              }
-            },
-            {
-              "title": "B1F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "rocktunnelb1f"
-                ]
-              }
-            }
-          ]
-        }
-      },
-      {
-        "title": "Diglett's Cave",
-        "content": {
-          "type": "map",
-          "maps": [
-            "diglettscave"
-          ]
-        }
-      },
-      {
-        "title": "Underground Path",
-        "content": {
-          "type": "map",
-          "maps": [
-            "undergroundpath"
-          ]
-        }
-      },
-      {
         "title": "Mt. Moon",
         "content": {
           "type": "tabbed",
@@ -83,7 +39,25 @@
         }
       },
       {
-        "title": "Cerulean Cave",
+        "title": "Underground Path",
+        "content": {
+          "type": "map",
+          "maps": [
+            "undergroundpath"
+          ]
+        }
+      },
+      {
+        "title": "Diglett's Cave",
+        "content": {
+          "type": "map",
+          "maps": [
+            "diglettscave"
+          ]
+        }
+      },
+      {
+        "title": "Rock Tunnel",
         "content": {
           "type": "tabbed",
           "tabs": [
@@ -92,16 +66,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "ceruleancave1f"
-                ]
-              }
-            },
-            {
-              "title": "2F",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "ceruleancave2f"
+                  "rocktunnel1f"
                 ]
               }
             },
@@ -110,7 +75,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "ceruleancaveb1f"
+                  "rocktunnelb1f"
                 ]
               }
             }
@@ -173,6 +138,41 @@
                 "type": "map",
                 "maps": [
                   "seafoamislandsb4f"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Cerulean Cave",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancave1f"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancave2f"
+                ]
+              }
+            },
+            {
+              "title": "B1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "ceruleancaveb1f"
                 ]
               }
             }
