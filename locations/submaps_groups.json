@@ -320,7 +320,7 @@
                 {"name": "Gift from Sleepy Man", "ref": "Route 31/Gift from Sleepy Man"}
                 ]
             }, 
-            {"name": "Rocket Grunt", "map_locations": [{"map": "route24", "x": 216 , "y": 256}], "sections": [
+            {"name": "Rocket Grunt", "map_locations": [{"map": "route24", "x": 216 , "y": 240}], "sections": [
                 {"name": "Defeat the grunt on Nugget Bridge (Event)", "ref": "Route 24/Defeat the grunt on Nugget Bridge (Event)"},
                 {"name": "Team Rocket Grunt from Gym", "ref": "Route 24/Team Rocket Grunt from Gym"}
                 ]
