@@ -611,9 +611,8 @@
             ]
         },
         {
-            "name": "Route 42 Encounters",
+            "name": "Route 42 East Encounters",
             "map_locations": [
-            { "map": "route42_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
             { "map": "route42_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -622,6 +621,17 @@
             { "name": "Night", "ref": "Route 42/Encounter (Night)" },
             { "name": "Hoenn", "ref": "Route 42/Encounters (Hoenn)" },
             { "name": "Sinnoh", "ref": "Route 42/Encounters (Sinnoh)" },
+            { "name": "Surf, Any Rod", "ref": "Route 42/Encounter (Surf, Any Rod)" },
+            { "name": "Surf, Super Rod", "ref": "Route 42/Encounter (Surf, Super Rod)" },
+            { "name": "Any Rod", "ref": "Route 42/Encounter (Any Rod)" }
+            ]
+        },
+        {
+            "name": "Route 42 West Encounters",
+            "map_locations": [
+            { "map": "route42_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
             { "name": "Surf, Any Rod", "ref": "Route 42/Encounter (Surf, Any Rod)" },
             { "name": "Surf, Super Rod", "ref": "Route 42/Encounter (Surf, Super Rod)" },
             { "name": "Any Rod", "ref": "Route 42/Encounter (Any Rod)" }
