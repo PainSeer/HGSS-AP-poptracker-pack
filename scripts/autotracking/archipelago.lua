@@ -236,7 +236,7 @@ function onClear(slot_data)
             KEY2       = makeID("tracked_unrandomized_required_locations_", "_1"),
             KEY3       = makeID("tracked_unrandomized_required_locations_", "_2"),
             KEY4       = makeID("tracked_unrandomized_required_locations_", "_3"),
-            HINT       = makeID("_read_hints_", ""),
+            HINT       = "_read_hints_" .. slot,
         }
         
         for _, id in pairs(IDs) do
