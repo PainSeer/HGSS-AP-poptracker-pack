@@ -169,7 +169,7 @@
                 {"name": "Fast Ball from Kurt", "ref": "Azalea Town/Kurt's House - Fast Ball from Kurt"}
                 ]
             }, 
-            {"name": "Celadon Condominiums", "map_locations": [{"map": "celadoncity", "x": 552 , "y": 208}], "sections": [
+            {"name": "Celadon Condominiums", "map_locations": [{"map": "celadoncity", "x": 552 , "y": 210}], "sections": [
                 {"name": "GB Sounds from Sound Designer", "ref": "Celadon City/Condominiums 3F - GB Sounds from Sound Designer"},
                 {"name": "Gift after Man's Scary Story", "ref": "Celadon City/Condominiums 4F - Gift after Man's Scary Story"}
                 ]
@@ -273,7 +273,7 @@
                 {"name": "Reward after Defeating the Kimono Girls (SoulSilver)\u200b", "ref": "Ecruteak City/Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)\u200b"}
                 ]
             }, 
-            {"name": "Pokemon Fan Club", "map_locations": [{"map": "vermilioncity", "x": 216 , "y": 352}], "sections": [
+            {"name": "Pokemon Fan Club", "map_locations": [{"map": "vermilioncity", "x": 214 , "y": 352}], "sections": [
                 {"name": "Item from Fan Club Chairman", "ref": "Vermilion City/Item from Fan Club Chairman"},
                 {"name": "Item from Fan Club Member", "ref": "Vermilion City/Item from Fan Club Member"},
                 {"name": "Item from Fan Club Member\u200b", "ref": "Vermilion City/Item from Fan Club Member\u200b"}
@@ -471,7 +471,7 @@
                 {"name": "Gift from Misty", "ref": "Cerulean City/Gym - Gift from Misty"}
                 ]
             }, 
-            {"name": "Vermilion City Gym", "map_locations": [{"map": "vermilioncity", "x": 248 , "y": 510}], "sections": [
+            {"name": "Vermilion City Gym", "map_locations": [{"map": "vermilioncity", "x": 252 , "y": 510}], "sections": [
                 {"name": "Juggler Horton", "ref": "Vermilion City/Gym - Juggler Horton"},
                 {"name": "Guitarist Vincent", "ref": "Vermilion City/Gym - Guitarist Vincent"},
                 {"name": "Gentleman Gregory", "ref": "Vermilion City/Gym - Gentleman Gregory"},
@@ -482,7 +482,7 @@
                 {"name": "Gift from Lt. Surge", "ref": "Vermilion City/Gym - Gift from Lt. Surge"}
                 ]
             },
-            {"name": "Celadon City Gym", "map_locations": [{"map": "celadoncity", "x": 280 , "y": 668}], "sections": [
+            {"name": "Celadon City Gym", "map_locations": [{"map": "celadoncity", "x": 280 , "y": 670}], "sections": [
                 {"name": "Lass Michelle", "ref": "Celadon City/Gym - Lass Michelle"},
                 {"name": "Twins Jo & Zoe", "ref": "Celadon City/Gym - Twins Jo & Zoe"},
                 {"name": "Picnicker Tanya", "ref": "Celadon City/Gym - Picnicker Tanya"},
@@ -494,7 +494,7 @@
                 {"name": "Gift from Erika", "ref": "Celadon City/Gym - Gift from Erika"}
                 ]
             },
-            {"name": "Fuchsia City Gym", "map_locations": [{"map": "fuchsiacity", "x": 184 , "y": 878}], "sections": [
+            {"name": "Fuchsia City Gym", "map_locations": [{"map": "fuchsiacity", "x": 184 , "y": 656}], "sections": [
                 {"name": "Picnicker Cindy", "ref": "Fuchsia City/Gym - Picnicker Cindy"},
                 {"name": "Camper Barry", "ref": "Fuchsia City/Gym - Camper Barry"},
                 {"name": "Lass Linda", "ref": "Fuchsia City/Gym - Lass Linda"},
@@ -1564,7 +1564,7 @@
                 {"name": "Iron Plate from Captain", "ref": "S.S. Aqua/1F Captain's Cabin - Iron Plate from Captain"}
                 ]
             },
-            {"name": "S.S. Aqua to Olivine", "map_locations": [{"map": "vermilioncity", "x": 648 , "y": 1055}], "sections": [
+            {"name": "S.S. Aqua to Olivine", "map_locations": [{"map": "vermilioncity", "x": 650 , "y": 1064}], "sections": [
                 {"name": "Pokefan Georgia", "ref": "S.S. Aqua/Westbound 1F Northwest Rooms - Pokefan Georgia"},
                 {"name": "Pokefan Jeremy", "ref": "S.S. Aqua/Westbound 1F Northwest Rooms - Pokefan Jeremy"},
                 {"name": "Pokefan Colin", "ref": "S.S. Aqua/1F Northwest Rooms - Pokefan Colin"},
