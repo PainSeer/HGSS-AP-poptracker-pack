@@ -1531,9 +1531,8 @@
             ]
         },
         {
-            "name": "Route 9 Encounters",
+            "name": "Route 9 East Encounters",
             "map_locations": [
-            { "map": "route9_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
             { "map": "route9_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -1544,6 +1543,18 @@
             { "name": "Surf, Any Rod", "ref": "Route 9/Encounter (Surf, Any Rod)" },
             { "name": "Surf, Super Rod", "ref": "Route 9/Encounter (Surf, Super Rod)" },
             { "name": "Any Rod", "ref": "Route 9/Encounter (Any Rod)" }
+            ]
+        },
+        {
+            "name": "Route 9 West Encounters",
+            "map_locations": [
+            { "map": "route9_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Route 9/Encounters (Land)" },
+            { "name": "Morning, Day", "ref": "Route 9/Encounters (Morning, Day)" },
+            { "name": "Hoenn", "ref": "Route 9/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 9/Encounters (Sinnoh)" }
             ]
         },
         {
