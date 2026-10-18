@@ -325,7 +325,7 @@
                 {"name": "Team Rocket Grunt from Gym", "ref": "Route 24/Team Rocket Grunt from Gym"}
                 ]
             }, 
-            {"name": "Rival", "map_locations": [{"map": "mtmooncave", "x": 120 , "y": 88}], "sections": [
+            {"name": "Rival", "map_locations": [{"map": "mtmooncave", "x": 184 , "y": 88}], "sections": [
                 {"name": "Defeated Mt. Moon Rival (Event)", "ref": "Mt. Moon/Defeated Mt. Moon Rival (Event)"},
                 {"name": "Rival", "ref": "Mt. Moon/Rival"}
                 ]
@@ -1314,7 +1314,7 @@
                 {"name": "Item after Clefairy Event\u200b", "ref": "Mt. Moon/Square - Item after Clefairy Event\u200b"}
                 ]
             }, 
-            {"name": "Mt. Moon Square", "map_locations": [{"map": "mtmooncave", "x": 297 , "y": 84}], "sections": [
+            {"name": "Mt. Moon Square", "map_locations": [{"map": "mtmooncave", "x": 296 , "y": 84}], "sections": [
                 {"name": "Hidden Item in Trees", "ref": "Mt. Moon/Square - Hidden Item in Trees"},
                 {"name": "Item after Clefairy Event", "ref": "Mt. Moon/Square - Item after Clefairy Event"},
                 {"name": "Item after Clefairy Event\u200b", "ref": "Mt. Moon/Square - Item after Clefairy Event\u200b"}
@@ -1347,7 +1347,7 @@
                 {"name": "Hidden Item Behind Southeast Breakable Rocks", "ref": "Rock Tunnel/B1F - Hidden Item Behind Southeast Breakable Rocks"}
                 ]
             },
-            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 120 , "y": 340}, {"map": "route20_w", "x": 920 , "y": 244}], "sections": [
+            {"name": "Seafoam Islands", "map_locations": [{"map": "route20_e", "x": 121 , "y": 342}, {"map": "route20_w", "x": 919 , "y": 244}], "sections": [
                 {"name": "Hidden Item Against North Wall", "ref": "Seafoam Islands/Entrance - Hidden Item Against North Wall"},
                 {"name": "Item by North Wall", "ref": "Seafoam Islands/B1F - Item by North Wall"},
                 {"name": "Hidden Item in Central Snow Patch", "ref": "Seafoam Islands/B1F - Hidden Item in Central Snow Patch"},
