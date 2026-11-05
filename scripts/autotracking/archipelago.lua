@@ -436,6 +436,8 @@ function updateEvents(register, value)
         local bit = (value >> (i - 1)) & 1
         Tracker:FindObjectForCode(code).Active = (bit == 1)
     end
+    
+    syncKurtFromSlowpokeWell()
 end
 
 --function updateRoadblock(value)
