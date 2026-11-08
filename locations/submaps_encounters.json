@@ -890,9 +890,9 @@
         {
             "name": "Cliff Cave Encounters",
             "map_locations": [
-            { "map": "cliffcave", "size": 32, "x": 54, "y": 52, "shape": "diamond" },
-			{ "map": "cliffcave", "size": 32, "x": 492, "y": 177, "shape": "diamond" },
-			{ "map": "cliffcave", "size": 32, "x": 994, "y": 52, "shape": "diamond" }
+            { "map": "cliffcave", "size": 24, "x": 26, "y": 26, "shape": "diamond" },
+			{ "map": "cliffcave", "size": 24, "x": 250, "y": 92, "shape": "diamond" },
+			{ "map": "cliffcave", "size": 24, "x": 502, "y": 26, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 47/Cliff Cave - Encounters (Land)" },

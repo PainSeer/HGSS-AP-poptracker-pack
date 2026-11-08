@@ -390,7 +390,7 @@
                 {"name": "Gift from Whitney", "ref": "Goldenrod City/Gym - Gift from Whitney"}
                 ]
             },
-            {"name": "Ecruteak City Gym", "map_locations": [{"map": "ecruteakcity", "x": 392 , "y": 878}], "sections": [
+            {"name": "Ecruteak City Gym", "map_locations": [{"map": "ecruteakcity", "x": 328 , "y": 708}], "sections": [
                 {"name": "Medium Georgina", "ref": "Ecruteak City/Gym - Medium Georgina"},
                 {"name": "Medium Grace", "ref": "Ecruteak City/Gym - Medium Grace"},
                 {"name": "Medium Edith", "ref": "Ecruteak City/Gym - Medium Edith"},
@@ -402,7 +402,7 @@
                 {"name": "Gift from Morty", "ref": "Ecruteak City/Gym - Gift from Morty"}
                 ]
             }, 
-            {"name": "Olivine City Gym", "map_locations": [{"map": "olivinecity", "x": 218 , "y": 222}], "sections": [
+            {"name": "Olivine City Gym", "map_locations": [{"map": "olivinecity", "x": 216 , "y": 222}], "sections": [
                 {"name": "Defeat Jasmine (Event)", "ref": "Olivine City/Gym - Defeat Jasmine (Event)"},
                 {"name": "Leader Jasmine", "ref": "Olivine City/Gym - Leader Jasmine"},
                 {"name": "Badge from Jasmine", "ref": "Olivine City/Gym - Badge from Jasmine"},
@@ -471,7 +471,7 @@
                 {"name": "Gift from Misty", "ref": "Cerulean City/Gym - Gift from Misty"}
                 ]
             }, 
-            {"name": "Vermilion City Gym", "map_locations": [{"map": "vermilioncity", "x": 252 , "y": 510}], "sections": [
+            {"name": "Vermilion City Gym", "map_locations": [{"map": "vermilioncity", "x": 248 , "y": 510}], "sections": [
                 {"name": "Juggler Horton", "ref": "Vermilion City/Gym - Juggler Horton"},
                 {"name": "Guitarist Vincent", "ref": "Vermilion City/Gym - Guitarist Vincent"},
                 {"name": "Gentleman Gregory", "ref": "Vermilion City/Gym - Gentleman Gregory"},
@@ -868,7 +868,7 @@
                 {"name": "Item by Staircase", "ref": "Goldenrod Dept. Store/B1F - Item by Staircase"}
                 ]
             },
-            {"name": "Dance Theater", "map_locations": [{"map": "ecruteakcity", "x": 728 , "y": 720}], "sections": [
+            {"name": "Dance Theater", "map_locations": [{"map": "ecruteakcity", "x": 662 , "y": 550}], "sections": [
                 {"name": "Team Rocket Grunt on Stage", "ref": "Ecruteak City/Dance Theater - Team Rocket Grunt on Stage"},
                 {"name": "Defend the Dance Theater from Team Rocket (Event)", "ref": "Ecruteak City/Dance Theater - Defend the Dance Theater from Team Rocket (Event)"},
                 {"name": "Gift from Theater's Owner", "ref": "Ecruteak City/Dance Theater - Gift from Theater's Owner"},
@@ -884,7 +884,7 @@
                 {"name": "Reward after Defeating the Kimono Girls (SoulSilver)\u200b", "ref": "Ecruteak City/Dance Theater - Reward after Defeating the Kimono Girls (SoulSilver)\u200b"}
                 ]
             }, 
-            {"name": "Burned Tower", "map_locations": [{"map": "ecruteakcity", "x": 392 , "y": 304}], "sections": [
+            {"name": "Burned Tower", "map_locations": [{"map": "ecruteakcity", "x": 327 , "y": 134}], "sections": [
                 {"name": "Hidden Item by Breakable Rock", "ref": "Burned Tower/1F - Hidden Item by Breakable Rock"},
                 {"name": "Item Behind Breakable Rock", "ref": "Burned Tower/1F - Item Behind Breakable Rock"},
                 {"name": "Firebreather Richard", "ref": "Burned Tower/1F - Firebreather Richard"},
@@ -898,7 +898,7 @@
                 {"name": "Hidden Item on South Rock", "ref": "Burned Tower/B1F - Hidden Item on South Rock"}
                 ]
             }, 
-            {"name": "Bell Tower", "map_locations": [{"map": "ecruteakcity", "x": 648 , "y": 400}], "sections": [
+            {"name": "Bell Tower", "map_locations": [{"map": "ecruteakcity", "x": 583 , "y": 228}], "sections": [
                 {"name": "Hidden Item in North Trees (Left)", "ref": "Bell Tower/Bellchime Trail - Hidden Item in North Trees (Left)"},
                 {"name": "Hidden Item in North Trees (Center)", "ref": "Bell Tower/Bellchime Trail - Hidden Item in North Trees (Center)"},
                 {"name": "Hidden Item in North Trees (Right)", "ref": "Bell Tower/Bellchime Trail - Hidden Item in North Trees (Right)"},
