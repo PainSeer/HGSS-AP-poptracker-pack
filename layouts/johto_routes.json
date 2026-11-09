@@ -244,9 +244,26 @@
       {
         "title": "Route 39",
         "content": {
-          "type": "map",
-          "maps": [
-            "route39"
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Route",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route39"
+                ]
+              }
+            },
+            {
+              "title": "MooMoo Farm",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "moomoofarm"
+                ]
+              }
+            }
           ]
         }
       },
