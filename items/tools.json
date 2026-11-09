@@ -78,7 +78,7 @@
         "stages": [
             {
                 "name": "Trainer Tips - OFF",
-                "img": "/images/remp.png",
+                "img": "/images/temp.png",
                 "img_mods": "@disabled",
                 "codes": "trainertips, trainertips_off",
                 "inherit_codes": false
