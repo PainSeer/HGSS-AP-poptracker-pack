@@ -70,6 +70,28 @@
             }
         ]
     },
+	{
+        "name": "Trainer Tips",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Trainer Tips - OFF",
+                "img": "/images/temp.png",
+                "img_mods": "@disabled",
+                "codes": "trainertips, trainertips_off",
+                "inherit_codes": false
+            },
+			{
+                "name": "Trainer Tips - ON",
+                "img": "/images/temp.png",
+                "codes": "trainertips, trainertips_on",
+                "inherit_codes": false
+            },
+
+        ]
+    },
     {
         "name": "Split Map",
         "type": "progressive",
