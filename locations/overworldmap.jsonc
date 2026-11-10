@@ -18548,44 +18548,6 @@
         ]
     },
     {
-        "name": "Lower Lake of Rage's Water",
-        "sections": [
-            {
-                "name": "A Shiny Gyarados will appear after Mahogany Hideout",
-                "access_rules": [
-                    "{}"
-                ],
-                "visibility_rules": [
-                    "trainertips_on"
-                ],
-                "hosted_item": "event_access_low_tide_dialogue_hosted"
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "johtokanto",
-                "x": 276,
-                "y": 96,
-                "size": 8,
-                "shape": "triangle"
-            },
-            {
-                "map": "johtokanto_v",
-                "x": 276,
-                "y": 96,
-                "size": 8,
-                "shape": "triangle"
-            },
-            {
-                "map": "johto",
-                "x": 276,
-                "y": 96,
-                "size": 8,
-                "shape": "triangle"
-            }
-        ]
-    },
-    {
         "name": "Route 44",
         "chest_unopened_img": "/images/locations/ball.png",
         "chest_opened_img": "/images/locations/ballopened.png",

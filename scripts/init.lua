@@ -60,6 +60,7 @@ Tracker:AddLocations("locations/submaps_groups.json")
 Tracker:AddLocations("locations/submaps_encounters.json")
 Tracker:AddLocations("locations/pokedex.json")
 Tracker:AddLocations("locations/dexsanity.json")
+Tracker:AddLocations("locations/trainertips.json")
 
 -- AutoTracking for Poptracker
 require("scripts/autotracking/archipelago")
