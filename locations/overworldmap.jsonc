@@ -13612,7 +13612,7 @@
                 ],
                 "hosted_item": "event_ruin_mistys_date_hosted"
             },
-			            {
+			{
                 "name": "Cottage - Item from Bill's Grandfather for Showing Jigglypuff (HeartGold) or Lickitung (SoulSilver)",
 				"chest_unopened_img": "/images/gifts/old_man_closed.png",
                 "chest_opened_img": "/images/gifts/old_man_opened.png",
@@ -13621,7 +13621,33 @@
                     "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
+                    "show_items, opt_npcgifts_on, trainertips_on"
+                ],
+                "item_count": 1
+            },
+			{
+                "name": "Cottage - Item from Bill's Grandfather for Showing Jigglypuff",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                "show_items, opt_npcgifts_on, pokemon_heartgold, trainertips_off"
+                ],
+                "item_count": 1
+            },
+			{
+                "name": "Cottage - Item from Bill's Grandfather for Showing Lickitung",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                "show_items, opt_npcgifts_on, pokemon_soulsilver, trainertips_off"
                 ],
                 "item_count": 1
             },
@@ -13658,7 +13684,33 @@
                     "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
+                    "show_items, opt_npcgifts_on, trainertips_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Marill",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on, pokemon_heartgold, trainertips_off"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Staryu",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on, pokemon_soulsilver, trainertips_off"
                 ],
                 "item_count": 1
             },
@@ -13669,7 +13721,29 @@
                     "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_off, show_vanencevo"
+                    "show_items, opt_npcgifts_off, show_vanencevo, trainertips_on"
+                ],
+                "hosted_item": "waterstone_hosted"
+            },
+                        {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Marill\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo, pokemon_heartgold, trainertips_off"
+                ],
+                  "hosted_item": "waterstone_hosted"
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Staryu\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo, pokemon_soulsilver, trainertips_off"
                 ],
                 "hosted_item": "waterstone_hosted"
             },
@@ -13682,7 +13756,33 @@
                     "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_on"
+                    "show_items, opt_npcgifts_on, trainertips_on"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on, trainertips_off, pokemon_heartgold"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Vulpix",
+				"chest_unopened_img": "/images/gifts/old_man_closed.png",
+                "chest_opened_img": "/images/gifts/old_man_opened.png",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_on, trainertips_off, pokemon_soulsilver"
                 ],
                 "item_count": 1
             },
@@ -13693,7 +13793,29 @@
                     "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
                 ],
                 "visibility_rules": [
-                    "show_items, opt_npcgifts_off, show_vanencevo"
+                    "show_items, opt_npcgifts_off, show_vanencevo, trainertips_on"
+                ],
+                "hosted_item": "firestone_hosted"
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Growlithe\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo, trainertips_off, pokemon_heartgold"
+                ],
+                "hosted_item": "firestone_hosted"
+            },
+            {
+                "name": "Cottage - Item from Bill's Grandfather for Showing Vulpix\u200b",
+                "access_rules": [
+                    "@route_25_sea_cottage, ^$has_mon|39, ^$has_mon|43, ^$has_mon|183, ^$has_mon|58, pokemon_heartgold",
+                    "@route_25_sea_cottage, ^$has_mon|108, ^$has_mon|43, ^$has_mon|120, ^$has_mon|37, pokemon_soulsilver"
+                ],
+                "visibility_rules": [
+                    "show_items, opt_npcgifts_off, show_vanencevo, trainertips_off, pokemon_soulsilver"
                 ],
                 "hosted_item": "firestone_hosted"
             },
