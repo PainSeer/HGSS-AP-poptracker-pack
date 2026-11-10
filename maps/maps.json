@@ -714,6 +714,12 @@
         "img": "images/maps/route25_w.png"
     },
     {
+        "name": "seacottage",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/seacottage.png"
+    },
+    {
         "name": "route26_n",
         "location_size": 14,
         "location_border_thickness": 2,
@@ -1330,6 +1336,12 @@
         "location_size": 14,
         "location_border_thickness": 2,
         "img": "images/maps/tohjofalls.png"
+    },
+    {
+        "name": "receptiongate",
+        "location_size": 14,
+        "location_border_thickness": 2,
+        "img": "images/maps/receptiongate.png"
     },
     {
         "name": "victoryroad1f",

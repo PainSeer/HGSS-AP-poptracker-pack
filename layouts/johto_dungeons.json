@@ -463,6 +463,15 @@
           "type": "tabbed",
           "tabs": [
             {
+              "title": "Reception Gate",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "receptiongate"
+                ]
+              }
+            },
+            {
               "title": "1F",
               "content": {
                 "type": "map",

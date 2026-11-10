@@ -419,6 +419,15 @@
                   "route25_e"
                 ]
               }
+            },
+            {
+              "title": "Sea Cottage",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "seacottage"
+                ]
+              }
             }
           ]
         }
