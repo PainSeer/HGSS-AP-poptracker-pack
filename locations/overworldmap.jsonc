@@ -17402,19 +17402,19 @@
         "map_locations": [
             {
                 "map": "johtokanto",
-                "x": 138,
+                "x": 137,
                 "y": 132,
                 "size": 8
             },
             {
                 "map": "johtokanto_v",
-                "x": 138,
+                "x": 137,
                 "y": 132,
                 "size": 8
             },
             {
                 "map": "johto",
-                "x": 138,
+                "x": 137,
                 "y": 132,
                 "size": 8
             }

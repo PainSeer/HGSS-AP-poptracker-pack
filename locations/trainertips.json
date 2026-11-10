@@ -3,7 +3,7 @@
         "name": "Lower Lake of Rage's Water",
         "sections": [
             {
-                "name": "A Shiny Gyarados will appear after Mahogany Hideout",
+                "name": "Talk to the shiny Gyarados after Mahogany Hideout",
                 "access_rules": [
                     "{}"
                 ],
@@ -42,13 +42,70 @@
                 "size": 16,
                 "shape": "triangle"
             },
-                        {
+            {
                 "map": "mahoganytown",
                 "x": 208,
                 "y": 62,
                 "size": 16,
                 "shape": "triangle"
             },
+        ]
+    },
+    {
+        "name": "Feed Oran Berries to Miltank",
+        "sections": [
+            {
+                "name": "Buy more in the basement of any Pokemon Center",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on, opt_items_shop_in_ap_helper_on"
+                ],
+            },
+			{
+                "name": "Buy more in the Goldenrod Dept. Store",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on, opt_items_shop_in_ap_helper_off"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 120,
+                "y": 115,
+                "size": 8,
+                "shape": "triangle"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 120,
+                "y": 115,
+                "size": 8,
+                "shape": "triangle"
+            },
+            {
+                "map": "johto",
+                "x": 120,
+                "y": 115,
+                "size": 8,
+                "shape": "triangle"
+            },
+            {
+                "map": "moomoofarm",
+                "x": 110,
+                "y": 62,
+                "size": 16,
+                "shape": "triangle"
+            }
         ]
     },
 ]
