@@ -83,17 +83,118 @@
                         "margin": "-4,0,0,0",
                         "h_alignment": "center",
                         "rows": [
-                            [
-                                "search_magikarp",
-                                "search_chansey",
-                                "search_jigglypuff",
-                                "search_oddish"
-                            ],
-                            [
-                                "search_marill",
-                                "search_growlithe",
-                                "search_pichu"
-                            ]
+							[
+								"search_magikarp",
+								"search_chansey",
+								"search_jigglypuff",
+								"search_oddish"
+							],
+							[
+								"search_marill",
+								"search_growlithe",
+								"search_pichu"
+							]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "v_dexsearch_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "5,2,0,0",
+                "content": [
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "21,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexentrytop"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "21,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexentryleft"
+                            },
+                            {
+                                "type": "item",
+                                "item": "search_ID_result"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dexentryright"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "21,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexentrybottom"
+                            },
+							{
+								"type": "itemgrid",
+								"item_margin": "0,0",
+								"item_size": "32,32",
+								"margin": "4,-64,0,-64",
+								"h_alignment": "center",
+								"rows": [
+									[
+										"search_magikarp",
+										"search_chansey",
+										"search_jigglypuff",
+										"search_oddish"
+									],
+									[
+										"search_marill",
+										"search_growlithe",
+										"search_pichu"
+									]
+								]
+							}
+                        ]
+                    },
+                    {
+                        "type": "array",
+                        "orientation": "horizontal",
+                        "margin": "14,0",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "dexsearch_digit1"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dexsearch_digit2"
+                            },
+                            {
+                                "type": "item",
+                                "item": "dexsearch_digit3"
+                            },
+                            {
+                                "type": "itemgrid",
+                                "margin": "0,0,0,0",
+                                "item_margin":"0,-4",
+                                "rows": [
+                                    ["search_reset"],
+                                    ["go"]]
+                            }
                         ]
                     }
                 ]

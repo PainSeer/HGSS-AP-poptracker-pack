@@ -101,7 +101,7 @@
                                 "type": "layout",
                                 "h_alignment": "center",
                                 "alignment": "center",
-                                "key": "dexsearch_grid"
+                                "key": "v_dexsearch_grid"
                             }
                         }
                     ]
