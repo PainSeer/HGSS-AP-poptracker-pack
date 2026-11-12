@@ -19,28 +19,32 @@
                 "x": 276,
                 "y": 96,
                 "size": 8,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "west"
             },
             {
                 "map": "johtokanto_v",
                 "x": 276,
                 "y": 96,
                 "size": 8,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "west"
             },
             {
                 "map": "johto",
                 "x": 276,
                 "y": 96,
                 "size": 8,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "west"
             },
             {
                 "map": "route43",
                 "x": 208,
                 "y": 1000,
                 "size": 16,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "south"
             },
             {
                 "map": "mahoganytown",
@@ -55,7 +59,7 @@
         "name": "Feed Oran Berries to Miltank",
         "sections": [
             {
-                "name": "Buy more in the basement of any Pokemon Center",
+                "name": "Buy more in the basement of any Pokemon Center after receiving one",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
@@ -83,29 +87,437 @@
                 "x": 120,
                 "y": 115,
                 "size": 8,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "east"
             },
             {
                 "map": "johtokanto_v",
                 "x": 120,
                 "y": 115,
                 "size": 8,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "east"
             },
             {
                 "map": "johto",
                 "x": 120,
                 "y": 115,
                 "size": 8,
-                "shape": "triangle"
+                "shape": "triangle",
+				"orientation": "east"
             },
             {
                 "map": "moomoofarm",
                 "x": 110,
                 "y": 62,
                 "size": 16,
+                "shape": "triangle",
+				"orientation": "south"
+            }
+        ]
+    },
+   {
+        "name": "How to use Pokesearch",
+        "sections": [
+            {
+                "name": "Enter the Pokedex number of the Pokemon you want to find and click search",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 20,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 20,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "johto",
+                "x": 20,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "kanto",
+                "x": 304,
+                "y": 300,
+                "size": 20,
                 "shape": "triangle"
             }
         ]
     },
+   {
+        "name": "How to Change the Time of Day",
+        "sections": [
+            {
+                "name": "Press SELECT, then choose Time",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 44,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 44,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "johto",
+                "x": 44,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "kanto",
+                "x": 328,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            }
+        ]
+    },
+   {
+        "name": "How Hoenn and Sinnoh Ecounters Work",
+        "sections": [
+            {
+                "name": "FIGURE OUT BETTER WAY TO SAY THIS THATS SHORTER",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 68,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 68,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "johto",
+                "x": 68,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            },
+            {
+                "map": "kanto",
+                "x": 352,
+                "y": 300,
+                "size": 20,
+                "shape": "triangle"
+            }
+        ]
+    },
+   {
+        "name": "Reception Gate Kanto Access",
+        "sections": [
+            {
+                "name": "The guard in the Reception Gate only moves if you have visited Viridian City",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 468,
+                "y": 156,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "west"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 93,
+                "y": 476,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "west"
+            },
+            {
+                "map": "johto",
+                "x": 468,
+                "y": 156,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "west"
+            },
+            {
+                "map": "kanto",
+                "x": 92,
+                "y": 156,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "west"
+            },
+			{
+                "map": "receptiongate",
+                "x": 240,
+                "y": 80,
+                "size": 16,
+                "shape": "triangle",
+				"orientation": "south"
+            }
+        ]
+    },
+   {
+        "name": "Sleeping Snorlax",
+        "sections": [
+            {
+                "name": "Find the Pokeflute channel on the radio after obtaining both Radio Cards",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 697,
+                "y": 172,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "south"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 322,
+                "y": 492,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "south"
+            },
+            {
+                "map": "kanto",
+                "x": 321,
+                "y": 172,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "south"
+            },
+			{
+                "map": "route11",
+                "x": 185,
+                "y": 236,
+                "size": 16,
+                "shape": "triangle",
+				"orientation": "south"
+            }
+        ]
+    },
+   {
+        "name": "Showing off your Chansey",
+        "sections": [
+            {
+                "name": "Chansey must be your walking Pokemon!",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 669,
+                "y": 232,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "east"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 294,
+                "y": 548,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "east"
+            },
+            {
+                "map": "kanto",
+                "x": 293,
+                "y": 230,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "east"
+            },
+			{
+                "map": "route14",
+                "x": 72,
+                "y": 40,
+                "size": 16,
+                "shape": "triangle",
+				"orientation": "south"
+            }
+        ]
+    },
+   {
+        "name": "Surfing in New Bark Town",
+        "sections": [
+            {
+                "name": "Met Ho-Oh at the top of Bell Tower first!",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on, pokemon_heartgold"
+                ],
+            },
+            {
+                "name": "Met Lugia in the Whirl Islands first!",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on, pokemon_soulsilver"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 344,
+                "y": 216,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "south"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 344,
+                "y": 216,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "south"
+            },
+            {
+                "map": "johto",
+                "x": 344,
+                "y": 216,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "south"
+            },
+			{
+                "map": "newbarktown",
+                "x": 469,
+                "y": 264,
+                "size": 16,
+                "shape": "triangle",
+				"orientation": "east"
+            }
+        ]
+    },
+   {
+        "name": "Radio Tower Takeover Upper Floors",
+        "sections": [
+            {
+                "name": "Find the disguise in the Goldenrod Tunnel",
+                "chest_unopened_img": "/images/temp.png",
+                "chest_opened_img": "/images/temp.png",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on, pokemon_heartgold"
+                ],
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 150,
+                "y": 228,
+                "size": 8,
+				"shape": "triangle"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 150,
+                "y": 228,
+                "size": 8,
+				"shape": "triangle"
+            },
+            {
+                "map": "johto",
+                "x": 150,
+                "y": 228,
+                "size": 8,
+				"shape": "triangle"
+            },
+			{
+                "map": "goldenrodradiotower1f",
+                "x": 376,
+                "y": 32,
+                "size": 16,
+                "shape": "triangle",
+				"orientation": "south"
+            }
+        ]
+    }
 ]
