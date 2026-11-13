@@ -59,7 +59,7 @@
         "name": "Feed Oran Berries to Miltank",
         "sections": [
             {
-                "name": "Buy more in the basement of any Pokemon Center after receiving one",
+                "name": "Buy more in the basement of any \nPokemon Center after receiving one",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
@@ -120,7 +120,7 @@
         "name": "How to use Pokesearch",
         "sections": [
             {
-                "name": "Enter the Pokedex number of the Pokemon you want to find and click search",
+                "name": "Enter the Pokedex number of the \nPokemon you want to find and click search",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
@@ -166,7 +166,7 @@
         "name": "How to Change the Time of Day",
         "sections": [
             {
-                "name": "Press SELECT, then choose Time",
+                "name": "Press SELECT, then choose 'Set Time'",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
@@ -209,10 +209,10 @@
         ]
     },
    {
-        "name": "How Hoenn and Sinnoh Ecounters Work",
+        "name": "How Hoenn and Sinnoh Encounters Work",
         "sections": [
             {
-                "name": "FIGURE OUT BETTER WAY TO SAY THIS THATS SHORTER",
+                "name": "Press SELECT, then choose 'Set Sound' \nPlay the music on the PokeGear Radio \nReplay the music after each encounter",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
@@ -258,7 +258,7 @@
         "name": "Reception Gate Kanto Access",
         "sections": [
             {
-                "name": "The guard in the Reception Gate only moves if you have visited Viridian City",
+                "name": "The guard in the Reception Gate only \nmoves if you have visited Viridian City",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
@@ -316,7 +316,7 @@
         "name": "Sleeping Snorlax",
         "sections": [
             {
-                "name": "Find the Pokeflute channel on the radio after obtaining both Radio Cards",
+                "name": "Find the Pokeflute channel on the radio \nafter obtaining both Radio Cards",
                 "chest_unopened_img": "/images/temp.png",
                 "chest_opened_img": "/images/temp.png",
                 "access_rules": [
