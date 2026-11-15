@@ -367,8 +367,8 @@
         "sections": [
             {
                 "name": "Chansey must be your walking Pokemon!",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/chansey.png",
+                "chest_opened_img": "/images/trainertips/chansey.png",
                 "access_rules": [
                     "{}"
                 ],
