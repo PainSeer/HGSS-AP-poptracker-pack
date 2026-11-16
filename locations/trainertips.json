@@ -60,8 +60,8 @@
         "sections": [
             {
                 "name": "Buy more in the basement of any \nPokemon Center after receiving one",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/ap_helper.png",
+                "chest_opened_img": "/images/trainertips/ap_helper.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -71,8 +71,8 @@
             },
 			{
                 "name": "Buy more in the Goldenrod Dept. Store",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/dept_store.png",
+                "chest_opened_img": "/images/trainertips/dept_store.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -121,8 +121,8 @@
         "sections": [
             {
                 "name": "Enter the Pokedex number of the \nPokemon you want to find and click search",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/pokesearch_mini.png",
+                "chest_opened_img": "/images/trainertips/pokesearch_mini.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -167,8 +167,8 @@
         "sections": [
             {
                 "name": "Press SELECT, then choose 'Set Time'",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/time.png",
+                "chest_opened_img": "/images/trainertips/time.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -213,8 +213,8 @@
         "sections": [
             {
                 "name": "Press SELECT, then choose 'Set Sound' \nPlay the music on the PokeGear Radio \nReplay the music after each encounter",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/sounds.png",
+                "chest_opened_img": "/images/trainertips/sounds.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -259,8 +259,8 @@
         "sections": [
             {
                 "name": "The guard in the Reception Gate only \nmoves if you have visited Viridian City",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/guard.png",
+                "chest_opened_img": "/images/trainertips/guard.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -317,8 +317,8 @@
         "sections": [
             {
                 "name": "Find the Pokeflute channel on the radio \nafter obtaining both Radio Cards",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/zzz.png",
+                "chest_opened_img": "/images/trainertips/zzz.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -417,8 +417,8 @@
         "sections": [
             {
                 "name": "Met Ho-Oh at the top of Bell Tower first!",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/ho_oh.png",
+                "chest_opened_img": "/images/trainertips/ho_oh.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -428,8 +428,8 @@
             },
             {
                 "name": "Met Lugia in the Whirl Islands first!",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/lugia.png",
+                "chest_opened_img": "/images/trainertips/lugia.png",
                 "access_rules": [
                     "{}"
                 ],
@@ -478,8 +478,8 @@
         "sections": [
             {
                 "name": "Find the disguise in the Goldenrod Tunnel",
-                "chest_unopened_img": "/images/temp.png",
-                "chest_opened_img": "/images/temp.png",
+                "chest_unopened_img": "/images/trainertips/disguise.png",
+                "chest_opened_img": "/images/trainertips/disguise.png",
                 "access_rules": [
                     "{}"
                 ],

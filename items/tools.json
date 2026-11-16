@@ -74,6 +74,7 @@
         "name": "Trainer Tips",
         "type": "progressive",
         "loop": true,
+        "initial_stage_idx": 1,
         "allow_disabled": false,
         "stages": [
             {
