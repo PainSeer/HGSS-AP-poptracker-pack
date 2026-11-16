@@ -63,6 +63,7 @@ MAP_MAPPING = {
 [114] = {"Johto Cities","Azalea Town","Slowpoke Well","Entrance"}, -- MAP_SLOWPOKE_WELL_ENTRANCE,
 [115] = {"Johto Cities","Olivine City","Lighthouse","1F"}, -- MAP_OLIVINE_LIGHTHOUSE_1F,
 [117] = {"Johto Dungeons","Ilex Forest"}, -- MAP_ILEX_FOREST,
+[117] = {"Johto Cities","Mahogany Town", "Rocket HQ","Souvenir Shop"}, -- MAP_MAHOGANY_SOUVENIR_SHOP,
 [119] = {"Johto Dungeons","Mt. Mortar","Entrance"}, -- MAP_MOUNT_MORTAR_1F_ENTRANCE,
 [120] = {"Johto Dungeons","Ice Path","1F"}, -- MAP_ICE_PATH_1F,
 [122] = {"Johto Dungeons","Mt. Silver","1F","Entrance"}, -- MAP_MOUNT_SILVER_CAVE_1F,

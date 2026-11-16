@@ -675,6 +675,15 @@
                 "type": "tabbed",
                 "tabs": [
                   {
+                    "title": "Souvenir Shop",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "souvenirshop"
+                      ]
+                    }
+                  },
+                  {
                     "title": "B1F",
                     "content": {
                       "type": "map",
