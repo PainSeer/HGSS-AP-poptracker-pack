@@ -7133,8 +7133,8 @@
             },
             {
                 "name": "2F - Super Nerd Hugh",
-                "chest_unopened_img": "/images/trainers/pokemaniac.png",
-                "chest_opened_img": "/images/trainers/pokemaniac_bw.png",
+                "chest_unopened_img": "/images/trainers/super_nerd.png",
+                "chest_opened_img": "/images/trainers/super_nerd_bw.png",
                 "access_rules": [
                     "@mount_mortar_2f"
                 ],
