@@ -519,5 +519,54 @@
 				"orientation": "south"
             }
         ]
+    },
+	{
+        "name": "Radio Tower Takeover",
+        "sections": [
+            {
+                "name": "Find the Fog, Storm, Mineral, and Glacier badges \nand then the takeover will begin!",
+                "access_rules": [
+                    "{}"
+                ],
+                "visibility_rules": [
+                    "trainertips_on"
+                ],
+				"hosted_item": "fogbadge_hosted, stormbadge_hosted, mineralbadge_hosted, glacierbadge_hosted",
+				"clear_as_group": false
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "johtokanto",
+                "x": 138,
+                "y": 215,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "east"
+            },
+            {
+                "map": "johtokanto_v",
+                "x": 138,
+                "y": 215,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "east"
+            },
+            {
+                "map": "johto",
+                "x": 138,
+                "y": 215,
+                "size": 8,
+				"shape": "triangle",
+				"orientation": "east"
+            },
+			{
+                "map": "goldenrodcity",
+                "x": 600,
+                "y": 464,
+                "size": 16,
+                "shape": "triangle"
+            },
+        ]
     }
 ]
