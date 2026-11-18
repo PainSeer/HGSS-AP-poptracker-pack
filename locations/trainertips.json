@@ -484,7 +484,7 @@
                     "{}"
                 ],
                 "visibility_rules": [
-                    "trainertips_on, pokemon_heartgold"
+                    "trainertips_on"
                 ],
             }
         ],
