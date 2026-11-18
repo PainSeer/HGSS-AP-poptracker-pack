@@ -116,7 +116,8 @@ HOSTED_VANILLA_CODES = {
     "upgrade",
     "volcanobadge",
     "waterstone",
-    "zephyrbadge"
+    "zephyrbadge",
+	"stormbadge"
 }
 
 FLAG_ROADBLOCKS = {
@@ -176,7 +177,7 @@ FLAG_ITEM2_CODES = {
   {option="opt_badges_off",                         codes={"zephyrbadge"}}, -- "violet_badge_zephyr",
   {option="opt_badges_off",                         codes={"plainbadge"}}, -- "goldenrod_badge_plain",
   {option="opt_badges_off",                         codes={"mineralbadge"}}, -- "olivine_badge_mineral",
-  {option="opt_badges_off",                         codes={"plainbadge"}}, -- "cianwood_badge_storm",
+  {option="opt_badges_off",                         codes={"stormbadge"}}, -- "cianwood_badge_storm",
   {option="opt_badges_off",                         codes={"risingbadge"}}, -- "dragons_den_shrine_badge_rising",
   {option="opt_badges_off",                         codes={"hivebadge"}}, -- "azalea_badge_hive",
   {option="opt_badges_off",                         codes={"earthbadge"}}, -- "viridian_badge_earth",
