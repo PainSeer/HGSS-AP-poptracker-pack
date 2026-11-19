@@ -1144,7 +1144,7 @@
             { "name": "Rock Smash", "ref": "Victory Road/3F - Encounters (Rock Smash)" }
             ]
         },
-       {
+        {
             "name": "Route 26 North Encounters",
             "map_locations": [
             { "map": "route26_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
@@ -1865,7 +1865,8 @@
             { "name": "Good Rod, Super Rod", "ref": "Route 21/Encounters (Good Rod, Super Rod)" },
             { "name": "Super Rod", "ref": "Route 21/Encounter (Super Rod)" }
             ]
-        {
+		},
+		{
             "name": "Route 22 Encounters",
             "map_locations": [
             { "map": "route22", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
