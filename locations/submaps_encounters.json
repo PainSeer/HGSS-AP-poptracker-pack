@@ -1715,20 +1715,8 @@
             { "name": "Super Rod", "ref": "Route 12/Encounter (Super Rod)" }
             ]
         },
-        {
-            "name": "Route 13 West Encounters",
-            "map_locations": [
-            { "map": "route13_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
-            ],
-            "sections": [
-            { "name": "Surf, Any Rod", "ref": "Route 13/Encounter (Surf, Any Rod)" },
-            { "name": "Surf", "ref": "Route 13/Encounters (Surf)" },
-            { "name": "Any Rod", "ref": "Route 13/Encounter (Any Rod)" },
-            { "name": "Super Rod", "ref": "Route 13/Encounter (Super Rod)" }
-            ]
-        },
 		{
-            "name": "Route 13 East Encounters",
+            "name": "Route 13 Encounters",
             "map_locations": [
             { "map": "route13_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
