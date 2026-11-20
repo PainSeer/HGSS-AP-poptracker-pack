@@ -113,11 +113,23 @@
             ]
         },
         {
-            "name": "Route 32 Encounters",
+            "name": "Route 32 North Encounters",
             "map_locations": [
-            { "map": "route32_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "route32_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "route32_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "route32_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Route 32/Encounters (Land)" },
+            { "name": "Night", "ref": "Route 32/Encounter (Night)" },
+            { "name": "Morning, Day", "ref": "Route 32/Encounters (Morning, Day)" },
+            { "name": "Morning, Night", "ref": "Route 32/Encounter (Morning, Night)" },
+            { "name": "Hoenn", "ref": "Route 32/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 32/Encounters (Sinnoh)" }
+            ]
+        },
+		{
+            "name": "Route 32 Center Encounters",
+            "map_locations": [
+            { "map": "route32_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 32/Encounters (Land)" },
@@ -538,11 +550,46 @@
             ]
         },
         {
-            "name": "Whirl Islands 1F Encounters",
+            "name": "Whirl Islands 1F Northwest Encounters",
             "map_locations": [
-            { "map": "whirlislands1f_nw", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "whirlislands1f_ne", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "whirlislands1f_sw", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "whirlislands1f_nw", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Whirl Islands/1F - Encounters (Land)" },
+            { "name": "Hoenn", "ref": "Whirl Islands/1F - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Whirl Islands/1F - Encounters (Sinnoh)" }
+            ]
+        },
+		{
+            "name": "Whirl Islands 1F Northeast Encounters",
+            "map_locations": [
+            { "map": "whirlislands1f_ne", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Whirl Islands/1F - Encounters (Land)" },
+            { "name": "Hoenn", "ref": "Whirl Islands/1F - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Whirl Islands/1F - Encounters (Sinnoh)" }
+            ]
+        },
+		{
+            "name": "Whirl Islands 1F Southwest Encounters",
+            "map_locations": [
+            { "map": "whirlislands1f_sw", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Whirl Islands/1F - Encounters (Land)" },
+            { "name": "Hoenn", "ref": "Whirl Islands/1F - Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Whirl Islands/1F - Encounters (Sinnoh)" },
+            { "name": "Surf", "ref": "Whirl Islands/1F - Encounters (Surf)" },
+            { "name": "Surf, Good Rod, Super Rod", "ref": "Whirl Islands/1F - Encounter (Surf, Good Rod, Super Rod)" },
+            { "name": "Old Rod, Good Rod", "ref": "Whirl Islands/1F - Encounter (Old Rod, Good Rod)" },
+            { "name": "Any Rod", "ref": "Whirl Islands/1F - Encounter (Any Rod)" },
+            { "name": "Super Rod", "ref": "Whirl Islands/1F - Encounters (Super Rod)" }
+            ]
+        },
+		{
+            "name": "Whirl Islands 1F Southeast Encounters",
+            "map_locations": [
             { "map": "whirlislands1f_se", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -718,9 +765,20 @@
             ]
         },
         {
-            "name": "Route 44 Encounters",
+            "name": "Route 44 West Encounters",
             "map_locations": [
-            { "map": "route44_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route44_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Surf, Any Rod", "ref": "Route 44/Encounter (Surf, Any Rod)" },
+            { "name": "Surf", "ref": "Route 44/Encounter (Surf)" },
+            { "name": "Good Rod, Super Rod", "ref": "Route 44/Encounter (Good Rod, Super Rod)" },
+            { "name": "Any Rod", "ref": "Route 44/Encounter (Any Rod)" }
+            ]
+        },
+		{
+            "name": "Route 44 East Encounters",
+            "map_locations": [
             { "map": "route44_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -803,10 +861,30 @@
             ]
         },
         {
-            "name": "Route 45 Encounters",
+            "name": "Route 45 North Encounters",
             "map_locations": [
             { "map": "route45_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "route45_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Route 45/Encounters (Land)" },
+            { "name": "Hoenn", "ref": "Route 45/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 45/Encounters (Sinnoh)" },
+            ]
+        },
+		{
+            "name": "Route 45 Center Encounters",
+            "map_locations": [
+            { "map": "route45_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Route 45/Encounters (Land)" },
+            { "name": "Hoenn", "ref": "Route 45/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 45/Encounters (Sinnoh)" },
+            ]
+        },
+		{
+            "name": "Route 45 South Encounters",
+            "map_locations": [
             { "map": "route45_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -1067,9 +1145,21 @@
             ]
         },
         {
-            "name": "Route 26 Encounters",
+            "name": "Route 26 North Encounters",
             "map_locations": [
-            { "map": "route26_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route26_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Land", "ref": "Route 26/Encounters (Land)" },
+            { "name": "Morning, Day", "ref": "Route 26/Encounters (Morning, Day)" },
+            { "name": "Night", "ref": "Route 26/Encounter (Night)" },
+            { "name": "Hoenn", "ref": "Route 26/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 26/Encounters (Sinnoh)" }
+            ]
+        },
+		{
+            "name": "Route 26 South Encounters",
+            "map_locations": [
             { "map": "route26_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -1086,10 +1176,39 @@
             ]
         },
         {
-            "name": "Route 27 Encounters",
+            "name": "Route 27 West Encounters",
             "map_locations": [
-            { "map": "route27_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "route27_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route27_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Surf, Old Rod, Good Rod", "ref": "Route 27/Encounter (Surf, Old Rod, Good Rod)" },
+            { "name": "Surf, Super Rod", "ref": "Route 27/Encounter (Surf, Super Rod)" },
+            { "name": "Old Rod, Good Rod", "ref": "Route 27/Encounter (Old Rod, Good Rod)" },
+            { "name": "Good Rod, Super Rod", "ref": "Route 27/Encounters (Good Rod, Super Rod)" },
+            { "name": "Super Rod", "ref": "Route 27/Encounter (Super Rod)" }
+            ]
+        },
+		{
+            "name": "Route 27 Center Encounters",
+            "map_locations": [
+            { "map": "route27_c", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Morning, Day", "ref": "Route 27/Encounters (Morning, Day)" },
+            { "name": "Night", "ref": "Route 27/Encounter (Night)" },
+            { "name": "Land", "ref": "Route 27/Encounters (Land)" },
+            { "name": "Hoenn", "ref": "Route 27/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 27/Encounters (Sinnoh)" },
+            { "name": "Surf, Old Rod, Good Rod", "ref": "Route 27/Encounter (Surf, Old Rod, Good Rod)" },
+            { "name": "Surf, Super Rod", "ref": "Route 27/Encounter (Surf, Super Rod)" },
+            { "name": "Old Rod, Good Rod", "ref": "Route 27/Encounter (Old Rod, Good Rod)" },
+            { "name": "Good Rod, Super Rod", "ref": "Route 27/Encounters (Good Rod, Super Rod)" },
+            { "name": "Super Rod", "ref": "Route 27/Encounter (Super Rod)" }
+            ]
+        },
+		{
+            "name": "Route 27 East Encounters",
+            "map_locations": [
             { "map": "route27_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -1461,7 +1580,6 @@
         {
             "name": "Route 4 Encounters",
             "map_locations": [
-            { "map": "route4_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
             { "map": "route4_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -1598,9 +1716,20 @@
             ]
         },
         {
-            "name": "Route 13 Encounters",
+            "name": "Route 13 West Encounters",
             "map_locations": [
-            { "map": "route13_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route13_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Surf, Any Rod", "ref": "Route 13/Encounter (Surf, Any Rod)" },
+            { "name": "Surf", "ref": "Route 13/Encounters (Surf)" },
+            { "name": "Any Rod", "ref": "Route 13/Encounter (Any Rod)" },
+            { "name": "Super Rod", "ref": "Route 13/Encounter (Super Rod)" }
+            ]
+        },
+		{
+            "name": "Route 13 East Encounters",
+            "map_locations": [
             { "map": "route13_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
@@ -1658,8 +1787,7 @@
         {
             "name": "Route 17 Encounters",
             "map_locations": [
-            { "map": "route17_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "route17_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "route17_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Morning, Day", "ref": "Route 17/Encounter (Morning, Day)" },
@@ -1710,10 +1838,9 @@
             ]
         },
         {
-            "name": "Route 21 Encounters",
+            "name": "Route 21 North Encounters",
             "map_locations": [
-            { "map": "route21_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
-            { "map": "route21_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            { "map": "route21_n", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
             { "name": "Land", "ref": "Route 21/Encounters (Land)" },
@@ -1726,7 +1853,20 @@
             { "name": "Super Rod", "ref": "Route 21/Encounter (Super Rod)" }
             ]
         },
-        {
+		{
+            "name": "Route 21 South Encounters",
+            "map_locations": [
+            { "map": "route21_s", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Surf, Old Rod, Good Rod", "ref": "Route 21/Encounter (Surf, Old Rod, Good Rod)" },
+            { "name": "Surf, Super Rod", "ref": "Route 21/Encounter (Surf, Super Rod)" },
+            { "name": "Old Rod, Good Rod", "ref": "Route 21/Encounter (Old Rod, Good Rod)" },
+            { "name": "Good Rod, Super Rod", "ref": "Route 21/Encounters (Good Rod, Super Rod)" },
+            { "name": "Super Rod", "ref": "Route 21/Encounter (Super Rod)" }
+            ]
+		},
+		{
             "name": "Route 22 Encounters",
             "map_locations": [
             { "map": "route22", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
@@ -1759,9 +1899,22 @@
             ]
         },
         {
-            "name": "Route 25 Encounters",
+            "name": "Route 25 West Encounters",
             "map_locations": [
-            { "map": "route25_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" },
+            { "map": "route25_w", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
+            ],
+            "sections": [
+            { "name": "Morning, Day", "ref": "Route 25/Encounters (Morning, Day)" },
+            { "name": "Morning, Night", "ref": "Route 25/Encounter (Morning, Night)" },
+            { "name": "Land", "ref": "Route 25/Encounters (Land)" },
+            { "name": "Night", "ref": "Route 25/Encounters (Night)" },
+            { "name": "Hoenn", "ref": "Route 25/Encounters (Hoenn)" },
+            { "name": "Sinnoh", "ref": "Route 25/Encounters (Sinnoh)" }
+            ]
+        },
+		{
+            "name": "Route 25 East Encounters",
+            "map_locations": [
             { "map": "route25_e", "size": 32, "x": 24, "y": 24, "shape": "diamond" }
             ],
             "sections": [
