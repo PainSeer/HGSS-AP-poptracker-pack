@@ -531,7 +531,7 @@
                 "visibility_rules": [
                     "trainertips_on"
                 ],
-				"hosted_item": "fogbadge_hosted, stormbadge_hosted, mineralbadge_hosted, glacierbadge_hosted, takeover_hosted",
+				"hosted_item": "fogbadge, stormbadge, mineralbadge, glacierbadge, takeover_hosted",
 				"clear_as_group": false
             }
         ],
