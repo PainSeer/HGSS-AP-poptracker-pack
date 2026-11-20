@@ -29,7 +29,7 @@ PopTracker v0.33.3 or higher is necessary.
 Minimum supported APworld version is 0.0.6
 |apworld|pack version|
 |:-:|:-:|
-|0.0.X|0.2.X|
+|0.0.X|0.3.X|
 
 
 
