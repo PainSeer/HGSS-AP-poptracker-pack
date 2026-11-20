@@ -186,7 +186,7 @@
                 {"name": "Reward from Prof. Oak for Collecting Badges\u200b", "ref": "Pallet Town/Oak's Lab - Reward from Prof. Oak for Collecting Badges\u200b"}
                 ]
             }, 
-            {"name": "Berry Lass", "map_locations": [{"map": "route36", "x": 676 , "y": 414}], "sections": [
+            {"name": "Berry Lass", "map_locations": [{"map": "route36", "x": 680 , "y": 414}], "sections": [
                 {"name": "Berry Pots from Lass", "ref": "Route 36/Berry Pots from Lass"},
                 {"name": "Oran Berries from Lass", "ref": "Route 36/Oran Berries from Lass"},
                 {"name": "Oran Berries from Lass\u200b", "ref": "Route 36/Oran Berries from Lass\u200b"},
@@ -211,7 +211,7 @@
                 {"name": "Gate to Goldenrod City - Gift from Guard after Delivering Kenya", "ref": "Route 35/Gate to Goldenrod City - Gift from Guard after Delivering Kenya"}
                 ]
             },
-            {"name": "Lance", "map_locations": [{"map": "rockethqb2f", "x": 270 , "y": 192}], "sections": [
+            {"name": "Lance", "map_locations": [{"map": "rockethqb2f", "x": 344 , "y": 359}], "sections": [
                 {"name": "Gift from Lance", "ref": "Team Rocket HQ/B2F - Gift from Lance"},
                 {"name": "Gift from Lance\u200b", "ref": "Team Rocket HQ/B2F - Gift from Lance\u200b"},
                 {"name": "Clear Mahogany Hideout (Event)", "ref": "Team Rocket HQ/B2F - Clear Mahogany Hideout (Event)"}
@@ -222,7 +222,7 @@
                 {"name": "Kate's Reward", "ref": "Route 34/Kate's Reward"}
                 ]
             }, 
-            {"name": "Petrel", "map_locations": [{"map": "goldenrodradiotower5f", "x": 88 , "y": 214}], "sections": [
+            {"name": "Petrel", "map_locations": [{"map": "goldenrodradiotower5f", "x": 88 , "y": 216}], "sections": [
                 {"name": "Executive Petrel", "ref": "Goldenrod Radio Tower/5F - Executive Petrel"},
                 {"name": "Basement Key from Petrel", "ref": "Goldenrod Radio Tower/5F - Basement Key from Petrel"},
                 {"name": "Basement Key from Petrel\u200b", "ref": "Goldenrod Radio Tower/5F - Basement Key from Petrel\u200b"}
@@ -342,7 +342,7 @@
                 {"name": "Item from Copycat after Returning Lost Item\u200b", "ref": "Saffron City/Item from Copycat after Returning Lost Item\u200b"}
                 ]
             }, 
-            {"name": "Proton", "map_locations": [{"map": "slowpokewellb1f", "x": 201 , "y": 114}], "sections": [
+            {"name": "Proton", "map_locations": [{"map": "slowpokewellb1f", "x": 201 , "y": 118}], "sections": [
                 {"name": "Executive Proton", "ref": "Slowpoke Well/B1F - Executive Proton"},
                 {"name": "Clear Slowpoke Well (Event)", "ref": "Slowpoke Well/B1F - Clear Slowpoke Well (Event)"}
                 ]
@@ -362,23 +362,23 @@
                 {"name": "Rival", "ref": "Mt. Moon/Rival"}
                 ]
             }, 
-            {"name": "Lance and Clair", "map_locations": [{"map": "dragonsdenb1f", "x": 405 , "y": 590}], "sections": [
+            {"name": "Lance and Clair", "map_locations": [{"map": "dragonsdenb1f", "x": 392 , "y": 610}], "sections": [
                 {"name": "Champion Lance", "ref": "Dragon's Den/Champion Lance"},
                 {"name": "Leader Clair", "ref": "Dragon's Den/Leader Clair"},
                 {"name": "Defeat Lance and Clair at Dragon's Den (Event)", "ref": "Dragon's Den/Shrine - Defeat Lance and Clair at Dragon's Den (Event)"}
                 ]
             }, 
-            {"name": "Red", "map_locations": [{"map": "mtsilvertop", "x": 327 , "y": 38}], "sections": [
+            {"name": "Red", "map_locations": [{"map": "mtsilvertop", "x": 328 , "y": 38}], "sections": [
                 {"name": "Defeat Red (Event)", "ref": "Mt. Silver Cave/Summit - Defeat Red (Event)"},
                 {"name": "Pokemon Trainer Red", "ref": "Mt. Silver Cave/Summit - Pokemon Trainer Red"}
                 ]
             }, 
-            {"name": "Ariana", "map_locations": [{"map": "rockethqb2f", "x": 390 , "y": 256}], "sections": [
+            {"name": "Ariana", "map_locations": [{"map": "rockethqb2f", "x": 424 , "y": 359}], "sections": [
                 {"name": "Team Rocket Grunt in Double Battle with Lance", "ref": "Team Rocket HQ/B2F - Team Rocket Grunt in Double Battle with Lance"},
                 {"name": "Executive Ariana", "ref": "Team Rocket HQ/B2F - Executive Ariana"}
                 ]
             }, 
-            {"name": "Statue Trap", "map_locations": [{"map": "rockethqb1f", "x": 606 , "y": 86}], "sections": [
+            {"name": "Statue Trap", "map_locations": [{"map": "rockethqb1f", "x": 600 , "y": 86}], "sections": [
                 {"name": "Team Rocket Grunt from Trap 1", "ref": "Team Rocket HQ/B1F - Team Rocket Grunt from Trap 1"},
                 {"name": "Team Rocket Grunt from Trap 2", "ref": "Team Rocket HQ/B1F - Team Rocket Grunt from Trap 2"}
                 ]
@@ -765,7 +765,7 @@
                 {"name": "Gift from Super Nerd\u200b", "ref": "Slowpoke Well/B2F - Gift from Super Nerd\u200b"}
                 ]
             },
-            {"name": "B2F\u200b", "map_locations": [{"map": "slowpokewellb1f", "x": 202 , "y": 372}], "sections": [
+            {"name": "B2F\u200b", "map_locations": [{"map": "slowpokewellb1f", "x": 200 , "y": 380}], "sections": [
                 {"name": "Item on East Side", "ref": "Slowpoke Well/B2F - Item on East Side"},
                 {"name": "Gift from Super Nerd", "ref": "Slowpoke Well/B2F - Gift from Super Nerd"},
                 {"name": "Gift from Super Nerd\u200b", "ref": "Slowpoke Well/B2F - Gift from Super Nerd\u200b"}
